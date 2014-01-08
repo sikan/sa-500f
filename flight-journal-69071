@@ -8,6 +8,9 @@
 * 2014-01-07
 ** Indirect addressing (segment list manipulation done). (H)
 
+* 2014-01-08
+** Indirect addressing (end-to-end test, finally). (H)
+
 -------- 2014-01-02 ~ 2014-01-03
 
 * 2014-01-02
