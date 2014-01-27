@@ -1,4 +1,9 @@
--------- 2014-01-20 ~ 2014-0-24
+-------- 2014-01-26 ~ 2014-01-30
+
+* 2014-01-26
+** Off.
+
+-------- 2014-01-20 ~ 2014-01-24
 
 * 2014-01-20
 ** Off/AM (49ers vs Seahawks).
@@ -14,6 +19,10 @@
 * 2014-01-23
 ** Indirect addressing. (H)
 ** [$SWIFT-13053 (status() got 'invalid status code'). (+)
+
+* 2014-01-24
+** Read the official tutorial of annotations (including features from JDK 8). (+)
+** Read a hotspot-compiler-dev thread about a CodeCache issue (JDK-8023191). (+)
 
 -------- 2014-01-13 ~ 2014-01-17
 
