@@ -8,7 +8,12 @@
 * 2014-03-25
 ** New addressing scheme. (P)
 ** Help Sherry look into JCI's case, checkpoint not truncating logs. (+)
+** 1-on-1 with Dingmeng. (D)
 ** [$STARLING-[$xENON weekly meeting. (D)
+
+* 2014-03-26
+** Add logging output for log truncation. (+)
+** New addressing scheme. (P)
 
 -------- 2014-03-17 ~ 2014-03-21
 
