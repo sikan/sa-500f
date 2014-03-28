@@ -15,6 +15,11 @@
 ** Add logging output for log truncation. (+)
 ** New addressing scheme. (P)
 
+* 2014-03-27
+** New addressing scheme (a new breakthrough idea). (P)
+** Help Sheperd debug a deadlock found in his index rebuilding code. (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2014-03-17 ~ 2014-03-21
 
 * 2014-03-17
