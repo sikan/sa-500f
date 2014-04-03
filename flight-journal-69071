@@ -12,6 +12,12 @@
 ** Majority voting algorithm. (+)
 ** New addressing scheme. (P)
 
+* 2014-04-03
+** Look into a deadlock caused by receiver transaction not correctly released (file [$XENON-3664). (+)
+** New addressing scheme. (P)
+** [$xENON weekly meeting. (D)
+** Read an artical about PostgreSQL pain points (recommended by Bas). (+)
+
 -------- 2014-03-24 ~ 2014-03-28
 
 * 2014-03-24
