@@ -2,8 +2,12 @@
 
 * 2014-04-21
 ** The Checker Framework (JSR 308) (figured out how to apply it after getting the help from the community). (P)
-** Review Yuri's proposal to change the algorithm of LockManager. (P)
+** Review Yuri's proposal to change the algorithm of LockManager. (D)
 ** [$STARLING weekly dev meeting. (D)
+
+* 2014-04-22
+** Write review comments for Yuri's proposal to change the algorithm of LockManager. (D)
+** Discuss with Petr and Yuri about the proposal and next steps (conf-call). (+)
 
 -------- 2014-04-14 ~ 2014-04-18
 
