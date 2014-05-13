@@ -1,3 +1,10 @@
+-------- 2014-05-12 ~ 2014-05-16
+
+* 2014-05-12
+** Discuss some TrackingDB issues with Sheperd, Charlie and Duke. (+)
+** [$xENON-3710. (P)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2014-05-05 ~ 2014-05-09
 
 * 2014-05-05
@@ -16,6 +23,10 @@
 * 2014-05-08
 ** New addressing scheme. (P)
 ** [$xENON weekly meeting. (D)
+
+* 2014-05-09
+** Huaqing's all-hands. (D)
+** [$xENON-3710 (deserialization issue, reported by Bas). (+)
 
 -------- 2014-04-28 ~ 2014-04-30
 
@@ -2058,7 +2069,7 @@
 ** Indirect addressing. (P)
 ** [$STARLING team lunch at Akasakatei. (+)
 ** [$STARLING weekly dev meeting. (D)
-** Read an analysis about moving NGIS to CloudFoundry. (+)
+** Read an analysis about moving [$NGWEE to CloudFoundry. (+)
 
 * 2012-10-23
 ** Search for the root cause of the memory leak of buffer pool. (D)
@@ -3960,7 +3971,7 @@
 
 * 2011-08-19
 ** Copy recovered files back to the team file server. (+)
-** Read some NGIS materials. (+)
+** Read some [$NGWEE materials. (+)
 ** Some TeamCity maintenance work. (D)
 ** [$STARLING stand-up meeting. (D)
 ** Interview one candidate for [$STARLING dev (phone-screen). (D)
@@ -4664,7 +4675,7 @@
 
 * Plan
 ** Stabilize [$xENON 10.1.
-** Familiarize with NGIS.
+** Familiarize with [$NGWEE.
 
 * 2011-02-14
 ** [$STARLING weekly dev meeting. (D)
@@ -4677,7 +4688,7 @@
 
 * 2011-02-16
 ** Sick leave | WFH.
-** Read several presentation slides about NGIS. (D)
+** Read several presentation slides about [$NGWEE. (D)
 ** Fix a synchronization problem in external index background tasks. (+)
 ** Look into new failures on Jenkins and TeamCity. (+)
 
@@ -4717,7 +4728,7 @@
 
 * Plan
 ** Loose-ends for [$XENON 10.1 and [$STARLING 1.1 (still the segment cleaner issues).
-** Familiarize with NGIS.
+** Familiarize with [$NGWEE.
 
 * 2011-01-31
 ** Annual leave | WFH.
@@ -4763,7 +4774,7 @@
 ** Annual leave | WFH.
 ** Think about the fix for 'the other' problem regarding segment cleaner. (P)
 ** Look into the failed test case caused by recent code changes. (P)
-** Check out NGIS and take a look. (+)
+** Check out [$NGWEE and take a look. (+)
 
 -------- 2011-01-17 ~ 2011-01-21
 
