@@ -5,6 +5,12 @@
 ** [$xENON-3710. (P)
 ** [$STARLING weekly dev meeting. (D)
 
+* 2014-05-13
+** Look into an issue where the server continues running with a crashed log flusher. (+)
+** [$xENON-3710. (P)
+** [$STARLING-[$xENON weekly meeting. (D)
+** Interview one candidate for [$STARLING. (+)
+
 -------- 2014-05-05 ~ 2014-05-09
 
 * 2014-05-05
