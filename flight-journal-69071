@@ -5,6 +5,10 @@
 ** [$STARLING weekly dev meeting. (D)
 ** Meeting with Jeroen and [$Antwerp team (10.6/11 releases, clustering, etc.). (D)
 
+* 2014-05-20
+** New addressing scheme. (P)
+** Issues with existing unpack7() and big strings. (+)
+
 -------- 2014-05-12 ~ 2014-05-16
 
 * 2014-05-12
