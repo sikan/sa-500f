@@ -9,6 +9,12 @@
 ** New addressing scheme. (P)
 ** Issues with existing unpack7() and big strings. (+)
 
+* 2014-05-21
+** Write up some ideas on how indirect addressing could help the 'shrink' use case. (+)
+** Interview one candidate for the tools team. (D)
+** Issues with existing unpack7() and big strings. (D)
+** New addressing scheme. (P)
+
 -------- 2014-05-12 ~ 2014-05-16
 
 * 2014-05-12
