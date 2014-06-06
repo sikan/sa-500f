@@ -14,6 +14,10 @@
 ** New addressing scheme. (P)
 ** [$xENON weekly meeting. (D)
 
+* 2014-06-06
+** Investigate how [$STARLING should correctly handle client side Java Errors (file [$SWIFT-13474). (+)
+** [$SWIFT-13472. (+)
+
 -------- 2014-05-26 ~ 2014-05-30
 
 * 2014-05-26
@@ -648,7 +652,7 @@
 
 * 2013-11-13
 ** Investigate the Xerces issue found on the build machines. (P)
-** Look into a distributed deadlock detector issue (file XBD-3542). (+)
+** Look into a distributed deadlock detector issue (file [$XENON-3542). (+)
 ** Collect training needs. (D)
 
 * 2013-11-14
