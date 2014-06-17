@@ -1,3 +1,9 @@
+-------- 2014-06-16 ~ 2014-06-20
+
+* 2014-06-16
+** [$xENON-3759 (replication of the segment list cache, reported by Bas). (+)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2014-06-09 ~ 2014-06-13
 
 * 2014-06-09
@@ -17,6 +23,10 @@
 ** New addressing scheme. (P)
 ** Interview one candidate for the tools team. (+)
 ** [$xENON weekly meeting. (D)
+
+* 2014-06-13
+** Compare the lookup performance of array, HashMap and Int2IntOpenHashMap. (D)
+** [$ION outing.
 
 -------- 2014-06-03 ~ 2014-06-06
 
