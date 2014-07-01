@@ -1,3 +1,10 @@
+-------- 2014-06-30 ~ 2014-07-04
+
+* 2014-06-30
+** [$XENON-3770 (concurrency bottleneck in RemoteSession, reported by Bas). (+)
+** [$STARLING weekly dev meeting. (D)
+** Discuss Throwable handling and GC issues with Zed and Duke, respectively. (+)
+
 -------- 2014-06-23 ~ 2014-06-27
 
 * 2014-06-23
