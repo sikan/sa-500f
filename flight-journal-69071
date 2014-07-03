@@ -6,8 +6,12 @@
 ** Discuss Throwable handling and GC issues with Zed and Duke, respectively. (+)
 
 * 2014-07-01
-** [$XENON-3770 (concurrency bottleneck in RemoteSession, reported by Bas). (P)
+** Investigate the effect of a crashed remote client. (+)
+** [$XENON-3770. (P)
 ** [$STARLING-[$xENON weekly meeting. (D)
+
+* 2014-07-02
+** [$XENON-3770. (P)
 
 -------- 2014-06-23 ~ 2014-06-27
 
