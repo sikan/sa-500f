@@ -4,6 +4,10 @@
 ** New addressing scheme (try to implement a copy-on-write int2int map, but fooled by jd-gui). (P)
 ** [$STARLING weekly dev meeting. (D)
 
+* 2014-07-08
+** Discuss the coding issues in RemoteSession with Vojtech. (+)
+** New addressing scheme (copy-on-write int2int map, etc.). (P)
+
 -------- 2014-06-30 ~ 2014-07-04
 
 * 2014-06-30
