@@ -10,6 +10,12 @@
 ** New addressing scheme. (P)
 ** Fix BackupDriver failures. (+)
 
+* 2014-07-16
+** Fix another forward/backward slash issue with file paths stored in backup files. (+)
+** Yale and Hao's recommendation engine session. (D)
+** Continue the discussion on the wiki page. (+)
+** Read a lot of articles about Java memory (Metaspace, Klass, native memory, etc.). (+)
+
 -------- 2014-07-07 ~ 2014-07-11
 
 * 2014-07-07
