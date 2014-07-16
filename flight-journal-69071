@@ -1,3 +1,15 @@
+-------- 2014-07-14 ~ 2014-07-18
+
+* 2014-07-14
+** Answer review comments on the wiki page. (+)
+** [$STARLING weekly dev meeting. (D)
+** Discuss with Petr about design optimizations for indirect addressing (conf-call). (+)
+
+* 2014-07-15
+** Answer review comments on the wiki page. (+)
+** New addressing scheme. (P)
+** Fix BackupDriver failures. (+)
+
 -------- 2014-07-07 ~ 2014-07-11
 
 * 2014-07-07
