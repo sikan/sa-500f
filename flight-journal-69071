@@ -16,6 +16,13 @@
 ** Continue the discussion on the wiki page. (+)
 ** Read a lot of articles about Java memory (Metaspace, Klass, native memory, etc.). (+)
 
+* 2014-07-17
+** Continue the discussion on the wiki page. (+)
+** New addressing scheme. (P)
+** Read Vojtech's refactored code for ConnectionManager, etc. (D)
+** Discuss CacheEntry and WeakReference with Duke. (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2014-07-07 ~ 2014-07-11
 
 * 2014-07-07
