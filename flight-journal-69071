@@ -1,3 +1,11 @@
+-------- 2014-07-21 ~ 2014-07-25
+
+* 2014-07-21
+** Review Petr's proposal for cluster-scope-id (and more discussions). (+)
+** Discuss with the team about one-buffer-pool-per-node for the client. (+)
+** New addressing scheme. (P)
+** [$STARLING weekly dev meeting. (D) 
+
 -------- 2014-07-14 ~ 2014-07-18
 
 * 2014-07-14
