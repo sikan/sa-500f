@@ -6,6 +6,10 @@
 ** New addressing scheme. (P)
 ** [$STARLING weekly dev meeting. (D) 
 
+* 2014-07-22
+** Fix the problems with LocalServer.Datafiles.firstUnused. (+)
+** New addressing scheme. (P)
+
 -------- 2014-07-14 ~ 2014-07-18
 
 * 2014-07-14
