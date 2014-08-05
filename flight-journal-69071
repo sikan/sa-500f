@@ -1,3 +1,9 @@
+-------- 2014-08-04 ~ 2014-08-08
+
+* 2014-08-04
+** New addressing scheme. (P)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2014-07-28 ~ 2014-08-01
 
 * 2014-07-28
@@ -19,6 +25,10 @@
 * 2014-07-31
 ** New addressing scheme. (P)
 ** [$xENON weekly meeting. (D)
+
+* 2014-08-01
+** BufferPool, PageCache, again. (+)
+** Interview one candidate for the build and tools team. (D)
 
 -------- 2014-07-21 ~ 2014-07-25
 
