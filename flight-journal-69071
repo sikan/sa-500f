@@ -8,6 +8,12 @@
 ** New addressing scheme. (P)
 ** Read [[The JSR-133 Cookbook for Compiler Writers]]. (+)
 
+* 2014-08-13
+** New addressing scheme. (P)
+** Read Jeremy Manson's blog posts about JMM. (+)
+** Investigate and test how to avoid volatile reads (results differ for object references and primitive values). (+)
+** Test reference comparison vs. primitive value comparison (dead end). (+)
+
 -------- 2014-08-04 ~ 2014-08-08
 
 * 2014-08-04
