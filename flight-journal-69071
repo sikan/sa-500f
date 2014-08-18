@@ -12,7 +12,18 @@
 ** New addressing scheme. (P)
 ** Read Jeremy Manson's blog posts about JMM. (+)
 ** Investigate and test how to avoid volatile reads (results differ for object references and primitive values). (+)
-** Test reference comparison vs. primitive value comparison (dead end). (+)
+** Test reference comparison vs primitive value comparison (dead end). (+)
+
+* 2014-08-14
+** New addressing scheme. (P)
+** Test return reference vs. return primitive value (dead end). (+)
+** [$xENON weekly meeting. (D)
+** File [$SWIFT-13749. (+)
+
+* 2014-08-15
+** while(i++ < Integer.MAX_VALUE) {} is much slower than while(++i < Integer.MAX_VALUE) {}. (+)
+** Ask the above on stackoverflow (my first question). (+)
+** Ask the primitive vs objectref question on mechanical-sympathy. (+)
 
 -------- 2014-08-04 ~ 2014-08-08
 
