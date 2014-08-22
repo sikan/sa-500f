@@ -15,7 +15,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2014-08-22
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** New addressing scheme. (P)
 ** Aon Hewitt Employee Opinion Survey. (+)
 
@@ -110,18 +110,18 @@
 * 2014-07-23
 ** New addressing scheme. (P)
 ** Discuss with Sheperd about issues with the connection pool, observers, etc. (+)
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** Discuss with Ewout how to update persistent segment ids when a library is moved. (+)
 
 * 2014-07-24
 ** New addressing scheme. (P)
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2014-07-25
 ** Struggle with CORP-W1F1. (+)
 ** New addressing scheme. (P)
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 
 -------- 2014-07-14 ~ 2014-07-18
 
@@ -864,7 +864,7 @@
 
 * 2013-12-06
 ** Indirect addressing. (P)
-** Help Jian Hu with a library restore issue. (+)
+** Help Hu Jian with a library restore issue. (+)
 ** King's tea talk about Alfred Hitchcock. (D)
 
 -------- 2013-11-25 ~ 2013-11-29
@@ -1467,7 +1467,7 @@
 ** The NPE issue in [$xENON buffer pool.
 
 * 2013-06-03
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** Fix the certificate issue for the laptop (which is not in the domain). (+)
 ** Look into the NPE thrown from [$xENON buffer pool. (P)
 ** [$STARLING weekly dev meeting. (D)
@@ -1484,7 +1484,7 @@
 ** Fill the [$ION People Care questionnaire. (+)
 
 * 2013-06-06
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** Look into the NPE thrown from [$xENON buffer pool (got a conjecture, finally). (P)
 ** Struggle with the OQL syntax, again. (+)
 ** Sync-up with [$Antwerp team. (D)
@@ -1530,7 +1530,7 @@
 
 * 2013-05-30
 ** Interview three candidates for the tools team. (D)
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** Look into the NPE thrown from [$xENON buffer pool. (P)
 ** Register for JavaOne 2013. (D)
 ** Sync-up with [$Antwerp team. (D)
@@ -1690,7 +1690,7 @@
 
 * 2013-04-15
 ** Fix a force-recovery glitch where DATA_CORRUPTION is thrown anyway. (+)
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2013-04-16
@@ -1729,7 +1729,7 @@
 ** Read the index-in-construction code. (P)
 ** [$SWIFT-11333. (+)
 ** Hunter's session on how to write CFD. (D)
-** Help Jian Hu with the BoC deal. (+)
+** Help Hu Jian with the BoC deal. (+)
 
 * 2013-04-10
 ** Read the index-in-construction code. (P)
@@ -1895,7 +1895,7 @@
 * 2013-03-06
 ** Indirect addressing (APIs). (P)
 ** [$SWIFT-11274 (1.2->1.3 upgrade failure). (P)
-** Meet Jian Hu and several other sale engineers. (+)
+** Meet Hu Jian and several other sale engineers. (+)
 
 * 2013-03-07
 ** 1.4 review meeting with Ed and Vandana. (D)
@@ -2196,11 +2196,11 @@
 * Plan
 ** Cross database attach.
 ** Write up the design notes for the above.
-** Help Jian Hu with the BoC deal.
+** Help Hu Jian with the BoC deal.
 
 * 2012-12-17
-** Meeting with Jian Hu about the BoC deal (500TB/10yrs). (D)
-** Help Jian Hu look into an NTFS specific issue. (+)
+** Meeting with Hu Jian about the BoC deal (500TB/10yrs). (D)
+** Help Hu Jian look into an NTFS specific issue. (+)
 ** Write up the design notes for cross database attach. (P)
 ** [$STARLING weekly dev meeting (delivered a tech talk on suffix tree). (D)
 
@@ -2214,7 +2214,7 @@
 
 * 2012-12-20
 ** Write up the design notes for cross database attach. (P)
-** Meeting with Jian Hu about the BoC deal. (P)
+** Meeting with Hu Jian about the BoC deal. (P)
 ** Hunter's English communication workshop. (D)
 ** Le and Yong's tea talk about tea and teaware. (D)
 ** Sync-up with [$Antwerp team. (D)
