@@ -1,3 +1,13 @@
+-------- 2014-08-25 ~ 2014-08-29
+
+* 2014-08-25
+** New addressing scheme. (P)
+
+* 2014-08-26
+** New addressing scheme. (P)
+** [$STARLING-[$xENON weekly meeting. (D)
+** Discuss tree-scope-ids and library migration with Petr, Ewout and Valery. (+)
+
 -------- 2014-08-18 ~ 2014-08-22
 
 * 2014-08-18
@@ -731,7 +741,7 @@
 * 2014-01-17
 ** Archive some old emails, (re)configure Outlook and Mail on Mac. (+)
 ** Indirect addressing. (P)
-** Discuss about the final merge issues with [$Antwerp team. (+)
+** Discuss the final merge issues with [$Antwerp team. (+)
 
 -------- 2014-01-06 ~ 2014-01-10
 
@@ -4078,7 +4088,7 @@
 * 2011-10-11
 ** [$STARLING weekly dev meeting. (D)
 ** [$STARLING bug review meeting. (D)
-** [$SWIFT-6859 (discuss about workaround with Sheperd and Charlie). (P)
+** [$SWIFT-6859 (discuss workaround with Sheperd and Charlie). (P)
 ** Review Sheperd's change of directly writing temp files in export directory. (+)
 ** Investigate [$SWIFT-7529. (+)
 ** 1-on-1 with Jove. (D)
