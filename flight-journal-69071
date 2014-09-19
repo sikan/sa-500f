@@ -1,124 +1,124 @@
 -------- 2014-09-15 ~ 2014-09-19
 
 * 2014-09-15
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Discuss the removal of corrupt MPIs with Duke and Petr. (+)
 ** [$STARLING-[$xENON weekly meeting. (D)
 
 * 2014-09-16
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-09-17
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** The Checker Framework (JSR 308), again. (+)
 ** Hao's Angular session. (D)
 
 * 2014-09-18
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-09-19
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-09-09 ~ 2014-09-12
 
 * 2014-09-09
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** MyVoice Survey. (+)
 ** 1-on-1 with Dingmeng. (D)
 
 * 2014-09-10
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-09-11
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-09-12
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-09-01 ~ 2014-09-05
 
 * 2014-09-01
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING-[$xENON weekly meeting. (D)
 
 * 2014-09-02
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Team review meeting with Jeroen. (D)
 ** 1-on-1 with Jeroen. (D)
 
 * 2014-09-03
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Jeroen's town hall meeting. (D)
 
 * 2014-09-04
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-09-05
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-08-25 ~ 2014-08-29
 
 * 2014-08-25
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-08-26
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING-[$xENON weekly meeting. (D)
 ** Discuss tree-scope-ids and library migration with Petr, Ewout and Valery. (+)
 
 * 2014-08-27
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-08-28
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Help Flatirons Solutions with their temporary segment issues. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2014-08-29
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-08-18 ~ 2014-08-22
 
 * 2014-08-18
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-08-19
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-08-20
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-08-21
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-08-22
 ** Help Hu Jian with the BoC deal. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Aon Hewitt Employee Opinion Survey. (+)
 
 -------- 2014-08-11 ~ 2014-08-15
 
 * 2014-08-11
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-08-12
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Read [[The JSR-133 Cookbook for Compiler Writers]]. (+)
 
 * 2014-08-13
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Read Jeremy Manson's blog posts about JMM. (+)
 ** Investigate and test how to avoid volatile reads (results differ for object references and primitive values). (+)
 ** Test reference comparison vs primitive value comparison (dead end). (+)
 
 * 2014-08-14
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Test return reference vs. return primitive value (dead end). (+)
 ** [$xENON weekly meeting. (D)
 ** File [$SWIFT-13749. (+)
@@ -131,46 +131,46 @@
 -------- 2014-08-04 ~ 2014-08-08
 
 * 2014-08-04
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-08-05
 ** Review the PoC code for the BoC deal (terrible). (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-08-06
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Jeroen's all-hands. (D)
 
 * 2014-08-07
 ** Read [[How I Lost $170 Million: MY TIME as #30 AT FACEBOOK]]. (+)
 ** Beijing team's Cloud Foundry/BOSH session. (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-08-08
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Marissa's farewell gathering. (+)
 
 -------- 2014-07-28 ~ 2014-08-01
 
 * 2014-07-28
 ** Review Vojtech's backport of [$XENON-3770. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 ** Discuss the backslash issue with Yuri. (+)
 
 * 2014-07-29
 ** Draft Q3 MBO goals. (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-07-30
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Interview one candidate for the build and tools team. (D)
 ** 1-on-1 with Dingmeng (postponed? ACR 0%). (+)
 ** Discuss the design of client cache and server run-id with Petr. (+)
 
 * 2014-07-31
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-08-01
@@ -182,27 +182,27 @@
 * 2014-07-21
 ** Review Petr's proposal for cluster-scope-id (and more discussions). (+)
 ** Discuss with the team about one-buffer-pool-per-node for the client. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D) 
 
 * 2014-07-22
 ** Fix the problems with LocalServer.Datafiles.firstUnused. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-07-23
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Discuss with Sheperd about issues with the connection pool, observers, etc. (+)
 ** Help Hu Jian with the BoC deal. (+)
 ** Discuss with Ewout how to update persistent segment ids when a library is moved. (+)
 
 * 2014-07-24
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Help Hu Jian with the BoC deal. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2014-07-25
 ** Struggle with CORP-W1F1. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Help Hu Jian with the BoC deal. (+)
 
 -------- 2014-07-14 ~ 2014-07-18
@@ -214,7 +214,7 @@
 
 * 2014-07-15
 ** Answer review comments on the wiki page. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Fix BackupDriver failures. (+)
 
 * 2014-07-16
@@ -225,28 +225,28 @@
 
 * 2014-07-17
 ** Continue the discussion on the wiki page. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Read Vojtech's refactored code for ConnectionManager, etc. (D)
 ** Discuss CacheEntry and WeakReference with Duke. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2014-07-18
 ** Continue the discussion on the wiki page. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Review Petr's proposal for clustering snapshot management. (+)
 
 -------- 2014-07-07 ~ 2014-07-11
 
 * 2014-07-07
-** New addressing scheme (try to implement a copy-on-write int2int map, but fooled by jd-gui). (P)
+** Indirect addressing (try to implement a copy-on-write int2int map, but fooled by jd-gui). (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-07-08
 ** Discuss the coding issues in RemoteSession with Vojtech. (+)
-** New addressing scheme (copy-on-write int2int map, etc.). (P)
+** Indirect addressing (copy-on-write int2int map, etc.). (P)
 
 * 2014-07-09
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Roby's Cloud Foundry session. (D)
 
 * 2014-07-10
@@ -282,7 +282,7 @@
 * 2014-07-04
 ** Review Duke's FMS implementation. (+)
 ** Update the wiki page for [$xENON indirect addressing. (P)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-06-23 ~ 2014-06-27
 
@@ -327,11 +327,11 @@
 -------- 2014-06-09 ~ 2014-06-13
 
 * 2014-06-09
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-06-10
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING-[$xENON weekly meeting. (D)
 ** Help with the project settings of [$STARLING and inspect some of its code. (+)
 
@@ -340,7 +340,7 @@
 ** WITH ITS CURRENT MENTALITY, [$STARLING IS DOOMED.
 
 * 2014-06-12
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Interview one candidate for the tools team. (+)
 ** [$xENON weekly meeting. (D)
 
@@ -351,17 +351,17 @@
 -------- 2014-06-03 ~ 2014-06-06
 
 * 2014-06-03
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Discuss the optimization of final merge scheduling with Duke. (+)
 ** Petr's clustering presentation for [$xENON team. (D)
 
 * 2014-06-04
 ** Take a look at Judy Array. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-06-05
 ** Interview one candidate for the tools team (phone-screen). (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-06-06
@@ -371,49 +371,49 @@
 -------- 2014-05-26 ~ 2014-05-30
 
 * 2014-05-26
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-05-27
 ** [$STARLING team building (barbecue at Gongqing Forest Park). (D)
 
 * 2014-05-28
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Search group knowledge sharing session. (D)
 
 * 2014-05-29
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Review meeting for Duke's intelligent final merge scheduler (two sessions). (D)
 ** Interview one candidate for the tools team. (D)
 ** Search group knowledge sharing session. (+)
 
 * 2014-05-30
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-05-19 ~ 2014-05-23
 
 * 2014-05-19
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 ** Meeting with Jeroen and [$Antwerp team (10.6/11 releases, clustering, etc.). (D)
 
 * 2014-05-20
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Issues with existing unpack7() and big strings. (+)
 
 * 2014-05-21
 ** Write up some ideas on how indirect addressing could help the 'shrink' use case. (+)
 ** Interview one candidate for the tools team. (D)
 ** Issues with existing unpack7() and big strings. (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-05-22
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Interview one candidate for the tools team (phone-screen). (+)
 ** [$xENON weekly meeting. (D)
 
 * 2014-05-23
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Interview one candidate for the tools team (phone-screen). (+)
 ** Mark's farewell gathering. (+)
 
@@ -432,39 +432,39 @@
 
 * 2014-05-14
 ** [$XENON-3710. (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Interview one candidate for [$STARLING. (+)
 ** Search group knowledge sharing session. (D)
 ** See you, Zhiwen.
 
 * 2014-05-15
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Help Sherry look into a data corruption case reported by Pearson. (+)
 ** Interview one candidate for the tools team. (D)
 ** [$xENON weekly meeting. (D)
 
 * 2014-05-16
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Search group knowledge sharing session. (D)
 ** Discuss the child link issue with Petr and come up with a solution. (+)
 
 -------- 2014-05-05 ~ 2014-05-09
 
 * 2014-05-05
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-05-06
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** The "[$xENON clustering - extra iterations" meeting. (D)
 
 * 2014-05-07
 ** Read the artical [[[$xENON concurrent indexes and data locking]] by Bas. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Discuss some TrackingDB issues with Sheperd. (+)
 
 * 2014-05-08
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-05-09
@@ -474,13 +474,13 @@
 -------- 2014-04-28 ~ 2014-04-30
 
 * 2014-04-28
-** New addressing scheme (gave up JSR 308). (P)
+** Indirect addressing (gave up JSR 308). (P)
 
 * 2014-04-29
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-04-30
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-04-21 ~ 2014-04-25
 
@@ -495,22 +495,22 @@
 
 * 2014-04-23
 ** Interview one candidate for [$STARLING. (D)
-** New addressing scheme (apply JSR 308). (P)
+** Indirect addressing (apply JSR 308). (P)
 
 * 2014-04-24
 ** Review Yuri's new idea on removing privileged waiters. (+)
-** New addressing scheme (apply JSR 308). (P)
+** Indirect addressing (apply JSR 308). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-04-25
 ** Draft Q2 MBO goals. (D)
-** New addressing scheme (apply JSR 308). (P)
+** Indirect addressing (apply JSR 308). (P)
 
 -------- 2014-04-14 ~ 2014-04-18
 
 * 2014-04-14
 ** Interview two candidates for [$STARLING (phone-screen, but one rejected us, another didn't answer the phone). (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 ** Take another look at the Checker Framework (JSR 308). (+)
 
@@ -523,13 +523,13 @@
 ** 7-year anniversary at [$EEL (official date, hope this is the last one).
 ** The Checker Framework (JSR 308). (P)
 ** Post the Subtyping checker issue to the Checker Framework mailing list. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-04-17
 ** The Checker Framework (JSR 308). (P)
 ** Post more questions to the Checker Framework mailing list. (+)
 ** [$xENON weekly meeting. (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-04-18
 ** Review Yuri's proposal to change the algorithm of LockManager. (+)
@@ -542,31 +542,31 @@
 
 * 2014-04-09
 ** Help Wenxian with his EAS test. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-04-10
 ** Off.
 
 * 2014-04-11
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-03-31 ~ 2014-04-04
 
 * 2014-03-31
 ** Interview one candidate for [$STARLING (phone-screen). (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2014-04-01
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-04-02
 ** Majority voting algorithm. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-04-03
 ** Look into a deadlock caused by receiver transaction not correctly released (file [$XENON-3664). (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 ** Read an artical about PostgreSQL pain points (recommended by Bas). (+)
 
@@ -579,26 +579,26 @@
 * 2014-03-24
 ** Interview two candidates for [$STARLING. (D)
 ** [$STARLING weekly dev meeting. (D)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-03-25
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Help Sherry look into JCI's case, checkpoint not truncating logs. (+)
 ** 1-on-1 with Dingmeng. (D)
 ** [$STARLING-[$xENON weekly meeting. (D)
 
 * 2014-03-26
 ** Add logging output for log truncation. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-03-27
-** New addressing scheme (a new breakthrough idea). (P)
+** Indirect addressing (a new breakthrough idea). (P)
 ** Help Sheperd debug a deadlock found in his index rebuilding code. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2014-03-28
 ** Rearrange the computer and two displays, hoping to relieve shoulder pain. (+) 
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** Philip's [$xENON-CSI UI session. (D)
 
 -------- 2014-03-17 ~ 2014-03-21
@@ -615,18 +615,18 @@
 * 2014-03-19
 ** Interview two candidates for [$STARLING. (D)
 ** Add stories on V1. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 * 2014-03-20
 ** Interview two candidates for [$STARLING (including one for phone-screen). (D)
 ** Add stories on V1. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2014-03-21
 ** File [$XENON-3650. (+)
 ** Report the multi-select issue to the JIRA team. (+)
-** New addressing scheme. (P)
+** Indirect addressing. (P)
 
 -------- 2014-03-10 ~ 2014-03-14
 
