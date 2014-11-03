@@ -1,3 +1,9 @@
+-------- 2014-11-03 ~ 2014-11-07
+
+* 2014-11-03
+** [$STARLING weekly dev meeting. (D)
+** Think over and write up the precedure of restoring an old library backup in 11 for Ewout. (+)
+
 -------- 2014-10-27 ~ 2014-10-31
 
 * 2014-10-27
@@ -10,7 +16,7 @@
 ** [$xENON architecture meeting (cross-merge/adoption, suspension, etc.). (D)
 
 * 2014-10-29
-** Think about and write up solutions for the one-thread-serves-two-sessions/suspension issue. (+)
+** Think over and write up solutions for the one-thread-serves-two-sessions/suspension issue. (+)
 ** Indirect addressing. (P)
 
 * 2014-10-30
