@@ -6,8 +6,19 @@
 ** Discuss the addDataNode() issues with Petr. (+)
 
 * 2014-10-28
-** Indirect addressing. (+)
+** Indirect addressing. (P)
 ** [$xENON architecture meeting (cross-merge/adoption, suspension, etc.). (D)
+
+* 2014-10-29
+** Think about and write up solutions for the one-thread-serves-two-sessions/suspension issue. (+)
+** Indirect addressing. (P)
+
+* 2014-10-30
+** Indirect addressing. (P)
+** [$xENON weekly meeting. (D)
+
+* 2014-10-31
+** Off.
 
 -------- 2014-10-20 ~ 2014-10-24
 
