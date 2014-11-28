@@ -11,6 +11,14 @@
 * 2014-11-26
 ** Indirect addressing (an adoption issue reported by Ewout, serverRunId, etc.). (P)
 
+* 2014-11-27
+** Indirect addressing (bugs discovered by Duke's tests). (P)
+** [$xENON weekly meeting. (D)
+
+* 2014-11-28
+** Health checkup. (D)
+** [$XENON-2815 (isolation issues for segment list cache). (P)
+
 -------- 2014-11-17 ~ 2014-11-21
 
 * 2014-11-17
