@@ -8,6 +8,11 @@
 ** Discuss the necessity of cluster-scope-ids with Petr (conf-call). (+)
 ** [$xENON architecture meeting (Yuri's performance tests / Philip's Alexandria). (D)
 
+* 2014-12-03
+** Think over the 'join' issue found by Ewout. (+)
+** [$XENON-2815 (isolation issues for segment list cache). (P)
+** 1-on-1 with Dingmeng. (D)
+
 -------- 2014-11-24 ~ 2014-11-28
 
 * 2014-11-24
