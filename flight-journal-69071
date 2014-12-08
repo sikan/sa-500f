@@ -17,6 +17,12 @@
 ** [$XENON-2815 (isolation issues for segment list cache). (P)
 ** [$xENON weekly meeting. (D)
 
+* 2014-12-05
+** John O'Melia's all-hands. (D)
+** Get involved in a VMware case where an extent was cleaned twice. (+)
+** Look into an IA issue reported by Michele. (+)
+** Propagation of segment list cache. (P)
+
 -------- 2014-11-24 ~ 2014-11-28
 
 * 2014-11-24
