@@ -1,14 +1,46 @@
+-------- 2014-12-15 ~ 2014-12-19
+
+* 2014-12-15
+** Think over the issues regarding the (de)serialization of detachable libraries (VMware is complaining). (+)
+** Continue investigating the assertion failure caused by the fix for [$XENON-2815. (P)
+** [$STARLING weekly dev meeting (lead the discussion about the plan to enforce code convention). (D)
+
+* 2014-12-16
+** Off.
+
+* 2014-12-17
+** Off.
+
+* 2014-12-18
+** Continue investigating the assertion failure caused by the fix for [$XENON-2815. (P)
+** IA for B-tree index cross-merge. (D)
+** [$xENON weekly meeting. (D)
+
 -------- 2014-12-08 ~ 2014-12-12
 
 * 2014-12-08
 ** Continue investigating the issue reported by Michele. (P)
 ** [$STARLING weekly dev meeting. (D)
+** [$ION education assignments. (P)
 
 * 2014-12-09
 ** Continue investigating the issue reported by Michele. (P)
 ** Propagation of segment list cache. (P)
 ** [$STARLING-[$xENON weekly meeting. (D)
 ** [$xENON architecture meeting (online library backup/restore). (D)
+** [$ION education assignments. (P)
+
+* 2014-12-10
+** [$ION education assignments. (P)
+** Propagation of segment list cache. (P)
+** File [$XENON-3914. (+)
+
+* 2014-12-11
+** Propagation of segment list cache. (D)
+** [$xENON weekly meeting. (D)
+
+* 2014-12-12
+** Look into an assertion failure caused by the fix for [$XENON-2815 (no clue). (+)
 
 -------- 2014-12-01 ~ 2014-12-05
 
