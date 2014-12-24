@@ -1,3 +1,12 @@
+-------- 2014-12-22 ~ 2014-12-26
+
+* 2014-12-22
+** Off.
+
+* 2014-12-23
+** Study the (de)serialization logic. (P) 
+** Code formatter for [$STARLING. (P)
+
 -------- 2014-12-15 ~ 2014-12-19
 
 * 2014-12-15
@@ -13,8 +22,13 @@
 
 * 2014-12-18
 ** Continue investigating the assertion failure caused by the fix for [$XENON-2815. (P)
-** IA for B-tree index cross-merge. (D)
+** IA for B-tree index cross-merge. (P)
 ** [$xENON weekly meeting. (D)
+
+* 2014-12-19
+** Continue investigating the assertion failure caused by the fix for [$XENON-2815. (P)
+** IA for B-tree index cross-merge. (D)
+** [$ION team event for the new year. (D)
 
 -------- 2014-12-08 ~ 2014-12-12
 
