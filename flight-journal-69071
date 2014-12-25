@@ -7,6 +7,10 @@
 ** Study the (de)serialization logic. (P) 
 ** Code formatter for [$STARLING. (P)
 
+* 2014-12-24
+** Continue investigating the assertion failure caused by the fix for [$XENON-2815. (D)
+** Fix the branching issues with [$STARLING Int and Main. (D)
+
 -------- 2014-12-15 ~ 2014-12-19
 
 * 2014-12-15
