@@ -9,7 +9,11 @@
 
 * 2014-12-24
 ** Continue investigating the assertion failure caused by the fix for [$XENON-2815. (D)
-** Fix the branching issues with [$STARLING Int and Main. (D)
+** Fix the branching issues with [$STARLING Int and Main. (P)
+
+* 2014-12-25
+** Fix the branching issues with [$STARLING Int and Main. (P)
+** Code formatter for [$STARLING and some other misc settings. (P)
 
 -------- 2014-12-15 ~ 2014-12-19
 
