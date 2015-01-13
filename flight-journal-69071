@@ -1,3 +1,10 @@
+-------- 2015-01-12 ~ 2015-01-16
+
+* 2015-01-12
+** Read Petr's new comments on [$xENON 2PC protocol. (+)
+** Try to generate random library-scope file ids for testing. (D)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2015-01-05 ~ 2015-01-09
 
 * 2015-01-05
@@ -15,6 +22,11 @@
 * 2015-01-08
 ** New APIs for (de)serialization. (P)
 ** [$xENON weekly meeting. (D)
+
+* 2015-01-09
+** Help Michael Jiang with an InfoArchive case. (+)
+** Read Petr's proposal for [$xENON 2PC protocol. (+)
+** Try to generate random library-scope file ids for testing. (+)
 
 -------- 2014-12-29 ~ 2014-12-31
 
