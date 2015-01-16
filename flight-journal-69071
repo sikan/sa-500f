@@ -5,6 +5,20 @@
 ** Try to generate random library-scope file ids for testing. (D)
 ** [$STARLING weekly dev meeting. (D)
 
+* 2015-01-13
+** Investigate issues with the upgrade tests. (+)
+
+* 2015-01-14
+** Investigate issues with the upgrade tests. (D)
+** Fix a logic which no longer works in the cluster and caused build failures (found only after enabling 'randomlid'). (+)
+** Fix a synchronization issue with the new segment list cache (now use ConcurrentSkipListMap and simplify the code). (+)
+
+* 2015-01-15
+** Discuss how to do stop word filtering for phrase search with Sheperd. (+)
+** Discuss the index join issue with Duke. (+)
+** Discuss the compiler compliance level issue with the team. (+)
+** Debug the index join code. (+)
+
 -------- 2015-01-05 ~ 2015-01-09
 
 * 2015-01-05
