@@ -1,8 +1,13 @@
 -------- 2015-01-19 ~ 2015-01-23
 
 * 2015-01-19
-** Think about potential solutions to the index 'join' issue. (P)
+** Think about potential solutions to the index 'join' issue (resume the email discussion). (P)
 ** [$STARLING weekly dev meeting. (D)
+
+* 2015-01-20
+** Review Petr's proposal for changeBinding() in the cluster. (D)
+** Think about potential solutions to the index 'join' issue (continue the discussion). (P)
+** [$xENON architecture meeting ([$xENON 2PC protocol). (D)
 
 -------- 2015-01-12 ~ 2015-01-16
 
