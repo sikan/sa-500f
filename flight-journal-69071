@@ -13,6 +13,10 @@
 ** Explain special rules for child-to-parent links to Philip. (+)
 ** Review Petr's proposal for the new distributed deadlock detection algorithm (Chandy-Misra-Haas algorithm). (D)
 
+* 2015-01-22
+** Think about potential solutions to the index 'join' issue. (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2015-01-12 ~ 2015-01-16
 
 * 2015-01-12
@@ -36,7 +40,7 @@
 
 * 2015-01-16
 ** EPAS. (D)
-** Debug the index join code (heapsort, priority queue, headchanged(), etc.). (P)
+** Debug the index join code (heapsort, priority queue, headChanged(), etc.). (P)
 
 -------- 2015-01-05 ~ 2015-01-09
 
