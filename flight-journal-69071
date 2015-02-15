@@ -1,3 +1,8 @@
+-------- 2015-02-15 ~ 2015-02-17
+
+* 2015-02-15
+** Optimize the logic to read and write ConcurrentIndexRef over RPC and propagate the convertValue flag. (+)
+
 -------- 2015-02-09 ~ 2015-02-13
 
 * 2015-02-09
