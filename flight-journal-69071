@@ -1,3 +1,16 @@
+-------- 2015-02-25 ~ 2015-02-28
+
+* 2015-02-25
+** Read Carla's proposal for B-tree multi-path index. (+)
+** Read the cluster code (KeyValueStorage). (P)
+
+* 2015-02-26
+** Read Carla's proposal for B-tree multi-path index. (+)
+** Read the cluster code (KeyValueStorage, online library restore, etc.). (P)
+
+* 2015-02-27
+** Off.
+
 -------- 2015-02-15 ~ 2015-02-17
 
 * 2015-02-15
