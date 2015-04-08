@@ -1,3 +1,10 @@
+-------- 2015-04-07 ~ 2015-04-10
+
+* 2015-04-07
+** Study Valery's infrastructure for global distributed transactions and 2PC. (D)
+** 1-on-1 with Dingmeng. (D)
+** changeBinding() for the clustering architecture. (P)
+
 -------- 2015-03-30 ~ 2015-04-03
 
 * 2015-03-30
@@ -21,7 +28,7 @@
 
 * 2015-04-03
 ** Help answer some questions from Flatirons (David Jiang). (+)
-** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
+** Study Valery's infrastructure for global distributed transactions and 2PC (also during the Qingming holidays). (P)
 ** Build an engineering jar for [$SWIFT-14258. (+)
 
 -------- 2015-03-23 ~ 2015-03-27
