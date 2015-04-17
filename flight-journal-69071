@@ -1,9 +1,40 @@
+-------- 2015-04-13 ~ 2015-04-17
+
+* 2015-04-13
+** Review the changelists backported to 10.6. (+)
+** [$STARLING weekly dev meeting. (D)
+** Carl's Elastic session. (D)
+
+* 2015-04-14
+** changeBinding() for the clustering architecture. (P)
+** Help Harry Tu's with a customer issue (Merck, [$STARLING 1.4 log size). (+)
+
+* 2015-04-15
+** changeBinding() for the clustering architecture. (P)
+** Help Duke look into a halt issue ([$SWIFT-14258, [$SWIFT-14485). (+)
+
+* 2015-04-16
+** changeBinding() for the clustering architecture. (P)
+** [$xENON weekly meeting. (D)
+** 8-year anniversary at [$EEL (official date, shame).
+
 -------- 2015-04-07 ~ 2015-04-10
 
 * 2015-04-07
 ** Study Valery's infrastructure for global distributed transactions and 2PC. (D)
 ** 1-on-1 with Dingmeng. (D)
 ** changeBinding() for the clustering architecture. (P)
+
+* 2015-04-08
+** changeBinding() for the clustering architecture. (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-04-09
+** changeBinding() for the clustering architecture. (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-04-10
+** Off.
 
 -------- 2015-03-30 ~ 2015-04-03
 
@@ -18,7 +49,7 @@
 ** Answer Mark Polman's questions on attach APIs. (+)
 ** Draft Q2 MBO goals. (+)
 ** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
-** Help Harry Tu's with a customer issue ([$STARLING 1.4 log size). (+)
+** Help Harry Tu's with a customer issue (Merck, [$STARLING 1.4 log size). (+)
 
 * 2015-04-02
 ** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
