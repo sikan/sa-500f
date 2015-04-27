@@ -7,6 +7,22 @@
 * 2015-04-21
 ** changeBinding() for the clustering architecture. (P)
 ** [$xENON architecture meeting (the new communication infrastructure). (D)
+** Answer some questions from Flatirons. (+)
+** LineProtocol request numbering. (+)
+
+* 2015-04-22
+** LineProtocol request numbering (any objections?). (D)
+** Answer some questions from Flatirons. (+)
+** changeBinding() for the clustering architecture. (P)
+** John O'Melia's all-hands. (D)
+
+* 2015-04-23
+** changeBinding() for the clustering architecture (remote path mapper works). (P)
+** [$xENON weekly meeting. (D)
+** Discuss an LSN issue with Ewout. (+)
+
+* 2015-04-24
+** LineProtocol request numbering (Main). (D)
 
 -------- 2015-04-13 ~ 2015-04-17
 
