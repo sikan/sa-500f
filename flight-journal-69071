@@ -1,3 +1,21 @@
+-------- 2015-05-04 ~ 2015-05-08
+
+* 2015-05-04
+** changeBinding() for the clustering architecture. (P)
+** [$STARLING weekly dev meeting. (D)
+** Investigate the IA issue reported by Philip. (P)
+
+* 2015-05-05
+** changeBinding() for the clustering architecture. (P)
+
+* 2015-05-06
+** changeBinding() for the clustering architecture. (P)
+** Investigate the IA issue reported by Philip. (P)
+
+* 2015-05-07
+** Fix a bunch of issues on the cluster branch (hasSegment(), system-db superblock, etc.). (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2015-04-27 ~ 2015-04-30
 
 * 2015-04-27
