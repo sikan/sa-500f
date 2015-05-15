@@ -4,6 +4,20 @@
 ** changeBinding() for the clustering architecture. (P)
 ** [$STARLING weekly dev meeting. (D)
 
+* 2015-05-12
+** changeBinding() for the clustering architecture. (P)
+
+* 2015-05-13
+** changeBinding() for the clustering architecture. (P)
+
+* 2015-05-14
+** changeBinding() for the clustering architecture. (P)
+
+* 2015-05-15
+** Thinks about some design issues of getFullPath() and LLPI. (+)
+** changeBinding() for the clustering architecture (merge Petr's recent changes). (P)
+** Fix a bug in the move logic reported by Vojtech. (+)
+
 -------- 2015-05-04 ~ 2015-05-08
 
 * 2015-05-04
