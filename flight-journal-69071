@@ -1,3 +1,36 @@
+-------- 2015-05-25 ~ 2015-05-29
+
+* 2015-05-25
+** changeBinding() for the clustering architecture (first version committed). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-05-26
+** changeBinding() for the clustering architecture (tests, LLPI, duplicate receiver, etc.). (P)
+** [$xENON architecture meeting (Lucene DocValues filter). (D)
+** Set up ThinkPad W541. (+)
+
+-------- 2015-05-18 ~ 2015-05-22
+
+* 2015-05-18
+** changeBinding() for the clustering architecture (merge Petr's recent changes). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-05-19
+** changeBinding() for the clustering architecture (merge Petr's recent changes). (P)
+** Meetings with Vish and John (lunch, ping-pong, all-hands). (D)
+
+* 2015-05-20
+** changeBinding() for the clustering architecture (merge Petr's recent changes). (P)
+** 1-on-1 with Dingmeng. (D)
+
+* 2015-05-21
+** changeBinding() for the clustering architecture (merge Petr's recent changes). (P)
+** Think about getFullPath() and LLPI. (+)
+** [$xENON weekly meeting. (D)
+
+* 2015-05-22
+** changeBinding() for the clustering architecture. (P)
+
 -------- 2015-05-11 ~ 2015-05-15
 
 * 2015-05-11
