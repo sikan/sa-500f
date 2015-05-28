@@ -9,6 +9,10 @@
 ** [$xENON architecture meeting (Lucene DocValues filter). (D)
 ** Set up ThinkPad W541. (+)
 
+* 2015-05-27
+** changeBinding() for the clustering architecture (LSN issues during online recovery). (P)
+** Set up ThinkPad W541. (D)
+
 -------- 2015-05-18 ~ 2015-05-22
 
 * 2015-05-18
