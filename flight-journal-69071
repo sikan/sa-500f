@@ -1,3 +1,9 @@
+-------- 2015-06-01 ~ 2015-06-05
+
+* 2015-06-01
+** Investigate the IO errors in concurrent online library backup/restore. (+)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2015-05-25 ~ 2015-05-29
 
 * 2015-05-25
@@ -12,6 +18,14 @@
 * 2015-05-27
 ** changeBinding() for the clustering architecture (LSN issues during online recovery). (P)
 ** Set up ThinkPad W541. (D)
+
+* 2015-05-28
+** changeBinding() for the clustering architecture (LSN issues during online recovery). (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-05-29
+** changeBinding() for the clustering architecture (fix the systemRedoLSN issue, feature ready for integration). (P)
+** Analyze the potential issues with systemRedoLSN during online library recovery. (+)
 
 -------- 2015-05-18 ~ 2015-05-22
 
