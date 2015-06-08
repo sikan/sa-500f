@@ -9,7 +9,7 @@
 ** changeBinding() for the clustering architecture (minor refactoring). (P)
 
 * 2015-06-03
-** Discuss a forceDetach issue with Duke. (+)
+** Discuss a forceDetach() issue with Duke. (+)
 ** Indirect addressing: child-to-parent pointers. (P)
 
 * 2015-06-04
@@ -17,6 +17,9 @@
 ** Take 2015 BCG trainings. (+)
 ** Indirect addressing: child-to-parent pointers. (P)
 ** [$xENON weekly meeting. (D)
+
+* 2015-06-05
+** [$ION outing (Taizhou).
 
 -------- 2015-05-25 ~ 2015-05-29
 
