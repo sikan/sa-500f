@@ -9,6 +9,17 @@
 ** Discuss the LOCK_WITH_PARENT issue with [$Antwerp. (+)
 ** changeBinding(): physical deletion / sub-transactions. (P)
 
+* 2015-06-10
+** Discuss the LOCK_WITH_PARENT issue with [$Antwerp. (+)
+** changeBinding(): physical deletion / sub-transactions. (P)
+
+* 2015-06-11
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-06-12
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
+
 -------- 2015-06-01 ~ 2015-06-05
 
 * 2015-06-01
