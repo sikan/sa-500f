@@ -1,3 +1,10 @@
+-------- 2015-06-15 ~ 2015-06-19
+
+* 2015-06-15
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
+** [$STARLING weekly dev meeting. (D)
+** Look into an AssertionError involving LrNamebaseRotate. (+)
+
 -------- 2015-06-08 ~ 2015-06-12
 
 * 2015-06-08
@@ -18,6 +25,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2015-06-12
+** Port fixes for LOCK_WITH_PARENT. (D)
 ** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
 
 -------- 2015-06-01 ~ 2015-06-05
