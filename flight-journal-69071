@@ -5,6 +5,23 @@
 ** [$STARLING weekly dev meeting. (D)
 ** Look into an AssertionError involving LrNamebaseRotate. (+)
 
+* 2015-06-16
+** Look into an AssertionError involving LrNamebaseRotate (fixed, log records mistakenly ignored). (D)
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
+** Set up the new docking station. (+)
+
+* 2015-06-17
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
+** Set up the new docking station ('adavanced' mode doesn't work). (D)
+
+* 2015-06-18
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore. (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-06-19
+** Get rid of SegmentIdStore / LibraryScopeFileIdStore (regressions). (P)
+** Create new slides explaining what happens to IA during changeBinding(). (+)
+
 -------- 2015-06-08 ~ 2015-06-12
 
 * 2015-06-08
