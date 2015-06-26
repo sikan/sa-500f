@@ -11,6 +11,11 @@
 ** Investigate build failures. (D)
 ** [$xENON weekly meeting. (D)
 
+* 2015-06-26
+** Some minor fixes and improvements to FileidMap logic. (D)
+** Investigate an issue involving the access info for system-db. (+) 
+** Propose dropping support for offline library backup/restore in 11. (+)
+
 -------- 2015-06-15 ~ 2015-06-19
 
 * 2015-06-15
