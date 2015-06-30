@@ -1,3 +1,11 @@
+-------- 2015-06-29 ~ 2015-07-03
+
+* 2015-06-29
+** [$ION education assignments (149, 167, 154, 159). (P)
+** Investigate an issue involving the access info for system-db and deserialization. (+) 
+** [$STARLING weekly dev meeting. (D)
+** Review Winston's XService. (+)
+
 -------- 2015-06-23 ~ 2015-06-26
 
 * 2015-06-23
@@ -13,7 +21,7 @@
 
 * 2015-06-26
 ** Some minor fixes and improvements to FileidMap logic. (D)
-** Investigate an issue involving the access info for system-db. (+) 
+** Investigate an issue involving the access info for system-db and deserialization. (+) 
 ** Propose dropping support for offline library backup/restore in 11. (+)
 
 -------- 2015-06-15 ~ 2015-06-19
