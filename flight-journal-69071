@@ -9,6 +9,10 @@
 ** Investigate a tree-scope issus reported by Philip. (+)
 ** XOD / serialization (tree-scope). (P)
 
+* 2015-07-08
+** XOD / serialization (tree-scope). (D)
+** Document the known issues with the old restoreLibrary() APIs. (D)
+
 -------- 2015-06-29 ~ 2015-07-03
 
 * 2015-06-29
