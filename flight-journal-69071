@@ -1,3 +1,14 @@
+-------- 2015-07-06 ~ 2015-07-10
+
+* 2015-07-06
+** XOD / serialization. (D)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-07-07
+** Fix [$XENON-3975 for Sheperd. (D)
+** Investigate a tree-scope issus reported by Philip. (+)
+** XOD / serialization (tree-scope). (P)
+
 -------- 2015-06-29 ~ 2015-07-03
 
 * 2015-06-29
@@ -13,6 +24,16 @@
 
 * 2015-07-01
 ** XOD / serialization (Bas confirmed an oversight). (P)
+
+* 2015-07-02
+** Investigate a forceDetach() issue reported by Sheperd. (+)
+** XOD / serialization (transient_pageid, database serialization format). (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-07-03
+** [$ION education assignments (186). (P)
+** XOD / serialization. (P)
+** Beer bash. (D)
 
 -------- 2015-06-23 ~ 2015-06-26
 
