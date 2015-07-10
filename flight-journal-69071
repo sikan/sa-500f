@@ -13,6 +13,11 @@
 ** XOD / serialization (tree-scope). (D)
 ** Document the known issues with the old restoreLibrary() APIs. (D)
 
+* 2015-07-09
+** Investigate a segment list (usage and LSFID) issus reported by Ewout. (+)
+** Summarize the current status of (de)serialization on wiki. (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2015-06-29 ~ 2015-07-03
 
 * 2015-06-29
