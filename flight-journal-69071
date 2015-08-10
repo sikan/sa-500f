@@ -1,8 +1,42 @@
+-------- 2015-08-03 ~ 2015-08-07
+
+* 2015-08-03
+** Stabilize the cluster-mode build. (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-08-04
+** Stabilize the cluster-mode build. (P)
+** Read some materials about snapshot isolation. (+)
+** [$xENON architecture meeting (snapshot isolation). (D)
+
+* 2015-08-05
+** Investigate issues with checkpoint() in the cluster environment. (+)
+** Stabilize the cluster-mode build. (P)
+
+* 2015-08-06
+** Implement a mechanism which makes sure evicted data files are deleted. (+) 
+** [$xENON weekly meeting. (D)
+
+* 2015-08-07
+** Implement a mechanism which makes sure evicted data files are deleted. (+) 
+
 -------- 2015-07-27 ~ 2015-07-31
 
 * 2015-07-27
 ** Stabilize the cluster-mode build. (P)
 ** [$STARLING weekly dev meeting. (D)
+
+* 2015-07-28
+** Stabilize the cluster-mode build. (P)
+
+* 2015-07-29
+** Stabilize the cluster-mode build. (P)
+
+* 2015-07-30
+** Off.
+
+* 2015-07-31
+** Off.
 
 -------- 2015-07-20 ~ 2015-07-24
 
