@@ -1,3 +1,24 @@
+-------- 2015-08-17 ~ 2015-08-21
+
+* 2015-08-17
+** Implement a mechanism which makes sure evicted data files are deleted (v2). (D)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-08-18
+** Make serverStateTimestamp work in the cluster environment. (D)
+** Stabilize the build. (P)
+
+* 2015-08-19
+** Fix an issue with tree-scope file ids. (+)
+** Maintain segment state during changeBinding(). (+)
+
+* 2015-08-20
+** Investigate problems with forceDetach() in the cluster environment. (+)
+
+* 2015-08-21
+** Fix problems with forceDetach() in the cluster environment. (D)
+** Look into an eclipse formatter issue (Luna vs. Mars). (+)
+
 -------- 2015-08-10 ~ 2015-08-14
 
 * 2015-08-10
