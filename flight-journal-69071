@@ -1,3 +1,9 @@
+-------- 2015-08-24 ~ 2015-08-28
+
+* 2015-08-24
+** Fix problems with forceDetach() in the cluster environment. (D)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2015-08-17 ~ 2015-08-21
 
 * 2015-08-17
@@ -16,7 +22,7 @@
 ** Investigate problems with forceDetach() in the cluster environment. (+)
 
 * 2015-08-21
-** Fix problems with forceDetach() in the cluster environment. (D)
+** Fix problems with forceDetach() in the cluster environment. (P)
 ** Look into an eclipse formatter issue (Luna vs. Mars). (+)
 
 -------- 2015-08-10 ~ 2015-08-14
