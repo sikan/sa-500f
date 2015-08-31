@@ -4,6 +4,22 @@
 ** Fix problems with forceDetach() in the cluster environment. (D)
 ** [$STARLING weekly dev meeting. (D)
 
+* 2015-08-25
+** Create a wiki page to summarize the issues with the old/new library backup/restore. (+)
+
+* 2015-08-26
+** Create a wiki page to summarize the issues with the old/new library backup/restore. (D) 
+** Partial tree-scope enabling. (P)
+
+* 2015-08-27
+** File [$XENON-3990. (+)
+** Partial tree-scope enabling. (P)
+** [$xENON weekly meeting. (D) 
+
+* 2015-08-28
+** Partial tree-scope enabling. (P)
+** Explain some [$xENON concepts to the performance team. (+)
+
 -------- 2015-08-17 ~ 2015-08-21
 
 * 2015-08-17
@@ -20,6 +36,7 @@
 
 * 2015-08-20
 ** Investigate problems with forceDetach() in the cluster environment. (+)
+** [$xENON weekly meeting. (D)
 
 * 2015-08-21
 ** Fix problems with forceDetach() in the cluster environment. (P)
