@@ -1,3 +1,30 @@
+-------- 2015-09-21 ~ 2015-09-25
+
+* 2015-09-21
+** Distributed detach. (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-09-22
+** Distributed detach. (P)
+** [$SWIFT-14775. (+)
+** Stabilize the build. (P)
+** 1-on-1 with Dingmeng. (D)
+** Beer bash. (D)
+
+* 2015-09-23
+** Stabilize the build (federation backup and recovery issues, etc.). (P)
+** Discuss several technical issues with Petr. (+)
+
+* 2015-09-24
+** File [$XENON-3996. (+)
+** Fix a issue with updating system-db during recovery. (+)
+** Investigate the design issues with distributed detach/attach. (+)
+** Discuss the solutions for index joins with IA with Petr, Ewout, Val, Philip, Carla, Vojtech and Duke. (+)
+
+* 2015-09-25
+** Discuss [$XENON-[$STARLING integration with Zed. (+)
+** Distributed attach. (P)
+
 -------- 2015-09-14 ~ 2015-09-18
 
 * 2015-09-14
