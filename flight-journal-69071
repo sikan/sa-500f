@@ -1,3 +1,49 @@
+-------- 2015-10-12 ~ 2015-10-16
+
+* 2015-10-12
+** Investigate the FileidMap issue reported by Sander. (D)
+** [$STARLING weekly dev meeting. (D)
+** Stabilize the build. (P)
+
+* 2015-10-13
+** Stabilize the build (LIConext). (P)
+
+* 2015-10-14
+** Stabilize the build (serverStateTimestamp, RepairToolTest, etc.). (P)
+** Test library indexes which contain values pointing to a different node. (+)
+
+* 2015-10-15
+** Stabilize the build ('useDefault' during deserialization). (P)
+** [$STARLING weekly dev meeting. (D)
+** Sync-up with [$Antwerp team on the current status of clustering. (D)
+
+-------- 2015-10-08 ~ 2015-10-10
+
+* 2015-10-08
+** Off.
+
+* 2015-10-09
+** WFH.
+** Distributed attach. (P)
+
+* 2015-10-10
+** Revisit fixes to LockManager (to answer Bas's questions). (+)
+** Draft Q4 MBO goals. (+)
+** Investigate the FileidMap issue reported by Sander. (+)
+
+-------- 2015-09-28 ~ 2015-09-30
+
+* 2015-09-28
+** Stabilize the build. (P)
+** Distributed attach. (P)
+
+* 2015-09-29
+** Distributed attach. (P)
+
+* 2015-09-30
+** Discuss with Ewout through email about IA in compatibility  mode. (+)
+** Distributed attach. (P)
+
 -------- 2015-09-21 ~ 2015-09-25
 
 * 2015-09-21
