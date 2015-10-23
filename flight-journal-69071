@@ -1,3 +1,23 @@
+-------- 2015-10-19 ~ 2015-10-23
+
+* 2015-10-19
+** Fix a very rare merge issue reported by Duke (affected method was removed during the merge, but was then reinstated). (+)
+** Investigate the issues with the FileidMap cache for UNUSED segments. (P)
+** Help Duke and Sheperd look into a potential latch issue. (+)
+
+* 2015-10-20
+** IA refactoring (UNUSED, etc.). (P)
+
+* 2015-10-21
+** IA refactoring (UNUSED, etc.). (P)
+
+* 2015-10-22
+** IA refactoring (UNUSED, etc.). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-10-23
+** IA refactoring (UNUSED, etc.). (P)
+
 -------- 2015-10-12 ~ 2015-10-16
 
 * 2015-10-12
