@@ -1,3 +1,45 @@
+-------- 2015-11-02 ~ 2015-11-06
+
+* 2015-11-02
+** Email backlog. (D)
+** Fix a programming error found by Vojtech. (+)
+** IA refactoring (UNUSED/temp segments, etc.). (P)
+
+* 2015-11-03
+** IA refactoring (UNUSED/temp segments, FileidMapHolderUnsafe, etc.). (P)
+** 1-on-1 with Dingmeng. (D)
+
+* 2015-11-04
+** Duplicate mappings in FileidMap. (+)
+** IA refactoring (UNUSED/temp segments, etc.). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-11-05
+** Duplicate mappings in FileidMap. (D)
+** Fix conversion issues with concurrent library indexes. (+)
+** IA refactoring (UNUSED/temp segments, tests, etc.). (D)
+** [$xENON weekly meeting. (D) 
+
+* 2015-11-06
+** Add a two-client changeBinding() test case (which uncovers an NPE caused by cnAddresses?). (+)
+
+-------- 2015-10-26 ~ 2015-10-30
+
+* 2015-10-26
+** Off.
+
+* 2015-10-27
+** Off.
+
+* 2015-10-28
+** Off.
+
+* 2015-10-29
+** Off.
+
+* 2015-10-30
+** Off.
+
 -------- 2015-10-19 ~ 2015-10-23
 
 * 2015-10-19
@@ -13,7 +55,7 @@
 
 * 2015-10-22
 ** IA refactoring (UNUSED, etc.). (P)
-** [$STARLING weekly dev meeting. (D)
+** [$xENON weekly meeting. (D) 
 
 * 2015-10-23
 ** IA refactoring (UNUSED, etc.). (P)
@@ -34,7 +76,7 @@
 
 * 2015-10-15
 ** Stabilize the build ('useDefault' during deserialization). (P)
-** [$STARLING weekly dev meeting. (D)
+** [$xENON weekly meeting. (D) 
 ** Sync-up with [$Antwerp team on the current status of clustering. (D)
 
 * 2015-10-16
@@ -89,6 +131,7 @@
 ** File [$XENON-3996. (+)
 ** Fix a issue with updating system-db during recovery. (+)
 ** Investigate the design issues with distributed detach/attach. (+)
+** [$xENON weekly meeting. (D) 
 ** Discuss the solutions for index joins with IA with Petr, Ewout, Val, Philip, Carla, Vojtech and Duke. (+)
 
 * 2015-09-25
