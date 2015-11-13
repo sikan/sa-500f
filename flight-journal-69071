@@ -1,3 +1,32 @@
+-------- 2015-11-09 ~ 2015-11-13
+
+* 2015-11-09
+** Rewrite two-client test cases. (+)
+** [$STARLING weekly dev meeting. (D)
+** Security training courses (Product Security). (P)
+
+* 2015-11-10
+** Another duplicate mappings issue reported by Val. (D)
+** Rewrite two-client test cases. (P)
+** Security training courses (Product Security). (D)
+** Security training courses (Engineering Systems Protection). (D)
+** Security training courses (Compliance). (D)
+** Security training courses (Information Security). (P)
+
+* 2015-11-11
+** Security training courses (Information Security). (D)
+** Rewrite two-client test cases. (P)
+** Investigate serveral issues: changeBinding(): rollback, LMPI handling; NOT_CONNECTED in multi-CN setup. (+)
+
+* 2015-11-12
+** Rewrite two-client test cases. (P)
+** Report the high CPU utilization issue to Petr. (+)
+** [$xENON weekly meeting. (D) 
+
+* 2015-11-13
+** Implement a mechanism to suppress conversion errors until the cluster receiver has finished reading input data. (+)
+** Beer bash. (D)
+
 -------- 2015-11-02 ~ 2015-11-06
 
 * 2015-11-02
