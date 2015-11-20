@@ -1,3 +1,30 @@
+-------- 2015-11-16 ~ 2015-11-20
+
+* 2015-11-16
+** Rewrite two-client test cases. (D)
+** Replace AtomicReferenceArray with CopyOnWriteArrayList. (D)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-11-17
+** Fix remaining conversion issues with concurrent library id/name indexes. (D)
+
+* 2015-11-18
+** Rollback of changeBinding(). (P)
+** Fix a deadlock caused by recent fixes to library queue. (+)
+** Forbid distributed adoptChild()/removeChild() in 11 and add test cases. (+)
+** Look into issues caused by allowClusterScopeValues(). (+)
+** [$xENON architecture meeting (API changes). (D)
+
+* 2015-11-19
+** Fix an issue with assertions reported by Ewout. (+)
+** Look into issues caused by allowClusterScopeValues(). (D)
+** Send back an unrealistic id instead when the receiver has to return a cluster scope id in direct data node access mode.(+)
+** Add data modification check for changeBinding(). (D)
+** [$xENON weekly meeting. (D)
+
+* 2015-11-20
+** Back up email attachments (-20111231). (D)
+
 -------- 2015-11-09 ~ 2015-11-13
 
 * 2015-11-09
