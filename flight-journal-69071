@@ -11,6 +11,20 @@
 ** Rollback of changeBinding(). (P)
 
 
+* 2015-11-25
+** Off.
+
+* 2015-11-26
+** Rollback of changeBinding(). (P)
+** Stabilize the build. (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-11-27
+** Write up some notes about the name base issue. (+)
+** [$ION Docker session. (D)
+** Stabilize the build. (P)
+** [$xENON architecture meeting (forceDetachDataNode). (D)
+
 -------- 2015-11-16 ~ 2015-11-20
 
 * 2015-11-16
