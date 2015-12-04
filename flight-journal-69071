@@ -1,3 +1,35 @@
+-------- 2015-11-30 ~ 2015-12-04
+
+* 2015-11-30
+** Fix two NPEs. (+)
+** Stabilize the build (deprecate offline restore, etc.). (P)
+** [$STARLING weekly dev meeting. (D)
+** Discuss several technical issues with Petr (markXXXPageList, forceDetachDataNode). (+)
+** Have a phone call with Philip to discuss some IA performance issues. (+)
+
+* 2015-12-01
+** Propose the action plan to get rid of 'library-path'. (+)
+** Fix issues with the consistency checker working in a shared nothing environment. (D)
+** [$xENON architecture meeting (Ewout: online restore). (D)
+
+* 2015-12-02
+** WFH.
+** Stabilize the build (potential distributed deadlocks caused by non-concurrent parent). (P)
+
+* 2015-12-03
+** WFH/AM.
+** Discuss the (non-)concurrent root issue with Petr. (D)
+** Discuss the IA performance issues with Philip. (+)
+** [$xENON architecture meeting (Ewout: getByPath()). (D)
+
+* 2015-12-04
+** Add more test scenarios to changeBinding(). (+)
+** Make root concurrent by default for all cluster tests. (D)
+** Discuss an LLPI update issue with Ewout. (+)
+** Discuss the IA performance issues with Philip. (+)
+** Boost IA performance (several optimizations suggested by Philip). (+)
+** Rewrite getFullPath() such that it makes use of LLPI. (D)
+
 -------- 2015-11-23 ~ 2015-11-27
 
 * 2015-11-23
@@ -16,13 +48,13 @@
 
 * 2015-11-26
 ** Rollback of changeBinding(). (P)
-** Stabilize the build. (P)
+** Stabilize the build (deprecate offline restore, etc.). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2015-11-27
 ** Write up some notes about the name base issue. (+)
 ** [$ION Docker session. (D)
-** Stabilize the build. (P)
+** Stabilize the build (deprecate offline restore, etc.). (P)
 ** [$xENON architecture meeting (forceDetachDataNode). (D)
 
 -------- 2015-11-16 ~ 2015-11-20
