@@ -1,3 +1,31 @@
+-------- 2015-12-07 ~ 2015-12-11
+
+* 2015-12-07
+** Fix issues with updates of LLPI on changeBinding() (blocked by some concurrent index issues). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2015-12-08
+** Fix issues with updates of LLPI on changeBinding(). (D)
+** Stabilize the build. (P)
+** [$xENON architecture meeting (Ewout: versioning). (D)
+
+* 2015-12-09
+** Stabilize the build. (P)
+** Get rid of 'library-path' (LLPI has some bugs). (P)
+** Discuss with Petr about the code level details about forceDetachDataNode(). (+)
+
+* 2015-12-10
+** Boost IA performance (optimizations suggested by Philip and Bas). (P)
+** Have a phone call with Philip and Petr to discuss some IA performance issues. (D)
+** [$xENON weekly meeting. (D)
+
+* 2015-12-11
+** Stabilize the build. (P)
+** Fix issues with updates of LLPI on setNameInternal(). (+)
+** Add more test cases for LLPI (struggling with adoptNode()). (+)
+** Look into failing tests and new failures. (+)
+** Boost IA performance (optimizations suggested by Bas). (P)
+
 -------- 2015-11-30 ~ 2015-12-04
 
 * 2015-11-30
