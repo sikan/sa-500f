@@ -1,3 +1,25 @@
+-------- 2015-12-14 ~ 2015-12-18
+
+* 2015-12-14
+** Fix several different issues (implicit 2PC, refeshAndRetry(), etc.). (+)
+** [$STARLING weekly dev meeting. (D)
+** 1-on-1 with Dingmeng. (+)
+
+* 2015-12-15
+** Fix several different issues (implicit 2PC, refeshAndRetry(), etc.). (D)
+** Stabilize the build (crash-recovery test). (P)
+
+* 2015-12-16
+** Boost IA performance (optimizations suggested by Bas). (P)
+** Stabilize the build (crash-recovery test). (P)
+
+* 2015-12-17
+** Stabilize the build (crash-recovery test). (P)
+** [$xENON weekly meeting. (D)
+
+* 2015-12-18
+** Stabilize the build (crash-recovery test). (P)
+
 -------- 2015-12-07 ~ 2015-12-11
 
 * 2015-12-07
