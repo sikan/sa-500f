@@ -1,25 +1,50 @@
+-------- 2016-01-11 ~ 2016-01-15
+
+* 2016-01-11
+** Update Q1 MBO goals. (+)
+** Fix minor issues with reserved segments. (D)
+** Review and fix issues with the upgrade logic. (+)
+** Stabilize the build (crash-recovery test, old multi-node tests, online restore, etc.). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2016-01-12
+** Stabilize the build (various fixes, online restore, etc.). (P)
+
+* 2016-01-13
+** Fix a recovery issue of changeBinding() reported by Valery. (+)
+** Stabilize the build (various fixes, online restore, etc.). (P)
+
+* 2016-01-14
+** Look into recovery issues of changeBinding() reported by Valery. (+)
+** Stabilize the build (various fixes, online restore, etc., first blue build). (P)
+
+* 2016-01-15
+** Luo Jian's farewell lunch. (+)
+** Stabilize the build (online restore, cmd, admin client, manual, etc.). (P)
+** Look into recovery issues of changeBinding() reported by Valery. (+)
+
 -------- 2016-01-04 ~ 2016-01-08
 
-* 2015-01-04
+* 2016-01-04
 ** Fix issues with reserved segments. (+)
 ** [$STARLING weekly dev meeting. (D)
 ** Draft Q1 MBO goals. (+)
 
-* 2015-01-05
+* 2016-01-05
 ** Stabilize the build (old multi-node tests, online restore, etc.). (P)
 ** EPAS. (P)
 
-* 2015-01-06
+* 2016-01-06
 ** Stabilize the build (old multi-node tests, online restore, etc.). (P)
 ** Fix a changeBinding() bug reported by Vojtech. (+)
 ** EPAS. (D)
 
-* 2015-01-07
+* 2016-01-07
 ** Stabilize the build (old multi-node tests, online restore, etc.). (P)
 ** Fix a potential distributed deadlock issue reported by Vojtech. (+)
 ** [$xENON weekly meeting. (D) 
 
-* 2015-01-08
+* 2016-01-08
 ** Stabilize the build (crash-recovery test, old multi-node tests, online restore, etc.). (P)
 ** Discuss a leftover Lucene index issue with Duke. (+)
 ** Discuss upgrade issues with Petr. (+)
