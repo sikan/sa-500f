@@ -1,3 +1,25 @@
+-------- 2016-01-18 ~ 2016-01-22
+
+* 2016-01-18
+** [$ION education assignments (747). (+)
+** IA: key collision in n2L. (P)
+
+* 2016-01-19
+** IA: key collision in n2L. (D)
+** changeBinding(): PARENT_NOT_CONCURRENT. (P)
+
+* 2016-01-20
+** changeBinding(): PARENT_NOT_CONCURRENT. (D)
+** IA: bug fixes, upgrade logic, etc. (P)
+
+* 2016-01-21
+** Fix new issues found in the upgrade test with a cluster configuration. (+)
+** [$xENON weekly meeting. (D) 
+
+* 2016-01-22
+** IA: upgrade logic (more complex test cases, name base issues, etc.). (P)
+** Discuss some 2PC recovery issues with Petr and Val. (+)
+
 -------- 2016-01-11 ~ 2016-01-15
 
 * 2016-01-11
