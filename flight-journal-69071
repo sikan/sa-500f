@@ -1,3 +1,25 @@
+-------- 2016-01-25 ~ 2016-01-29
+
+* 2016-01-25
+** IA: upgrade logic (name base issues). (D)
+** Look into the changeBinding()/2PC recovery issues. (P) 
+** [$STARLING weekly dev meeting (Tony's Docker session). (D)
+
+* 2016-01-26
+** IA: upgrade logic (name base issues). (D)
+** Look into the segment list cache/changeBinding()/2PC recovery issues. (P) 
+
+* 2016-01-27
+** Look into the segment list cache/changeBinding()/2PC recovery issues. (P) 
+
+* 2016-01-28
+** Look into the segment list cache/changeBinding()/2PC recovery issues. (P) 
+** [$xENON weekly meeting. (D) 
+
+* 2016-01-29
+** Look into the segment list cache/changeBinding()/2PC recovery issues. (P) 
+** Discuss various issues with Petr and Vojtech. (+)
+
 -------- 2016-01-18 ~ 2016-01-22
 
 * 2016-01-18
