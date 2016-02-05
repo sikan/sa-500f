@@ -1,3 +1,35 @@
+-------- 2016-02-01 ~ 2016-02-06
+
+* 2016-02-01
+** Some IA loose ends. (D)
+** [$STARLING weekly dev meeting (Yale's InfoArchive session). (D)
+** Discuss the explicit locks issue with Petr (LrLock?). (+)
+
+* 2016-02-02
+** WFH.
+** Update segment list cache in recovery sessions. (P)
+** Investigate a regression caused by the id of DatafileProxy. (+)
+
+* 2016-02-03
+** [$ION education assignments (151). (D)
+** Investigate a regression caused by the id of DatafileProxy (fixed). (D)
+** Update segment list cache in recovery sessions (LrXaPrepareCohort). (D)
+** Some Javadoc and manual work. (+)
+
+* 2016-02-04
+** Fix the regex for LMPI segment ids. (+)
+** LrLockPage. (D)
+** [$xENON weekly meeting. (D) 
+
+* 2016-02-05
+** Fix a regression caused by LrLockPage. (+)
+** Investigate a recovery issue revealed by LrLockPage. (+)
+** Clear up JIRA cases. (+)
+** Write Petr an issue list. (D)
+
+* 2016-02-06
+** Off.
+
 -------- 2016-01-25 ~ 2016-01-29
 
 * 2016-01-25
