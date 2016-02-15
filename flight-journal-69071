@@ -28,7 +28,9 @@
 ** Write Petr an issue list. (D)
 
 * 2016-02-06
-** Off.
+** WFH.
+** Fix an issue with the ADDSEGMENT record. (+)
+** Fix an issue which involves DatabaseProxy and segment list cache. (+)
 
 -------- 2016-01-25 ~ 2016-01-29
 
