@@ -1,3 +1,32 @@
+-------- 2016-02-22 ~ 2016-02-26
+
+* 2016-02-22
+** Stabilize the build (crash-recovery test, etc.). (P)
+** [$STARLING weekly dev meeting. (D)
+
+-------- 2016-02-15 ~ 2016-02-19
+
+* 2016-02-15
+** Some minor follow-ups. (D)
+** Stabilize the build (crash-recovery test). (P)
+
+* 2016-02-16
+** Stabilize the build (crash-recovery test, etc.). (P)
+** [$XENON-3939, [$XENON-4072 (make forceDetachChild() more fault-tolerant). (+)
+
+* 2016-02-17
+** MyVoice Culture Survey. (+)
+** Stabilize the build (crash-recovery test, etc.). (P)
+
+* 2016-02-18
+** Stabilize the build (crash-recovery test, etc.). (P)
+** [$xENON weekly meeting. (D)
+
+* 2016-02-19
+** Stabilize the build (crash-recovery test, etc.). (P)
+** Enhance the build script such that it can create separate test report for each run when a test is executed repeatedly. (D)
+** Fix the refCount issue. (+)
+
 -------- 2016-02-01 ~ 2016-02-06
 
 * 2016-02-01
@@ -479,7 +508,7 @@
 
 * 2015-09-15
 ** Partial tree-scope enabling. (P)
-** File [$XENON-3994. (+)
+** [File $XENON-3994. (+)
 
 * 2015-09-16
 ** Partial tree-scope enabling. (P)
