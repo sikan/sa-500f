@@ -1,18 +1,41 @@
+-------- 2016-03-07 ~ 2016-03-11
+
+* 2016-03-07
+** Crash-recovery test. (P)
+** File [$XENON-4077. (D)
+
+* 2016-03-08
+** Crash-recovery test. (P)
+
+* 2016-03-09
+** Crash-recovery test. (P)
+** [$STARLING weekly dev meeting (Winston's Lucene cosine similarity session). (D)
+
+* 2016-03-10
+** ARIES (CLR). (+)
+** Crash-recovery test. (P)
+** Make sure the root segment is always the first in the iteration order. (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-03-11
+** Crash-recovery test. (P)
+** Create ThrowableUtil for [$STARLING. (+)
+
 -------- 2016-02-29 ~ 2016-03-04
 
 * 2016-02-29
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2016-03-01
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 ** [$xENON meeting about the paperwork for 11. (D) 
 
 * 2016-03-02
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 
 * 2016-03-03
-** Stabilize the build (crash-recovery test). (P)
+** Crash-recovery test. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2016-03-04
@@ -21,43 +44,43 @@
 -------- 2016-02-22 ~ 2016-02-26
 
 * 2016-02-22
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2016-02-23
-** Stabilize the build (crash-recovery test). (P)
+** Crash-recovery test. (P)
 
 * 2016-02-24
 ** WFH.
-** Stabilize the build (crash-recovery test). (P)
+** Crash-recovery test. (P)
 
 * 2016-02-25
-** Stabilize the build (crash-recovery test). (P)
+** Crash-recovery test. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2016-02-26
-** Stabilize the build (crash-recovery test). (P)
+** Crash-recovery test. (P)
 
 -------- 2016-02-15 ~ 2016-02-19
 
 * 2016-02-15
 ** Some minor follow-ups. (D)
-** Stabilize the build (crash-recovery test). (P)
+** Crash-recovery test. (P)
 
 * 2016-02-16
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 ** [$XENON-3939, [$XENON-4072 (make forceDetachChild() more fault-tolerant). (+)
 
 * 2016-02-17
 ** MyVoice Culture Survey. (+)
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 
 * 2016-02-18
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2016-02-19
-** Stabilize the build (crash-recovery test, etc.). (P)
+** Crash-recovery test. (P)
 ** Enhance the build script such that it can create separate test report for each run when a test is executed repeatedly. (D)
 ** Fix the refCount issue. (+)
 
