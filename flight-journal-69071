@@ -1,3 +1,25 @@
+-------- 2016-03-14 ~ 2016-03-18
+
+* 2016-03-14
+** Crash-recovery test. (P)
+** Investigate a regression caused by recent changes. (+)
+
+* 2016-03-15
+** Crash-recovery test. (P)
+
+* 2016-03-16
+** Crash-recovery test. (P)
+
+* 2016-03-17
+** Crash-recovery test. (P)
+** Read [[How the ASF works]]. (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-03-18
+** Restart BDx (after maybe 3 years?) due to OOM. (+)
+** Crash-recovery test. (P)
+** Review the online restore code. (P)
+
 -------- 2016-03-07 ~ 2016-03-11
 
 * 2016-03-07
