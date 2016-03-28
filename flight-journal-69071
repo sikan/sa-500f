@@ -1,3 +1,25 @@
+-------- 2016-03-21 ~ 2016-03-25
+
+* 2016-03-21
+** Off.
+
+* 2016-03-22
+** Off.
+
+* 2016-03-23
+** Review the online restore code (more complex tests, etc.). (P) 
+** Look into a problem related to IA upgrade and replication. (+)
+** Fix an issue with LrEnd (shouldn't update the segment list cache during recovery). (+)
+
+* 2016-03-24
+** Investigate an issue where page modifications are silently skipped on a replica. (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-03-25
+** Investigate an issue where page modifications are silently skipped on a replica (fixed). (D)
+** Fix an issus that prevents the segment list cache from working correctly on a replica. (D)
+** Investigate the name base and catalog issues during the online restore of a 10.x library. (+)
+
 -------- 2016-03-14 ~ 2016-03-18
 
 * 2016-03-14
@@ -247,7 +269,7 @@
 
 * 2015-12-30
 ** Off.
-** Fix a issue caused by a RemoteServer not having a BootstrapSM. (+)
+** Fix an issue caused by a RemoteServer not having a BootstrapSM. (+)
 
 * 2015-12-31
 ** Off.
@@ -571,7 +593,7 @@
 
 * 2015-09-24
 ** File [$XENON-3996. (+)
-** Fix a issue with updating system-db during recovery. (+)
+** Fix an issue with updating system-db during recovery. (+)
 ** Investigate the design issues with distributed detach/attach. (+)
 ** [$xENON weekly meeting. (D) 
 ** Discuss the solutions for index joins with IA with Petr, Ewout, Val, Philip, Carla, Vojtech and Duke. (+)
