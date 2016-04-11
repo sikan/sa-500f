@@ -3,6 +3,16 @@
 * 2016-04-05
 ** Review the indirect addressing logic in online restore. (P)
 
+* 2016-04-06
+** Review the indirect addressing logic in online restore (fixes and enhancements). (P)
+
+* 2016-04-07
+** WFH.
+** Think about the redo/undo/redoClr behavior for bootstrap log records in 11. (+)
+
+* 2016-04-08
+** Look into an interesting issue accidentally revealed by Sander's change. (+)
+
 -------- 2016-03-28 ~ 2016-04-01
 
 * 2016-03-28
