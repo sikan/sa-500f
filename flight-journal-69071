@@ -1,3 +1,28 @@
+-------- 2016-04-11 ~ 2016-04-15
+
+* 2016-04-11
+** Look into another online restore issue caused by not generating log records. (+)
+
+* 2016-04-12
+** Minor fixes and enhancements for tests. (+)
+** Look into some BDx issues. (+)
+
+* 2016-04-13
+** Look into some BDx issues. (P)
+** Add internal checkpoint() to changeBinding(). (P)
+** 1-on-1 with Dingmeng. (+)
+
+* 2016-04-14
+** Add internal checkpoint() to changeBinding(). (P)
+** [$xENON weekly meeting. (D)
+** JIRA [$xENON 11 review meeting. (D)
+** Draft Q2 MBO goals. (+)
+
+* 2016-04-15
+** [$xENON weekly meeting. (D)
+** [$xENON team lunch. (D)
+** Revisit the redo/undo/redoClr logic of DELETESEGMENT. (P)
+
 -------- 2016-04-05 ~ 2016-04-08
 
 * 2016-04-05
