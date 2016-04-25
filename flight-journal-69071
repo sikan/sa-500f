@@ -1,3 +1,25 @@
+-------- 2016-04-18 ~ 2016-04-22
+
+* 2016-04-18
+** Fix failing tests. (+)
+** Revisit the redo/undo/redoClr logic of DELETESEGMENT. (P)
+
+* 2016-04-19
+** Revisit the redo/undo/redoClr logic of DELETESEGMENT. (P)
+** Farewell video shooting for Huaqing. (D)
+
+* 2016-04-20
+** Revisit the redo/undo/redoClr logic of DELETESEGMENT. (P)
+
+* 2016-04-21
+** Revisit the redo/undo/redoClr logic of DELETESEGMENT. (D)
+** Look into problems caused by suspend/resumeNewTransactions(). (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-04-22
+** Look into problems caused by suspend/resumeNewTransactions(). (P)
+** Beer bash. (D)
+
 -------- 2016-04-11 ~ 2016-04-15
 
 * 2016-04-11
