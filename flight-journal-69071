@@ -1,3 +1,8 @@
+-------- 2016-04-25 ~ 2016-04-29
+
+* 2016-04-25
+** Look into problems caused by suspend/resumeNewTransactions(). (D)
+
 -------- 2016-04-18 ~ 2016-04-22
 
 * 2016-04-18
