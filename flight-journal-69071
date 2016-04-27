@@ -3,6 +3,10 @@
 * 2016-04-25
 ** Look into problems caused by suspend/resumeNewTransactions(). (D)
 
+* 2016-04-26
+** Add a new test case for suspend/resumeNewTransactions(). (D)
+** [$STARLING weekly dev meeting. (D)
+
 -------- 2016-04-18 ~ 2016-04-22
 
 * 2016-04-18
@@ -46,8 +50,8 @@
 ** Draft Q2 MBO goals. (+)
 
 * 2016-04-15
-** [$xENON weekly meeting. (D)
-** [$xENON team lunch. (D)
+** [$STARLING weekly dev meeting. (D)
+** [$STARLING team lunch. (D)
 ** Revisit the redo/undo/redoClr logic of DELETESEGMENT. (P)
 
 -------- 2016-04-05 ~ 2016-04-08
