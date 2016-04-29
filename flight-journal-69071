@@ -7,6 +7,17 @@
 ** Add a new test case for suspend/resumeNewTransactions(). (D)
 ** [$STARLING weekly dev meeting. (D)
 
+* 2016-04-27
+** Review Petr's draft for indirect addressing patent application. (+)
+** Atomicity of changing the state of multiple segments. (P)
+** Minor fixes to code related to segment binding. (+)
+
+* 2016-04-28
+** Atomicity of changing the state of multiple segments (postponed to next release, temp workaround added). (D)
+** [$XENON-4099. (+)
+** [$xENON weekly meeting. (D)
+** Some minor documentation work before the final GA build. (+)
+
 -------- 2016-04-18 ~ 2016-04-22
 
 * 2016-04-18
