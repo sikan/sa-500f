@@ -18,6 +18,10 @@
 ** [$xENON weekly meeting. (D)
 ** Some minor documentation work before the final GA build. (+)
 
+* 2016-04-29
+** Report the Perforce "Too many rows scanned" problem. (P)
+** Look into an NPE reported by Yuri (findDetachableRoot(true) returns null). (+)
+
 -------- 2016-04-18 ~ 2016-04-22
 
 * 2016-04-18
