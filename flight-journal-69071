@@ -1,3 +1,14 @@
+-------- 2016-05-03 ~ 2016-05-06
+
+* 2016-05-03
+** Crash-recovery test: investigate the not deleted data files (6 out of 350 runs). (P) 
+** Set up a Linux test machine. (+)
+
+* 2016-05-04
+** Set up a Linux test machine. (D)
+** Crash-recovery test: assertion error caused by available bytes being -1 (can be easily fixed). (+)
+** Try the latest [$xENON-CSI. (+)
+
 -------- 2016-04-25 ~ 2016-04-29
 
 * 2016-04-25
