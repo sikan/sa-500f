@@ -1,3 +1,9 @@
+-------- 2016-05-09 ~ 2016-05-13
+
+* 2016-05-09
+** Crash-recovery test (issues with log records). (P)
+** File [$XENON-4109. (D)
+
 -------- 2016-05-03 ~ 2016-05-06
 
 * 2016-05-03
@@ -10,10 +16,10 @@
 ** Try the latest [$xENON-CSI. (+)
 
 * 2016-05-05
-** Crash-recovery test: some issues with log records. (P)
+** Crash-recovery test: some issues with backing up log records. (P)
 
 * 2016-05-06
-** Crash-recovery test (issues with log records, deadlock caused by two nodes swapping libraries). (P)
+** Crash-recovery test (issues with backing up log records, deadlock caused by two nodes swapping libraries). (P)
 ** Look into test failures in the latest 10.5 build (safe for [$STARLING). (+)
 
 -------- 2016-04-25 ~ 2016-04-29
