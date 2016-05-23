@@ -8,6 +8,20 @@
 ** Merge changes from 11.0 to Main (mess). (P)
 ** Use dedicated page cache for online restored segments. (P)
 
+* 2016-05-18
+** Help Karthik Chokkaraman with another replication/NO_LOGGING issue. (+)
+** Use dedicated page cache for online restored segments. (P)
+
+* 2016-05-19
+** Use dedicated page cache for online restored segments. (D)
+** [$xENON weekly meeting. (D)
+** Generate a code diff report 11.0 vs Main. (+)
+
+* 2016-05-20
+** Fix merge issues. (D)
+** Investigate a race condition caused by multiple buffer pools. (+)
+** Investigate an interesting buffer pool behavior reported by Sander. (+)
+
 -------- 2016-05-09 ~ 2016-05-13
 
 * 2016-05-09
