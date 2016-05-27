@@ -10,6 +10,18 @@
 ** WFH.
 ** Inflater/Deflater pooling. (+)
 
+* 2016-05-25
+** Inflater/Deflater pooling (issues with SoftReference). (+)
+
+* 2016-05-26
+** Inflater/Deflater pooling (issues with SoftReference). (P)
+** Fix some issues on 10.5 branch reported by Sheperd. (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-05-27
+** Read articles about JVM safepoints (recommended by Bas). (+)
+** [$xENON meeting: [$xENON tooling. (D)
+
 -------- 2016-05-16 ~ 2016-05-20
 
 * 2016-05-16
