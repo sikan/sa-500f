@@ -1,3 +1,16 @@
+-------- 2016-06-12 ~ 2016-06-17
+
+* 2016-06-12
+** Off (Sunday).
+
+* 2016-06-13
+** Try to debug the InfoArchive issue (known issue). (P)
+** [$STARLING weekly dev meeting. (D)
+
+* 2016-06-14
+** Cross-DN attach. (P)
+** [$xENON architecture meeting (communication layer). (D)
+
 -------- 2016-06-06 ~ 2016-06-08
 
 * 2016-06-06
@@ -13,32 +26,32 @@
 
 * 2016-06-08
 ** Try to debug the InfoArchive issue (lokkit). (P)
-** Celebration event for the 10th anniversary of China CoE. (D)
+** Celebration ceremony for the 10th anniversary of China CoE. (D)
 
 -------- 2016-05-30 ~ 2016-06-03
 
 * 2016-05-30
-** New detach/attach. (P)
+** Cross-DN attach. (P)
 ** [$STARLING weekly dev meeting. (D)
 ** Investigate an indirect addressing issue with serialized exceptions. (+)
 
 * 2016-05-31
 ** Investigate an indirect addressing issue with serialized exceptions (fixed). (D)
-** New detach/attach. (P)
+** Cross-DN attach. (P)
 ** [$xENON tooling survey. (+)
 
 * 2016-06-01
-** New detach/attach (XOD). (P)
+** Cross-DN attach (XOD). (P)
 ** Read Sander's [[Thin Cluster Management Interface]]. (+)
 
 * 2016-06-02
-** New detach/attach. (P)
+** Cross-DN attach. (P)
 ** [$xENON weekly meeting. (D)
 ** Study the new JSON interface created by Bas. (+)
 
 * 2016-06-03
 ** WFH.
-** New detach/attach. (P)
+** Cross-DN attach. (P)
 
 -------- 2016-05-23 ~ 2016-05-27
 
