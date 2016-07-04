@@ -1,3 +1,27 @@
+-------- 2016-06-27 ~ 2016-07-01
+
+* 2016-06-27
+** Prepare the slides for cross-DN attach. (P)
+** Mandatory employee training (Privacy and Information Security). (D)
+** Mandatory employee training (Trade Compliance). (D)
+** [$STARLING weekly meeting. (D)
+
+* 2016-06-28
+** Prepare the slides for cross-DN attach. (P)
+
+* 2016-06-29
+** Prepare the slides for cross-DN attach. (P)
+** [$xENON architecture meeting (cross-DN attach). (D)
+
+* 2016-06-30
+** Prepare the slides for cross-DN attach (page size). (P)
+** [$xENON weekly meeting. (D)
+
+* 2016-07-01
+** [$ION education assignments (170). (+)
+** Cross-DN attach (detach2()). (P) 
+** Help Sheperd and Tony investigate a [$STARLING issue (Pfizer). (+)
+
 -------- 2016-06-20 ~ 2016-06-24
 
 * 2016-06-20
@@ -6354,16 +6378,16 @@
 ** Familiarize with JBoss AS 7.
 
 * 2011-08-22
-** Full-day STAR traning. (D)
+** Full-day STAR training. (D)
 
 * 2011-08-23
-** Full-day STAR traning. (D)
+** Full-day STAR training. (D)
 ** Familiarize with JBoss AS 7. (P)
 ** Back up TeamCity (but failed the next day with MySQL connection error). (D)
 ** Review Kim's [$xENON KT slides. (+)
 
 * 2011-08-24
-** Half-day STAR traning. (D)
+** Half-day STAR training. (D)
 ** Interview one candidate for [$STARLING dev (phone-screen). (D)
 ** Familiarize with JBoss AS 7. (P)
 ** Some TeamCity maintenance work. (D)
