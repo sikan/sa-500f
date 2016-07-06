@@ -10,6 +10,10 @@
 ** Regular expression: lookahead. (+)
 ** Write an email about the incorrect usage of 'synchronized' in [$STARLING. (+)
 
+* 2016-07-06
+** Cross-DN attach (import). (P)
+** Review the [$STARLING logic which caused the problem reported by Pfizer (GateKeeper, etc.). (+)
+
 -------- 2016-06-27 ~ 2016-07-01
 
 * 2016-06-27
