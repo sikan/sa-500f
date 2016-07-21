@@ -1,3 +1,42 @@
+-------- 2016-07-18 ~ 2016-07-22
+
+* 2016-07-18
+** Sick leave.
+
+* 2016-07-19
+** Sick leave | WFH.
+** Cross-DN attach (import: external data files). (P)
+** Investigate the issue that occurred in Philip's Isilon test. (+)
+
+* 2016-07-20
+** Cross-DN attach (import: external data files). (P)
+** Build an engineering jar with debug output for Philip's Isilon test. (+)
+
+* 2016-07-21
+** Cross-DN attach (import: external data files). (P)
+** [$xENON weekly meeting. (D)
+
+-------- 2016-07-11 ~ 2016-07-15
+
+* 2016-07-11
+** Cross-DN attach (import). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2016-07-12
+** Cross-DN attach (import). (P)
+** [$xENON architecture meeting (communication layer). (D)
+
+* 2016-07-13
+** Read the CSI code and learn how it generates code from XOD. (+)
+
+* 2016-07-14
+** Fix an issue with the usage attribute for temporary segments (reported by Wouter). (+)
+** [$xENON weekly meeting. (D)
+** Cross-DN attach (take a look at BackupDatafile). (P)
+
+* 2016-07-15
+** Off.
+
 -------- 2016-07-04 ~ 2016-07-08
 
 * 2016-07-04
@@ -21,6 +60,7 @@
 * 2016-07-08
 ** WFH.
 ** Cross-DN attach (import). (P)
+** Print the original id to be converted if no mapping entry can be found (reported by Philip). (+)
 
 -------- 2016-06-27 ~ 2016-07-01
 
@@ -4644,7 +4684,7 @@
 ** Another prerequisite check (all nodes have to be shut down cleanly) for LI upgrade.
 
 * 2012-09-24
-** Sick leave and WFH.
+** Sick leave | WFH.
 ** BDx write-up. (D)
 
 * 2012-09-25
