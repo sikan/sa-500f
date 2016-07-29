@@ -4,6 +4,22 @@
 ** Cross-DN attach (import: direct import). (P)
 ** [$STARLING weekly meeting. (D)
 
+* 2016-07-26
+** Watch the [$xENON 11 video created by Vojtech. (+)
+** Cross-DN attach (import: direct import). (P)
+** File [$XENON-4134. (+)
+
+* 2016-07-27
+** Design a test case to expose an interesting renameDatabase() issue and file [$XENON-4136. (+)
+** Beer bash. (D)
+
+* 2016-07-28
+** Off.
+
+* 2016-07-29
+** Read Val's [[Google Protocol Buffers as communication protocol]]. (+)
+** Cross-DN attach (import: main logic). (P)
+
 -------- 2016-07-18 ~ 2016-07-22
 
 * 2016-07-18
