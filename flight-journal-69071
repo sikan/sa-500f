@@ -1,3 +1,24 @@
+-------- 2016-08-22 ~ 2016-08-26
+
+* 2016-08-22
+** Cross-DN attach (test cases). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2016-08-23
+** Cross-DN attach (test cases, UUID, etc.). (P)
+
+* 2016-08-24
+** Cross-DN attach (UUID, authority, etc.). (P)
+
+* 2016-08-25
+** Cross-DN attach (UUID, authority, etc.). (P)
+** [$xENON weekly meeting. (D)
+** Create a wiki page to clarify supported access modes in [$xENON 11. (+)
+
+* 2016-08-26
+** Cross-DN attach (recovery). (P)
+** Discuss with Petr a performance issues related to FileidMap. (+)
+
 -------- 2016-08-15 ~ 2016-08-19
 
 * 2016-08-15
