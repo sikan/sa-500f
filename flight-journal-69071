@@ -1,3 +1,25 @@
+[$VAULT
+
+-------- 2016-08-29 ~ 2016-09-02
+
+* 2016-08-29
+** Cross-DN attach (recovery). (P)
+
+* 2016-08-30
+** WFH.
+** Cross-DN attach (recovery). (P)
+
+* 2016-08-31
+** Read [[Inside the Hotspot VM: Clocks, Timers and Scheduling Events]]. (+)
+** [$STARLING weekly meeting. (D)
+** Study the linear hasing implemented by Bas. (+)
+** [$VAULT-858 (slowness caused by HashSet.add()). (+)
+
+* 2016-09-01
+** [$VAULT-858 (slowness caused by HashSet.add()). (P)
+** Discuss the slow startup issue with Philip (too many KVS lookups). (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2016-08-22 ~ 2016-08-26
 
 * 2016-08-22
