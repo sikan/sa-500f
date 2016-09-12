@@ -1,5 +1,28 @@
 [$VAULT
 
+-------- 2016-09-05 ~ 2016-09-09
+
+* 2016-09-05
+** Fix the slow startup issue (encountered compiler issues with multi-level grouping). (P)
+
+* 2016-09-06
+** Fix the slow startup issue (encountered compiler issues with multi-level grouping). (D)
+** Look into a memory leak caused by old generations of SegmentListMap not being deleted. (+)
+
+* 2016-09-07
+** Fix the memory leak caused by old generations of SegmentListMap not being deleted. (D)
+** [$STARLING weekly meeting. (D)
+** Meeting with Aly and Petr to discuss the patents. (D)
+
+* 2016-09-08
+** Day 1.
+** [$VAULT-858 (LinkedList instead of HashSet, one extra bit for 'removed' flag). (D)
+** [$xENON weekly meeting. (D)
+
+* 2016-09-09
+** [$VAULT-858 (correct a programming error introduced by the fix). (+)
+** Create performance tests to evaluate how the number of empty segments could affect the efficiency of library creation. (+)
+
 -------- 2016-08-29 ~ 2016-09-02
 
 * 2016-08-29
@@ -19,6 +42,11 @@
 ** [$VAULT-858 (slowness caused by HashSet.add()). (P)
 ** Discuss the slow startup issue with Philip (too many KVS lookups). (+)
 ** [$xENON weekly meeting. (D)
+
+* 2016-09-02
+** [$ION education assignments (145). (+)
+** [$VAULT-858 (replace HashSet??). (P)
+** Fix potential problems involving FileidMap and unavailable file ids (direct data node session). (+)
 
 -------- 2016-08-22 ~ 2016-08-26
 
