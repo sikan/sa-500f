@@ -1,4 +1,22 @@
-[$VAULT
+[$VAULT [$OTTER 
+
+-------- 2016-09-12 ~ 2016-09-14
+
+* 2016-09-12
+** [$STARLING weekly meeting. (D)
+** Try the fix the performance issues caused by updating library paths. (P)
+** [$VAULT-858 (build hotfix jars for Elaine). (+)
+
+* 2016-09-13
+** [$ION update meeting (Rohit and the CEO of [$OTTER). (+)
+** Try the fix the performance issues caused by updating library paths (look at (Immutable)Trie). (P)
+** Quick sync up on the acquisition by [$OTTER. (+)
+
+* 2016-09-14
+** 1-on-1 with Dingmeng. (D)
+** Apply indirect addressing to temporary segments. (P)
+** [$VAULT-858 (new profiling result shows other issues). (+)
+** Quick sync up on the acquisition by [$OTTER. (+)
 
 -------- 2016-09-05 ~ 2016-09-09
 
