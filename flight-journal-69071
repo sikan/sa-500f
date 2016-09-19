@@ -1,4 +1,13 @@
-[$VAULT [$OTTER 
+[$VAULT [$OTTER [$TITAN 
+
+-------- 2016-09-19 ~ 2016-09-23
+
+* 2016-09-19
+** The [$TITAN Launch Celebration. (D)
+** [$STARLING weekly meeting. (D)
+** [$VAULT-858 (more aggressive performance optimizations). (D)
+** Apply indirect addressing to temporary segments. (P)
+** File [$XENON-4160 (LSFID issue with temporary segments). (+)
 
 -------- 2016-09-12 ~ 2016-09-14
 
