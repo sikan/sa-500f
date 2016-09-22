@@ -9,6 +9,19 @@
 ** Apply indirect addressing to temporary segments. (P)
 ** File [$XENON-4160 (LSFID issue with temporary segments). (+)
 
+* 2016-09-20
+** Apply indirect addressing to temporary segments (fixed some related issues on 11.0). (P)
+** Investigate an indirect addressing bug in compressed b-tree index. (+)
+
+* 2016-09-21
+** Investigate an indirect addressing bug in compressed b-tree index (fixed). (D)
+** Review the draft patent application. (D)
+** Leo's IBM Watson session. (D)
+
+* 2016-09-22
+** Apply indirect addressing to temporary segments. (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2016-09-12 ~ 2016-09-14
 
 * 2016-09-12
