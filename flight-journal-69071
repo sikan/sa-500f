@@ -1,5 +1,12 @@
 [$VAULT [$OTTER [$TITAN 
 
+-------- 2016-09-26 ~ 2016-09-30
+
+* 2016-09-26
+** Apply indirect addressing to temporary segments. (D)
+** [$STARLING weekly meeting. (D)
+** Investigate a KVS bug (lookup still returns unwanted results when a key part doesn't exist in the namebase). (+)
+
 -------- 2016-09-19 ~ 2016-09-23
 
 * 2016-09-19
