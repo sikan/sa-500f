@@ -7,6 +7,16 @@
 ** [$STARLING weekly meeting. (D)
 ** Investigate a KVS bug (lookup still returns unwanted results when a key part doesn't exist in the namebase). (+)
 
+* 2016-09-27
+** Fix regresstions caused by enabling indirect addressing for temporary segments. (+)
+** Review the draft patent application ([$EEL-16-522). (D) 
+** [$xENON weekly meeting. (D)
+
+* 2016-09-28
+** Review the final drafts ([$EEL-16-520 and [$EEL-16-522). (D) 
+** Scaling issues with a large number of segments. (P)
+** Meeting with [$VAULT team to discuss HA/DR requirements. (D)
+
 -------- 2016-09-19 ~ 2016-09-23
 
 * 2016-09-19
@@ -22,7 +32,7 @@
 
 * 2016-09-21
 ** Investigate an indirect addressing bug in compressed b-tree index (fixed). (D)
-** Review the draft patent application. (D)
+** Review the draft patent application ([$EEL-16-520). (D)
 ** Leo's IBM Watson session. (D)
 
 * 2016-09-22
