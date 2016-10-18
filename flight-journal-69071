@@ -1,5 +1,37 @@
 [$VAULT [$OTTER [$TITAN 
 
+-------- 2016-10-17 ~ 2016-10-21
+
+* 2016-10-17
+** [$VAULT-858 (profiling). (P)
+** Test whether 10.3/10.4 backups are supported by online restore. (D)
+** [$STARLING weekly meeting. (D)
+
+-------- 2016-10-10 ~ 2016-10-14
+
+* 2016-10-10
+** [$ION education assignments (747, again...). (+)
+** [$STARLING weekly meeting. (D)
+** Check if the failing tests are regressions caused by the last fix for the scaling issues. (+)
+** Create more test cases for cross-DN attach (crash-recovery). (P)
+
+* 2016-10-11
+** Draft Q4 MBO goals. (D)
+** Create more test cases for cross-DN attach (crash-recovery). (P)
+** [$xENON weekly meeting. (D)
+
+* 2016-10-12
+** WFH.
+** Create more test cases for cross-DN attach (crash-recovery). (P)
+
+* 2016-10-13
+** Update the wiki page for cross-DN attach. (D)
+
+* 2016-10-14
+** [$ION education assignments (Agile Refresher Training). (D)
+** [$VAULT-858 (profiling). (P)
+** Jingjing's word2vec session. (D)
+
 -------- 2016-09-26 ~ 2016-09-30
 
 * 2016-09-26
@@ -14,8 +46,14 @@
 
 * 2016-09-28
 ** Review the final drafts ([$EEL-16-520 and [$EEL-16-522). (D) 
-** Scaling issues with a large number of segments. (P)
+** Scaling issues with a large number of segments (library-path). (P)
 ** Meeting with [$VAULT team to discuss HA/DR requirements. (D)
+
+* 2016-09-29
+** Scaling issues with a large number of segments (copy-on-write BitSet). (P)
+
+* 2016-09-30
+** Scaling issues with a large number of segments (copy-on-write BitSet, flush by file ids instead of segment ids). (P)
 
 -------- 2016-09-19 ~ 2016-09-23
 
