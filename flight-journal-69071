@@ -1,11 +1,36 @@
 [$VAULT [$OTTER [$TITAN 
 
+-------- 2016-10-24 ~ 2016-10-28
+
+* 2016-10-24
+** Cross-DN attach (crash-recovery). (P)
+** [$STARLING weekly meeting. (D)
+
 -------- 2016-10-17 ~ 2016-10-21
 
 * 2016-10-17
-** [$VAULT-858 (profiling). (P)
+** [$VAULT-858 (profiling, environment damaged?). (P)
 ** Test whether 10.3/10.4 backups are supported by online restore. (D)
 ** [$STARLING weekly meeting. (D)
+
+* 2016-10-18
+** Summarize how 10.x library backups are supported in 11. (D) 
+** Sign 4 patent related forms. (+)
+** [$VAULT-858 (contact IA team for the password error). (P)
+** [$VAULT-1590 (CSI). (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-10-19
+** [$VAULT-858 (rebuild the environment). (P)
+** [$VAULT-1590 (CSI, fixed the system-db). (P)
+
+* 2016-10-20
+** [$VAULT-858 (YourKit license server down, filed a ticket). (P)
+** [$VAULT-1590 (dangling pointers). (P)
+** Cross-DN attach (crash-recovery). (P)
+
+* 2016-10-21
+** Cross-DN attach (crash-recovery). (P)
 
 -------- 2016-10-10 ~ 2016-10-14
 
