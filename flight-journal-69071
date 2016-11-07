@@ -1,10 +1,53 @@
 [$VAULT [$OTTER [$TITAN 
 
+-------- 2016-10-31 ~ 2016-11-04
+
+* 2016-10-31
+** Cross-DN attach (more test cases, Javadoc, API design). (P)
+** [$STARLING weekly meeting. (D)
+** Dust WUKONG and BAJIE. (+)
+
+* 2016-11-01
+** Cross-DN attach (API design). (P)
+** Dust WUKONG and BAJIE. (P)
+** Investigate a new assertion error that broke the nightly. (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-11-02
+** PECS (Java generics). (+)
+** [$VAULT-858 (checked the YourKit profiling results). (P)
+** Investigate a new assertion error that broke the nightly. (P)
+
+* 2016-11-03
+** Investigate a system-DB recovery issue (the one that broke the nightly). (P)
+** Help Elaine look into a connection issue. (+)
+
+* 2016-11-04
+** Investigate a system-DB recovery issue (undoAddToLeaf()??). (P)
+
 -------- 2016-10-24 ~ 2016-10-28
 
 * 2016-10-24
 ** Cross-DN attach (crash-recovery). (P)
 ** [$STARLING weekly meeting. (D)
+
+* 2016-10-25
+** Cross-DN attach (crash-recovery, regressions). (P)
+** [$VAULT-858 (YourKit profiling). (P)
+** [$xENON weekly meeting. (D)
+
+* 2016-10-26
+** JIRA cleanup. (D)
+** Investigate an assertion error from Connection.checkLeftovers() in the crash test. (+)
+** [$VAULT-858 (created instructions for Val to use the environment). (D)
+
+* 2016-10-27
+** Off.
+
+* 2016-10-28
+** File [$xENON-4164. (D)
+** Cross-DN attach (more test cases). (P)
+** [$VAULT-858 (more instructions for Val). (D)
 
 -------- 2016-10-17 ~ 2016-10-21
 
