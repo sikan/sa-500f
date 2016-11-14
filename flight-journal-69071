@@ -1,4 +1,27 @@
-[$VAULT [$OTTER [$TITAN 
+[$VAULT2 [$OTTER [$TITAN 
+
+-------- 2016-11-07 ~ 2016-11-11
+
+* 2016-11-07
+** Investigate a system-DB recovery issue (NTA in SessionLocal). (P)
+
+* 2016-11-08
+** Investigate a system-DB recovery issue (NTA issue fixed). (D)
+** [$VAULT2-1790 (deadlock caused by suspension of read-only transactions). (+)
+** [$xENON weekly meeting. (D)
+
+* 2016-11-09
+** [$STARLING team lunch. (D)
+** Have a look at [$VAULT-3347 (using a file system backup for attach). (+)
+** Fix a regression caused by the fix for the NTA issue. (+)
+** New implementation for removeChild(detachable). (P)
+
+* 2016-11-10
+** New implementation for removeChild(detachable). (P)
+
+* 2016-11-11
+** New implementation for removeChild(detachable). (P)
+** [$STARLING team building. (D)
 
 -------- 2016-10-31 ~ 2016-11-04
 
@@ -15,7 +38,7 @@
 
 * 2016-11-02
 ** PECS (Java generics). (+)
-** [$VAULT-858 (checked the YourKit profiling results). (P)
+** [$VAULT2-858 (checked the YourKit profiling results). (P)
 ** Investigate a new assertion error that broke the nightly. (P)
 
 * 2016-11-03
@@ -33,13 +56,13 @@
 
 * 2016-10-25
 ** Cross-DN attach (crash-recovery, regressions). (P)
-** [$VAULT-858 (YourKit profiling). (P)
+** [$VAULT2-858 (YourKit profiling). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2016-10-26
 ** JIRA cleanup. (D)
 ** Investigate an assertion error from Connection.checkLeftovers() in the crash test. (+)
-** [$VAULT-858 (created instructions for Val to use the environment). (D)
+** [$VAULT2-858 (created instructions for Val to use the environment). (D)
 
 * 2016-10-27
 ** Off.
@@ -47,29 +70,29 @@
 * 2016-10-28
 ** File [$xENON-4164. (D)
 ** Cross-DN attach (more test cases). (P)
-** [$VAULT-858 (more instructions for Val). (D)
+** [$VAULT2-858 (more instructions for Val). (D)
 
 -------- 2016-10-17 ~ 2016-10-21
 
 * 2016-10-17
-** [$VAULT-858 (profiling, environment damaged?). (P)
+** [$VAULT2-858 (profiling, environment damaged?). (P)
 ** Test whether 10.3/10.4 backups are supported by online restore. (D)
 ** [$STARLING weekly meeting. (D)
 
 * 2016-10-18
 ** Summarize how 10.x library backups are supported in 11. (D) 
 ** Sign 4 patent related forms. (+)
-** [$VAULT-858 (contact IA team for the password error). (P)
-** [$VAULT-1590 (CSI). (+)
+** [$VAULT2-858 (contact IA team for the password error). (P)
+** [$VAULT2-1590 (CSI). (+)
 ** [$xENON weekly meeting. (D)
 
 * 2016-10-19
-** [$VAULT-858 (rebuild the environment). (P)
-** [$VAULT-1590 (CSI, fixed the system-db). (P)
+** [$VAULT2-858 (rebuild the environment). (P)
+** [$VAULT2-1590 (CSI, fixed the system-db). (P)
 
 * 2016-10-20
-** [$VAULT-858 (YourKit license server down, filed a ticket). (P)
-** [$VAULT-1590 (dangling pointers). (P)
+** [$VAULT2-858 (YourKit license server down, filed a ticket). (P)
+** [$VAULT2-1590 (dangling pointers). (P)
 ** Cross-DN attach (crash-recovery). (P)
 
 * 2016-10-21
@@ -97,7 +120,7 @@
 
 * 2016-10-14
 ** [$ION education assignments (Agile Refresher Training). (D)
-** [$VAULT-858 (profiling). (P)
+** [$VAULT2-858 (profiling). (P)
 ** Jingjing's word2vec session. (D)
 
 -------- 2016-09-26 ~ 2016-09-30
@@ -115,7 +138,7 @@
 * 2016-09-28
 ** Review the final drafts ([$EEL-16-520 and [$EEL-16-522). (D) 
 ** Scaling issues with a large number of segments (library-path). (P)
-** Meeting with [$VAULT team to discuss HA/DR requirements. (D)
+** Meeting with [$VAULT2 team to discuss HA/DR requirements. (D)
 
 * 2016-09-29
 ** Scaling issues with a large number of segments (copy-on-write BitSet). (P)
@@ -128,7 +151,7 @@
 * 2016-09-19
 ** The [$TITAN Launch Celebration. (D)
 ** [$STARLING weekly meeting. (D)
-** [$VAULT-858 (more aggressive performance optimizations). (D)
+** [$VAULT2-858 (more aggressive performance optimizations). (D)
 ** Apply indirect addressing to temporary segments. (P)
 ** File [$XENON-4160 (LSFID issue with temporary segments). (+)
 
@@ -154,7 +177,7 @@
 * 2016-09-12
 ** [$STARLING weekly meeting. (D)
 ** Try the fix the performance issues caused by updating library paths. (P)
-** [$VAULT-858 (build hotfix jars for Elaine). (+)
+** [$VAULT2-858 (build hotfix jars for Elaine). (+)
 
 * 2016-09-13
 ** [$ION update meeting (Rohit and the CEO of [$OTTER). (+)
@@ -164,7 +187,7 @@
 * 2016-09-14
 ** 1-on-1 with Dingmeng. (D)
 ** Apply indirect addressing to temporary segments. (P)
-** [$VAULT-858 (new profiling result shows other issues). (+)
+** [$VAULT2-858 (new profiling result shows other issues). (+)
 ** Quick sync up on the acquisition by [$OTTER. (+)
 
 -------- 2016-09-05 ~ 2016-09-09
@@ -183,11 +206,11 @@
 
 * 2016-09-08
 ** Day 1.
-** [$VAULT-858 (LinkedList instead of HashSet, one extra bit for 'removed' flag). (D)
+** [$VAULT2-858 (LinkedList instead of HashSet, one extra bit for 'removed' flag). (D)
 ** [$xENON weekly meeting. (D)
 
 * 2016-09-09
-** [$VAULT-858 (correct a programming error introduced by the fix). (+)
+** [$VAULT2-858 (correct a programming error introduced by the fix). (+)
 ** Create performance tests to evaluate how the number of empty segments could affect the efficiency of library creation. (+)
 
 -------- 2016-08-29 ~ 2016-09-02
@@ -203,16 +226,16 @@
 ** Read [[Inside the Hotspot VM: Clocks, Timers and Scheduling Events]]. (+)
 ** [$STARLING weekly meeting. (D)
 ** Study the linear hasing implemented by Bas. (+)
-** [$VAULT-858 (slowness caused by HashSet.add()). (+)
+** [$VAULT2-858 (slowness caused by HashSet.add()). (+)
 
 * 2016-09-01
-** [$VAULT-858 (slowness caused by HashSet.add()). (P)
+** [$VAULT2-858 (slowness caused by HashSet.add()). (P)
 ** Discuss the slow startup issue with Philip (too many KVS lookups). (+)
 ** [$xENON weekly meeting. (D)
 
 * 2016-09-02
 ** [$ION education assignments (145). (+)
-** [$VAULT-858 (replace HashSet??). (P)
+** [$VAULT2-858 (replace HashSet??). (P)
 ** Fix potential problems involving FileidMap and unavailable file ids (direct data node session). (+)
 
 -------- 2016-08-22 ~ 2016-08-26
