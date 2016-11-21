@@ -1,5 +1,23 @@
 [$VAULT2 [$OTTER [$TITAN 
 
+-------- 2016-11-14 ~ 2016-11-18
+
+* 2016-11-14
+** New implementation for removeChild(detachable). (P)
+
+* 2016-11-15
+** File [$xENON-4169 (deadlock during close()). (D)
+** New implementation for removeChild(detachable) (first version checked in). (P)
+
+* 2016-11-16
+** New implementation for removeChild(detachable) (failing tests, discuss with Petr about design issues). (P)
+
+* 2016-11-17
+** New implementation for removeChild(detachable) (take 2). (P)
+
+* 2016-11-18
+** New implementation for removeChild(detachable) (take 2). (P)
+
 -------- 2016-11-07 ~ 2016-11-11
 
 * 2016-11-07
