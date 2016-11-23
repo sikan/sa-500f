@@ -1,5 +1,17 @@
 [$VAULT2 [$OTTER [$TITAN 
 
+-------- 2016-11-21 ~ 2016-11-25
+
+* 2016-11-21
+** New implementation for removeChild(detachable) (move some logic to the backend). (P) 
+** [$STARLING weekly meeting. (D)
+** Add two new online restore APIs with an option to overwrite existing files (requested by Damien). (+)
+
+* 2016-11-22
+** Fix a programming error that caused test failures. (+)
+** New APIs for detach/attach. (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2016-11-14 ~ 2016-11-18
 
 * 2016-11-14
