@@ -12,6 +12,19 @@
 ** New APIs for detach/attach. (+)
 ** [$xENON weekly meeting. (D)
 
+* 2016-11-23
+** JIRA cleanup. (+)
+** New implementation for removeChild(detachable) (skip suspension). (D) 
+** Finalize the new detach/attach. (P)
+
+* 2016-11-24
+** Finalize the new detach/attach. (P)
+** [$xENON architecture meeting (communication layer). (D)
+
+* 2016-11-25
+** Finalize the new detach/attach. (P)
+** File [$xENON-4181 (online restore relies on naming convention). (+)
+
 -------- 2016-11-14 ~ 2016-11-18
 
 * 2016-11-14
