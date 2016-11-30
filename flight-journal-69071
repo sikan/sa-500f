@@ -1,4 +1,16 @@
-[$VAULT2 [$OTTER [$TITAN 
+[$VAULT2 [$OTTER [$TITAN [$NEON
+
+-------- 2016-11-28 ~ 2016-12-02
+
+* 2016-11-28
+** Finalize the new detach/attach (LMPI upgrade bug, sample, manual, etc.). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2016-11-29
+** Finalize the new detach/attach (Javadoc, etc.). (D)
+** Lunch with Ying. (+)
+** Ying's [$NEON session. (D)
+** [$xENON weekly meeting. (D)
 
 -------- 2016-11-21 ~ 2016-11-25
 
@@ -22,7 +34,7 @@
 ** [$xENON architecture meeting (communication layer). (D)
 
 * 2016-11-25
-** Finalize the new detach/attach. (P)
+** Finalize the new detach/attach (the whole weekend). (P)
 ** File [$xENON-4181 (online restore relies on naming convention). (+)
 
 -------- 2016-11-14 ~ 2016-11-18
