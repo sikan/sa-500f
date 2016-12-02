@@ -12,6 +12,17 @@
 ** Ying's [$NEON session. (D)
 ** [$xENON weekly meeting. (D)
 
+* 2016-11-30
+** Fix a test failure caused by direct data node access. (+)
+** Check the file names of default data files during attach to prevent issues with online restore. (D)
+** Make the new attach method shorter by extracting methods. (+)
+
+* 2016-12-01
+** [$STARLING team lunch with Ying. (D)
+** Fix a progamming error in unused code (found by Val). (+)
+** Fix [$xENON-4164. (+)
+** Optimization for the global segment list map. (P)
+
 -------- 2016-11-21 ~ 2016-11-25
 
 * 2016-11-21
