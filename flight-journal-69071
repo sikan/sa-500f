@@ -23,6 +23,9 @@
 ** Fix [$xENON-4164. (+)
 ** Optimization for the global segment list map. (P)
 
+* 2016-12-02
+** Optimization for the global segment list map. (P)
+
 -------- 2016-11-21 ~ 2016-11-25
 
 * 2016-11-21
