@@ -7,6 +7,22 @@
 ** Optimization for the global segment list map. (P)
 ** [$STARLING weekly meeting. (D)
 
+* 2016-12-06
+** Off.
+
+* 2016-12-07
+** Optimization for the global segment list map. (P)
+** Quick meeting about the [$OTTER offers. (+)
+
+* 2016-12-08
+** Optimization for the global segment list map. (P)
+** File [$xENON-4194 (atomicity and consistency issues with online restore). (+)
+
+* 2016-12-09
+** Review and reply to Petr's comments for [$xENON-4194. (+)
+** File [$xENON-4196 (childSegmentId not updated during online restore). (+)
+** Fix [$xENON-4196. (+)
+
 -------- 2016-11-28 ~ 2016-12-02
 
 * 2016-11-28
