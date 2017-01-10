@@ -1,5 +1,31 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-01-09 ~ 2017-01-13
+
+* 2017-01-09
+** Log file compression for online backup. (P)
+** Optimization for the global segment list map (regressions). (P)
+** [$STARLING weekly meeting. (D)
+
+-------- 2017-01-03 ~ 2017-01-06
+
+* 2017-01-03
+** Log file compression for online backup. (P)
+** Optimization for the global segment list map (regressions). (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-01-04
+** Optimization for the global segment list map (regressions). (P)
+
+* 2017-01-05
+** Optimization for the global segment list map (regressions). (P)
+** Log file compression for online backup. (P)
+** Try honest profiler (unable to build on Mac). (+)
+
+* 2017-01-06
+** Try honest profiler (still no luck). (P)
+** Log file compression for online backup. (P)
+
 -------- 2016-12-26 ~ 2016-12-30
 
 * 2016-12-26
@@ -15,6 +41,10 @@
 * 2016-12-29
 ** Back up email attachments (-20121231). (D)
 ** [$STARLING weekly meeting. (D) 
+** Log file compression for online backup. (P)
+
+* 2016-12-30
+** Lunch with "the patent team". (D)
 ** Log file compression for online backup. (P)
 
 -------- 2016-12-19 ~ 2016-12-23
