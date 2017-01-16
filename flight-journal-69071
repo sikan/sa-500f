@@ -7,6 +7,22 @@
 ** Optimization for the global segment list map (regressions). (P)
 ** [$STARLING weekly meeting. (D)
 
+* 2017-01-10
+** Optimization for the global segment list map (regressions). (D)
+** Log file compression for online backup. (P)
+** Add support for the new detach/attach in admin client. (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-01-11
+** Add support for the new detach/attach in admin client. (P)
+
+* 2017-01-12
+** WFH.
+** Log file compression for online backup. (P)
+
+* 2017-01-13
+** Add support for the new detach/attach in admin client. (P)
+
 -------- 2017-01-03 ~ 2017-01-06
 
 * 2017-01-03
