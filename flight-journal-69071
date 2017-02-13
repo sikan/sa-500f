@@ -1,5 +1,36 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-02-06 ~ 2017-02-10
+
+* 2017-02-06
+** Log file compression for online backup. (P)
+** [$STARLING weekly meeting. (D)
+
+* 2017-02-07
+** Log file compression for online backup (a deadlock caused by an unreleased latch). (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-02-08
+** Log file compression for online backup (subcommitting, corruption, etc.). (P)
+
+* 2017-02-09
+** Confirm with Petr about some online recovery logic. (D)
+** Log file compression for online backup (quiesce(), etc.). (P)
+
+* 2017-02-10
+** Have a look at [$VAULT2-2406. (+)
+** Have a chat with Zed. (+)
+** Log file compression for online backup (quiesce(), etc.). (P)
+** Sign the [$EEL/[$TITAN separation forms. (+)
+
+-------- 2017-02-03 ~ 2017-02-04
+
+* 2017-02-03
+** Off.
+
+* 2017-02-04
+** Log file compression for online backup. (P)
+
 -------- 2017-01-22 ~ 2017-01-26
 
 * 2017-01-22
