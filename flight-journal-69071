@@ -1,5 +1,26 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-02-13 ~ 2017-02-17
+
+* 2017-02-13
+** Log file compression for online backup (ReplicationMaster thread, new log record handler, etc.). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2017-02-14
+** Log file compression for online backup (initial checkin, fixes, etc.). (D)
+** [$xENON weekly meeting. (D)
+
+* 2017-02-15
+** Corporate Onboarding LearnTrack. (D)
+** Get rid of the second globalOldestUndoLSN variable exclusively used for backups. (D)
+
+* 2017-02-16
+** Carl's sharing session (something about search keywords). (+)
+** Concurrent library backups and support for bootstrap updates. (P)
+
+* 2017-02-17
+** Concurrent library backups and support for bootstrap updates. (P)
+
 -------- 2017-02-06 ~ 2017-02-10
 
 * 2017-02-06
