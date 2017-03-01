@@ -1,5 +1,44 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-02-27 ~ 2017-03-03
+
+* 2017-02-27
+** 1-on-1 with Dingmeng. (+)
+** [$VAULT-3500 (manually fixed wal/system-db). (D)
+** [$STARLING weekly meeting. (D)
+** Start setting FY2017 goals. (+)
+
+* 2017-02-28
+** Off.
+
+* 2017-03-01
+** Update FY2017 goals. (D)
+** Concurrent library backups (library latch manager). (P)
+** [$VAULT-3500 (discuss the code fix with Petr). (P)
+** Discuss some change-binding and replication issues with Petr. (+)
+
+-------- 2017-02-20 ~ 2017-02-24
+
+* 2017-02-20
+** Concurrent library backups and support for bootstrap updates. (P)
+** [$STARLING weekly meeting. (D)
+** Discuss a design issue in the communication layer with Val. (+)
+
+* 2017-02-21
+** Read some of Val's new code for the communication layer. (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-02-22
+** WFH.
+** Concurrent library backups (some new thoughts). (P)
+
+* 2017-02-23
+** [$VAULT-3500 (system-db corruption). (+)
+
+* 2017-02-24
+** Rainer's all-hands. (D)
+** [$VAULT-3500 (system-db corruption, root cause found, NTA). (P)
+
 -------- 2017-02-13 ~ 2017-02-17
 
 * 2017-02-13
