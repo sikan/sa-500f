@@ -17,6 +17,15 @@
 ** [$VAULT-3500 (discuss the code fix with Petr). (P)
 ** Discuss some change-binding and replication issues with Petr. (+)
 
+* 2017-03-02
+** Listen to the recording of [$OTTER archiving kick-off meeting. (D)
+** [$VAULT-3500 (implemented the infrastructure for the support of NTAs for RO transactions). (D)
+** Concurrent library backups (library latch manager). (P)
+
+* 2017-03-03
+** Concurrent library backups (library latch manager). (P)
+** [$VAULT2-2406 (new profiling results). (+)
+
 -------- 2017-02-20 ~ 2017-02-24
 
 * 2017-02-20
