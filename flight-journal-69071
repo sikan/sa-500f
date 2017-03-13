@@ -12,6 +12,18 @@
 ** [$VAULT2-2406 (new profiling results, new findings). (+)
 ** [$xENON weekly meeting. (D)
 
+* 2017-03-08
+** [$VAULT2-2406 (fixed performance issue indirectly caused by log truncation). (P)
+
+* 2017-03-09
+** [$VAULT2-2406 (re-design of the global cache for segment lists). (P)
+** Concurrent library backups. (P)
+
+* 2017-03-10
+** Anwser Elmar's questions about  (de)serialization. (+)
+** Communicate with Michiel and Petr about current status of fixes for [$VAULT. (+)
+** Concurrent library backups. (P)
+
 -------- 2017-02-27 ~ 2017-03-03
 
 * 2017-02-27
@@ -54,7 +66,7 @@
 ** Concurrent library backups (some new thoughts). (P)
 
 * 2017-02-23
-** [$VAULT-3500 (system-db corruption). (+)
+** [$VAULT-3500 (Amplexor, system-db corruption). (+)
 
 * 2017-02-24
 ** Rainer's all-hands. (D)
@@ -621,7 +633,7 @@
 ** Sick leave.
 
 * 2016-08-16
-** Take InfoArchive group photo. (D)
+** Take [$VAULT group photo. (D)
 ** [$ION education assignments (747, again?). (+)
 ** Cross-DN attach (test cases). (P)
 ** Fix a bug caused by an unintended change in [$STARLING. (+)
@@ -820,7 +832,7 @@
 ** Off (Sunday).
 
 * 2016-06-13
-** Try to debug the InfoArchive issue (known issue). (P)
+** Try to debug the [$VAULT issue (known issue). (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2016-06-14
@@ -847,14 +859,14 @@
 ** [$STARLING team roundtable with Jeroen. (+)
 ** Jeroen's Q&A. (D)
 ** [$STARLING weekly dev meeting. (D)
-** Try to debug the InfoArchive issue. (+)
+** Try to debug the [$VAULT issue. (+)
 
 * 2016-06-07
-** Try to debug the InfoArchive issue. (P)
+** Try to debug the [$VAULT issue. (P)
 ** [$xENON architecture meeting (cluster management architecture proposal). (D)
 
 * 2016-06-08
-** Try to debug the InfoArchive issue (lokkit). (P)
+** Try to debug the [$VAULT issue (lokkit). (P)
 ** Celebration ceremony for the 10th anniversary of China CoE. (D)
 
 -------- 2016-05-30 ~ 2016-06-03
@@ -1212,7 +1224,7 @@
 
 * 2016-02-01
 ** Some IA loose ends. (D)
-** [$STARLING weekly dev meeting (Yale's InfoArchive session). (D)
+** [$STARLING weekly dev meeting (Yale's [$VAULT session). (D)
 ** Discuss the explicit locks issue with Petr (LrLock?). (+)
 
 * 2016-02-02
@@ -1708,11 +1720,11 @@
 * 2015-09-07
 ** Partial tree-scope enabling. (P)
 ** [$STARLING weekly dev meeting. (D)
-** Discuss InfoArchive upgrade issues with Damien. (+)
+** Discuss [$VAULT upgrade issues with Damien. (+)
 
 * 2015-09-08
 ** Partial tree-scope enabling. (P)
-** Discuss InfoArchive upgrade issues with Mark. (+)
+** Discuss [$VAULT upgrade issues with Mark. (+)
 
 * 2015-09-09
 ** Partial tree-scope enabling. (P)
@@ -2485,7 +2497,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2015-01-09
-** Help Michael Jiang with an InfoArchive case. (+)
+** Help Michael Jiang with an [$VAULT case. (+)
 ** Read Petr's proposal for [$xENON 2PC protocol. (+)
 ** Try to generate random library-scope file ids for testing. (+)
 
