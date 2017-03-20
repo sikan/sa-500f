@@ -1,5 +1,29 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-03-13 ~ 2017-03-17
+
+* 2017-03-13
+** Concurrent library backups. (P)
+** Backport log compression to 11.1. (D)
+** Misc code fixes. (+)
+** [$STARLING weekly meeting. (D)
+
+* 2017-03-14
+** Concurrent library backups (initial checkin). (P)
+** Performance of library creation (profiling: detachable parent vs. root). (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-03-15
+** Performance of library creation (same old mistake of not removing old generations). (P)
+
+* 2017-03-16
+** Performance of library creation. (P)
+** Fix a regression caused by recent changes to SegmentObjectRef. (+)
+
+* 2017-03-17
+** Performance of library creation. (P)
+** Charlie and Sheperd's farewell lunch. (D)
+
 -------- 2017-03-06 ~ 2017-03-10
 
 * 2017-03-06
