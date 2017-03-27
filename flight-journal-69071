@@ -1,5 +1,28 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-03-20 ~ 2017-03-24
+
+* 2017-03-20
+** Performance of library creation. (P)
+
+* 2017-03-21
+** [$SWIFT-15962 (IP and host name). (+)
+** Various performance fixes and improvements for [$VAULT. (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-03-22
+** Rewrite the segment list cache. (D)
+** Various performance fixes and improvements for [$VAULT. (P)
+
+* 2017-03-23
+** File [$xENON-4229 (parallelism for server initialization). (+)
+** Various performance fixes and improvements for [$VAULT. (P)
+
+* 2017-03-24
+** Investigate recent hanging builds on Jenkins. (+)
+** [$VAULT2-2636 (investigated the issues with the latest build). (+)
+** Some last minute fixes to get a good build for [$VAULT. (+)
+
 -------- 2017-03-13 ~ 2017-03-17
 
 * 2017-03-13
@@ -23,6 +46,7 @@
 * 2017-03-17
 ** Performance of library creation. (P)
 ** Charlie and Sheperd's farewell lunch. (D)
+** Create ranking of Perforce checkins for [$STARLING. (+)
 
 -------- 2017-03-06 ~ 2017-03-10
 
