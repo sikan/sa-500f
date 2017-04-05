@@ -1,5 +1,34 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-03-27 ~ 2017-04-01
+
+* 2017-03-27
+** Port recent performance enhancements on 11.1 to Main and 11.0. (D)
+** [$STARLING weekly meeting. (D)
+
+* 2017-03-28
+** Concurrent library backups (loose ends). (P)
+** [$VAULT2-2636 (more profiling to prove a point). (+)
+** [$xENON weekly meeting. (D)
+** Read Bas's [[Relational storage]]. (+)
+
+* 2017-03-29
+** Work out a backup plan with Deborah and John due to Elaine's absence. (+)
+** Concurrent library backups (loose ends). (P)
+
+* 2017-03-30
+** Investigate a regression caused by merging. (+)
+** [$VAULT2-2406 (analyze John's profiling data). (+)
+** Continue profiling and improving performance. (P)
+
+* 2017-03-31
+** Concurrent library backups (issues with snapshot view). (P)
+** Continue profiling and improving performance (SegmentListMap, regressions, etc.). (P) 
+
+* 2017-04-01
+** Continue improving performance (SegmentListMap, regressions, etc.). (P) 
+** [$VAULT2-2406 (analyze John's profiling data). (+)
+
 -------- 2017-03-20 ~ 2017-03-24
 
 * 2017-03-20
