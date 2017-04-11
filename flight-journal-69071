@@ -1,5 +1,27 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-04-10 ~ 2017-04-14
+
+* 2017-04-10
+** [$VAULT2-3167 (root cause analysis, issues with checkpointed transaction set, also filed [$XENON-4233). (+)
+** [$STARLING weekly meeting. (D)
+** Investigate a recent regression (version record not written to new log file). (+)
+** [$VAULT2-2636 (tried to test concurrent backup, encountered problems with checkpointed transaction set). (+)
+
+-------- 2017-04-05 ~ 2017-04-07
+
+* 2017-04-05
+** Continue improving performance (Set -> List, regressions, etc.). (P) 
+** Work out new profiling plan with Elaine. (+)
+
+* 2017-04-06
+** Continue improving performance (regressions, etc.). (P) 
+** [$VAULT2-2406 (analyze Elaine's profiling data). (+)
+
+* 2017-04-07
+** [$VAULT2-2406 (create an engineering build with several experimental optimizations). (+)
+** Investigate an LSN issue during hot backup (reported by Sander, debug output added). (+)
+
 -------- 2017-03-27 ~ 2017-04-01
 
 * 2017-03-27
