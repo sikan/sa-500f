@@ -8,6 +8,19 @@
 ** Investigate a recent regression (version record not written to new log file). (+)
 ** [$VAULT2-2636 (tried to test concurrent backup, encountered problems with checkpointed transaction set). (+)
 
+* 2017-04-11
+** Merge recent optimizations from 11.0 to 11.1. (D)
+** [$VAULT2-2636 (tried to test concurrent backup, ForkJoin common pool induced deadlock?). (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-04-12
+** Performance fixes (implicit/auto flushPageCache(), avoid dir scan for .wal files). (+)
+
+* 2017-04-13
+** File [$XENON-4241 (deadlock in AbstractDriver, again...). (D)
+** File [$XENON-4243 (deadlock in ConcurrentMPITest). (+)
+** Conditional checkpoint after flushing dirty pages (systemRedoLSN large enough?). (+)
+
 -------- 2017-04-05 ~ 2017-04-07
 
 * 2017-04-05
