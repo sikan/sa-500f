@@ -21,6 +21,10 @@
 ** File [$XENON-4243 (deadlock in ConcurrentMPITest). (+)
 ** Conditional checkpoint after flushing dirty pages (systemRedoLSN large enough?). (+)
 
+* 2017-04-14
+** Fix a deadlock caused by recent changes (truncateLock, configLock, NonfairSync, etc.). (+)
+** Complete Compliance Training Program. (+)
+
 -------- 2017-04-05 ~ 2017-04-07
 
 * 2017-04-05
