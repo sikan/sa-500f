@@ -1,5 +1,33 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-04-17 ~ 2017-04-21
+
+* 2017-04-17
+** Have a look at Sander's latest snapshots. (+)
+** Explain the bigger backup size. (+)
+** [$STARLING weekly meeting. (D)
+** Optimize the code that retrieves FileidMap from backend. (+)
+
+* 2017-04-18
+** Optimize the code that retrieves FileidMap from backend. (P)
+** Have another look at Sander's snapshots (need to avoid using controlSession). (+)
+** [$xENON weekly meeting. (D) 
+** Find and fix a deadlock involving FilePool and stateLock. (+)
+
+* 2017-04-19
+** Fix another deadlock caused by a fix for a deadlock. (+)
+** Discuss the optimization for checkpoint with Petr. (+)
+** [$VAULT2-3198 (explain behaviors of Sander's different configuations). (+)
+** Move getRootFileAccesssInfo() from control session to normal session. (D)
+
+* 2017-04-20
+** Fix a problem with conditional checkpoint after flushing dirty pages (pointed out by Petr). (+)
+** Create an unofficial build with all recent fixes for Elaine to test. (+)
+** Merge all recent changes to Main. (+)
+
+* 2017-04-21
+** Off.
+
 -------- 2017-04-10 ~ 2017-04-14
 
 * 2017-04-10
