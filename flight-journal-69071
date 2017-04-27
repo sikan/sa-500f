@@ -1,5 +1,25 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-04-24 ~ 2017-04-28
+
+* 2017-04-24
+** [$ION education assignments (169). (+)
+** [$STARLING weekly meeting (Changepoint). (D)
+** [$XENON-4247 (NPE caused by pages loaded into buffer pool during segment deletion). (+)
+** [$XENON-4259 (OOS tests hang). (+)
+
+* 2017-04-25
+** [$XENON-4247 (RCA). (D)
+** [$XENON-4259 (fixed). (D)
+** Fix a bug in the optimization for discovery of .wal files. (D)
+** Discuss a bug in the optimization for checkpoint with Petr. (+)
+** [$xENON weekly meeting. (D) 
+
+* 2017-04-26
+** Fix the bug in the optimization for checkpoint (some more discussion). (D)
+** [$VAULT2-3310 (have a look at the snapshots). (+)
+** Discuss the issue with rollback of library creation with Petr. (+)
+
 -------- 2017-04-17 ~ 2017-04-21
 
 * 2017-04-17
