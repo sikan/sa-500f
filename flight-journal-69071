@@ -20,6 +20,13 @@
 ** [$VAULT2-3310 (have a look at the snapshots). (+)
 ** Discuss the issue with rollback of library creation with Petr. (+)
 
+* 2017-04-27
+** Auto-delete segments at the rollback of library creation. (P)
+
+* 2017-04-28
+** Auto-delete segments at the rollback of library creation (more fixes, but reverted eventually, too risky). (D)
+** Explain the performance issue caused by configLock (found in [$VAULT PoC for UBS). (+)
+
 -------- 2017-04-17 ~ 2017-04-21
 
 * 2017-04-17
