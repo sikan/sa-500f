@@ -1,5 +1,16 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-05-02 ~ 2017-05-05
+
+* 2017-05-02
+** [$VAULT2-3310 (some optimizations for FileidMap). (+)
+** [$xENON weekly meeting. (D)
+** [$STARLING weekly meeting (Burp). (D)
+
+* 2017-05-03
+** Merge some remaining unintegrated changes to Main. (+)
+** NTA support for segment list cache. (P)
+
 -------- 2017-04-24 ~ 2017-04-28
 
 * 2017-04-24
@@ -13,7 +24,7 @@
 ** [$XENON-4259 (fixed). (D)
 ** Fix a bug in the optimization for discovery of .wal files. (D)
 ** Discuss a bug in the optimization for checkpoint with Petr. (+)
-** [$xENON weekly meeting. (D) 
+** [$xENON weekly meeting. (D)
 
 * 2017-04-26
 ** Fix the bug in the optimization for checkpoint (some more discussion). (D)
