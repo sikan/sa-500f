@@ -11,6 +11,13 @@
 ** Merge some remaining unintegrated changes to Main. (+)
 ** NTA support for segment list cache. (P)
 
+* 2017-05-04
+** Read [[Secure Coding Guidelines for Java SE]]. (+)
+** Investigate the failure of online backup on a replica (caused by Bas's change?). (+)
+
+* 2017-05-05
+** Fix a potential bug with nested NTAs (added ntaLevel). (+)
+
 -------- 2017-04-24 ~ 2017-04-28
 
 * 2017-04-24
