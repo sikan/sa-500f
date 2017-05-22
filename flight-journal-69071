@@ -1,5 +1,29 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-05-15 ~ 2017-05-19
+
+* 2017-05-15
+** NTA support for segment list cache. (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-05-16
+** NTA support for segment list cache. (P)
+** [$VAULT2-3310 (latest snapshot, ideas to improve authentication, fixed an issue with countSystemTransactions()). (+)
+** [$xENON weekly meeting. (D)
+** Discuss whether to begin RO/SI transactions on data nodes with Petr and Val. (+)
+** Read some of Jeremy Manson's articles about profiling. (+)
+
+* 2017-05-17
+** Read some of Jeremy Manson's articles about profiling. (+)
+** NTA support for segment list cache (way more difficult than I thought). (P)
+
+* 2017-05-18
+** NTA support for segment list cache. (P)
+
+* 2017-05-19
+** NTA support for segment list cache. (P)
+** [$VAULT2-3310 (-Dyjp.zero.time.methods=false, perf issues with configLock). (+)
+
 -------- 2017-05-08 ~ 2017-05-12
 
 * 2017-05-08
