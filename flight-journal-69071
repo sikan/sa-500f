@@ -1,10 +1,36 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-05-22 ~ 2017-05-27
+
+* 2017-05-22
+** NTA support for segment list cache. (P)
+** [$OTTER Shanghai team building event. (D)
+
+* 2017-05-23
+** NTA support for segment list cache. (P)
+** Investigate issues with adding segments to an online restored library. (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-05-24
+** Investigate issues with adding segments to an online restored library. (P)
+** [$STARLING weekly meeting. (D)
+
+* 2017-05-25
+** Investigate issues with adding segments to an online restored library. (P)
+
+* 2017-05-26
+** Investigate issues with adding segments to an online restored library. (D)
+** File [$XENON-4275 (recovery errors caused by rollback of online restore). (+)
+** NTA support for segment list cache (committed recent fixes). (P)
+
+* 2017-05-27
+** NTA support for segment list cache (replication). (P)
+
 -------- 2017-05-15 ~ 2017-05-19
 
 * 2017-05-15
 ** NTA support for segment list cache. (P)
-** [$xENON weekly meeting. (D)
+** [$STARLING weekly meeting. (D)
 
 * 2017-05-16
 ** NTA support for segment list cache. (P)
@@ -29,7 +55,7 @@
 * 2017-05-08
 ** Update Changepoint. (+)
 ** NTA support for segment list cache. (P)
-** [$xENON weekly meeting. (D)
+** [$STARLING weekly meeting. (D)
 
 * 2017-05-09
 ** NTA support for segment list cache. (P) 
