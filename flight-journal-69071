@@ -1,5 +1,18 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-05-31 ~ 2017-06-02
+
+* 2017-05-31
+** NTA support for segment list cache (replication). (P)
+
+* 2017-06-01
+** NTA support for segment list cache (replication). (P)
+** [$XENON-4275. (P)
+
+* 2017-06-02
+** [$VAULT2-3590 (optimizations for lock contentions in LogManager). (+)
+** [$XENON-4275. (P)
+
 -------- 2017-05-22 ~ 2017-05-27
 
 * 2017-05-22
