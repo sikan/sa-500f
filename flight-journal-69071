@@ -1,5 +1,22 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-06-05 ~ 2017-06-09
+
+* 2017-06-05
+** [$VAULT2-3590 (new jars, discussion with Elaine). (P)
+** [$XENON-4275. (P)
+** [$STARLING weekly meeting. (D)
+
+* 2017-06-06
+** [$XENON-4275. (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-06-07
+** [$XENON-4275 (fix checked in). (D)
+** [$VAULT2-3590 (fix checked in, one regression). (P)
+** Help Michael and Timothy with a case reported by CITIC HK. (+)
+** Stabilize the build (Netty). (+)
+
 -------- 2017-05-31 ~ 2017-06-02
 
 * 2017-05-31
