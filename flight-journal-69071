@@ -12,10 +12,20 @@
 ** [$xENON weekly meeting. (D)
 
 * 2017-06-07
-** [$XENON-4275 (fix checked in). (D)
+** [$XENON-4275 (fix checked in). (P)
 ** [$VAULT2-3590 (fix checked in, one regression). (P)
 ** Help Michael and Timothy with a case reported by CITIC HK. (+)
 ** Stabilize the build (Netty). (+)
+
+* 2017-06-08
+** [$VAULT2-3590 (fixed the regression with forceUnconditionally()). (P)
+** [$XENON-4275 (more code changes required as found during merge). (P)
+** Philip's new AdminFX Client demo session. (D)
+
+* 2017-06-09
+** [$VAULT2-3590 (remote debugging, discussion with Sander). (P)
+** Huaqing's all-hands. (D)
+** [$XENON-4275 (more fixes). (P)
 
 -------- 2017-05-31 ~ 2017-06-02
 
