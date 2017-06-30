@@ -1,5 +1,32 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-06-26 ~ 2017-06-30
+
+* 2017-06-26
+** [$VAULT2-3310 (issues with config lock). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2017-06-27
+** [$VAULT2-3310 (new jars). (P)
+** Create [$XENON-4283 (new APIs for segment creation) and have a discussion with Petr. (+)
+** Sign the labor contract (again). (+)
+** [$xENON weekly meeting. (D)
+** Help Johar with detach/attach. (+)
+
+* 2017-06-28
+** Help Johar with detach/attach. (+)
+** Extend bootstrap log record format. (+)
+** Fix a corner case deadlock reported by Sander (4 threads). (+)
+
+* 2017-06-29
+** Help Johar with detach/attach. (+)
+** Configure the new Linux VM. (P)
+** Extend bootstrap log record format. (P)
+
+* 2017-06-30
+** Extend bootstrap log record format. (P)
+** Fix another issue with cached access info (reported by Val). (+)
+
 -------- 2017-06-19 ~ 2017-06-25
 
 * 2017-06-19
