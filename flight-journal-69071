@@ -1,5 +1,44 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-07-10 ~ 2017-07-14
+
+* 2017-07-10
+** Off.
+
+* 2017-07-11
+** Extend bootstrap log record format (6 + (1 << 32) - 1 fields). (D)
+** [$VAULT2-3310 (heap dump, memory issue with Datafile.libraryScopeFileids). (+)
+** Create [$XENON-4288 for the above. (+)
+
+-------- 2017-07-03 ~ 2017-07-07
+
+* 2017-07-03
+** Off.
+
+* 2017-07-04
+** Off.
+
+* 2017-07-05
+** Email backlog (D).
+** Investigate an OOM issue possibly caused by FileidMap (reported by Bas). (+)
+** Investigate another deadlock found in IA (reported by Sander). (+)
+** Extend bootstrap log record format. (D)
+** Project Mercury training. (P)
+** KIC 6 seating plan. (+)
+
+* 2017-07-06
+** Project Mercury training. (D)
+** Help Johar with some backup/restore questions. (+)
+** Some optimizations for FileidMap. (D)
+** KIC 6 seating plan. (D)
+
+* 2017-07-07
+** Create [$XENON-4286. (+)
+** Discussions about the issue with rollback of library creation (again, with Bas, Petr, etc.). (+)
+** [$VAULT2-3310 (new snapshots, proposed a solution). (P)
+** KIC 6 seating plan. (+)
+** Visit the new office in KIC 6. (+)
+
 -------- 2017-06-26 ~ 2017-06-30
 
 * 2017-06-26
