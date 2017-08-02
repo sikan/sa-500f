@@ -1,5 +1,54 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+backlog
+sap
+
+-------- 2017-07-31 ~ 2017-08-04
+
+* 2017-07-31
+** Email backlog. (D)
+** SAP timesheet (succeeded on first attempt, what a surprise). (D)
+** Fix another deadlock reported by Sander (avoid taking locks while holding latches). (+)
+** [$XENON-4288. (P)
+
+* 2017-08-01
+** [$XENON-4288 (minor issues with shrinked fastutil, decided to use full jar instead). (P)
+** [$xENON weekly meeting. (D)
+
+-------- 2017-07-24 ~ 2017-07-28
+
+* 2017-07-24
+** Off.
+
+* 2017-07-25
+** Off.
+
+* 2017-07-26
+** Off.
+
+* 2017-07-27
+** Off.
+
+* 2017-07-28
+** Off.
+
+-------- 2017-07-17 ~ 2017-07-21
+
+* 2017-07-17
+** Off.
+
+* 2017-07-18
+** Off.
+
+* 2017-07-19
+** Off.
+
+* 2017-07-20
+** Off.
+
+* 2017-07-21
+** Off.
+
 -------- 2017-07-10 ~ 2017-07-14
 
 * 2017-07-10
@@ -9,6 +58,16 @@
 ** Extend bootstrap log record format (6 + (1 << 32) - 1 fields). (D)
 ** [$VAULT2-3310 (heap dump, memory issue with Datafile.libraryScopeFileids). (+)
 ** Create [$XENON-4288 for the above. (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-07-12
+** Off.
+
+* 2017-07-13
+** Off.
+
+* 2017-07-14
+** Off.
 
 -------- 2017-07-03 ~ 2017-07-07
 
