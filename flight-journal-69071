@@ -15,6 +15,17 @@ sap
 ** [$XENON-4288 (minor issues with shrinked fastutil, decided to use full jar instead). (P)
 ** [$xENON weekly meeting. (D)
 
+* 2017-08-02
+** [$XENON-4288. (P)
+
+* 2017-08-03
+** [$XENON-4288. (P)
+** Investigate test failures on Main branch. (+)
+
+* 2017-08-04
+** [$XENON-4288 (merge, before-after comparison). (D)
+** Investigate test failures on Main branch (unusable segment not properly updated on client side). (D)
+
 -------- 2017-07-24 ~ 2017-07-28
 
 * 2017-07-24
