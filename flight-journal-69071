@@ -1,7 +1,23 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
-backlog
-sap
+-------- 2017-08-07 ~ 2017-08-11
+
+* 2017-08-07
+** Sick leave.
+
+* 2017-08-08
+** Sick leave.
+
+* 2017-08-09
+** [$XENON-4285 (OOM caused by stream buffer size). (D)
+** Discuss issues found in [$VAULT's testing framework with Sander. (+)
+
+* 2017-08-10
+** Investigate test failures on Main branch (issues with oldestActiveTransactionId and backend-to-backend connection). (+)
+** [$VAULT2-3310 (new snapshots). (+)
+
+* 2017-08-11
+** [$VAULT2-3310 (potential issues with containsAll() in DatabaseSegmentLists). (P)
 
 -------- 2017-07-31 ~ 2017-08-04
 
@@ -91,7 +107,7 @@ sap
 * 2017-07-05
 ** Email backlog (D).
 ** Investigate an OOM issue possibly caused by FileidMap (reported by Bas). (+)
-** Investigate another deadlock found in IA (reported by Sander). (+)
+** Investigate another deadlock found in [$VAULT (reported by Sander). (+)
 ** Extend bootstrap log record format. (D)
 ** Project Mercury training. (P)
 ** KIC 6 seating plan. (+)
@@ -932,7 +948,7 @@ sap
 * 2016-10-18
 ** Summarize how 10.x library backups are supported in 11. (D) 
 ** Sign 4 patent related forms. (+)
-** [$VAULT2-858 (contact IA team for the password error). (P)
+** [$VAULT2-858 (contact [$VAULT team for the password error). (P)
 ** [$VAULT2-1590 (CSI). (+)
 ** [$xENON weekly meeting. (D)
 
