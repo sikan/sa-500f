@@ -1,5 +1,26 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-08-14 ~ 2017-08-18
+
+* 2017-08-14
+** Fix a couple of minor issues found during the investigation of failing tests and [$VAULT2-3310. (D)
+** Fix issues caused the transfer of unusable file ids on backend-to-backend connections. (P)
+** [$VAULT2-3310 (remote debug). (P)
+
+* 2017-08-15
+** [$VAULT2-3310 (remote debug, redesign needed). (P)
+** Fix issues caused the transfer of unusable file ids on backend-to-backend connections (and a couple of other minor issues). (D)
+** [$xENON weekly meeting. (D)
+
+* 2017-08-16
+** Redesign of segment list cache. (P)
+
+* 2017-08-17
+** Redesign of segment list cache. (P)
+
+* 2017-08-18
+** Redesign of segment list cache. (P)
+
 -------- 2017-08-07 ~ 2017-08-11
 
 * 2017-08-07
