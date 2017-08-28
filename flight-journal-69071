@@ -1,5 +1,26 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-08-21 ~ 2017-08-25
+
+* 2017-08-21
+** Redesign of segment list cache. (P)
+
+* 2017-08-22
+** Redesign of segment list cache. (P)
+** [$STARLING weekly dev meeting. (D)
+** [$xENON weekly meeting. (D)
+
+* 2017-08-23
+** Off.
+
+* 2017-08-24
+** Redesign of segment list cache. (P)
+** Performance review with Michiel. (D)
+
+* 2017-08-25
+** Redesign of segment list cache (a even more aggressive second version). (P)
+** Create [$XENON-4304 (consistency issues with indirect addressing). (+)
+
 -------- 2017-08-14 ~ 2017-08-18
 
 * 2017-08-14
