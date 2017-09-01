@@ -1,5 +1,28 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-08-28 ~ 2017-09-01
+
+* 2017-08-28
+** Redesign of segment list cache (regressions). (P)
+** [$XENON-4303/[$XENON-4307 (unusable segments). (+)
+** Merge unintegrated changes to Main. (+)
+
+* 2017-08-29
+** Merge unintegrated changes to Main. (D)
+** New APIs for segment creation. (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-08-30
+** New APIs for segment creation. (P)
+
+* 2017-08-31
+** New APIs for segment creation. (P)
+** Try to make SpotBugs report all HP warnings to the eclipse UI. (+)
+
+* 2017-09-01
+** New APIs for segment creation. (P)
+** Try to make SpotBugs report all HP warnings to the eclipse UI (still no luck). (P)
+
 -------- 2017-08-21 ~ 2017-08-25
 
 * 2017-08-21
