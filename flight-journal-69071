@@ -19,6 +19,10 @@
 ** New APIs for segment creation. (P)
 ** [$VAULT2-2406 (updating library path seems expensive?). (+)
 
+* 2017-09-08
+** New APIs for segment creation. (P)
+** [$VAULT2-2406 (remote debug). (P)
+
 -------- 2017-08-28 ~ 2017-09-01
 
 * 2017-08-28
