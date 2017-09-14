@@ -11,6 +11,10 @@
 ** [$VAULT2-2406 (Mark's question). (P)
 ** KERNEL_DATA_INPAGE_ERROR and a completely dead SSD. (+)
 
+* 2017-09-13
+** Recover some data from the apparently dead HDD. (P)
+** [$VAULT2-4354 (concurrent modification during iteration). (D)
+
 -------- 2017-09-04 ~ 2017-09-08
 
 * 2017-09-04
