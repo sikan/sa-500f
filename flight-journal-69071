@@ -15,6 +15,11 @@
 ** Recover some data from the apparently dead HDD. (P)
 ** [$VAULT2-4354 (concurrent modification during iteration). (D)
 
+* 2017-09-14
+** Recover some data from the apparently dead HDD. (D)
+** Set up the new HDD. (D)
+** [$VAULT2-4369 (root cause: oldUndoLSN not pointing to an actual log record). (D)
+
 -------- 2017-09-04 ~ 2017-09-08
 
 * 2017-09-04
