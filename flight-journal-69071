@@ -12,6 +12,10 @@
 ** [$xENON weekly meeting. (D)
 ** [$VAULT2-4369 (attempted to build CSI to inspect new log files, but failed). (+)
 
+* 2017-09-20
+** Merge the new design of segment list cache to Main. (P)
+** [$VAULT2-2406 (optimizations). (P)
+
 -------- 2017-09-11 ~ 2017-09-15
 
 * 2017-09-11
