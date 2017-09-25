@@ -18,7 +18,11 @@
 
 * 2017-09-21
 ** Merge the new design of segment list cache to Main. (P)
-** [$VAULT2-2406 (optimizations). (D)
+** [$VAULT2-2406 (optimizations). (P)
+
+* 2017-09-22
+** Merge the new design of segment list cache to Main. (P)
+** [$VAULT2-2406 (new snapshots, optimizations, ported concurrent backups back to 11.1). (P)
 
 -------- 2017-09-11 ~ 2017-09-15
 
