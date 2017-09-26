@@ -1,5 +1,11 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-09-25 ~ 2017-09-30
+
+* 2017-09-25
+** Merge the new design of segment list cache to Main. (P)
+** Fix a problem which caused subcommitted log records to be undone during online recovery. (+)
+
 -------- 2017-09-18 ~ 2017-09-22
 
 * 2017-09-18
