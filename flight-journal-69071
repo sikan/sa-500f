@@ -6,6 +6,12 @@
 ** Merge the new design of segment list cache to Main. (P)
 ** Fix a problem which caused subcommitted log records to be undone during online recovery. (+)
 
+* 2017-09-26
+** Merge the new design of segment list cache to Main. (P)
+** [$xENON weekly meeting. (D)
+** Look into a regression with SI transactions. (+)
+** Rethink the fix to the issue with subcommitted log records (the code was probably correct). (+)
+
 -------- 2017-09-18 ~ 2017-09-22
 
 * 2017-09-18
