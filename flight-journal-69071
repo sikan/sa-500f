@@ -12,6 +12,11 @@
 ** Look into a regression with SI transactions. (+)
 ** Rethink the fix to the issue with subcommitted log records (the code was probably correct). (+)
 
+* 2017-09-27
+** Rethink the fix to the issue with subcommitted log records (the code was probably correct). (D)
+** Fix more problems with SI transactions in 11.1. (+)
+** 1-on-1 with Perica. (D)
+
 -------- 2017-09-18 ~ 2017-09-22
 
 * 2017-09-18
