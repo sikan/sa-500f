@@ -18,6 +18,10 @@
 ** [$VAULT2-2406 (Mark's questions, discussion with Sander about potential workarounds). (P)
 ** Investigate the OOM issue reported by Bruno. (+)
 
+* 2017-10-12
+** Reduce the memory footprint of SegmentListUpdate to alleviate the OOM reported by Bruno. (D)
+** Make the new segment list caching mechanism to work with NTA. (P)
+
 -------- 2017-09-25 ~ 2017-09-30
 
 * 2017-09-25
