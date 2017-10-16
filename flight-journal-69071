@@ -22,6 +22,11 @@
 ** Reduce the memory footprint of SegmentListUpdate to alleviate the OOM reported by Bruno. (D)
 ** Make the new segment list caching mechanism to work with NTA. (P)
 
+* 2017-10-13
+** Discuss the to-do items for performance tests with Philip. (+)
+** Continue investigating the OOM reported by Bruno (fix didn't seem to work). (+)
+** Make the new segment list caching mechanism to work with NTA. (P)
+
 -------- 2017-09-25 ~ 2017-09-30
 
 * 2017-09-25
