@@ -20,6 +20,11 @@
 ** Stabilize the Main build (issues with begin() in a replication group). (P)
 ** [$xENON-4318 (initial size of load factor for Int2IntMap). (P)
 
+* 2017-10-20
+** Rework AttachFilesTest. (P)
+** 1-on-1 with Perica. (D)
+** [$xENON roadmap session (with Vasu) (D)
+
 -------- 2017-10-09 ~ 2017-10-13
 
 * 2017-10-09
