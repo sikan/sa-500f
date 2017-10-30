@@ -1,5 +1,12 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-10-30 ~ 2017-11-03
+
+* 2017-10-30
+** Day 1 at KIC 6, unpack stuff and set up the new table. (D)
+** [$xENON-4318/[$VAULT2-2406 (performance and memory test, merged the recent changes to Main). (P)
+** Use Int2IntMaps::fastIterable as Bas has upgraded fastutil to 8.1.0. (+)
+
 -------- 2017-10-23 ~ 2017-10-27
 
 * 2017-10-23
