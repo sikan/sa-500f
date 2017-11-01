@@ -7,6 +7,16 @@
 ** [$xENON-4318/[$VAULT2-2406 (performance and memory test, merged the recent changes to Main). (P)
 ** Use Int2IntMaps::fastIterable as Bas has upgraded fastutil to 8.1.0. (+)
 
+* 2017-10-31
+** [$xENON-4318/[$VAULT2-2406 (performance and memory test, investigate build failures). (P)
+** Investigate a recovery issue with the new replication logic. (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-11-01
+** [$xENON-4318/[$VAULT2-2406 (merged the recent changes to Main). (P)
+** Investigate a recovery issue with the new replication logic (KVS updates intentionally not included in NTA). (P)
+** Elaine's introduction to her [$VAULT test environment. (+)
+
 -------- 2017-10-23 ~ 2017-10-27
 
 * 2017-10-23
