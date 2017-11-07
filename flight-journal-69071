@@ -1,5 +1,11 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-11-06 ~ 2017-11-10
+
+* 2017-11-06
+** [$xENON-4207 (DETACHABLE_ROOT segment without library-path). (+)
+** [$VAULT-3893 (suspension of read-only transactions during attach). (+)
+
 -------- 2017-10-30 ~ 2017-11-03
 
 * 2017-10-30
@@ -10,12 +16,19 @@
 * 2017-10-31
 ** [$xENON-4318/[$VAULT2-2406 (performance and memory test, investigate build failures). (P)
 ** Investigate a recovery issue with the new replication logic. (+)
+** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
 * 2017-11-01
 ** [$xENON-4318/[$VAULT2-2406 (merged the recent changes to Main). (P)
 ** Investigate a recovery issue with the new replication logic (KVS updates intentionally not included in NTA). (P)
 ** Elaine's introduction to her [$VAULT test environment. (+)
+
+* 2017-11-02
+** Off.
+
+* 2017-11-03
+** Off.
 
 -------- 2017-10-23 ~ 2017-10-27
 
