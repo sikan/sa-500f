@@ -6,6 +6,19 @@
 ** [$xENON-4207 (DETACHABLE_ROOT segment without library-path). (+)
 ** [$VAULT-3893 (suspension of read-only transactions during attach). (+)
 
+* 2017-11-07
+** Help Tony look into a LOCK_NOT_GRANTED issue (SDX packed objects?). (+)
+** Verify and check in the fix for the recovery issue with setUsage(). (D)
+** [$xENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (P)
+** [$STARLING weekly meeting. (D)
+** [$xENON weekly meeting. (D)
+
+* 2017-11-08
+** [$xENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (D)
+** Fix upgrade issue with unusable segments (found during the investigation of [$xENON-4207). (+)
+** Dingmeng's all-hands. (D)
+** Help Tony look into a LOCK_NOT_GRANTED issue (SDX). (+)
+
 -------- 2017-10-30 ~ 2017-11-03
 
 * 2017-10-30
