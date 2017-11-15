@@ -1,5 +1,19 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-11-13 ~ 2017-11-17
+
+* 2017-11-13
+** [$VAULT2-2406 (profiling, some fixes involving parallelization). (P)
+
+* 2017-11-14
+** Clarify the backward compatibility on 10.5 library backups for Petr and Damien. (+)
+** [$xENON-4318/[$VAULT2-2406 (relaunched the test from 300K with doubled memory, further memory optimizations?). (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-11-15
+** [$VAULT-3893 (freeze caused by anti-barging, implemented barging). (+)
+** [$xENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
+
 -------- 2017-11-06 ~ 2017-11-10
 
 * 2017-11-06
