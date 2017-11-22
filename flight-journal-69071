@@ -1,5 +1,21 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-11-20 ~ 2017-11-24
+
+* 2017-11-20
+** [$xENON-4318/[$VAULT2-2406 (collected performance data from logs, further memory optimizations for DatabaseSegmentLists). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2017-11-21
+** [$xENON-4318/[$VAULT2-2406 (fixed a few issues in the recent changes). (P)
+** Fix an issue caused by logically empty log files. (D)
+** [$xENON weekly meeting. (D)
+** [$VAULT-3901 (suspension, again...). (+)
+
+* 2017-11-22
+** Investigate the recent failures of cluster recovery test in 11.1 (logical error with updateClusterDataNodeObject(), etc.). (D)
+** [$VAULT-3901 (some discussions with Damien). (P)
+
 -------- 2017-11-13 ~ 2017-11-17
 
 * 2017-11-13
@@ -11,8 +27,18 @@
 ** [$xENON weekly meeting. (D)
 
 * 2017-11-15
-** [$VAULT-3893 (freeze caused by anti-barging, implemented barging). (+)
+** [$VAULT-3901 (freeze caused by anti-barging, implemented barging). (+)
 ** [$xENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
+
+* 2017-11-16
+** Locked out of [$OTTER systems. (+)
+** [$xENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
+
+* 2017-11-17
+** Get [$OTTER account back (had to contact APAC support hotlines). (D)
+** [$xENON-4318/[$VAULT2-2406 (reached 500K limit, further memory optimizations for DatabaseSegmentLists). (P)
+** Report the potential capacity issue with library structure in managedItemDatabase to [$VAULT/[$xENON team. (+)
+** 1-on-1 with Perica. (D)
 
 -------- 2017-11-06 ~ 2017-11-10
 
