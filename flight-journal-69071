@@ -16,6 +16,14 @@
 ** Investigate the recent failures of cluster recovery test in 11.1 (logical error with updateClusterDataNodeObject(), etc.). (D)
 ** [$VAULT-3901 (some discussions with Damien). (P)
 
+* 2017-11-23
+** Make some minor adjustments to the fix for updateClusterDataNodeObject(). (+)
+** Concurrent library backups from replica (discussion with Petr, initial implementation). (+)
+
+* 2017-11-24
+** Concurrent library backups from replica (bug, minor improvements, etc.). (P)
+** [$xENON-4318/[$VAULT2-2406 (further memory optimizations for DatabaseSegmentLists). (P)
+
 -------- 2017-11-13 ~ 2017-11-17
 
 * 2017-11-13
