@@ -1,5 +1,29 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-11-27 ~ 2017-12-01
+
+* 2017-11-27
+** Library backup (from replica, skipping logically empty log files, etc.). (P)
+** [$STARLING weekly meeting. (D)
+** Remove suspension of read-only transactions from change-binding. (P)
+
+* 2017-11-28
+** Library backup (skipping logically empty log files, etc.). (D)
+** Discuss with Petr issues with LrUpdateClusterDataNodeObject when transforming a replica into a master. (+)
+** [$xENON weekly meeting. (D)
+
+* 2017-11-29
+** [$xENON-4318/[$VAULT2-2406 (memory optimizations for FileidMap). (P)
+** Investgate hanging tests on Jenkins. (+)
+
+* 2017-11-30
+** [$xENON-4318/[$VAULT2-2406 (memory optimizations for Datafile). (P)
+
+* 2017-12-01
+** Create [$xENON-4323 per Michael Jiang's request (admin/cmd tool to interrupt a running session). (+)
+** Investgate failing tests on Jenkins. (+)
+** 1-on-1 with Perica. (D) 
+
 -------- 2017-11-20 ~ 2017-11-24
 
 * 2017-11-20
