@@ -1,5 +1,46 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-12-11 ~ 2017-12-15
+
+* 2017-12-11
+** Investgate failing tests on Jenkins (background LI tasks, getFullPathThroughLLPI(), etc.). (P)
+
+* 2017-12-12
+** Investgate failing tests on Jenkins (background LI tasks, getFullPathThroughLLPI(), etc.). (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-12-13
+** Investgate failing tests on Jenkins (background LI tasks, issues with SimpleReadWriteLock, etc.). (P)
+
+* 2017-12-14
+** Investgate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
+
+* 2017-12-15
+** Investgate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
+** [$xENON-4325 (segment missing during federatino restore, reported by Sander). (+)
+** Create [$xENON-4327 per Perica/Petr's request. (+)
+
+-------- 2017-12-04 ~ 2017-12-08
+
+* 2017-12-04
+** Investgate failing tests on Jenkins (background LI tasks, etc.). (+)
+
+* 2017-12-05
+** Investgate failing tests on Jenkins (another issue with closeLuceneIndex(), background LI tasks, etc.). (P)
+** [$STARLING weekly meeting. (D)
+** [$xENON weekly meeting. (D)
+
+* 2017-12-06
+** Fix the issue that SI transactions may lose NTA updates when retrieving segment lists (reported by Sander). (+)
+
+* 2017-12-07
+** Off.
+
+* 2017-12-08
+** Fix a remaining issue with DatabaseSegmentLists (reported by Sander). (+)
+** Investgate failing tests on Jenkins (background LI tasks, etc.). (P)
+** Fix an NPE caused by a superuser session triggering distributed deadlock detector (reported by Philip). (+)
+
 -------- 2017-11-27 ~ 2017-12-01
 
 * 2017-11-27
