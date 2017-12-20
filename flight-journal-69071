@@ -1,5 +1,20 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-12-18 ~ 2017-12-22
+
+* 2017-12-18
+** Investgate failing tests on Jenkins (use generated lockHolderId for federation backup). (P)
+** [$STARLING weekly meeting. (D)
+** [$xENON-4325 (need to store default file id for DELETESEGMENT and DELETEDATABASE). (P)
+
+* 2017-12-19
+** [$xENON-4325 (had a look at the failure of the 'workaround', reported a CSI issue). (D)
+** Investgate failing tests on Jenkins (maxFileSize:10 -> implicit ADDFILE -> direct data node modification). (P)
+** [$xENON weekly meeting. (D)
+
+* 2017-12-20
+** [$xENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds). (P)
+
 -------- 2017-12-11 ~ 2017-12-15
 
 * 2017-12-11
