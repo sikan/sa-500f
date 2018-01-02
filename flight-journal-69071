@@ -1,5 +1,22 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2017-12-25 ~ 2017-12-29
+
+* 2017-12-25
+** Off.
+
+* 2017-12-26
+** Off.
+
+* 2017-12-27
+** Off.
+
+* 2017-12-28
+** Off.
+
+* 2017-12-29
+** Off.
+
 -------- 2017-12-18 ~ 2017-12-22
 
 * 2017-12-18
@@ -14,6 +31,12 @@
 
 * 2017-12-20
 ** [$xENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds). (P)
+
+* 2017-12-21
+** Off (fixed a minor test case issue reported by Petr).
+
+* 2017-12-22
+** Off (fixed a typo in a test case name).
 
 -------- 2017-12-11 ~ 2017-12-15
 
