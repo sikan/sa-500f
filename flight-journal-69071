@@ -1,5 +1,25 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-01-02 ~ 2018-01-05
+
+* 2018-01-02
+** [$xENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds, testing). (P)
+** Investigate hanging tests in unit_002 of 11.1. (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-01-03
+** Investigate hanging tests (ServerSocket::close doesn't cause ::accept to throw a socket exception). (P)
+** Debug a ConfigNodeRunner issue on macOS (127.0.0.* not loopback addresses by default). (+)
+** [$STARLING weekly meeting. (D)
+
+* 2018-01-04
+** Investigate hanging tests (ServerSocket::accept, probably a JDK bug). (P)
+** Investigate new errors reported by Sander (RO transactions may add pages from deleted files to buffer pool). (P)
+
+* 2018-01-05
+** Investigate hanging tests (ServerSocket::accept, created [$xENON-4349 with a minimal reproducible example). (P)
+** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (+)
+
 -------- 2017-12-25 ~ 2017-12-29
 
 * 2017-12-25
