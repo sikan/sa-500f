@@ -1,5 +1,37 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-01-08 ~ 2018-01-12
+
+* 2018-01-08
+** JIRA cleanup. (+)
+** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
+** [$STARLING weekly meeting. (D)
+** Look at an assertion error reported by Yuri. (+)
+
+* 2018-01-09
+** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
+** Look at an assertion error reported by Yuri. (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-01-10
+** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
+** Look at an assertion error reported by Yuri (fixed). (D)
+** Investigate a new error reported by Sander (caused by non-volatile datafileArray?). (+)
+** Merge recent performance/memory optimizations to 16EP3. (P)
+** [$xENON-4348 (ArrayIndexOutOfBoundsException from Lucene). (+)
+
+* 2018-01-11
+** [$xENON-4349 (Val's test results). (+)
+** Merge recent performance/memory optimizations to 16EP3. (P)
+** [$xENON-4348 (ask the customer to turn on assertion?). (P)
+** [$xENON-4318/[$VAULT2-2406 (performance test in progress). (P)
+
+* 2018-01-12
+** [$xENON-4318/[$VAULT2-2406 (performance test in progress). (P)
+** Set up Fortify Audit Workbench. (+)
+** Merge recent performance/memory optimizations to 16EP3. (P)
+** 1-on-1 with Perica. (D) 
+
 -------- 2018-01-02 ~ 2018-01-05
 
 * 2018-01-02
