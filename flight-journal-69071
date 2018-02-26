@@ -1,5 +1,21 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-02-22 ~ 2018-02-24
+
+* 2018-02-22
+** WFH/PM.
+** Email backlog. (D)
+** Fix a Jenkins issue with build artifacts. (+)
+** New APIs for segment creation (responded to feedback on wiki). (P)
+
+* 2018-02-23
+** New APIs for segment creation. (P)
+** Look into a regression after Lucene upgrade (closed reader). (+)
+** 1-on-1 with Perica. (D)
+
+* 2018-02-24
+** Look into the closed reader error after Lucene upgrade (not a regression though). (P)
+
 -------- 2018-02-11 ~ 2018-02-14
 
 * 2018-02-11
