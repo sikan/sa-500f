@@ -1,5 +1,51 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-03-05 ~ 2018-03-09
+
+* 2018-03-05
+** Work on issues with background tasks caused by the close of a Lucene index. (P)
+** New APIs for segment creation. (P)
+
+* 2018-03-06
+** Work on issues with background tasks caused by the close of a Lucene index (regressions). (P)
+** New APIs for segment creation. (P)
+** [$STARLING weekly meeting. (D)
+** [$xENON weekly meeting. (D)
+
+* 2018-03-07
+** Work on issues with background tasks caused by the close of a Lucene index (regressions). (P)
+** New APIs for segment creation. (P)
+
+* 2018-03-08
+** Work on issues with background tasks caused by the close of a Lucene index (segment state changed during cross-merge). (P)
+** New APIs for segment creation. (P)
+** Teatime with Dingmeng and Tony. (+)
+
+* 2018-03-09
+** Work on issues with background tasks caused by the close of a Lucene index (another file not found exception). (P)
+** New APIs for segment creation. (P)
+
+-------- 2018-02-26 ~ 2018-03-02
+
+* 2018-02-26
+** Look into the closed reader error after Lucene upgrade. (P)
+** New APIs for segment creation. (P)
+
+* 2018-02-27
+** Look into the closed reader error after Lucene upgrade (one more error with background tasks). (P)
+** [$STARLING weekly meeting. (D)
+** [$xENON weekly meeting. (D)
+
+* 2018-02-28
+** Work on issues with background tasks caused by the close of a Lucene index (root cause found). (P)
+
+* 2018-03-01
+** Work on issues with background tasks caused by the close of a Lucene index. (P)
+** Fix a memory leak caused by unreferenced generations of segment lists not being removed. (+)
+
+* 2018-03-02
+** Work on issues with background tasks caused by the close of a Lucene index. (P)
+
 -------- 2018-02-22 ~ 2018-02-24
 
 * 2018-02-22
