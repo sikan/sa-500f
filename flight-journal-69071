@@ -1,5 +1,38 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-03-19 ~ 2018-03-23
+
+* 2018-03-19
+** Merge recent fixes for LMPI to later versions. (P)
+
+-------- 2018-03-12 ~ 2018-03-16
+
+* 2018-03-12
+** SOP training courses (updated versions). (+)
+** Run [$xENON-4318 test without eclipse and use WUKONG as storage. (+)
+** New APIs for segment creation. (P)
+
+* 2018-03-13
+** Fix the test to work around LUCENE-1431. (+)
+** Old and new issues with (not) deleting LMPI segments on checkpoint(). (+)
+** [$STARLING weekly meeting. (D)
+** [$xENON weekly meeting. (D)
+
+* 2018-03-14
+** Old and new issues with (not) deleting LMPI segments on checkpoint() (discuss with Rotterdam how to proceed). (P)
+** 1-on-1 with Perica. (D)
+** Help Tony look into an issue related the access right of database administrator in a cluster. (+)
+
+* 2018-03-15
+** Old and new issues with (not) deleting LMPI segments on checkpoint() (fixed). (P)
+** Merge recent fixes for LMPI to later versions. (P)
+** Interview one candidate for [$STARLING. (D)
+** Help Tony look into an error related to a wrong magic number. (+)
+
+* 2018-03-16
+** Merge recent fixes for LMPI to later versions. (P)
+** [$xENON brainstorming session. (D)
+
 -------- 2018-03-05 ~ 2018-03-09
 
 * 2018-03-05
