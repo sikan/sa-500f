@@ -5,6 +5,26 @@
 * 2018-03-19
 ** Merge recent fixes for LMPI to later versions. (P)
 
+* 2018-03-20
+** Merge recent fixes for LMPI to later versions. (P)
+** Investigate the wong magic number corruption case using CSI. (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-03-21
+** Merge recent fixes for LMPI to later versions (issue with system sessions since EP3). (P)
+** Investigate the wong magic number corruption case using CSI (garbage in log file, email discussions). (P)
+
+* 2018-03-22
+** Investigate the wong magic number corruption case using CSI (garbage in log file, email discussions). (P)
+** Test Val's fix for cluster system sessions. (+)
+** 1-on-1 with Perica (performance plan). (D)
+** Discuss some [$STARLING/[$xENON architecture issues with Tony. (+)
+
+* 2018-03-23
+** [$xENON-4318 (set up a Linux VM environment for testing). (+)
+** New APIs for segment creation. (P)
+** [$xENON brainstorming session. (D)
+
 -------- 2018-03-12 ~ 2018-03-16
 
 * 2018-03-12
