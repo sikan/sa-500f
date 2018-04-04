@@ -1,5 +1,18 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-04-02 ~ 2018-04-04
+
+* 2018-04-02
+** New APIs for segment creation. (P)
+
+* 2018-04-03
+** Investigate a log corruption error during online recovery (reported by Sander). (+)
+** Enhance the concurrency test for online library backup/restore. (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-04-04
+** Investigate a log corruption error during online recovery (found/fixed only one harmless bug). (P)
+
 -------- 2018-03-26 ~ 2018-03-30
 
 * 2018-03-26
