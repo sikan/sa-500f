@@ -1,5 +1,31 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-04-08 ~ 2018-04-13
+
+* 2018-04-08
+** Off.
+
+* 2018-04-09
+** Read Philip's proposal for changes.dita. (+)
+** New APIs for segment creation. (P)
+
+* 2018-04-10
+** [$xENON-4371 (online recovery issue caused by LrEnd). (+)
+** Create [$xENON-4372 (AdminFX crash) (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-04-11
+** New APIs for segment creation. (P)
+** Help Elaine with a corrupted file-based backup. (+)
+
+* 2018-04-12
+** Set up the new dev VM in Tokyo lab and test the 11.1.7.1 build locally. (+)
+** New APIs for segment creation. (P)
+
+* 2018-04-13
+** New APIs for segment creation (the whole weekend, initial checkin). (P)
+** Bas's session about relational storage in [$xENON. (D)
+
 -------- 2018-04-02 ~ 2018-04-04
 
 * 2018-04-02
@@ -251,12 +277,12 @@
 ** Merge recent performance/memory optimizations to 16EP3 (minor regressions, issues with read-only transactions on replicas). (D)
 ** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
-** [$xENON-4318/[$VAULT2-2406 (performance test in progress, local pure xDB test). (P)
+** [$xENON-4318/[$VAULT2-2406 (performance test in progress, local pure [$xENON test). (P)
 
 * 2018-01-17
 ** Off/AM.
 ** Investigate the newly revealed issue with RO transactions on replicas. (P)
-** [$xENON-4318/[$VAULT2-2406 (local pure xDB test done, updated JIRA, collected heap dumps). (P)
+** [$xENON-4318/[$VAULT2-2406 (local pure [$xENON test done, updated JIRA, collected heap dumps). (P)
 
 * 2018-01-18
 ** Review Philip's [[xENON Threat Model]]. (+)
