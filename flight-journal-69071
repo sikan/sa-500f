@@ -1,5 +1,51 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-04-23 ~ 2018-04-28
+
+* 2018-04-23
+** New APIs for segment creation (CLI, AdminFX, etc.). (P)
+
+* 2018-04-24
+** New APIs for segment creation (AdminFX). (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-04-25
+** New APIs for segment creation (AdminFX, and discussion with Philip). (P)
+** Investigate issues with attaching 11.1 libraries found in Val's new upgrade test. (+)
+** [$STARLING weekly meeting. (D)
+
+* 2018-04-26
+** New APIs for segment creation (AdminFX, changes.dita, etc.). (P)
+** Investigate issues with new log records generated during the undo phase of online recovery (use the transaction id of the restore session instead of the recovery session). (D)
+
+* 2018-04-27
+** New APIs for segment creation (tested AdminFX against 10+K segments, replaced ChoiceBox with ComboBox). (P)
+
+* 2018-04-28
+** Off.
+
+-------- 2018-04-16 ~ 2018-04-20
+
+* 2018-04-16
+** New APIs for segment creation (failing tests). (P)
+** Investigate an online recovery issue where a leaf page's pageLSN is found to be 0. (+)
+
+* 2018-04-17
+** New APIs for segment creation (tests). (P)
+** Investigate an online recovery issue where a leaf page's pageLSN is found to be 0 (page flushed with no pageLSN). (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-04-18
+** Create [$xENON-4372 (undo the creation of physical files if online-restore/change-binding fails) (+)
+** Investigate an online recovery issue where a leaf page's pageLSN is found to be 0 (addRecord() skipped during online recovery). (D)
+
+* 2018-04-19
+** New APIs for segment creation. (P)
+
+* 2018-04-20
+** New APIs for segment creation. (P)
+** 1-on-1 with Perica. (D)
+
 -------- 2018-04-08 ~ 2018-04-13
 
 * 2018-04-08
@@ -99,7 +145,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2018-03-14
-** Old and new issues with (not) deleting LMPI segments on checkpoint() (discuss with Rotterdam how to proceed). (P)
+** Old and new issues with (not) deleting LMPI segments on checkpoint() (discussion about how to proceed). (P)
 ** 1-on-1 with Perica. (D)
 ** Help Tony look into an issue related the access right of database administrator in a cluster. (+)
 
