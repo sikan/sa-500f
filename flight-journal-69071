@@ -1,5 +1,25 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-05-02 ~ 2018-05-04
+
+* 2018-05-02
+** Check out Philip's new AdminFX changes. (+)
+** Mandatory compliance trainings. (D)
+** [$xENON-4318 (testing). (P)
+** Look into failing AdminFx tests. (+)
+
+* 2018-05-03
+** Mandatory compliance training (GDPR). (D)
+** Investigate a federation restore failure (probably caused by failing to update paths in KVS). (+)
+** Look into failing AdminFx tests. (D)
+** [$xENON-4318 (testing). (P)
+
+* 2018-05-04
+** Fix an issue caused by using the transaction id of the restore session for new log records during online recovery. (+)
+** Continue investigating remaining issues found in the concurrency test for online library restore. (+)
+** Make importNode() keep library's detachability. (+)
+** [$xENON-4318 (testing). (P)
+
 -------- 2018-04-23 ~ 2018-04-28
 
 * 2018-04-23
