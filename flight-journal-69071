@@ -1,5 +1,13 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON
 
+-------- 2018-05-07 ~ 2018-05-11
+
+* 2018-05-07
+** [$xENON-4318 (testing). (P)
+** WFH/PM.
+** Continue investigating remaining issues found in the concurrency test for online library restore (transaction tables got mixed up). (P)
+** Fix an assertion error triggered by changes to importNode(). (+)
+
 -------- 2018-05-02 ~ 2018-05-04
 
 * 2018-05-02
