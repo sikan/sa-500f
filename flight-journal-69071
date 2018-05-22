@@ -1,6 +1,12 @@
-[$VAULT2 [$OTTER [$TITAN [$NEON
+[$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
-SDX?
+-------- 2018-05-21 ~ 2018-05-25
+
+* 2018-05-21
+** [$xENON-4318 (testing). (P)
+** Investigate the failures in the most recent 11.1 nightly. (+)
+** [$STARLING weekly meeting. (D)
+** Deserialization support for detachable libraries. (P)
 
 -------- 2018-05-14 ~ 2018-05-18
 
@@ -14,12 +20,15 @@ SDX?
 ** [$xENON weekly meeting. (D)
 
 * 2018-05-16
+** [$xENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 
 * 2018-05-17
+** [$xENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 
 * 2018-05-18
+** [$xENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 ** 1-on-1 with Perica. (D)
 
@@ -44,6 +53,7 @@ SDX?
 ** Investigate a one-off error from segment list cache found in SDX test. (+)
 
 * 2018-05-10
+** [$xENON-4318 (testing). (P)
 ** Make sure library scope file ids never exceed 2^20. (+)
 ** Investigate failing recovery tests (transactions before/after crash got mixed up on config node??). (P)
 
