@@ -1,5 +1,33 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-05-28 ~ 2018-06-01
+
+* 2018-05-28
+** Deserialization support for detachable libraries (check potential issues with segment naming). (+)
+** [$xENON-4318 (testing, summary). (P)
+** Merge recent changes to Main. (+)
+** Investigate failing recovery tests (Val's fix in place). (+)
+
+* 2018-05-29
+** Merge recent changes to Main. (D)
+** Investigate failing recovery tests (Val's fix not working?). (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-05-30
+** Investigate a deserialization issue reported by Sander (issues with initialization of indexes). (+)
+** Investigate failing recovery tests (Val's fix works this time). (D)
+** Create a wiki page to summarize the status of deserialization support. (+)
+
+* 2018-05-31
+** [$xENON-4172 (detach() hangs when nested in a read-only transaction, use new API instead). (+)
+** Fix the issue that segments may remain in the cleaner's queue when we need to delete them on rollback. (D)
+** Create a wiki page to summarize the status of deserialization support. (P)
+
+* 2018-06-01
+** Investigate a library backup issue on replica (caused by getNextLSN() pointing the middle of a log record). (+)
+** 1-on-1 with Perica. (D)
+** Create a wiki page to summarize the status of deserialization support. (P)
+
 -------- 2018-05-21 ~ 2018-05-25
 
 * 2018-05-21
