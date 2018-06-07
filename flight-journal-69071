@@ -1,5 +1,21 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-06-04 ~ 2018-06-08
+
+* 2018-06-04
+** Create a wiki page to summarize the status of deserialization support. (D)
+** Fix the deserialization issue with the initialization of path value indexes (confirmed with Bas). (D)
+** Fix an assertion error caused by the segment cleaner subcommitting the whole transaction. (+)
+
+* 2018-06-05
+** Read wiki articles about [$VAULT. (+)
+** [$xENON weekly meeting. (D)
+** Report the Jenkins build history issue to Philip. (+)
+
+* 2018-06-06
+** Read wiki articles about [$VAULT. (D)
+** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+
 -------- 2018-05-28 ~ 2018-06-01
 
 * 2018-05-28
@@ -11,6 +27,7 @@
 * 2018-05-29
 ** Merge recent changes to Main. (D)
 ** Investigate failing recovery tests (Val's fix not working?). (P)
+** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
 * 2018-05-30
