@@ -16,6 +16,13 @@
 ** Read wiki articles about [$VAULT. (D)
 ** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
 
+* 2018-06-07
+** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+
+* 2018-06-08
+** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$VAULT2-7088 (read-only transactions reading accessing deleted segments). (+)
+
 -------- 2018-05-28 ~ 2018-06-01
 
 * 2018-05-28
