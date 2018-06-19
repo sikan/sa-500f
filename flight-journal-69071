@@ -12,6 +12,19 @@
 ** [$VAULT2-7088 (more discussions). (P)
 ** [$OTTER Shanghai team building activity (kayaking at Gucun Park). (D)
 
+* 2018-06-13
+** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$VAULT2-7088 (more discussions, created [$xENON-4429). (P)
+
+* 2018-06-14
+** [$xENON-4375 (delete leftover files caused by a failed change-binding, jdb!!). (P)
+** Read Elain's benchmark report. (+)
+
+* 2018-06-15
+** [$VAULT2-7088 (check session type at low level in [$xENON when data file is missing). (D)
+** [$xENON-4375 (delete leftover files caused by a failed change-binding, issues with StreamByteChannel??). (P)
+** 1-on-1 with Perica. (D)
+
 -------- 2018-06-04 ~ 2018-06-08
 
 * 2018-06-04
