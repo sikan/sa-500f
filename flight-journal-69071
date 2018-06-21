@@ -1,5 +1,17 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-06-19 ~ 2018-06-22
+
+* 2018-06-19
+** [$VAULT2-6911 (checked commits between two builds). (+)
+** [$xENON-4318 (no space left on disk where there is still 2.7TB :( ). (+)
+** [$xENON-4375 (issues with StreamByteChannel). (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-06-20
+** Create a wiki page to summarize the optimizations for FileidMap. (D)
+** Investigate a hanging issue caused by checking read preference quorum on an online restored page. (+)
+
 -------- 2018-06-11 ~ 2018-06-15
 
 * 2018-06-11
