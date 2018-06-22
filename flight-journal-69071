@@ -12,6 +12,16 @@
 ** Create a wiki page to summarize the optimizations for FileidMap. (D)
 ** Investigate a hanging issue caused by checking read preference quorum on an online restored page. (+)
 
+* 2018-06-21
+** [$xENON-4375 (issues with StreamByteChannel, wait(timeout) doesn't help). (P)
+** Create a wiki page to summarize the optimizations for segment list cache. (+)
+
+* 2018-06-22
+** [$xENON-4318 (no space left on disk: caused by 'dir_index' on ext4?). (+)
+** Create a wiki page to summarize the optimizations for segment list cache. (+)
+** Answer Damien's question about moving libraries across federations in 10.5. (+)
+** [$xENON-4375 (issues with StreamByteChannel). (P)
+
 -------- 2018-06-11 ~ 2018-06-15
 
 * 2018-06-11
