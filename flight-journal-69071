@@ -1,11 +1,36 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-06-25 ~ 2018-06-29
+
+* 2018-06-25
+** [$xENON-4318 (too slow with dir_index disabled, data files now created in multiple directories). (P)
+** [$xENON-4375 (issues with StreamByteChannel). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2018-06-26
+** [$xENON-4375 (temporary fix for StreamByteChannel). (P)
+** Compare results of cluster recovery test from different branches. (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-06-27
+** Look into a hanging issue on Jenkins (config node failed to exit). (+)
+** [$xENON-4375 (merged to higher branches and enabled the check). (D)
+** Compare results of cluster recovery test from different branches. (P)
+** Check out the new office. (D)
+
+* 2018-06-28
+** Compare results of cluster recovery test from different branches. (P)
+** FY18 year-end self-review. (P)
+
+** FY18 year-end self-review (submitted). (P)
+
 -------- 2018-06-19 ~ 2018-06-22
 
 * 2018-06-19
 ** [$VAULT2-6911 (checked commits between two builds). (+)
 ** [$xENON-4318 (no space left on disk where there is still 2.7TB :( ). (+)
 ** [$xENON-4375 (issues with StreamByteChannel). (P)
+** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
 * 2018-06-20
@@ -17,7 +42,7 @@
 ** Create a wiki page to summarize the optimizations for segment list cache. (+)
 
 * 2018-06-22
-** [$xENON-4318 (no space left on disk: caused by 'dir_index' on ext4?). (+)
+** [$xENON-4318 (no space left on disk: caused by 'dir_index' on ext4?). (P)
 ** Create a wiki page to summarize the optimizations for segment list cache. (+)
 ** Answer Damien's question about moving libraries across federations in 10.5. (+)
 ** [$xENON-4375 (issues with StreamByteChannel). (P)
