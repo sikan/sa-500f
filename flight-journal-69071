@@ -1,5 +1,25 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-07-02 ~ 2018-07-06
+
+* 2018-07-02
+** Unpack stuff and set up the table, network, etc. (D)
+** Compare results of cluster recovery test from different branches. (P)
+** [$xENON-4318 (last configuration finished). (D)
+** [$STARLING weekly meeting. (D)
+
+* 2018-07-03
+** Compare results of cluster recovery test from different branches. (D)
+** [$xENON weekly meeting. (D)
+** Configure the Linux GUI dev environment in Tokyo lab. (P)
+** JIRA cleanup. (+)
+** Check with Val whether the check for updating multiple nodes can be done during 2PC time. (+)
+
+* 2018-07-04
+** [$VAULT2-7383 (joined WebEx with support and the customer, came up with a temporary workaround, communicated with [$VAULT/[$xENON team). (+)
+** Help Elaine with a connection failure issue (the ip of another host gets resolved as a loopback address). (+)
+** Continue investigating the StreamByteChannel issue (NioEventLoop closed the channel??). (P)
+
 -------- 2018-06-25 ~ 2018-06-29
 
 * 2018-06-25
@@ -22,7 +42,10 @@
 ** Compare results of cluster recovery test from different branches. (P)
 ** FY18 year-end self-review. (P)
 
+* 2018-06-29
 ** FY18 year-end self-review (submitted). (P)
+** Look into a mysterious test issue found by Philip (faulty logging configuration?). (+)
+** Pack stuff for moving (farewell Wujiaochang). (D)
 
 -------- 2018-06-19 ~ 2018-06-22
 
