@@ -18,7 +18,11 @@
 * 2018-07-04
 ** [$VAULT2-7383 (joined WebEx with support and the customer, came up with a temporary workaround, communicated with [$VAULT/[$xENON team). (+)
 ** Help Elaine with a connection failure issue (the ip of another host gets resolved as a loopback address). (+)
-** Continue investigating the StreamByteChannel issue (NioEventLoop closed the channel??). (P)
+** Continue investigating the StreamByteChannel issue (Epoll/NioEventLoop closed the channel??). (P)
+
+* 2018-07-05
+** Continue investigating the StreamByteChannel issue (informed Val of Epoll/NioEventLoop). (D)
+** [$xENON-4398 (plotted data and updated the case with some initial conclusions). (P)
 
 -------- 2018-06-25 ~ 2018-06-29
 
