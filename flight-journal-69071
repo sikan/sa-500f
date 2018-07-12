@@ -1,5 +1,27 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-07-09 ~ 2018-07-13
+
+* 2018-07-09
+** Investigate the communication overhead during the retrieval of FileidMap. (P)
+
+* 2018-07-10
+** Sick day.
+
+* 2018-07-11
+** Sick day | WFH.
+** Test [$OTTER VPN from home. (+)
+** Investigate the communication overhead during the retrieval of FileidMap. (P)
+** Investigate a segment list caching issue found in the latest [$VAULT build. (+)
+
+* 2018-07-12
+** Test [$OTTER VPN from home (before coming to the office). (P)
+** Report the perforce connection issue. (+)
+** Optimize the retrieval of access/binding info and FileidMap (for the library creation scenario). (P)
+
+* 2018-07-13
+** Off.
+
 -------- 2018-07-02 ~ 2018-07-06
 
 * 2018-07-02
@@ -23,6 +45,10 @@
 * 2018-07-05
 ** Continue investigating the StreamByteChannel issue (informed Val of Epoll/NioEventLoop). (D)
 ** [$xENON-4398 (plotted data and updated the case with some initial conclusions). (P)
+** Investigate the communication overhead during the retrieval of FileidMap. (P)
+
+* 2018-07-06
+** Off.
 
 -------- 2018-06-25 ~ 2018-06-29
 
