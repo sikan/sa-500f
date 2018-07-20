@@ -15,6 +15,11 @@
 ** WFH.
 ** Implement asynchronous deletion of detachable segments. (P)
 
+* 2018-07-19
+** WFH.
+** Implement asynchronous deletion of detachable segments. (P)
+** Validate the procedure to migrate libraies to another database (split the original database) in 10.5 (for [$VAULT). (D)
+
 -------- 2018-07-09 ~ 2018-07-13
 
 * 2018-07-09
