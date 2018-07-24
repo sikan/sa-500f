@@ -1,5 +1,19 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+-------- 2018-07-23 ~ 2018-07-27
+
+* 2018-07-23
+** WFH.
+** [$xENON-4355 (Lucene blob segments not shrinking). (P)
+** [$STARLING weekly meeting. (D)
+
+* 2018-07-24
+** [$xENON-4398 (results from test against 16.5). (D)
+** [$xENON-4398 (initial investigation results: both blob segments active). (P)
+** [$VAULT2-7499 (heap dump analysis). (P)
+** [$xENON weekly meeting. (D)
+** Set up the new laptop. (+)
+
 -------- 2018-07-16 ~ 2018-07-20
 
 * 2018-07-16
