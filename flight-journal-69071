@@ -1,5 +1,7 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON SDX?
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 -------- 2018-07-23 ~ 2018-07-27
 
 * 2018-07-23
@@ -13,6 +15,23 @@
 ** [$VAULT2-7499 (heap dump analysis). (P)
 ** [$xENON weekly meeting. (D)
 ** Set up the new laptop. (+)
+
+* 2018-07-25
+** [$xENON-4355 (discussion with Sherry). (P)
+** Set up the new laptop. (P)
+** 1-on-1 with Huaqing. (D)
+** [$OTTER Shanghai all-hands. (D)
+
+* 2018-07-26
+** Instruct Damien on how to use path mapper for library segments during the migration. (+)
+** Implement asynchronous deletion of detachable segments. (P)
+
+* 2018-07-27
+** Implement asynchronous deletion of detachable segments. (P)
+** Respond to Damien's explanation of the path mapper issue found in library restore. (+)
+** Activate YourKit license to the new laptop. (D)
+** 1-on-1 with Perica. (D)
+** [$VAULT2-7499 (heap dump analysis). (P)
 
 -------- 2018-07-16 ~ 2018-07-20
 
