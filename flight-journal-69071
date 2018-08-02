@@ -2,6 +2,22 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-07-30 ~ 2018-08-03
+
+* 2018-07-30
+** Implement asynchronous deletion of detachable segments. (P)
+** [$STARLING weekly meeting. (D)
+
+* 2018-07-31
+** Explain the use of repitition of unit tests to Philip. (+)
+** Implement asynchronous deletion of detachable segments (checked in). (D)
+** [$xENON weekly meeting. (D)
+
+* 2018-08-01
+** WFH.
+** Improve assertions that check the existence of segments (whether to wait for asynchronous deletion or not). (D)
+** Fix regressions caused by asynchronous deletion of segments (globallyOldestUndoLSN not advancing quickly enough on master?). (P)
+
 -------- 2018-07-23 ~ 2018-07-27
 
 * 2018-07-23
