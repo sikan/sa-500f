@@ -2,6 +2,19 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-08-06 ~ 2018-08-10
+
+* 2018-08-06
+** Fix regressions caused by asynchronous deletion of segments. (P)
+** New API to create a child detachable library on a different data node. (P)
+** Familiarize with the new Gradle build. (P)
+
+* 2018-08-07
+** Fix regressions caused by asynchronous deletion of segments. (P)
+** New API to create a child detachable library on a different data node. (P)
+** Familiarize with the new Gradle build (reported a few issues to Philip). (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2018-07-30 ~ 2018-08-03
 
 * 2018-07-30
@@ -17,6 +30,16 @@
 ** WFH.
 ** Improve assertions that check the existence of segments (whether to wait for asynchronous deletion or not). (D)
 ** Fix regressions caused by asynchronous deletion of segments (globallyOldestUndoLSN not advancing quickly enough on master?). (P)
+
+* 2018-08-02
+** [$xENON-4433. (+)
+** Fix regressions caused by asynchronous deletion of segments. (P)
+** Fix an issue caused by segments having been force-deleted before SegmentRemover can process them. (+)
+
+* 2018-08-03
+** Fix regressions caused by asynchronous deletion of segments. (P)
+** Investigate a hanging issue when force-adding a node. (+)
+** Carl's farewell lunch. (D)
 
 -------- 2018-07-23 ~ 2018-07-27
 
