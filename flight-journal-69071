@@ -15,6 +15,23 @@
 ** Familiarize with the new Gradle build (reported a few issues to Philip). (P)
 ** [$xENON weekly meeting. (D)
 
+* 2018-08-08
+** Fix DetachLibrary sample test. (D)
+** Improve the exception when change-binding is attempted in a non-cluster environment. (+)
+** Investigate a test failure caused by data nodes changing listening ports. (+)
+** New API to create a child detachable library on a different data node. (P)
+** Watch the recording of [$xENON cluster demo. (+)
+
+* 2018-08-09
+** Watch the recording of [$xENON cluster demo. (D)
+** [$xENON-4429 (closed the case and update other related cases with some notes). (D)
+** [$VAULT2-7499 (heap dump analysis, too many PageImpl instances for one page?). (P)
+
+* 2018-08-10
+** Explain the version parameter in online restore API to Mark. (+)
+** New API to create a child detachable library on a different data node. (P)
+** 1-on-1 with Perica. (D)
+
 -------- 2018-07-30 ~ 2018-08-03
 
 * 2018-07-30
