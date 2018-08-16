@@ -2,6 +2,26 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-08-13 ~ 2018-08-17
+
+* 2018-08-13
+** New API to create a child detachable library on a different data node. (P)
+** Follow-up questions from Loic about the version parameter in online restore API. (+)
+** Investigate a backslash issue with library backup (we thought we'd fixed once and for all?). (+)
+
+* 2018-08-14
+** Remove simple path mapper used by AdminFX (not needed anymore). (+)
+** [$VAULT2-7499 (heap dump analysis). (P)
+** [$xENON weekly meeting. (D)
+** Fix a SpotBugs warning (valueOf -> parseInt). (+)
+** [$VAULT2-7699 (questions about path mapper). (+)
+** Summarize the backslash issue and the potential solution. (+)
+
+* 2018-08-15
+** WFH.
+** [$VAULT2-7499 (heap dump analysis, indeed there is a transaction leak). (P)
+** Implement fixes for the backslash issue. (P)
+
 -------- 2018-08-06 ~ 2018-08-10
 
 * 2018-08-06
