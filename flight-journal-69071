@@ -2,6 +2,12 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-08-20 ~ 2018-08-24
+
+* 2018-08-20
+** Answer Mark's questions related to library backup. (+)
+** Implement fixes for the backslash issue (code cleanup first). (P)
+
 -------- 2018-08-13 ~ 2018-08-17
 
 * 2018-08-13
@@ -21,6 +27,12 @@
 ** WFH.
 ** [$VAULT2-7499 (heap dump analysis, indeed there is a transaction leak). (P)
 ** Implement fixes for the backslash issue. (P)
+
+* 2018-08-16
+** Implement fixes for the backslash issue (found more issues). (P)
+
+* 2018-08-17
+** Off.
 
 -------- 2018-08-06 ~ 2018-08-10
 
