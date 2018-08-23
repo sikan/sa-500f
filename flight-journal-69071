@@ -8,12 +8,22 @@
 ** Answer Mark's questions related to library backup. (+)
 ** Implement fixes for the backslash issue (code cleanup first). (P)
 
+* 2018-08-21
+** Provide feedback on Philip's new Jenkins email template. (+)
+** Implement fixes for the backslash issue. (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-08-22
+** WFH.
+** Implement fixes for the backslash issue. (P)
+
 -------- 2018-08-13 ~ 2018-08-17
 
 * 2018-08-13
 ** New API to create a child detachable library on a different data node. (P)
 ** Follow-up questions from Loic about the version parameter in online restore API. (+)
 ** Investigate a backslash issue with library backup (we thought we'd fixed once and for all?). (+)
+** [$STARLING weekly meeting. (D)
 
 * 2018-08-14
 ** Remove simple path mapper used by AdminFX (not needed anymore). (+)
