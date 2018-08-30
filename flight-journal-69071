@@ -2,6 +2,25 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-08-27 ~ 2018-08-31
+
+* 2018-08-27
+** Read some articles relates to NUMA. (+)
+** Create [$xENON-4437 (index cleaner still working during the cleanliness check). (+)
+** Implement fixes for the backslash issue (merge). (P)
+** New API to create a child detachable library on a different data node. (P)
+
+* 2018-08-28
+** Implement fixes for the backslash issue (merge). (P)
+** Implement name check for databases and segments. (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-08-29
+** Fix regressions caused by the new name check for databases and segments. (D)
+** New API to create a child detachable library on a different data node. (P)
+** Fix a few issuse in code (SpotBugs, more friendly exceptions for crash/recovery tests, etc.). (+)
+** Emma's session about Kubernetes. (D)
+
 -------- 2018-08-20 ~ 2018-08-24
 
 * 2018-08-20
