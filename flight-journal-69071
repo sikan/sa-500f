@@ -16,10 +16,24 @@
 ** [$xENON weekly meeting. (D)
 
 * 2018-08-29
+** WFH.
 ** Fix regressions caused by the new name check for databases and segments. (D)
 ** New API to create a child detachable library on a different data node. (P)
 ** Fix a few issuse in code (SpotBugs, more friendly exceptions for crash/recovery tests, etc.). (+)
 ** Emma's session about Kubernetes. (D)
+
+* 2018-08-30
+** Investigate a very weird AdminFX test regression (probably a TestFX bug). (D)
+** Investigate a config lock contention involving the creation of system sessions. (+)
+** [$VAULT2-7872 ([$VAULT expected DETACHABLE segments to be auto-deleted). (+)
+
+* 2018-08-31
+** Briefly look into the seemingly hanging builds on Jenkins and report the issues to Philip. (+)
+** Investigate a config lock contention involving the creation of system sessions (fixed, also added double quiesce()). (D)
+** [$VAULT2-7872 (further explanation for [$VAULT team). (D)
+** Created [$xENON-4438 (support for removing an empty DETACHABLE segment from a detachable library). (+)
+** [$VAULT2-7456 (related to asynchronous deletion of segments, but [$VAULT team used the wrong jar). (+)
+** Briefly help John analyze the profiles collected from recent [$VAULT performance test. (+)
 
 -------- 2018-08-20 ~ 2018-08-24
 
