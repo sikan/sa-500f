@@ -2,6 +2,23 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-09-03 ~ 2018-09-07
+
+* 2018-09-03
+** New API to create a child detachable library on a different data node. (P)
+** Help John look into the performance profiles. (+)
+** Jingjing's farewell lunch. (D)
+
+* 2018-09-03
+** New API to create a child detachable library on a different data node (new crash/recovery test, issues with DatabaseProxy, etc.). (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-09-04
+** WFH.
+** Explain to Simon the recent failures in [$VAULT integration and how the new API will work. (+)
+** New API to create a child detachable library on a different data node (DatabaseProxy issue fixed, javadoc, etc.). (P)
+** Global tech talk about upcoming Java changes. (D)
+
 -------- 2018-08-27 ~ 2018-08-31
 
 * 2018-08-27
