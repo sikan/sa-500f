@@ -9,15 +9,27 @@
 ** Help John look into the performance profiles. (+)
 ** Jingjing's farewell lunch. (D)
 
-* 2018-09-03
+* 2018-09-04
 ** New API to create a child detachable library on a different data node (new crash/recovery test, issues with DatabaseProxy, etc.). (P)
 ** [$xENON weekly meeting. (D)
 
-* 2018-09-04
+* 2018-09-05
 ** WFH.
 ** Explain to Simon the recent failures in [$VAULT integration and how the new API will work. (+)
 ** New API to create a child detachable library on a different data node (DatabaseProxy issue fixed, javadoc, etc.). (P)
 ** Global tech talk about upcoming Java changes. (D)
+
+* 2018-09-06
+** [$xENON-4355 (tried to download data, but FTP account expired). (P)
+** Make cluster/multi-node tests transition to the new API. (+)
+** Investigate what looks like an LLPI bug. (+)
+
+* 2018-09-07
+** Really bad news from Vojtech T_T.
+** 1-on-1 with Perica. (D)
+** Investigate a deadlock reported by Simon (involving config lock, latch on super block, flushAllDirtyPages, etc.). (+)
+** Create [$xENON-4439 for the above. (+)
+** Create [$xENON-4440 for the LLPI bug. (+)
 
 -------- 2018-08-27 ~ 2018-08-31
 
