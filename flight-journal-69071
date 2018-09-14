@@ -2,6 +2,34 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-09-10 ~ 2018-09-14
+
+* 2018-09-10
+** [$xENON-4439 (this one now looks difficult). (+)
+** [$STARLING weekly meeting. (D)
+
+* 2018-09-11
+** [$xENON-4439 (still no good solution...). (P)
+** Create a concurrent segment deletion test. (+)
+** [$xENON weekly meeting. (D)
+** Discuss the [$VAULT performance status of with John. (+)
+
+* 2018-09-12
+** Double check whether certain fixes need to be backported to 11.1 for [$VAULT EP5. (+)
+** [$VAULT2-8005 (probably caused by a leftover data file of a deleted segment). (+)
+** [$xENON-4433 (wrote a small program to analyze the customer's data, corruption found in LMPI segment structure). (P)
+** Fix an issue with exporting extended bootstrap file. (+)
+** Look into an unknown data node issue reported by Philip (probably caused by cached node names). (+)
+
+* 2018-09-13
+** [$VAULT2-8005 (declined the late night meeting, but added a few remarks). (+)
+** Fix the unknown data node issue reported by Philip. (D)
+** Work on the fix for various issues with concurrent segment deletion. (P)
+
+* 2018-09-14
+** Work on the fix for various issues with concurrent segment deletion. (P)
+** Create [$xENON-4443 (communication layer hanging issue involving library restore channel). (+)
+
 -------- 2018-09-03 ~ 2018-09-07
 
 * 2018-09-03
