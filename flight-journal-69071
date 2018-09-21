@@ -2,6 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-09-17 ~ 2018-09-21
+
+* 2018-09-17
+** Investigate a problem uncovered by flushing pages on undo of segment deletion (transaction not found on config node during recovery). (+)
+** [$xENON-4433 (downloaded the complete federation, still lots of file based Lucene indexes). (+)
+
+* 2018-09-18
+** Answer questions related to libraries/segments from [$VAULT team. (+)
+** [$xENON-4433 (checked with Petr about the LMPI upgrade procedure). (P)
+** Stabilize the build. (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-09-19
+** WFH.
+** Set up a new Ubuntu VM in Fusion. (+)
+** Stabilize the build. (P)
+** Investigate concurrency issues involving syncAllFiles() and segment deletion. (+)
+
+* 2018-09-20
+** Set up the Gradle build (with the help of Philip). (D)
+** Stabilize the build (a new buffer pool issue with !valid pages, asked Bas for advice). (P)
+
+* 2018-09-21
+** Stabilize the build (Bas: write latch released in finally block; wait for Petr's explanation for that behavior). (P)
+** [$xENON-4433 (root cause analysis: looks like a synchronization issue with DatabaseProxy). (P)
+** 1-on-1 with Perica. (D)
+
 -------- 2018-09-10 ~ 2018-09-14
 
 * 2018-09-10
@@ -15,6 +42,7 @@
 ** Discuss the [$VAULT performance status of with John. (+)
 
 * 2018-09-12
+** WFH.
 ** Double check whether certain fixes need to be backported to 11.1 for [$VAULT EP5. (+)
 ** [$VAULT2-8005 (probably caused by a leftover data file of a deleted segment). (+)
 ** [$xENON-4433 (wrote a small program to analyze the customer's data, corruption found in LMPI segment structure). (P)
