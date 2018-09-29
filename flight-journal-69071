@@ -14,6 +14,27 @@
 ** Merge outstanding changes to Main. (P)
 ** Philip's resignation letter T_T.
 
+* 2018-09-27
+** Merge outstanding changes to Main. (D)
+** Stabilize the build. (P)
+** Investigate a recovery issue related global transaction ids. (P)
+** Attempt to not release write latches in finally blocks. (P)
+
+* 2018-09-28
+** Investigate a recovery issue related global transaction ids (set unexpectedly during recovery). (D)
+** Stabilize the build. (P)
+** Investigate the regressions caused by not releasing write latches in finally blocks. (+)
+** Philip's knowledge transfer session (overview of CI setup : Jenkins / pipeline Groovy scripts). (+)
+** [$xENON-4355 (WebEx with EC). (+)
+
+* 2018-09-29
+** Stabilize the build. (P)
+** Investigate the regressions caused by not releasing write latches in finally blocks. (P)
+** [$xENON-4433 (started to debug the issue on the customer's data). (P)
+
+* 2018-09-30
+** Off.
+
 -------- 2018-09-17 ~ 2018-09-21
 
 * 2018-09-17
