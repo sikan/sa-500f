@@ -2,6 +2,16 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-10-08 ~ 2018-10-12
+
+* 2018-10-08
+** Email backlog. (D)
+** FY2019 performance plan. (+)
+** [$xENON-4433 (download the 10.4.4 federation). (+)
+** Have a look at [$VAULT's regex for name validation (it's blacklist). (+)
+** Improve the internal online restore segment id mapper (nonunique mapping detection, foolproof measure, etc.). (+)
+** Stabilize the build. (P)
+
 -------- 2018-09-25 ~ 2018-09-30
 
 * 2018-09-25
