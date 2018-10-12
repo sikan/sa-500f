@@ -12,6 +12,23 @@
 ** Improve the internal online restore segment id mapper (nonunique mapping detection, foolproof measure, etc.). (+)
 ** Stabilize the build. (P)
 
+* 2018-10-09
+** Revert the regex for segment id validation in 11.1 (the fallback option). (D)
+** Update release notes for 11.1.10. (+)
+** Continue investigating the recovery issue caused by global transaction ids. (+)
+** [$xENON weekly meeting. (D)
+
+* 2018-10-10
+** [$xENON-4433 (upgrade issues caused by LMPI segments being mistakenly created as 'unused' before 10.4.5). (P)
+** Store global transaction id in LrBootstrapInfoUpdate. (P)
+
+* 2018-10-11
+** [$xENON-4447 (performance of exporting extended bootstrap file). (+)
+** Store global transaction id in LrBootstrapInfoUpdate. (D)
+** Merge outstanding changes. (P)
+** Help Sherry investigate a customer issue (CURRENT_THREAD_NOT_JOINED during final merge). (+)
+** Add another new concurrency test for segment deletion. (D)
+
 -------- 2018-09-25 ~ 2018-09-30
 
 * 2018-09-25
