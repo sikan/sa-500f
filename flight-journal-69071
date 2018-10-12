@@ -29,6 +29,11 @@
 ** Help Sherry investigate a customer issue (CURRENT_THREAD_NOT_JOINED during final merge). (+)
 ** Add another new concurrency test for segment deletion. (D)
 
+* 2018-10-12
+** Improve the recovery logic for NTA commit records such that undo() is never called. (D)
+** 1-on-1 with Perica (FY2018 performance plan, final review, signatures). (D)
+** [$xENON-4440 (LLPI). (P)
+
 -------- 2018-09-25 ~ 2018-09-30
 
 * 2018-09-25
@@ -412,10 +417,10 @@
 
 * 2018-06-28
 ** Compare results of cluster recovery test from different branches. (P)
-** FY18 year-end self-review. (P)
+** FY2018 year-end self-review. (P)
 
 * 2018-06-29
-** FY18 year-end self-review (submitted). (P)
+** FY2018 year-end self-review (submitted). (P)
 ** Look into a mysterious test issue found by Philip (faulty logging configuration?). (+)
 ** Pack stuff for moving (farewell Wujiaochang). (D)
 
