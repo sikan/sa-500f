@@ -2,6 +2,30 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-10-15 ~ 2018-10-19
+
+* 2018-10-15
+** Fix a page flush issue with force-detach. (D)
+** Investigate an issue probably caused by undoing an NTA commit record. (+)
+
+* 2018-10-16
+** [$xENON-4440 (LLPI). (D)
+** Stabilize the build ('isNTACommitRecord' flag, flush pages before taking the latch on force-detach, etc.). (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-10-17
+** Study the CSI code. (P)
+
+* 2018-10-18
+** Study the CSI code. (P)
+** Investigate a new hanging issue involving the segment cleaner. (+)
+** PM/ENG call about [$xENON. (D)
+
+* 2018-10-19
+** Study the CSI code. (P)
+** Investigate a new hanging issue involving the segment cleaner. (P)
+** 1-on-1 with Perica. (D)
+
 -------- 2018-10-08 ~ 2018-10-12
 
 * 2018-10-08
