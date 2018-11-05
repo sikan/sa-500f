@@ -2,6 +2,30 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-10-29 ~ 2018-11-02
+
+* 2018-10-29
+** Study the CSI code and start to make code changes and fixes. (P)
+
+* 2018-10-30
+** Bas's leaving-[$OTTER email T_T.
+** Read the JavaFX.Next slides from Oracle Code One. (+)
+** Study the CSI code and start to make code changes and fixes. (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-10-31
+** [$xENON-4433 (corruption caused by leftover temporary pages). (+)
+
+* 2018-11-01
+** [$xENON-4433 (modified consistency checker to detect all orphaned pages). (P)
+** Study the CSI code and start to make code changes and fixes. (P)
+
+* 2018-11-02
+** Reply to Michiel inquiry about potential candidates for [$xENON candidate. (+)
+** Fix an issue cauesed by the index cleaner registering new segments during SegmentCleaner.quiesce(). (+)
+** 1-on-1 with Perica. (D)
+** Stabilize the build (collected thread dump and heap dump for what seemed to be, once again, caused by the segment cleaner not being notified). (+)
+
 -------- 2018-10-22 ~ 2018-10-26
 
 * 2018-10-22
