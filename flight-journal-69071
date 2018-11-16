@@ -1,6 +1,55 @@
-[$VAULT2 [$OTTER [$TITAN [$NEON SDX?
+[$VAULT2 [$OTTER [$TITAN [$NEON [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-------- 2018-11-12 ~ 2018-11-16
+
+* 2018-11-12
+** Merge recent changes to Main. (+)
+
+* 2018-11-13
+** Merge recent changes to Main. (D)
+** Make CSI work with the new bootstrap log record format. (P)
+** 1-on-1 with Huaqing. (D)
+** [$xENON weekly meeting. (D)
+
+* 2018-11-14
+** Add debug code to help investigate the index cleaner issue. (+)
+** Investigate issues with OpenJFX 11. (+)
+
+* 2018-11-15
+** Quiesce segment remover ahead of index cleaner as the former may enqueue leaf pages in KVS. (+)
+** [$ARGON-149 (NPE caused synchronous segment removal, lambda action performed during iteration). (+)
+** Investigate issues with OpenJFX 11. (P)
+** Make CSI work with the new bootstrap log record format. (D)
+
+* 2018-11-16
+** Investigate failures of AdminFX tests after the TestFX upgrade (caused by the fix for TestFX issue #599). (+)
+** Read [[Java Is Still Free]]. (+)
+** 1-on-1 with Perica. (D)
+
+-------- 2018-11-05 ~ 2018-11-09
+
+* 2018-11-05
+** Send update about John's status to Perica. (+)
+** Investigate the hanging build where the quiesce() thread and the segment cleaner deadlocked (ahh, a third thread called suspend()). (P)
+
+* 2018-11-06
+** Fix the hanging issue by combining SegmentCleaner and SegmentRemover. (P)
+
+* 2018-11-07
+** Make CSI work with the new bootstrap log record format. (P)
+** Investigate the regressions caused by combining SegmentCleaner and SegmentRemover. (+)
+
+* 2018-11-08
+** Make global transaction id a separate field in 16.5 bootstrap log record (more reasonable and more CSI-friendly). (D)
+** Keep SegmentCleaner and SegmentRemover separate and avoid quiescing while holding the config lock. (+)
+
+* 2018-11-09
+** Fix a new regression related to system-db during uprgade. (+)
+** Make CSI work with the new bootstrap log record format. (P)
+** 1-on-1 with Dingmeng. (+)
+** Bas's knowledge transfer session (relational storage internals). (D)
 
 -------- 2018-10-29 ~ 2018-11-02
 
@@ -21,7 +70,7 @@
 ** Study the CSI code and start to make code changes and fixes. (P)
 
 * 2018-11-02
-** Reply to Michiel inquiry about potential candidates for [$xENON candidate. (+)
+** Reply to Michiel's inquiry about potential candidates for [$xENON candidate. (+)
 ** Fix an issue cauesed by the index cleaner registering new segments during SegmentCleaner.quiesce(). (+)
 ** 1-on-1 with Perica. (D)
 ** Stabilize the build (collected thread dump and heap dump for what seemed to be, once again, caused by the segment cleaner not being notified). (+)
@@ -621,7 +670,7 @@
 
 * 2018-05-14
 ** [$xENON-4318 (testing). (P)
-** Investigate a one-off error from segment list cache found in SDX test (fixed a potential problem caused by out-of-order generations). (P)
+** Investigate a one-off error from segment list cache found in [$ARGON test (fixed a potential problem caused by out-of-order generations). (P)
 
 * 2018-05-15
 ** [$xENON-4318 (testing). (P)
@@ -659,7 +708,7 @@
 ** [$xENON-4318 (testing). (P)
 ** Fix issues caused by failing to update paths in KVS when a mapper is used during federation restore (usage issue). (D)
 ** Investigate failing recovery tests. (P)
-** Investigate a one-off error from segment list cache found in SDX test. (+)
+** Investigate a one-off error from segment list cache found in [$ARGON test. (+)
 
 * 2018-05-10
 ** [$xENON-4318 (testing). (P)
@@ -675,12 +724,12 @@
 ** Check out Philip's new AdminFX changes. (+)
 ** Mandatory compliance trainings. (D)
 ** [$xENON-4318 (testing). (P)
-** Look into failing AdminFx tests. (+)
+** Look into failing AdminFX tests. (+)
 
 * 2018-05-03
 ** Mandatory compliance training (GDPR). (D)
 ** Investigate a federation restore failure (probably caused by failing to update paths in KVS). (+)
-** Look into failing AdminFx tests. (D)
+** Look into failing AdminFX tests. (D)
 ** [$xENON-4318 (testing). (P)
 
 * 2018-05-04
@@ -1243,7 +1292,7 @@
 ** [$VAULT-3893 (suspension of read-only transactions during attach). (+)
 
 * 2017-11-07
-** Help Tony look into a LOCK_NOT_GRANTED issue (SDX packed objects?). (+)
+** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON packed objects?). (+)
 ** Verify and check in the fix for the recovery issue with setUsage(). (D)
 ** [$xENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (P)
 ** [$STARLING weekly meeting. (D)
@@ -1253,12 +1302,12 @@
 ** [$xENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (D)
 ** Fix upgrade issue with unusable segments (found during the investigation of [$xENON-4207). (+)
 ** Dingmeng's all-hands. (D)
-** Help Tony look into a LOCK_NOT_GRANTED issue (SDX). (+)
+** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON). (+)
 
 * 2017-11-09
 ** [$VAULT-3893 (explained another expected issue caued by config lock). (+)
 ** Set up the [$VAULT test environment (mainDatabase not created?). (P)
-** Help Tony look into a LOCK_NOT_GRANTED issue (SDX). (+)
+** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON). (+)
 
 * 2017-11-10
 ** Set up the [$VAULT test environment and launch the test. (P)
