@@ -2,6 +2,17 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-11-19 ~ 2018-11-23
+
+* 2018-11-19
+** Read [[Java Is Still Free]]. (D)
+** [$xENON-4438 (allow users to remove empty segments from a detachable library). (P)
+
+* 2018-11-20
+** Look at some very weird output by RPC tracer (whose behavior seems extremely unpredictable, gave up). (+)
+** [$xENON-4438 (code seemingly working properly, added new tests). (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2018-11-12 ~ 2018-11-16
 
 * 2018-11-12
