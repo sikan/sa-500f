@@ -2,6 +2,36 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-12-03 ~ 2018-12-07
+
+* 2018-12-03
+** Report a new hanging build caused by key space to Petr. (+)
+** Make cluster/multi-node tests transition to the new API (new check-in after the vacation and fixes for test failures). (P)
+** Look into the hanging issue found in online restore tests (corrupted logs -> unreleased latch). (P)
+
+* 2018-12-04
+** Look into the hanging issue found in online restore tests (and another issue with log file extension). (P)
+** [$xENON weekly meeting. (D)
+
+-------- 2018-11-26 ~ 2018-11-30
+
+* 2018-11-26
+** Make cluster/multi-node tests transition to the new API. (P)
+** Look into regressions from online restore tests (but encountered another deadlock issue). (+)
+
+* 2018-11-27
+** Off.
+
+* 2018-11-28
+** Off.
+
+* 2018-11-29
+** Off.
+
+* 2018-11-30
+** Off.
+** nainai... nainai... nainai... T___T
+
 -------- 2018-11-19 ~ 2018-11-23
 
 * 2018-11-19
@@ -12,6 +42,16 @@
 ** Look at some very weird output by RPC tracer (whose behavior seems extremely unpredictable, gave up). (+)
 ** [$xENON-4438 (code seemingly working properly, added new tests). (P)
 ** [$xENON weekly meeting. (D)
+
+* 2018-11-21
+** Off.
+
+* 2018-11-22
+** [$xENON-4450 (a [$xENON customer forgot the password). (+)
+** Make cluster/multi-node tests transition to the new API. (P)
+
+* 2018-11-23
+** Make cluster/multi-node tests transition to the new API. (P)
 
 -------- 2018-11-12 ~ 2018-11-16
 
