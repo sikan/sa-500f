@@ -13,6 +13,18 @@
 ** Look into the hanging issue found in online restore tests (and another issue with log file extension). (P)
 ** [$xENON weekly meeting. (D)
 
+* 2018-12-05
+** Fix the issue with log file extension. (D)
+** Look into the hanging issue found in online restore tests (log file written by system threads got emptied by test logic). (P)
+
+* 2018-12-06
+** Look into the hanging issue found in online restore tests (fixed). (D)
+** Look into random AdminFX failures. (P)
+** Start setting FY2017 goals. (P)
+
+* 2018-12-07
+** Off.
+
 -------- 2018-11-26 ~ 2018-11-30
 
 * 2018-11-26
