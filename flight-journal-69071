@@ -2,6 +2,76 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2018-12-24 ~ 2018-12-29
+
+* 2018-12-24
+** Report the issue with health insurance plan. (D)
+** Inform [$Antwerp team of the JUnit test report issue on Jenkins. (D)
+** Stabilize the build (regressions caused by the fix for remote segment id mapper). (+)
+** Check with Perica on decision regarding custom segment id. (+)
+
+* 2018-12-25
+** [$xENON-4436 (library hierarchy view). (P)
+** Read Philip's AdminFX documentation. (+)
+** Look into a build failure probably caused by concurrent modifications to an ArrayList. (+)
+
+* 2018-12-26
+** Off.
+
+* 2018-12-27
+** Off.
+
+* 2018-12-28
+** Off.
+
+* 2018-12-29
+** Off.
+
+-------- 2018-12-17 ~ 2018-12-21
+
+* 2018-12-17
+** Stabilize the build (regressions, keys without values in name index, etc.). (P)
+
+* 2018-12-18
+** Muhi's all-hands. (D)
+** Stabilize the build. (P)
+** [$xENON weekly meeting. (D)
+
+* 2018-12-19
+** Stabilize the build (recovery issues with config node). (P)
+** Cybala's all-hands. (D)
+** [$xENON-4436 (library hierarchy view). (+)
+
+* 2018-12-20
+** Stabilize the build. (P)
+** [$xENON-4436 (library hierarchy view, fix would be non-trivial). (P)
+** 1-on-1 with Perica. (D)
+
+* 2018-12-21
+** Go through [$VAULT2 issues about the new segment API. (+)
+** Fix an issue with remote segment id mapper that could lead to reusing old segment ids. (+)
+** Stabilize the build (Jenkins JUnit plug-in doesn't show 'failure' but only 'error'?). (P)
+
+-------- 2018-12-10 ~ 2018-12-14
+
+* 2018-12-10
+** Off.
+
+* 2018-12-11
+** Off.
+
+* 2018-12-12
+** Stabilize the build. (P)
+
+* 2018-12-13
+** Implement a mechanism for unit tests to work around the issue where background threads may hold back globallyOldestUndoLSN, blocking the segment remover. (+)
+** Create [$xENON-4456 (statistics: exclude read-only transactions from normal rollbacks). (+)
+** Consolidate create-library methods used by unit tests. (P)
+
+* 2018-12-14
+** Add timeout for waiting until globallyOldestUndoLSN becomes large enough for the segment remover to work. (+)
+** Consolidate create-library methods used by unit tests. (D)
+
 -------- 2018-12-03 ~ 2018-12-07
 
 * 2018-12-03
@@ -20,7 +90,7 @@
 * 2018-12-06
 ** Look into the hanging issue found in online restore tests (fixed). (D)
 ** Look into random AdminFX failures. (P)
-** Start setting FY2017 goals. (P)
+** Start setting FY2019 goals. (P)
 
 * 2018-12-07
 ** Off.
