@@ -2,6 +2,24 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-01-07 ~ 2019-01-11
+
+* 2019-01-07
+** Read Philip's AdminFX documentation. (D)
+** Study the page allocation/releasing logic. (+)
+
+-------- 2019-01-02 ~ 2019-01-04
+
+* 2019-01-02
+** Discuss the custom segment id issue with Perica and Damien via email and JIRA. (+)
+
+* 2019-01-03
+** Add support for custom segment ids. (P)
+
+* 2019-01-04
+** Add support for custom segment ids. (P)
+** Read Philip's AdminFX documentation. (P)
+
 -------- 2018-12-24 ~ 2018-12-29
 
 * 2018-12-24
