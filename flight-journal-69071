@@ -8,6 +8,15 @@
 ** Read Philip's AdminFX documentation. (D)
 ** Study the page allocation/releasing logic. (+)
 
+* 2019-01-08
+** Study the page allocation/releasing logic. (D)
+** Study the implementation of concurrent index. (+)
+** [$xENON weekly meeting. (D)
+
+* 2019-01-09
+** [$VAULT2-9057 (leave comments regarding the regular expressions for name validation). (+)
+** Add support for replacing library context via segment id mapper. (+)
+
 -------- 2019-01-02 ~ 2019-01-04
 
 * 2019-01-02
