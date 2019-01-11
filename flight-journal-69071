@@ -17,6 +17,14 @@
 ** [$VAULT2-9057 (leave comments regarding the regular expressions for name validation). (+)
 ** Add support for replacing library context via segment id mapper. (+)
 
+* 2019-01-10
+** Add support for replacing library context via segment id mapper. (D)
+** Add javadoc for recent work. (+)
+** 1-on-1 with Perica. (D)
+
+* 2019-01-11
+** Create a wiki page to summarize the support for library context, with new ideas to improve/simplify segment id mapper. (+)
+
 -------- 2019-01-02 ~ 2019-01-04
 
 * 2019-01-02
