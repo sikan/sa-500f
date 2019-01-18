@@ -20,6 +20,11 @@
 ** Add support for retaining library contexts during deserialization. (+)
 ** CSI: Add support for Main/16.6. (+)
 
+* 2019-01-18
+** Clear pending/shelved changelists in Perforce. (+)
+** CSI: Add support for Main/16.6. (P)
+** Read the code of relational storage. (+)
+
 -------- 2019-01-07 ~ 2019-01-11
 
 * 2019-01-07
