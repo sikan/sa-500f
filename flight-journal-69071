@@ -2,6 +2,17 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-01-21 ~ 2019-01-25
+
+* 2019-01-21
+** [$xENON-4446 (make superuser sessions able to update database properties in AdminFx). (+)
+
+* 2019-01-22
+** [$xENON-4446 (make superuser sessions able to update database properties in AdminFx). (D)
+** Refresh all affected tabs (open sessions) in AdminFx when a database gets renamed. (+)
+** [$xENON weekly meeting. (D)
+** Investigate hanging builds on Jenkins. (+)
+
 -------- 2019-01-14 ~ 2019-01-18
 
 * 2019-01-14
@@ -9,11 +20,11 @@
 
 * 2019-01-15
 ** Add support for replacing library contexts during attach. (+)
-** Add support for custome segment ids and library contexts in AdminFX. (+)
+** Add support for custome segment ids and library contexts in AdminFx. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2019-01-16
-** Add support for custome segment ids and library contexts in AdminFX. (D)
+** Add support for custome segment ids and library contexts in AdminFx. (D)
 
 * 2019-01-17
 ** Answer Damien's questions about a few issues he enountered during the integration. (+)
@@ -28,7 +39,7 @@
 -------- 2019-01-07 ~ 2019-01-11
 
 * 2019-01-07
-** Read Philip's AdminFX documentation. (D)
+** Read Philip's AdminFx documentation. (D)
 ** Study the page allocation/releasing logic. (+)
 
 * 2019-01-08
@@ -58,7 +69,7 @@
 
 * 2019-01-04
 ** Add support for custom segment ids. (P)
-** Read Philip's AdminFX documentation. (P)
+** Read Philip's AdminFx documentation. (P)
 
 -------- 2018-12-24 ~ 2018-12-29
 
@@ -70,7 +81,7 @@
 
 * 2018-12-25
 ** [$xENON-4436 (library hierarchy view). (P)
-** Read Philip's AdminFX documentation. (+)
+** Read Philip's AdminFx documentation. (+)
 ** Look into a build failure probably caused by concurrent modifications to an ArrayList. (+)
 
 * 2018-12-26
@@ -147,7 +158,7 @@
 
 * 2018-12-06
 ** Look into the hanging issue found in online restore tests (fixed). (D)
-** Look into random AdminFX failures. (P)
+** Look into random AdminFx failures. (P)
 ** Start setting FY2019 goals. (P)
 
 * 2018-12-07
@@ -215,7 +226,7 @@
 ** Make CSI work with the new bootstrap log record format. (D)
 
 * 2018-11-16
-** Investigate failures of AdminFX tests after the TestFX upgrade (caused by the fix for TestFX issue #599). (+)
+** Investigate failures of AdminFx tests after the TestFX upgrade (caused by the fix for TestFX issue #599). (+)
 ** Read [[Java Is Still Free]]. (+)
 ** 1-on-1 with Perica. (D)
 
@@ -483,7 +494,7 @@
 ** Emma's session about Kubernetes. (D)
 
 * 2018-08-30
-** Investigate a very weird AdminFX test regression (probably a TestFX bug). (D)
+** Investigate a very weird AdminFx test regression (probably a TestFX bug). (D)
 ** Investigate a config lock contention involving the creation of system sessions. (+)
 ** [$VAULT2-7872 ([$VAULT expected DETACHABLE segments to be auto-deleted). (+)
 
@@ -526,7 +537,7 @@
 ** [$STARLING weekly meeting. (D)
 
 * 2018-08-14
-** Remove simple path mapper used by AdminFX (not needed anymore). (+)
+** Remove simple path mapper used by AdminFx (not needed anymore). (+)
 ** [$VAULT2-7499 (heap dump analysis). (P)
 ** [$xENON weekly meeting. (D)
 ** Fix a SpotBugs warning (valueOf -> parseInt). (+)
@@ -912,15 +923,15 @@
 -------- 2018-05-02 ~ 2018-05-04
 
 * 2018-05-02
-** Check out Philip's new AdminFX changes. (+)
+** Check out Philip's new AdminFx changes. (+)
 ** Mandatory compliance trainings. (D)
 ** [$xENON-4318 (testing). (P)
-** Look into failing AdminFX tests. (+)
+** Look into failing AdminFx tests. (+)
 
 * 2018-05-03
 ** Mandatory compliance training (GDPR). (D)
 ** Investigate a federation restore failure (probably caused by failing to update paths in KVS). (+)
-** Look into failing AdminFX tests. (D)
+** Look into failing AdminFx tests. (D)
 ** [$xENON-4318 (testing). (P)
 
 * 2018-05-04
@@ -932,23 +943,23 @@
 -------- 2018-04-23 ~ 2018-04-28
 
 * 2018-04-23
-** New APIs for segment creation (CLI, AdminFX, etc.). (P)
+** New APIs for segment creation (CLI, AdminFx, etc.). (P)
 
 * 2018-04-24
-** New APIs for segment creation (AdminFX). (P)
+** New APIs for segment creation (AdminFx). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2018-04-25
-** New APIs for segment creation (AdminFX, and discussion with Philip). (P)
+** New APIs for segment creation (AdminFx, and discussion with Philip). (P)
 ** Investigate issues with attaching 11.1 libraries found in Val's new upgrade test. (+)
 ** [$STARLING weekly meeting. (D)
 
 * 2018-04-26
-** New APIs for segment creation (AdminFX, changes.dita, etc.). (P)
+** New APIs for segment creation (AdminFx, changes.dita, etc.). (P)
 ** Investigate issues with new log records generated during the undo phase of online recovery (use the transaction id of the restore session instead of the recovery session). (D)
 
 * 2018-04-27
-** New APIs for segment creation (tested AdminFX against 10+K segments, replaced ChoiceBox with ComboBox). (P)
+** New APIs for segment creation (tested AdminFx against 10+K segments, replaced ChoiceBox with ComboBox). (P)
 
 * 2018-04-28
 ** Off.
@@ -986,7 +997,7 @@
 
 * 2018-04-10
 ** [$xENON-4371 (online recovery issue caused by LrEnd). (+)
-** Create [$xENON-4372 (AdminFX crash) (+)
+** Create [$xENON-4372 (AdminFx crash) (+)
 ** [$xENON weekly meeting. (D)
 
 * 2018-04-11
@@ -1943,7 +1954,7 @@
 * 2017-06-23
 ** FY17 year end performance review - employee self assessment. (D)
 ** [$VAULT2-3310 (issues with Vojtech's fix). (P)
-** Philip's new AdminFX Client demo session #2. (D)
+** Philip's new AdminFx Client demo session #2. (D)
 
 -------- 2017-06-12 ~ 2017-06-16
 
@@ -1987,7 +1998,7 @@
 * 2017-06-08
 ** [$VAULT2-3590 (fixed the regression with forceUnconditionally()). (P)
 ** [$XENON-4275 (more code changes required as found during merge). (P)
-** Philip's new AdminFX Client demo session (no sound). (D)
+** Philip's new AdminFx Client demo session (no sound). (D)
 
 * 2017-06-09
 ** [$VAULT2-3590 (remote debugging, discussion with Sander). (P)
