@@ -13,6 +13,21 @@
 ** [$xENON weekly meeting. (D)
 ** Investigate hanging builds on Jenkins. (+)
 
+* 2019-01-23
+** Investigate hanging builds on Jenkins. (D)
+** [$xENON-4286 (won't fix due as the added complexity would beat our initial purpose). (+)
+** [$xENON-4232 (hot library backup only). (+) 
+
+* 2019-01-24
+** [$xENON-4449 (keep database names sorted in AdminFx). (+)
+** Add debug output to diagnose instability issues with AdminFx tests on Jenkins. (+)
+** 1-on-1 with Perica. (D)
+** [$xENON-4232 (asked Mark Polman for input). (+)
+
+* 2019-01-25
+** JIRA cleanup (mostly blockers, closed or fixed some easy ones). (+)
+** [$xENON-4232 (cold backup vs. hot backup test). (+)
+
 -------- 2019-01-14 ~ 2019-01-18
 
 * 2019-01-14
