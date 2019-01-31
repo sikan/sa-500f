@@ -2,6 +2,25 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-01-28 ~ 2019-02-03
+
+* 2019-01-28
+** [$xENON-4232 (cold backup vs. hot backup test, updated JIRA with test results). (+)
+
+* 2019-01-29
+** [$xENON-4232 (fixed the issue with cold backup by leveraging 'library latch'). (D)
+** [$xENON weekly meeting. (D)
+** Upload Petr and Vojtech's cluster demo (saved by Elaine). (+)
+
+* 2019-01-30
+** WFH.
+** Mysterious hardware issues with P51 / dock / power adapter. (+)
+** Gradle build issues (cannot fetch plugins from [$OTTER artifactories without the proxy in Tokyo?). (+)
+
+* 2019-01-31
+** Hardware mystery solved (P51 + dock need both the big and small power adapters to work). (+)
+** [$xENON-4109 (already fixed, created test case for verification, but found other issues). (D)
+
 -------- 2019-01-21 ~ 2019-01-25
 
 * 2019-01-21
