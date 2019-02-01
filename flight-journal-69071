@@ -21,6 +21,10 @@
 ** Hardware mystery solved (P51 + dock need both the big and small power adapters to work). (+)
 ** [$xENON-4109 (already fixed, created test case for verification, but found other issues). (D)
 
+* 2019-02-01
+** [$VAULT2-9286 (issues related to the removal a library with read-only descendants, potential solutions and performance concerns). (+)
+** Investigate a Lucene index issue caused by rapidly moving a library between two nodes .(P)
+
 -------- 2019-01-21 ~ 2019-01-25
 
 * 2019-01-21
