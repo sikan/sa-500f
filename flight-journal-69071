@@ -25,6 +25,13 @@
 ** [$VAULT2-9286 (issues related to the removal a library with read-only descendants, potential solutions and performance concerns). (+)
 ** Investigate a Lucene index issue caused by rapidly moving a library between two nodes .(P)
 
+* 2019-02-02
+** WFH.
+** Gradle build issues (unstable artifactory accessibility). (+)
+
+* 2019-02-03
+** Off.
+
 -------- 2019-01-21 ~ 2019-01-25
 
 * 2019-01-21
