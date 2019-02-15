@@ -2,6 +2,25 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-02-11 ~ 2019-02-15
+
+* 2019-02-11
+** Email backlog. (D)
+** Fix validation issues with ids of new child segments created under a legacy detachable library. (+)
+
+* 2019-02-12
+** Investigate a Lucene index issue caused by rapidly moving a library between two nodes (ahh, internal checkpoint disabled).(D)
+** [$xENON weekly meeting. (D)
+
+* 2019-02-13
+** Off.
+
+* 2019-02-14
+** [$xENON-4464 (AdminFx: index debug output may get cut off). (+)
+
+* 2019-02-15
+** [$xENON-4464 (AdminFx: index debug output may get cut off). (D)
+
 -------- 2019-01-28 ~ 2019-02-03
 
 * 2019-01-28
