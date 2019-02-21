@@ -9,6 +9,16 @@
 ** Investigate an assertion error during the creation of a checkpoint log record. (+)
 ** Investigate an AdminFx regression (which is apparently caused by the fix for [$xENON-4464). (+)
 
+* 2019-02-19
+** Investigate the failure of the concurrent change-binding test (an issue with the LLPI iterator). (P)
+** Investigate an assertion error during the creation of a checkpoint log record (involved Val). (D)
+** Investigate an AdminFx regression (caused by an accidental code change). (D)
+** [$xENON weekly meeting. (D)
+
+* 2019-02-20
+** Investigate the failure of the concurrent change-binding test (fixed the LLPI iterator). (D)
+** JIRA cleanup. (+)
+
 -------- 2019-02-11 ~ 2019-02-15
 
 * 2019-02-11
