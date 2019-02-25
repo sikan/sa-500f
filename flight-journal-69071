@@ -19,6 +19,17 @@
 ** Investigate the failure of the concurrent change-binding test (fixed the LLPI iterator). (D)
 ** JIRA cleanup. (+)
 
+* 2019-02-21
+** Think about how to shrink segments. (+)
+** Java VarHandle. (+)
+** [$STARLING-17369 (final merge not progressing). (+)
+** [$xENON-4465 (MPI query issues with BigDecimal values). (+)
+
+* 2019-02-22
+** Discuss a few [$STARLING-[$xENON issues with Dingmeng and Sherry. (+)
+** [$STARLING-17369 (fixed a deadlock found by Petr). (+)
+** [$xENON-4465 (BigDecimal). (+)
+
 -------- 2019-02-11 ~ 2019-02-15
 
 * 2019-02-11
