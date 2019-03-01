@@ -15,7 +15,17 @@
 
 * 2019-02-27
 ** WFH.
+** Petr's leaving-[$OTTER email T_T.
 ** [$xENON-4465 (BigDecimal). (P)
+
+* 2019-02-28
+** [$xENON-4465 (BigDecimal). (D)
+** Create and fix [$xENON-4469 (deadlock involving GlobalTxIdCacheUpdater on server termination). (+)
+** Quick chat with Perica about Petr's departure. (+)
+
+* 2019-03-01
+** [$xENON-4469 (merged the fix to Main). (D)
+** Look into issues with running AdminFx with Java 11. (+)
 
 -------- 2019-02-18 ~ 2019-02-22
 
@@ -484,6 +494,7 @@
 ** Investigate a recovery issue related global transaction ids (set unexpectedly during recovery). (D)
 ** Stabilize the build. (P)
 ** Investigate the regressions caused by not releasing write latches in finally blocks. (+)
+** Quick chat with Perica about Philip's departure. (+)
 ** Philip's knowledge transfer session (overview of CI setup : Jenkins / pipeline Groovy scripts). (+)
 ** [$xENON-4355 (WebEx with EC). (+)
 
