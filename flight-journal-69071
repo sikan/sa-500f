@@ -10,6 +10,25 @@
 ** [$VAULT2-9575 (library backup issue on Windows/OpenJDK 11). (+)
 ** Try eclipse 4.9 for Java 11 support (internal compiler errors in 4.10). (+)
 
+* 2019-03-05
+** Try eclipse 4.9 for Java 11 support. (P)
+** Continue helping Elaine with the cluster test (new issues related master election). (P)
+** [$VAULT2-9575 (library backup issue on Windows/OpenJDK 11). (P)
+** Send an informal status report to Perica. (+)
+
+* 2019-03-06
+** [$VAULT2-9575 (library backup issue on Windows/OpenJDK 11). (P)
+** Try eclipse 4.9 for Java 11 support. (P)
+
+* 2019-03-07
+** [$VAULT2-9575 (fixed by Val, but still cannot reproduce). (D)
+** [$VAULT2-9607 (explained the 'serverStateTimestamp' check). (+)
+** Try eclipse 4.9 for Java 11 support (highest compiler compliance level still 10). (D)
+** 1-on-1 with Perica. (D)
+
+* 2019-03-08
+** Enable lauching AdminFx with Java 11 from CLI and Ant (with PATH_TO_FX set). (D)
+
 -------- 2019-02-25 ~ 2019-03-01
 
 * 2019-02-25
