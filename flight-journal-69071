@@ -2,6 +2,32 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-03-11 ~ 2019-03-15
+
+* 2019-03-11
+** [$xENON-4473 (an recovery issue caused by the recreation of a segment). (+)
+** Enable lauching AdminFx with Java 11 from Gradle (with PATH_TO_FX set). (D)
+** Investigate issues with Main Windows build. (+)
+
+* 2019-03-12
+** [$VAULT2-9607 (used CSI to check mappings). (P)
+** Investigate issues with Main Windows build (one hanging log directory multiplexing test). (P)
+** Fix incorrect compiler levels in Java 11 pipeline scripts. (+)
+** [$xENON weekly meeting. (D)
+
+* 2019-03-13
+** Lunch with John. (+)
+** Continue investigating the hanging log directory multiplexing test. (P)
+
+* 2019-03-14
+** Continue investigating the hanging log directory multiplexing test (fixed by a workaround on Windows). (D)
+** Make 2PC transactions rollback only if the most recent LSN check fails. (D)
+** Study the leader election logic. (+)
+
+* 2019-03-15
+** [$xENON-4474 (NPE with the old API caused by concurrently deleted segments). (+)
+** Urgent BoC cases where recovery cannot proceed due to corruption (almost the whole weekend). (+)
+
 -------- 2019-03-04 ~ 2019-03-08
 
 * 2019-03-04
