@@ -17,6 +17,14 @@
 ** Continue investigating the BoC case (server started at Yunnan branch). (P)
 ** Investigate potential issues with data file force. (+)
 
+* 2019-03-21
+** Continue investigating the BoC case (undo recovery didn't finish at Yunnan branch). (P)
+** Petr's knowledge transfer session (cluster, master election). (+)
+
+* 2019-03-22
+** Continue investigating the BoC case (undo recovery didn't finish at Yunnan branch). (P)
+** Study the leader election logic. (P)
+
 -------- 2019-03-11 ~ 2019-03-15
 
 * 2019-03-11
