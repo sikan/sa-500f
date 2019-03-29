@@ -2,6 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-03-25 ~ 2019-03-29
+
+* 2019-03-25
+** Continue investigating the BoC case (force-recovery issues with undo phase). (P)
+** Merge unintegrated changelists and fix a few failing tests. (+)
+** Petr's knowledge transfer session (cluster, master election). (D)
+
+* 2019-03-26
+** Continue working on the BoC case (force-detach succeeded at Yunnan branch). (D)
+** [$xENON weekly meeting. (D)
+
+* 2019-03-27
+** Group lunch with Vicky, Jack and Moose. (D)
+** [$xENON-4474 (EC: wal files not truncated after incremental backup). (P)
+** Study the leader election logic. (P)
+
+* 2019-03-28
+** Lunch with John. (+)
+** Check in fixes for force-recovery issues found during the investigation of BoC cases. (D)
+** Discuss backup strategies with BoC (WebEx). (D)
+** Investigate test failures caused by recent changes to 2PC. (P)
+** Petr's knowledge transfer session (MPI). (D)
+
+* 2019-03-29
+** Create a backup sample program for BoC. (D)
+** Investigate test failures caused by recent changes to 2PC (continued discussion with Val). (P)
+
 -------- 2019-03-18 ~ 2019-03-22
 
 * 2019-03-18
@@ -14,15 +41,15 @@
 ** Petr's knowledge transfer session (big ids, indirect addressing). (+)
 
 * 2019-03-20
-** Continue investigating the BoC case (server started at Yunnan branch). (P)
+** Continue working on the BoC case (server started at Yunnan branch). (P)
 ** Investigate potential issues with data file force. (+)
 
 * 2019-03-21
-** Continue investigating the BoC case (undo recovery didn't finish at Yunnan branch). (P)
+** Continue working on the BoC case (undo recovery didn't finish at Yunnan branch). (P)
 ** Petr's knowledge transfer session (cluster, master election). (+)
 
 * 2019-03-22
-** Continue investigating the BoC case (undo recovery didn't finish at Yunnan branch). (P)
+** Continue working on the BoC case (undo recovery didn't finish at Yunnan branch). (P)
 ** Study the leader election logic. (P)
 
 -------- 2019-03-11 ~ 2019-03-15
