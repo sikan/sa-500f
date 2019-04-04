@@ -2,6 +2,31 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-04-01 ~ 2019-04-04
+
+* 2019-04-01
+** Create a restore sample program for BoC. (+)
+** Investigate test failures caused by recent changes to 2PC (continued discussion with Val). (P)
+** 1-on-1 with Perica. (D)
+** Petr's knowledge transfer session (RO transactions, replication). (D)
+
+* 2019-04-02
+** Investigate test failures caused by recent changes to 2PC (LrLockPage?). (P)
+** Have a quick look at build failures. (+)
+** [$xENON weekly meeting. (D)
+** Petr's knowledge transfer session (MPI blacklisting, etc.). (D)
+** [$VAULT2-9814 (paths for LMPI segments). (+)
+
+* 2019-04-03
+** Investigate test failures caused by recent changes to 2PC (double LrLockPage log records). (P)
+** Another BoC case (Tibet branch, bootstrap file completely corrupted). (+)
+** Watch Petr's knowledge transfer recordings. (+)
+
+* 2019-04-04
+** Investigate test failures caused by recent changes to 2PC (double LrLockPage log records, checked in). (D)
+** Help BoC Tibet branch recover the data. (P)
+** Watch Petr's knowledge transfer recordings. (D)
+
 -------- 2019-03-25 ~ 2019-03-29
 
 * 2019-03-25
@@ -46,6 +71,7 @@
 
 * 2019-03-21
 ** Continue working on the BoC case (undo recovery didn't finish at Yunnan branch). (P)
+** 1-on-1 with Perica. (D)
 ** Petr's knowledge transfer session (cluster, master election). (+)
 
 * 2019-03-22
