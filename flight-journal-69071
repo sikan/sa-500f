@@ -8,12 +8,17 @@
 ** WFH.
 ** Merge unintegrated changelists. (P)
 ** Look into a few minor build issues. (+)
-** Concurrent namebase (red-black tree). (+)
+** Red-black tree (concurrent namebase). (+)
 
 * 2019-04-09
 ** Fix a Windows specific cleanup issue with the Gradle build ('/temp/xhive/data' not recognized by Gradle/Groovy). (D)
 ** [$xENON weekly meeting. (D)
 ** Petr's knowledge transfer session (unit test framework). (D)
+
+* 2019-04-10
+** Contact Yumin Li for the BoC issues. (+)
+** Red-black tree (concurrent namebase). (P)
+** [$xENON-4482 (another MPI issue potentially caused by big numbers). (+)
 
 -------- 2019-04-01 ~ 2019-04-04
 
