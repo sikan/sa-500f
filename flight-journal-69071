@@ -9,6 +9,27 @@
 ** Remove a redundant mechanism to avoid truncating logs that need to be backed up. (D)
 ** Fix an eclipse classpath issue. (+)
 
+* 2019-05-06
+** MPI (Petr's fix for EC, minor code simplifications). (P)
+** Quick chat with Perica (about his resignation). (+)
+** Meeting with Sherry, Zed and Dingmeng to discuss the adoption of 11. (D)
+
+* 2019-05-07
+** MPI ([$xENON-4476). (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-05-08
+** MPI (merge logic). (P)
+
+* 2019-05-09
+** Investigate a segment missing issue reported by [$VAULT team. (+)
+** MPI (merge logic). (P)
+** [$xENON-4473 (explained the current situation as the customer still seemed confused). (+)
+
+* 2019-05-10
+** Investigate a segment missing issue reported by [$VAULT team (same as [$xENON-4438). (P)
+** MPI (intermittent failure of switch-segment test). (P)
+
 -------- 2019-04-28 ~ 2019-04-30
 
 * 2019-04-28
