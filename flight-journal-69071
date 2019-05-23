@@ -2,6 +2,49 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-05-20 ~ 2019-05-24
+
+* 2019-05-20
+** MPI (a few other intermittent failures). (P)
+** Explain to [$VAULT team that setting a library to read-only triggers an implicit checkpoint. (+)
+** Add support for running a single test method from Ant. (+)
+
+* 2019-05-21
+** Add support for running a single test method from Ant. (D)
+** MPI (a few other intermittent failures). (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-05-22
+** Fix version mistake in the pipeline script for 16.3. (+)
+** Create [$xENON-4491 (new deadlock found in MPI concurrency test). (+)
+** MPI (merge logic). (P)
+
+-------- 2019-05-13 ~ 2019-05-17
+
+* 2019-05-13
+** [$xENON-4438 (implemented an 11.1-only fix). (D)
+
+* 2019-05-14
+** [$xENON-4438 (fixed problems with the 11.1-only fix). (+)
+** [$xENON weekly meeting. (D)
+** MPI (intermittent failure of switch-segment test). (P)
+
+* 2019-05-15
+** [$xENON-4489 (very weird inconsistent KVS). (+)
+** [$xENON-4438 (adapted the failing test for 11.1). (+)
+** MPI (intermittent failure of switch-segment test). (P)
+
+* 2019-05-16
+** [$xENON-4489 (made it an INTERNAL_ERROR, root cause still unknown). (+)
+** Muhi's all-hands. (D)
+** 1-on-1 with Perica. (D)
+** MPI (intermittent failure of switch-segment test). (P)
+** Short discussion with Dingmeng and Zed about multi-node upgrade, 16.5 vs. 11.1, etc. (+)
+
+* 2019-05-17
+** [$VAULT2-10069 (moving segments via detach/attach). (+)
+** MPI (intermittent failure of switch-segment test). (P)
+
 -------- 2019-05-05 ~ 2019-05-10
 
 * 2019-05-05
