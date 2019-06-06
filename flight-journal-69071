@@ -2,6 +2,44 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-06-03 ~ 2019-06-06
+
+* 2019-06-03
+** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+
+* 2019-06-04
+** Review Vadim's repair tool for segment size/block trees. (+)
+** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+
+* 2019-06-05
+** [$xENON-4476 (fixes). (P)
+
+* 2019-06-06
+** [$xENON-4476 (fixes, and a new repair command). (P)
+** Meeting with Vadim and Val about the repair tool for segment size/block trees. (D)
+
+-------- 2019-05-27 ~ 2019-05-31
+
+* 2019-05-27
+** MPI (misc minor fixes, etc.). (P)
+** [$xENON-4476 (EC's logs and data). (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-05-28
+** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+** [$xENON-4492 (invalid cron expression used by Pfizer). (+)
+
+* 2019-05-29
+** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+** [$xENON-4492 (invalid cron expression used by Pfizer). (D)
+
+* 2019-05-30
+** Michiel's email ([$OTTER will slowly but surely move away from the usage of [$xENON).
+** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+
+* 2019-05-31
+** Off.
+
 -------- 2019-05-20 ~ 2019-05-24
 
 * 2019-05-20
@@ -18,6 +56,12 @@
 ** Fix version mistake in the pipeline script for 16.3. (+)
 ** Create [$xENON-4491 (new deadlock found in MPI concurrency test). (+)
 ** MPI (merge logic). (P)
+
+* 2019-05-23
+** MPI (LI tasks logic, another intermittent failure). (P)
+
+* 2019-05-24
+** MPI (LI tasks logic, another intermittent failure). (P)
 
 -------- 2019-05-13 ~ 2019-05-17
 
