@@ -2,6 +2,24 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-06-10 ~ 2019-06-14
+
+* 2019-06-10
+** [$xENON-4449 (database names not sorted in the 'old' admin client). (+)
+** [$xENON-4476 (checked EC's current index status). (P)
+
+* 2019-06-11
+** [$xENON-4449 (fixed both the old admin client and AdminFx). (D)
+** [$xENON weekly meeting. (D)
+** Help Dingmeng with a few CSI issues. (+)
+
+* 2019-06-12
+** [$xENON-4476 (updated JIRA case, index entry size check failed due to corruption that seems caused by transmission). (P)
+** Michael Cybala's all-hands. (D)
+
+* 2019-06-13
+** MPI (an intermittent failure caused by weakly committed system transactions). (P)
+
 -------- 2019-06-03 ~ 2019-06-06
 
 * 2019-06-03
