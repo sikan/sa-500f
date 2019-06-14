@@ -20,6 +20,10 @@
 * 2019-06-13
 ** MPI (an intermittent failure caused by weakly committed system transactions). (P)
 
+* 2019-06-14
+** Help Sherry look into a few MPI related support cases (BMW, etc.). (+)
+** MPI (Lucene merge logic, etc.). (P)
+
 -------- 2019-06-03 ~ 2019-06-06
 
 * 2019-06-03
