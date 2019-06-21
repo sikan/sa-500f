@@ -2,6 +2,30 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-06-17 ~ 2019-06-21
+
+* 2019-06-17
+** MPI (Lucene merge logic, etc.). (P)
+** [$xENON-4476 (EC's new logs and data). (P)
+
+* 2019-06-18
+** [$xENON-4476 (explained the fix procedure to Rafael). (P)
+** [$xENON weekly meeting. (D)
+** Investigate a consistency checker hanging issue reported by Sherry. (+)
+
+* 2019-06-19
+** Investigate a consistency checker hanging issue reported by Sherry (fixed). (P)
+** ANTLR ([[Why Use ANTLR?]] by Ian Kaplan). (+)
+
+* 2019-06-20
+** ANTLR ([[Why Use ANTLR?]] by Ian Kaplan, [[The ANTLR Mega Tutorial]] by Gabriele Tomassetti). (P)
+** [$xENON-4476 (updated JIRA with instructions for applying the fix). (P)
+
+* 2019-06-21
+** Review Vadim's size/block tree repair functionalities for CSI. (+)
+** [$xENON-4476 (Ellen helped create the 'mimage' link). (P)
+** ANTLR ([[The ANTLR Mega Tutorial]] by Gabriele Tomassetti). (P)
+
 -------- 2019-06-10 ~ 2019-06-14
 
 * 2019-06-10
