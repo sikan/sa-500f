@@ -2,6 +2,55 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-07-01 ~ 2019-07-05
+
+* 2019-07-01
+** Merge unintegrated changes. (P)
+** ANTLR (XQuery.g). (P)
+
+* 2019-07-02
+** [$xENON weekly meeting. (D)
+** ANTLR (XQuery.g). (P)
+** Look for ways to leverage the 'type' encoded in values of a library index. (+)
+
+* 2019-07-03
+** ANTLR (XQuery.g). (P)
+** Read our own manual for XQuery. (+)
+
+* 2019-07-04
+** Read our own manual for XQuery. (P)
+** Help Sherry look into a consistency checker hanging issue reported by BMW. (+)
+
+* 2019-07-05
+** Tail call optimization (The Musical!! by Anjana Vakil & Natalia Margolis). (+)
+** Read our own manual for XQuery. (P)
+** Briefly look into a startup hanging issue reported by BMW. (+)
+
+-------- 2019-06-24 ~ 2019-06-28
+
+* 2019-06-24
+** [$VAULT2-10254 (probably a storage corruption). (+)
+** ANTLR (XQuery.g). (P)
+
+* 2019-06-25
+** ANTLR (XQuery.g). (P)
+** [$VAULT2-10254 (storage seems fine, mount point?). (+)
+** [$xENON weekly meeting. (D)
+** Discuss with Mark about the memory issue caused by too many locks acquired on documents when adding an index on the library. (+)
+
+* 2019-06-26
+** 1-on-1 with Michiel. (D)
+** Follow up on Mark's concern of locks on documents (IndexUpdater logic, memory footprint of RWLock, etc.). (P)
+** ANTLR (XQuery.g). (P)
+
+* 2019-06-27
+** Merge unintegrated changes. (P)
+** ANTLR (XQuery.g). (P)
+
+* 2019-06-28
+** FY2019 year-end self-review. (P)
+** ANTLR (XQuery.g). (P)
+
 -------- 2019-06-17 ~ 2019-06-21
 
 * 2019-06-17
@@ -763,7 +812,7 @@
 ** Study the CSI code and start to make code changes and fixes. (P)
 
 * 2018-11-02
-** Reply to Michiel's inquiry about potential candidates for [$xENON candidate. (+)
+** Reply to Michiel's inquiry about potential candidates for [$xENON team. (+)
 ** Fix an issue cauesed by the index cleaner registering new segments during SegmentCleaner.quiesce(). (+)
 ** 1-on-1 with Perica. (D)
 ** Stabilize the build (collected thread dump and heap dump for what seemed to be, once again, caused by the segment cleaner not being notified). (+)
