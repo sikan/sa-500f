@@ -2,6 +2,32 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-07-08 ~ 2019-07-12
+
+* 2019-07-08
+** New stack traces from BMW. (+)
+** Look into an eclipse compilation issue under Java 11 (resolved by upgrading to the 2019-06 release). (+)
+** Indexes for interval queries (went through old discussions). (+)
+
+* 2019-07-09
+** Interval tree. (P)
+** Fix a few issues with the manual. (+)
+** [$xENON weekly meeting. (D)
+** Merge unintegrated changes. (P)
+
+* 2019-07-10
+** Merge unintegrated changes. (P)
+** 1-on-1 with Michiel. (D)
+
+* 2019-07-11
+** Merge unintegrated changes. (P)
+** Interval tree. (D)
+** Try out Loic's test program for interval queries. (+)
+
+* 2019-07-12
+** Investigate final merge test failures in 16.3 after the merge. (+)
+** Create [$xENON-4501 (with no-logging enabled, final merge may cause ReplicationUpdater to crash). (+)
+
 -------- 2019-07-01 ~ 2019-07-05
 
 * 2019-07-01
