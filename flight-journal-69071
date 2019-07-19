@@ -2,6 +2,30 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-07-15 ~ 2019-07-19
+
+* 2019-07-15
+** Contact Founder to collect some usage information of Bank of China. (+)
+** Test interval queries with batched index keys. (P)
+
+* 2019-07-16
+** Test interval queries with batched index keys. (P)
+** Implement a fallback mechanism for legacy but now invalid cron expressions in [$STARLING. (+)
+
+* 2019-07-17
+** Test interval queries with batched index keys (Linux VM). (P)
+** Implement a fallback mechanism for legacy but now invalid cron expressions in [$STARLING. (D)
+
+* 2019-07-18
+** [$xENON-4493 (page id mismatch on replica redo). (+)
+** [$SWIFT-17718 (BMW ran into checksum errors again after rebuilding the index). (+)
+** Help Jack Ling set up a 10.7 dev environment. (+)
+
+* 2019-07-19
+** [$xENON-4493 (perhaps we may programmatically capture a heap dump?). (P)
+** Test interval queries with batched index keys (collected and published the results). (D)
+** [$SWIFT-17718 (a suspicious path from nowhere). (P)
+
 -------- 2019-07-08 ~ 2019-07-12
 
 * 2019-07-08
