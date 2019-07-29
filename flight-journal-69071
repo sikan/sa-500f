@@ -2,6 +2,28 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-07-22 ~ 2019-07-26
+
+* 2019-07-22
+** Help Jack Ling with the definition of a specific path-value index. (D)
+** [$xENON-4493 (requested more info, code review, etc.). (P)
+
+* 2019-07-23
+** [$SWIFT-17718 (customer decided to switch from NAS to SAN). (P)
+** [$xENON weekly meeting. (D)
+** XQuery processing, etc. (P)
+
+* 2019-07-24
+** [$xENON-4493 (possibility of getting a few data pages without NDA?). (P)
+** XQuery processing, etc. (P)
+** 1-on-1 with Michiel. (D)
+
+* 2019-07-25
+** XQuery processing, etc. (P)
+
+* 2019-07-26
+** Backport batched index keys to 11.1. (P)
+
 -------- 2019-07-15 ~ 2019-07-19
 
 * 2019-07-15
@@ -25,6 +47,8 @@
 ** [$xENON-4493 (perhaps we may programmatically capture a heap dump?). (P)
 ** Test interval queries with batched index keys (collected and published the results). (D)
 ** [$SWIFT-17718 (a suspicious path from nowhere). (P)
+** Help Jack Ling with the definition of a specific path-value index. (+)
+** Ryan's farewell lunch. (D)
 
 -------- 2019-07-08 ~ 2019-07-12
 
