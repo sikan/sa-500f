@@ -1,6 +1,19 @@
-[$VAULT2 [$OTTER [$TITAN [$NEON [$ARGON?
+[$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-------- 2019-07-29 ~ 2019-08-02
+
+* 2019-07-29
+** Backport batched index keys to 11.1. (P)
+** [$SWIFT-17718 (explained that the consistency checker reporting an error is was not a necessary condition for corruption). (P)
+** Help Jack Ling with more slow queries in [$NEON. (+)
+
+* 2019-07-30
+** Backport batched index keys to 11.1. (P)
+** [$xENON-4493 (Val's finding: page written to the wrong file). (P)
+** [$SWIFT-17743 (an already fixed performance issue with IIC). (+)
+** [$xENON weekly meeting. (D)
 
 -------- 2019-07-22 ~ 2019-07-26
 
