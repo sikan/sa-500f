@@ -15,6 +15,18 @@
 ** [$SWIFT-17743 (an already fixed performance issue with IIC). (+)
 ** [$xENON weekly meeting. (D)
 
+* 2019-07-31
+** Backport batched index keys to 11.1. (P)
+
+* 2019-08-01
+** Backport batched index keys to 11.1 (test failures). (D)
+** Re-run the test of interval queries with batched index keys. (P)
+
+* 2019-08-02
+** Investigate and fix what turns out to be an epitome why auto-merge could be dangerous. (+)
+** Switch to eclipse 2019-06. (+)
+** Re-run the test of interval queries with batched index keys (collected and published the results). (D)
+
 -------- 2019-07-22 ~ 2019-07-26
 
 * 2019-07-22
