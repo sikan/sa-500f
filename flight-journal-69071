@@ -2,6 +2,72 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-08-19 ~ 2019-08-23
+
+* 2019-08-19
+** XQuery processing (using [$NEON data and queries), etc. (P)
+
+* 2019-08-20
+** Lunch with Dingmeng. (+)
+** [$xENON-4491 (deadlock in MPI concurrency test). (P)
+** Remove some useless code. (+)
+** [$xENON weekly meeting. (D)
+
+* 2019-08-21
+** [$xENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
+** Current query processing logic for interval queries. (P)
+
+* 2019-08-22
+** [$xENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
+** Current query processing logic for interval queries. (P)
+** 1-on-1 with Michiel. (D)
+** Have a quick look at [$VAULT's PoC wiki pages for Postgres and Lucene. (+)
+
+* 2019-08-23
+** [$xENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
+** Current query processing logic for interval queries. (P)
+** Have a quick look at [$VAULT slides for scalability and new architecture. (D)
+
+-------- 2019-08-12 ~ 2019-08-16
+
+* 2019-08-12
+** Explain LOCK_NOT_GRANTED exception in [$NEON reported by Jack Ling. (+)
+** Investigate issues with certain queries used by [$NEON. (P)
+** XQuery processing (using [$NEON data and queries), etc. (P)
+
+* 2019-08-13
+** [$xENON-4493 (reviewed the code of file id generation). (P)
+** Investigate issues with certain queries used by [$NEON. (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-08-14
+** XQuery processing (using [$NEON data and queries), etc. (P)
+
+* 2019-08-15
+** XQuery processing (using [$NEON data and queries), etc. (P)
+
+* 2019-08-16
+** XQuery processing (using [$NEON data and queries), etc. (P)
+
+-------- 2019-08-05 ~ 2019-08-09
+
+* 2019-08-05
+** [$xENON-4493 (compared the log records: master vs. replica). (P)
+
+* 2019-08-06
+** [$xENON-4493 (analyzed data, dumped all pages that failed the id check). (P)
+** Investigate issues with certain queries used by [$NEON. (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-08-07
+** XQuery processing (using [$NEON data and queries), etc. (P)
+
+* 2019-08-08
+** Sick day.
+
+* 2019-08-09
+** Off.
+
 -------- 2019-07-29 ~ 2019-08-02
 
 * 2019-07-29
@@ -23,7 +89,7 @@
 ** Re-run the test of interval queries with batched index keys. (P)
 
 * 2019-08-02
-** Investigate and fix what turns out to be an epitome why auto-merge could be dangerous. (+)
+** Investigate and fix what turns out to be an epitome of why auto-merge could be dangerous. (+)
 ** Switch to eclipse 2019-06. (+)
 ** Re-run the test of interval queries with batched index keys (collected and published the results). (D)
 
@@ -124,6 +190,7 @@
 ** Tail call optimization (The Musical!! by Anjana Vakil & Natalia Margolis). (+)
 ** Read our own manual for XQuery. (P)
 ** Briefly look into a startup hanging issue reported by BMW. (+)
+** Lunch with Dingmeng. (+)
 
 -------- 2019-06-24 ~ 2019-06-28
 
