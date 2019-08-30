@@ -2,6 +2,31 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-08-26 ~ 2019-08-30
+
+* 2019-08-26
+** Further optimization for [$VAULT2 range queries: move filtering step to the backend. (P)
+
+* 2019-08-27
+** Further optimization for [$VAULT2 range queries: move filtering step to the backend. (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-08-28
+** JIRA cleanup. (+)
+** [$VAULT2-5226 (answered Bruno's questions regarding the index keys used by the interval query). (+)
+** Further optimization for [$VAULT2 range queries: move filtering step to the backend. (D)
+** Re-run the test of interval queries with the above optimization. (+)
+
+* 2019-08-29
+** [$VAULT2-5226 (updated with the performance test results of the latest optimization, and some more discussions). (P)
+** [$XENON-4456 (separate statistic of read-only transaction rollbacks). (+)
+** Look into issues with Jenkins builds. (+)
+
+* 2019-08-30
+** [$XENON-4456 (separate statistic of read-only transaction rollbacks). (D)
+** Create [$XENON-4506 (deadlock involving 4 resources). (+)
+** [$XENON-4504 (endless restart loop?). (+)
+
 -------- 2019-08-19 ~ 2019-08-23
 
 * 2019-08-19
@@ -9,22 +34,22 @@
 
 * 2019-08-20
 ** Lunch with Dingmeng. (+)
-** [$xENON-4491 (deadlock in MPI concurrency test). (P)
+** [$XENON-4491 (deadlock in MPI concurrency test). (P)
 ** Remove some useless code. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2019-08-21
-** [$xENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
+** [$XENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
 ** Current query processing logic for interval queries. (P)
 
 * 2019-08-22
-** [$xENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
+** [$XENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
 ** Current query processing logic for interval queries. (P)
 ** 1-on-1 with Michiel. (D)
 ** Have a quick look at [$VAULT's PoC wiki pages for Postgres and Lucene. (+)
 
 * 2019-08-23
-** [$xENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
+** [$XENON-4491 (deadlock in MPI concurrency test, no luck with reproduction). (P)
 ** Current query processing logic for interval queries. (P)
 ** Have a quick look at [$VAULT slides for scalability and new architecture. (D)
 
@@ -36,7 +61,7 @@
 ** XQuery processing (using [$NEON data and queries), etc. (P)
 
 * 2019-08-13
-** [$xENON-4493 (reviewed the code of file id generation). (P)
+** [$XENON-4493 (reviewed the code of file id generation). (P)
 ** Investigate issues with certain queries used by [$NEON. (P)
 ** [$xENON weekly meeting. (D)
 
@@ -52,10 +77,10 @@
 -------- 2019-08-05 ~ 2019-08-09
 
 * 2019-08-05
-** [$xENON-4493 (compared the log records: master vs. replica). (P)
+** [$XENON-4493 (compared the log records: master vs. replica). (P)
 
 * 2019-08-06
-** [$xENON-4493 (analyzed data, dumped all pages that failed the id check). (P)
+** [$XENON-4493 (analyzed data, dumped all pages that failed the id check). (P)
 ** Investigate issues with certain queries used by [$NEON. (P)
 ** [$xENON weekly meeting. (D)
 
@@ -77,7 +102,7 @@
 
 * 2019-07-30
 ** Backport batched index keys to 11.1. (P)
-** [$xENON-4493 (Val's finding: page written to the wrong file). (P)
+** [$XENON-4493 (Val's finding: page written to the wrong file). (P)
 ** [$SWIFT-17743 (an already fixed performance issue with IIC). (+)
 ** [$xENON weekly meeting. (D)
 
@@ -97,7 +122,7 @@
 
 * 2019-07-22
 ** Help Jack Ling with the definition of a specific path-value index. (D)
-** [$xENON-4493 (requested more info, code review, etc.). (P)
+** [$XENON-4493 (requested more info, code review, etc.). (P)
 
 * 2019-07-23
 ** [$SWIFT-17718 (customer decided to switch from NAS to SAN). (P)
@@ -105,7 +130,7 @@
 ** XQuery processing, etc. (P)
 
 * 2019-07-24
-** [$xENON-4493 (possibility of getting a few data pages without NDA?). (P)
+** [$XENON-4493 (possibility of getting a few data pages without NDA?). (P)
 ** XQuery processing, etc. (P)
 ** 1-on-1 with Michiel. (D)
 
@@ -130,12 +155,12 @@
 ** Implement a fallback mechanism for legacy but now invalid cron expressions in [$STARLING. (D)
 
 * 2019-07-18
-** [$xENON-4493 (page id mismatch on replica redo). (+)
+** [$XENON-4493 (page id mismatch on replica redo). (+)
 ** [$SWIFT-17718 (BMW ran into checksum errors again after rebuilding the index). (+)
 ** Help Jack Ling set up a 10.7 dev environment. (+)
 
 * 2019-07-19
-** [$xENON-4493 (perhaps we may programmatically capture a heap dump?). (P)
+** [$XENON-4493 (perhaps we may programmatically capture a heap dump?). (P)
 ** Test interval queries with batched index keys (collected and published the results). (D)
 ** [$SWIFT-17718 (a suspicious path from nowhere). (P)
 ** Help Jack Ling with the definition of a specific path-value index. (+)
@@ -165,7 +190,7 @@
 
 * 2019-07-12
 ** Investigate final merge test failures in 16.3 after the merge. (+)
-** Create [$xENON-4501 (with no-logging enabled, final merge may cause ReplicationUpdater to crash). (+)
+** Create [$XENON-4501 (with no-logging enabled, final merge may cause ReplicationUpdater to crash). (+)
 
 -------- 2019-07-01 ~ 2019-07-05
 
@@ -221,10 +246,10 @@
 
 * 2019-06-17
 ** MPI (Lucene merge logic, etc.). (P)
-** [$xENON-4476 (EC's new logs and data). (P)
+** [$XENON-4476 (EC's new logs and data). (P)
 
 * 2019-06-18
-** [$xENON-4476 (explained the fix procedure to Rafael). (P)
+** [$XENON-4476 (explained the fix procedure to Rafael). (P)
 ** [$xENON weekly meeting. (D)
 ** Investigate a consistency checker hanging issue reported by Sherry. (+)
 
@@ -234,26 +259,26 @@
 
 * 2019-06-20
 ** ANTLR ([[Why Use ANTLR?]] by Ian Kaplan, [[The ANTLR Mega Tutorial]] by Gabriele Tomassetti). (P)
-** [$xENON-4476 (updated JIRA with instructions for applying the fix). (P)
+** [$XENON-4476 (updated JIRA with instructions for applying the fix). (P)
 
 * 2019-06-21
 ** Review Vadim's size/block tree repair functionalities for CSI. (+)
-** [$xENON-4476 (Ellen helped create the 'mimage' link). (P)
+** [$XENON-4476 (Ellen helped create the 'mimage' link). (P)
 ** ANTLR ([[The ANTLR Mega Tutorial]] by Gabriele Tomassetti). (P)
 
 -------- 2019-06-10 ~ 2019-06-14
 
 * 2019-06-10
-** [$xENON-4449 (database names not sorted in the 'old' admin client). (+)
-** [$xENON-4476 (checked EC's current index status). (P)
+** [$XENON-4449 (database names not sorted in the 'old' admin client). (+)
+** [$XENON-4476 (checked EC's current index status). (P)
 
 * 2019-06-11
-** [$xENON-4449 (fixed both the old admin client and AdminFx). (D)
+** [$XENON-4449 (fixed both the old admin client and AdminFx). (D)
 ** [$xENON weekly meeting. (D)
 ** Help Dingmeng with a few CSI issues. (+)
 
 * 2019-06-12
-** [$xENON-4476 (updated JIRA case, index entry size check failed due to corruption that seems caused by transmission). (P)
+** [$XENON-4476 (updated JIRA case, index entry size check failed due to corruption that seems caused by transmission). (P)
 ** Michael Cybala's all-hands. (D)
 
 * 2019-06-13
@@ -266,37 +291,37 @@
 -------- 2019-06-03 ~ 2019-06-06
 
 * 2019-06-03
-** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+** [$XENON-4476 (EC's logs and data, and MPI code). (P)
 
 * 2019-06-04
 ** Review Vadim's repair tool for segment size/block trees. (+)
-** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+** [$XENON-4476 (EC's logs and data, and MPI code). (P)
 
 * 2019-06-05
-** [$xENON-4476 (fixes). (P)
+** [$XENON-4476 (fixes). (P)
 
 * 2019-06-06
-** [$xENON-4476 (fixes, and a new repair command). (P)
+** [$XENON-4476 (fixes, and a new repair command). (P)
 ** Meeting with Vadim and Val about the repair tool for segment size/block trees. (D)
 
 -------- 2019-05-27 ~ 2019-05-31
 
 * 2019-05-27
 ** MPI (misc minor fixes, etc.). (P)
-** [$xENON-4476 (EC's logs and data). (P)
+** [$XENON-4476 (EC's logs and data). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2019-05-28
-** [$xENON-4476 (EC's logs and data, and MPI code). (P)
-** [$xENON-4492 (invalid cron expression used by Pfizer). (+)
+** [$XENON-4476 (EC's logs and data, and MPI code). (P)
+** [$XENON-4492 (invalid cron expression used by Pfizer). (+)
 
 * 2019-05-29
-** [$xENON-4476 (EC's logs and data, and MPI code). (P)
-** [$xENON-4492 (invalid cron expression used by Pfizer). (D)
+** [$XENON-4476 (EC's logs and data, and MPI code). (P)
+** [$XENON-4492 (invalid cron expression used by Pfizer). (D)
 
 * 2019-05-30
 ** Michiel's email ([$OTTER will slowly but surely move away from the usage of [$xENON).
-** [$xENON-4476 (EC's logs and data, and MPI code). (P)
+** [$XENON-4476 (EC's logs and data, and MPI code). (P)
 
 * 2019-05-31
 ** Off.
@@ -315,7 +340,7 @@
 
 * 2019-05-22
 ** Fix version mistake in the pipeline script for 16.3. (+)
-** Create [$xENON-4491 (new deadlock found in MPI concurrency test). (+)
+** Create [$XENON-4491 (new deadlock found in MPI concurrency test). (+)
 ** MPI (merge logic). (P)
 
 * 2019-05-23
@@ -327,20 +352,20 @@
 -------- 2019-05-13 ~ 2019-05-17
 
 * 2019-05-13
-** [$xENON-4438 (implemented an 11.1-only fix). (D)
+** [$XENON-4438 (implemented an 11.1-only fix). (D)
 
 * 2019-05-14
-** [$xENON-4438 (fixed problems with the 11.1-only fix). (+)
+** [$XENON-4438 (fixed problems with the 11.1-only fix). (+)
 ** [$xENON weekly meeting. (D)
 ** MPI (intermittent failure of switch-segment test). (P)
 
 * 2019-05-15
-** [$xENON-4489 (very weird inconsistent KVS). (+)
-** [$xENON-4438 (adapted the failing test for 11.1). (+)
+** [$XENON-4489 (very weird inconsistent KVS). (+)
+** [$XENON-4438 (adapted the failing test for 11.1). (+)
 ** MPI (intermittent failure of switch-segment test). (P)
 
 * 2019-05-16
-** [$xENON-4489 (made it an INTERNAL_ERROR, root cause still unknown). (+)
+** [$XENON-4489 (made it an INTERNAL_ERROR, root cause still unknown). (+)
 ** Muhi's all-hands. (D)
 ** 1-on-1 with Perica. (D)
 ** MPI (intermittent failure of switch-segment test). (P)
@@ -363,7 +388,7 @@
 ** Meeting with Sherry, Zed and Dingmeng to discuss the adoption of 11. (D)
 
 * 2019-05-07
-** MPI ([$xENON-4476). (P)
+** MPI ([$XENON-4476). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2019-05-08
@@ -372,10 +397,10 @@
 * 2019-05-09
 ** Investigate a segment missing issue reported by [$VAULT team. (+)
 ** MPI (merge logic). (P)
-** [$xENON-4473 (explained the current situation as the customer still seemed confused). (+)
+** [$XENON-4473 (explained the current situation as the customer still seemed confused). (+)
 
 * 2019-05-10
-** Investigate a segment missing issue reported by [$VAULT team (same as [$xENON-4438). (P)
+** Investigate a segment missing issue reported by [$VAULT team (same as [$XENON-4438). (P)
 ** MPI (intermittent failure of switch-segment test). (P)
 
 -------- 2019-04-28 ~ 2019-04-30
@@ -404,10 +429,10 @@
 
 * 2019-04-24
 ** Fix a CSI CLI issue with data node name which renders some modes (e.g., log mode) unusable. (+)
-** [$xENON-4473 (an recovery issue caused by the recreation of a segment). (P)
+** [$XENON-4473 (an recovery issue caused by the recreation of a segment). (P)
 
 * 2019-04-25
-** [$xENON-4473 (checked in the fix and updated JIRA with explanations). (P)
+** [$XENON-4473 (checked in the fix and updated JIRA with explanations). (P)
 ** Avengers: Endgame. (D)
 
 * 2019-04-26
@@ -451,10 +476,10 @@
 * 2019-04-10
 ** Contact Yumin Li for the BoC issues. (+)
 ** Red-black tree (concurrent namebase). (P)
-** [$xENON-4482 (another MPI issue potentially caused by big numbers). (+)
+** [$XENON-4482 (another MPI issue potentially caused by big numbers). (+)
 
 * 2019-04-11
-** [$xENON-4482 (confirmed it is the same as [$xENON-4465). (D)
+** [$XENON-4482 (confirmed it is the same as [$XENON-4465). (D)
 ** Fix an AdminFx issue with importing a document into an empty library. (+)
 ** Petr's knowledge transfer session (consistency checker). (D)
 
@@ -499,7 +524,7 @@
 
 * 2019-03-27
 ** Group lunch with Vicky, Jack and Moose. (D)
-** [$xENON-4474 (EC: wal files not truncated after incremental backup). (P)
+** [$XENON-4474 (EC: wal files not truncated after incremental backup). (P)
 ** Study the leader election logic. (P)
 
 * 2019-03-28
@@ -540,7 +565,7 @@
 -------- 2019-03-11 ~ 2019-03-15
 
 * 2019-03-11
-** [$xENON-4473 (an recovery issue caused by the recreation of a segment). (+)
+** [$XENON-4473 (an recovery issue caused by the recreation of a segment). (+)
 ** Enable lauching AdminFx with Java 11 from Gradle (with PATH_TO_FX set). (D)
 ** Investigate issues with Main Windows build. (+)
 
@@ -560,7 +585,7 @@
 ** Study the leader election logic. (+)
 
 * 2019-03-15
-** [$xENON-4474 (NPE with the old API caused by concurrently deleted segments). (+)
+** [$XENON-4474 (NPE with the old API caused by concurrently deleted segments). (+)
 ** Urgent BoC cases where recovery cannot proceed due to corruption (almost the whole weekend). (+)
 
 -------- 2019-03-04 ~ 2019-03-08
@@ -593,26 +618,26 @@
 -------- 2019-02-25 ~ 2019-03-01
 
 * 2019-02-25
-** [$xENON-4465 (BigDecimal). (P)
+** [$XENON-4465 (BigDecimal). (P)
 ** 1-on-1 with Perica. (D)
 
 * 2019-02-26
 ** [$STARLING-17369 (merged the fix for the deadlock upwards). (P)
-** [$xENON-4465 (BigDecimal). (P)
+** [$XENON-4465 (BigDecimal). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2019-02-27
 ** WFH.
 ** Petr's leaving-[$OTTER email T_T.
-** [$xENON-4465 (BigDecimal). (P)
+** [$XENON-4465 (BigDecimal). (P)
 
 * 2019-02-28
-** [$xENON-4465 (BigDecimal). (D)
-** Create and fix [$xENON-4469 (deadlock involving GlobalTxIdCacheUpdater on server termination). (+)
+** [$XENON-4465 (BigDecimal). (D)
+** Create and fix [$XENON-4469 (deadlock involving GlobalTxIdCacheUpdater on server termination). (+)
 ** Quick chat with Perica about Petr's departure. (+)
 
 * 2019-03-01
-** [$xENON-4469 (merged the fix to Main). (D)
+** [$XENON-4469 (merged the fix to Main). (D)
 ** Look into issues with running AdminFx with Java 11. (+)
 ** Try eclipse 4.10 for Java 11 support. (+)
 
@@ -621,7 +646,7 @@
 * 2019-02-18
 ** Investigate the failure of the concurrent change-binding test. (P)
 ** Investigate an assertion error during the creation of a checkpoint log record. (+)
-** Investigate an AdminFx regression (which is apparently caused by the fix for [$xENON-4464). (+)
+** Investigate an AdminFx regression (which is apparently caused by the fix for [$XENON-4464). (+)
 
 * 2019-02-19
 ** Investigate the failure of the concurrent change-binding test (an issue with the LLPI iterator). (P)
@@ -637,12 +662,12 @@
 ** Think about how to shrink segments. (+)
 ** Java VarHandle. (+)
 ** [$STARLING-17369 (final merge not progressing). (+)
-** [$xENON-4465 (MPI query issues with BigDecimal values). (+)
+** [$XENON-4465 (MPI query issues with BigDecimal values). (+)
 
 * 2019-02-22
 ** Discuss a few [$STARLING-[$xENON issues with Dingmeng and Sherry. (+)
 ** [$STARLING-17369 (fixed a deadlock found by Petr). (+)
-** [$xENON-4465 (BigDecimal). (+)
+** [$XENON-4465 (BigDecimal). (+)
 
 -------- 2019-02-11 ~ 2019-02-15
 
@@ -658,18 +683,18 @@
 ** Off.
 
 * 2019-02-14
-** [$xENON-4464 (AdminFx: index debug output may get cut off). (+)
+** [$XENON-4464 (AdminFx: index debug output may get cut off). (+)
 
 * 2019-02-15
-** [$xENON-4464 (AdminFx: index debug output may get cut off). (D)
+** [$XENON-4464 (AdminFx: index debug output may get cut off). (D)
 
 -------- 2019-01-28 ~ 2019-02-03
 
 * 2019-01-28
-** [$xENON-4232 (cold backup vs. hot backup test, updated JIRA with test results). (+)
+** [$XENON-4232 (cold backup vs. hot backup test, updated JIRA with test results). (+)
 
 * 2019-01-29
-** [$xENON-4232 (fixed the issue with cold backup by leveraging 'library latch'). (D)
+** [$XENON-4232 (fixed the issue with cold backup by leveraging 'library latch'). (D)
 ** [$xENON weekly meeting. (D)
 ** Upload Petr and Vojtech's cluster demo (saved by Elaine). (+)
 
@@ -680,7 +705,7 @@
 
 * 2019-01-31
 ** Hardware mystery solved (P51 + dock need both the big and small power adapters to work). (+)
-** [$xENON-4109 (already fixed, created test case for verification, but found other issues). (D)
+** [$XENON-4109 (already fixed, created test case for verification, but found other issues). (D)
 
 * 2019-02-01
 ** [$VAULT2-9286 (issues related to the removal a library with read-only descendants, potential solutions and performance concerns). (+)
@@ -696,28 +721,28 @@
 -------- 2019-01-21 ~ 2019-01-25
 
 * 2019-01-21
-** [$xENON-4446 (make superuser sessions able to update database properties in AdminFx). (+)
+** [$XENON-4446 (make superuser sessions able to update database properties in AdminFx). (+)
 
 * 2019-01-22
-** [$xENON-4446 (make superuser sessions able to update database properties in AdminFx). (D)
+** [$XENON-4446 (make superuser sessions able to update database properties in AdminFx). (D)
 ** Refresh all affected tabs (open sessions) in AdminFx when a database gets renamed. (+)
 ** [$xENON weekly meeting. (D)
 ** Investigate hanging builds on Jenkins. (+)
 
 * 2019-01-23
 ** Investigate hanging builds on Jenkins. (D)
-** [$xENON-4286 (won't fix due as the added complexity would beat our initial purpose). (+)
-** [$xENON-4232 (hot library backup only). (+) 
+** [$XENON-4286 (won't fix due as the added complexity would beat our initial purpose). (+)
+** [$XENON-4232 (hot library backup only). (+) 
 
 * 2019-01-24
-** [$xENON-4449 (keep database names sorted in AdminFx). (+)
+** [$XENON-4449 (keep database names sorted in AdminFx). (+)
 ** Add debug output to diagnose instability issues with AdminFx tests on Jenkins. (+)
 ** 1-on-1 with Perica. (D)
-** [$xENON-4232 (asked Mark Polman for input). (+)
+** [$XENON-4232 (asked Mark Polman for input). (+)
 
 * 2019-01-25
 ** JIRA cleanup (mostly blockers, closed or fixed some easy ones). (+)
-** [$xENON-4232 (cold backup vs. hot backup test). (+)
+** [$XENON-4232 (cold backup vs. hot backup test). (+)
 
 -------- 2019-01-14 ~ 2019-01-18
 
@@ -786,7 +811,7 @@
 ** Check with Perica on decision regarding custom segment id. (+)
 
 * 2018-12-25
-** [$xENON-4436 (library hierarchy view). (P)
+** [$XENON-4436 (library hierarchy view). (P)
 ** Read Philip's AdminFx documentation. (+)
 ** Look into a build failure probably caused by concurrent modifications to an ArrayList. (+)
 
@@ -815,11 +840,11 @@
 * 2018-12-19
 ** Stabilize the build (recovery issues with config node). (P)
 ** Cybala's all-hands. (D)
-** [$xENON-4436 (library hierarchy view). (+)
+** [$XENON-4436 (library hierarchy view). (+)
 
 * 2018-12-20
 ** Stabilize the build. (P)
-** [$xENON-4436 (library hierarchy view, fix would be non-trivial). (P)
+** [$XENON-4436 (library hierarchy view, fix would be non-trivial). (P)
 ** 1-on-1 with Perica. (D)
 
 * 2018-12-21
@@ -840,7 +865,7 @@
 
 * 2018-12-13
 ** Implement a mechanism for unit tests to work around the issue where background threads may hold back globallyOldestUndoLSN, blocking the segment remover. (+)
-** Create [$xENON-4456 (statistics: exclude read-only transactions from normal rollbacks). (+)
+** Create [$XENON-4456 (statistics: exclude read-only transactions from normal rollbacks). (+)
 ** Consolidate create-library methods used by unit tests. (P)
 
 * 2018-12-14
@@ -893,18 +918,18 @@
 
 * 2018-11-19
 ** Read [[Java Is Still Free]]. (D)
-** [$xENON-4438 (allow users to remove empty segments from a detachable library). (P)
+** [$XENON-4438 (allow users to remove empty segments from a detachable library). (P)
 
 * 2018-11-20
 ** Look at some very weird output by RPC tracer (whose behavior seems extremely unpredictable, gave up). (+)
-** [$xENON-4438 (code seemingly working properly, added new tests). (P)
+** [$XENON-4438 (code seemingly working properly, added new tests). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2018-11-21
 ** Off.
 
 * 2018-11-22
-** [$xENON-4450 (a [$xENON customer forgot the password). (+)
+** [$XENON-4450 (a [$xENON customer forgot the password). (+)
 ** Make cluster/multi-node tests transition to the new API. (P)
 
 * 2018-11-23
@@ -971,10 +996,10 @@
 ** [$xENON weekly meeting. (D)
 
 * 2018-10-31
-** [$xENON-4433 (corruption caused by leftover temporary pages). (+)
+** [$XENON-4433 (corruption caused by leftover temporary pages). (+)
 
 * 2018-11-01
-** [$xENON-4433 (modified consistency checker to detect all orphaned pages). (P)
+** [$XENON-4433 (modified consistency checker to detect all orphaned pages). (P)
 ** Study the CSI code and start to make code changes and fixes. (P)
 
 * 2018-11-02
@@ -1012,7 +1037,7 @@
 ** Investigate an issue probably caused by undoing an NTA commit record. (+)
 
 * 2018-10-16
-** [$xENON-4440 (LLPI). (D)
+** [$XENON-4440 (LLPI). (D)
 ** Stabilize the build ('isNTACommitRecord' flag, flush pages before taking the latch on force-detach, etc.). (P)
 ** [$xENON weekly meeting. (D)
 
@@ -1034,7 +1059,7 @@
 * 2018-10-08
 ** Email backlog. (D)
 ** FY2019 performance plan. (+)
-** [$xENON-4433 (download the 10.4.4 federation). (+)
+** [$XENON-4433 (download the 10.4.4 federation). (+)
 ** Have a look at [$VAULT's regex for name validation (it's blacklist). (+)
 ** Improve the internal online restore segment id mapper (nonunique mapping detection, foolproof measure, etc.). (+)
 ** Stabilize the build. (P)
@@ -1046,11 +1071,11 @@
 ** [$xENON weekly meeting. (D)
 
 * 2018-10-10
-** [$xENON-4433 (upgrade issues caused by LMPI segments being mistakenly created as 'unused' before 10.4.5). (P)
+** [$XENON-4433 (upgrade issues caused by LMPI segments being mistakenly created as 'unused' before 10.4.5). (P)
 ** Store global transaction id in LrBootstrapInfoUpdate. (P)
 
 * 2018-10-11
-** [$xENON-4447 (performance of exporting extended bootstrap file). (+)
+** [$XENON-4447 (performance of exporting extended bootstrap file). (+)
 ** Store global transaction id in LrBootstrapInfoUpdate. (D)
 ** Merge outstanding changes. (P)
 ** Help Sherry investigate a customer issue (CURRENT_THREAD_NOT_JOINED during final merge). (+)
@@ -1059,7 +1084,7 @@
 * 2018-10-12
 ** Improve the recovery logic for NTA commit records such that undo() is never called. (D)
 ** 1-on-1 with Perica (FY2018 performance plan, final review, signatures). (D)
-** [$xENON-4440 (LLPI). (P)
+** [$XENON-4440 (LLPI). (P)
 
 -------- 2018-09-25 ~ 2018-09-30
 
@@ -1085,12 +1110,12 @@
 ** Investigate the regressions caused by not releasing write latches in finally blocks. (+)
 ** Quick chat with Perica about Philip's departure. (+)
 ** Philip's knowledge transfer session (overview of CI setup : Jenkins / pipeline Groovy scripts). (+)
-** [$xENON-4355 (WebEx with EC). (+)
+** [$XENON-4355 (WebEx with EC). (+)
 
 * 2018-09-29
 ** Stabilize the build. (P)
 ** Investigate the regressions caused by not releasing write latches in finally blocks. (P)
-** [$xENON-4433 (started to debug the issue on the customer's data). (P)
+** [$XENON-4433 (started to debug the issue on the customer's data). (P)
 
 * 2018-09-30
 ** Off.
@@ -1099,11 +1124,11 @@
 
 * 2018-09-17
 ** Investigate a problem uncovered by flushing pages on undo of segment deletion (transaction not found on config node during recovery). (+)
-** [$xENON-4433 (downloaded the complete federation, still lots of file based Lucene indexes). (+)
+** [$XENON-4433 (downloaded the complete federation, still lots of file based Lucene indexes). (+)
 
 * 2018-09-18
 ** Answer questions related to libraries/segments from [$VAULT team. (+)
-** [$xENON-4433 (checked with Petr about the LMPI upgrade procedure). (P)
+** [$XENON-4433 (checked with Petr about the LMPI upgrade procedure). (P)
 ** Stabilize the build. (P)
 ** [$xENON weekly meeting. (D)
 
@@ -1119,17 +1144,17 @@
 
 * 2018-09-21
 ** Stabilize the build (Bas: write latch released in finally block; wait for Petr's explanation for that behavior). (P)
-** [$xENON-4433 (root cause analysis: looks like a synchronization issue with DatabaseProxy). (P)
+** [$XENON-4433 (root cause analysis: looks like a synchronization issue with DatabaseProxy). (P)
 ** 1-on-1 with Perica. (D)
 
 -------- 2018-09-10 ~ 2018-09-14
 
 * 2018-09-10
-** [$xENON-4439 (this one now looks difficult). (+)
+** [$XENON-4439 (this one now looks difficult). (+)
 ** [$STARLING weekly meeting. (D)
 
 * 2018-09-11
-** [$xENON-4439 (still no good solution...). (P)
+** [$XENON-4439 (still no good solution...). (P)
 ** Create a concurrent segment deletion test. (+)
 ** [$xENON weekly meeting. (D)
 ** Discuss the [$VAULT performance status of with John. (+)
@@ -1138,7 +1163,7 @@
 ** WFH.
 ** Double check whether certain fixes need to be backported to 11.1 for [$VAULT EP5. (+)
 ** [$VAULT2-8005 (probably caused by a leftover data file of a deleted segment). (+)
-** [$xENON-4433 (wrote a small program to analyze the customer's data, corruption found in LMPI segment structure). (P)
+** [$XENON-4433 (wrote a small program to analyze the customer's data, corruption found in LMPI segment structure). (P)
 ** Fix an issue with exporting extended bootstrap file. (+)
 ** Look into an unknown data node issue reported by Philip (probably caused by cached node names). (+)
 
@@ -1149,7 +1174,7 @@
 
 * 2018-09-14
 ** Work on the fix for various issues with concurrent segment deletion. (P)
-** Create [$xENON-4443 (communication layer hanging issue involving library restore channel). (+)
+** Create [$XENON-4443 (communication layer hanging issue involving library restore channel). (+)
 
 -------- 2018-09-03 ~ 2018-09-07
 
@@ -1169,7 +1194,7 @@
 ** Global tech talk about upcoming Java changes. (D)
 
 * 2018-09-06
-** [$xENON-4355 (tried to download data, but FTP account expired). (P)
+** [$XENON-4355 (tried to download data, but FTP account expired). (P)
 ** Make cluster/multi-node tests transition to the new API. (+)
 ** Investigate what looks like an LLPI bug. (+)
 
@@ -1177,14 +1202,14 @@
 ** Really bad news from Vojtech T_T.
 ** 1-on-1 with Perica. (D)
 ** Investigate a deadlock reported by Simon (involving config lock, latch on super block, flushAllDirtyPages, etc.). (+)
-** Create [$xENON-4439 for the above. (+)
-** Create [$xENON-4440 for the LLPI bug. (+)
+** Create [$XENON-4439 for the above. (+)
+** Create [$XENON-4440 for the LLPI bug. (+)
 
 -------- 2018-08-27 ~ 2018-08-31
 
 * 2018-08-27
 ** Read some articles relates to NUMA. (+)
-** Create [$xENON-4437 (index cleaner still working during the cleanliness check). (+)
+** Create [$XENON-4437 (index cleaner still working during the cleanliness check). (+)
 ** Implement fixes for the backslash issue (merge). (P)
 ** New API to create a child detachable library on a different data node. (P)
 
@@ -1209,7 +1234,7 @@
 ** Briefly look into the seemingly hanging builds on Jenkins and report the issues to Philip. (+)
 ** Investigate a config lock contention involving the creation of system sessions (fixed, also added double quiesce()). (D)
 ** [$VAULT2-7872 (further explanation for [$VAULT team). (D)
-** Created [$xENON-4438 (support for removing an empty DETACHABLE segment from a detachable library). (+)
+** Created [$XENON-4438 (support for removing an empty DETACHABLE segment from a detachable library). (+)
 ** [$VAULT2-7456 (related to asynchronous deletion of segments, but [$VAULT team used the wrong jar). (+)
 ** Briefly help John analyze the profiles collected from recent [$VAULT performance test. (+)
 
@@ -1284,7 +1309,7 @@
 
 * 2018-08-09
 ** Watch the recording of [$xENON cluster demo. (D)
-** [$xENON-4429 (closed the case and update other related cases with some notes). (D)
+** [$XENON-4429 (closed the case and update other related cases with some notes). (D)
 ** [$VAULT2-7499 (heap dump analysis, too many PageImpl instances for one page?). (P)
 
 * 2018-08-10
@@ -1309,7 +1334,7 @@
 ** Fix regressions caused by asynchronous deletion of segments (globallyOldestUndoLSN not advancing quickly enough on master?). (P)
 
 * 2018-08-02
-** [$xENON-4433. (+)
+** [$XENON-4433. (+)
 ** Fix regressions caused by asynchronous deletion of segments. (P)
 ** Fix an issue caused by segments having been force-deleted before SegmentRemover can process them. (+)
 
@@ -1322,18 +1347,18 @@
 
 * 2018-07-23
 ** WFH.
-** [$xENON-4355 (Lucene blob segments not shrinking). (P)
+** [$XENON-4355 (Lucene blob segments not shrinking). (P)
 ** [$STARLING weekly meeting. (D)
 
 * 2018-07-24
-** [$xENON-4398 (results from test against 16.5). (D)
-** [$xENON-4398 (initial investigation results: both blob segments active). (P)
+** [$XENON-4398 (results from test against 16.5). (D)
+** [$XENON-4398 (initial investigation results: both blob segments active). (P)
 ** [$VAULT2-7499 (heap dump analysis). (P)
 ** [$xENON weekly meeting. (D)
 ** Set up the new laptop. (+)
 
 * 2018-07-25
-** [$xENON-4355 (discussion with Sherry). (P)
+** [$XENON-4355 (discussion with Sherry). (P)
 ** Set up the new laptop. (P)
 ** 1-on-1 with Huaqing. (D)
 ** [$OTTER Shanghai all-hands. (D)
@@ -1358,7 +1383,7 @@
 * 2018-07-17
 ** Implement asynchronous deletion of detachable segments. (P)
 ** [$xENON weekly meeting. (D)
-** [$xENON-4398 (launched scalability test against latest 16.5). (+)
+** [$XENON-4398 (launched scalability test against latest 16.5). (+)
 
 * 2018-07-18
 ** WFH.
@@ -1400,7 +1425,7 @@
 * 2018-07-02
 ** Unpack stuff and set up the table, network, etc. (D)
 ** Compare results of cluster recovery test from different branches. (P)
-** [$xENON-4318 (last configuration finished). (D)
+** [$XENON-4318 (last configuration finished). (D)
 ** [$STARLING weekly meeting. (D)
 
 * 2018-07-03
@@ -1419,7 +1444,7 @@
 * 2018-07-05
 ** WFH.
 ** Continue investigating the StreamByteChannel issue (informed Val of Epoll/NioEventLoop). (D)
-** [$xENON-4398 (plotted data and updated the case with some initial conclusions). (P)
+** [$XENON-4398 (plotted data and updated the case with some initial conclusions). (P)
 ** Investigate the communication overhead during the retrieval of FileidMap. (P)
 
 * 2018-07-06
@@ -1428,18 +1453,18 @@
 -------- 2018-06-25 ~ 2018-06-29
 
 * 2018-06-25
-** [$xENON-4318 (too slow with dir_index disabled, data files now created in multiple directories). (P)
-** [$xENON-4375 (issues with StreamByteChannel). (P)
+** [$XENON-4318 (too slow with dir_index disabled, data files now created in multiple directories). (P)
+** [$XENON-4375 (issues with StreamByteChannel). (P)
 ** [$STARLING weekly meeting. (D)
 
 * 2018-06-26
-** [$xENON-4375 (temporary fix for StreamByteChannel). (P)
+** [$XENON-4375 (temporary fix for StreamByteChannel). (P)
 ** Compare results of cluster recovery test from different branches. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2018-06-27
 ** Look into a hanging issue on Jenkins (config node failed to exit). (+)
-** [$xENON-4375 (merged to higher branches and enabled the check). (D)
+** [$XENON-4375 (merged to higher branches and enabled the check). (D)
 ** Compare results of cluster recovery test from different branches. (P)
 ** Check out the new office. (D)
 
@@ -1456,8 +1481,8 @@
 
 * 2018-06-19
 ** [$VAULT2-6911 (checked commits between two builds). (+)
-** [$xENON-4318 (no space left on disk where there is still 2.7TB :( ). (+)
-** [$xENON-4375 (issues with StreamByteChannel). (P)
+** [$XENON-4318 (no space left on disk where there is still 2.7TB :( ). (+)
+** [$XENON-4375 (issues with StreamByteChannel). (P)
 ** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
@@ -1466,20 +1491,20 @@
 ** Investigate a hanging issue caused by checking read preference quorum on an online restored page. (+)
 
 * 2018-06-21
-** [$xENON-4375 (issues with StreamByteChannel, wait(timeout) doesn't help). (P)
+** [$XENON-4375 (issues with StreamByteChannel, wait(timeout) doesn't help). (P)
 ** Create a wiki page to summarize the optimizations for segment list cache. (+)
 
 * 2018-06-22
-** [$xENON-4318 (no space left on disk: caused by 'dir_index' on ext4?). (P)
+** [$XENON-4318 (no space left on disk: caused by 'dir_index' on ext4?). (P)
 ** Create a wiki page to summarize the optimizations for segment list cache. (+)
 ** Answer Damien's question about moving libraries across federations in 10.5. (+)
-** [$xENON-4375 (issues with StreamByteChannel). (P)
+** [$XENON-4375 (issues with StreamByteChannel). (P)
 
 -------- 2018-06-11 ~ 2018-06-15
 
 * 2018-06-11
 ** [$VAULT2-7088 (more discussions, minor improvements). (P)
-** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding). (P)
 ** Create a wiki page to summarize the optimizations for segment list cache. (+)
 
 * 2018-06-12
@@ -1488,16 +1513,16 @@
 ** [$OTTER Shanghai team building activity (kayaking at Gucun Park). (D)
 
 * 2018-06-13
-** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
-** [$VAULT2-7088 (more discussions, created [$xENON-4429). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$VAULT2-7088 (more discussions, created [$XENON-4429). (P)
 
 * 2018-06-14
-** [$xENON-4375 (delete leftover files caused by a failed change-binding, jdb!!). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding, jdb!!). (P)
 ** Read Elain's benchmark report. (+)
 
 * 2018-06-15
 ** [$VAULT2-7088 (check session type at low level in [$xENON when data file is missing). (D)
-** [$xENON-4375 (delete leftover files caused by a failed change-binding, issues with StreamByteChannel??). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding, issues with StreamByteChannel??). (P)
 ** 1-on-1 with Perica. (D)
 
 -------- 2018-06-04 ~ 2018-06-08
@@ -1514,20 +1539,20 @@
 
 * 2018-06-06
 ** Read wiki articles about [$VAULT. (D)
-** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding). (P)
 
 * 2018-06-07
-** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding). (P)
 
 * 2018-06-08
-** [$xENON-4375 (delete leftover files caused by a failed change-binding). (P)
+** [$XENON-4375 (delete leftover files caused by a failed change-binding). (P)
 ** [$VAULT2-7088 (read-only transactions reading accessing deleted segments). (+)
 
 -------- 2018-05-28 ~ 2018-06-01
 
 * 2018-05-28
 ** Deserialization support for detachable libraries (check potential issues with segment naming). (+)
-** [$xENON-4318 (testing, summary). (P)
+** [$XENON-4318 (testing, summary). (P)
 ** Merge recent changes to Main. (+)
 ** Investigate failing recovery tests (Val's fix in place). (+)
 
@@ -1543,7 +1568,7 @@
 ** Create a wiki page to summarize the status of deserialization support. (+)
 
 * 2018-05-31
-** [$xENON-4172 (detach() hangs when nested in a read-only transaction, use new API instead). (+)
+** [$XENON-4172 (detach() hangs when nested in a read-only transaction, use new API instead). (+)
 ** Fix the issue that segments may remain in the cleaner's queue when we need to delete them on rollback. (D)
 ** Create a wiki page to summarize the status of deserialization support. (P)
 
@@ -1555,7 +1580,7 @@
 -------- 2018-05-21 ~ 2018-05-25
 
 * 2018-05-21
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Investigate the failures in the most recent 11.1 nightly. (+)
 ** [$STARLING weekly meeting. (D)
 ** Deserialization support for detachable libraries. (P)
@@ -1565,62 +1590,62 @@
 ** [$xENON weekly meeting. (D)
 
 * 2018-05-23
-** [$xENON-4318 (testing, set up another new VM in Tokyo lab). (P)
+** [$XENON-4318 (testing, set up another new VM in Tokyo lab). (P)
 ** Deserialization support for detachable libraries. (P)
 
 * 2018-05-24
 ** Deserialization support for detachable libraries. (P)
 
 * 2018-05-25
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (D)
 
 -------- 2018-05-14 ~ 2018-05-18
 
 * 2018-05-14
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Investigate a one-off error from segment list cache found in [$ARGON test (fixed a potential problem caused by out-of-order generations). (P)
 
 * 2018-05-15
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2018-05-16
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 
 * 2018-05-17
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 
 * 2018-05-18
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Deserialization support for detachable libraries. (P)
 ** 1-on-1 with Perica. (D)
 
 -------- 2018-05-07 ~ 2018-05-11
 
 * 2018-05-07
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** WFH/PM.
 ** Continue investigating remaining issues found in the concurrency test for online library restore (transaction tables got mixed up). (P)
 ** Fix an assertion error triggered by changes to importNode(). (+)
 
 * 2018-05-08
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Fix issues caused by failing to update paths in KVS when a mapper is used during federation restore. (+)
 ** [$xENON weekly meeting. (D)
 ** Investigate failing recovery tests. (+)
 
 * 2018-05-09
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Fix issues caused by failing to update paths in KVS when a mapper is used during federation restore (usage issue). (D)
 ** Investigate failing recovery tests. (P)
 ** Investigate a one-off error from segment list cache found in [$ARGON test. (+)
 
 * 2018-05-10
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Make sure library scope file ids never exceed 2^20. (+)
 ** Investigate failing recovery tests (transactions before/after crash got mixed up on config node??). (P)
 
@@ -1632,20 +1657,20 @@
 * 2018-05-02
 ** Check out Philip's new AdminFx changes. (+)
 ** Mandatory compliance trainings. (D)
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 ** Look into failing AdminFx tests. (+)
 
 * 2018-05-03
 ** Mandatory compliance training (GDPR). (D)
 ** Investigate a federation restore failure (probably caused by failing to update paths in KVS). (+)
 ** Look into failing AdminFx tests. (D)
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 
 * 2018-05-04
 ** Fix an issue caused by using the transaction id of the restore session for new log records during online recovery. (+)
 ** Continue investigating remaining issues found in the concurrency test for online library restore. (+)
 ** Make importNode() keep library's detachability. (+)
-** [$xENON-4318 (testing). (P)
+** [$XENON-4318 (testing). (P)
 
 -------- 2018-04-23 ~ 2018-04-28
 
@@ -1683,7 +1708,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2018-04-18
-** Create [$xENON-4372 (undo the creation of physical files if online-restore/change-binding fails) (+)
+** Create [$XENON-4372 (undo the creation of physical files if online-restore/change-binding fails) (+)
 ** Investigate an online recovery issue where a leaf page's pageLSN is found to be 0 (addRecord() skipped during online recovery). (D)
 
 * 2018-04-19
@@ -1703,8 +1728,8 @@
 ** New APIs for segment creation. (P)
 
 * 2018-04-10
-** [$xENON-4371 (online recovery issue caused by LrEnd). (+)
-** Create [$xENON-4372 (AdminFx crash) (+)
+** [$XENON-4371 (online recovery issue caused by LrEnd). (+)
+** Create [$XENON-4372 (AdminFx crash) (+)
 ** [$xENON weekly meeting. (D)
 
 * 2018-04-11
@@ -1774,7 +1799,7 @@
 ** Discuss some [$STARLING/[$xENON architecture issues with Tony. (+)
 
 * 2018-03-23
-** [$xENON-4318 (set up a Linux VM environment for testing). (+)
+** [$XENON-4318 (set up a Linux VM environment for testing). (+)
 ** New APIs for segment creation. (P)
 ** [$xENON brainstorming session. (D)
 
@@ -1782,7 +1807,7 @@
 
 * 2018-03-12
 ** SOP training courses (updated versions). (+)
-** Run [$xENON-4318 test without eclipse and use WUKONG as storage. (+)
+** Run [$XENON-4318 test without eclipse and use WUKONG as storage. (+)
 ** New APIs for segment creation. (P)
 
 * 2018-03-13
@@ -1877,14 +1902,14 @@
 ** Sick leave.
 
 * 2018-02-13
-** [$xENON-4356 (cluster connection in a single-node setup?). (+)
+** [$XENON-4356 (cluster connection in a single-node setup?). (+)
 ** Fix a high priority SpotBugs warning. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2018-02-14
 ** WFH.
 ** New APIs for segment creation (created a new wiki page). (P)
-** [$xENON-4348/[$SWIFT-16484 (built and uploaded new jars for [$STARLING team). (+)
+** [$XENON-4348/[$SWIFT-16484 (built and uploaded new jars for [$STARLING team). (+)
 
 -------- 2018-02-05 ~ 2018-02-09
 
@@ -1908,13 +1933,13 @@
 -------- 2018-01-29 ~ 2018-02-02
 
 * 2018-01-29
-** [$xENON-4318/[$VAULT2-2406 (reimplement access info cache using Guava Cache). (P)
+** [$XENON-4318/[$VAULT2-2406 (reimplement access info cache using Guava Cache). (P)
 ** Discuss some [$STARLING/[$xENON architecture issues with Tony. (+)
 ** SOP training courses. (+)
 
 * 2018-01-30
-** [$xENON-4348/[$SWIFT-16484 (explain to Bindu what the extracted data is). (+)
-** [$xENON-4318/[$VAULT2-2406 (heap dump analysis, more memory optimizations). (P)
+** [$XENON-4348/[$SWIFT-16484 (explain to Bindu what the extracted data is). (+)
+** [$XENON-4318/[$VAULT2-2406 (heap dump analysis, more memory optimizations). (P)
 ** SOP training courses. (D)
 ** [$xENON weekly meeting. (D)
 
@@ -1924,29 +1949,29 @@
 
 * 2018-02-01
 ** FY2018 performance plan. (P)
-** [$xENON-4348/[$SWIFT-16484 (just some discussions). (P)
+** [$XENON-4348/[$SWIFT-16484 (just some discussions). (P)
 
 * 2018-02-02
 ** FY2018 performance plan. (P)
 ** New APIs for segment creation. (P)
 ** 1-on-1 with Perica (performance plan). (D)
-** [$xENON-4348/[$SWIFT-16484 (just some discussions). (P)
+** [$XENON-4348/[$SWIFT-16484 (just some discussions). (P)
 
 -------- 2018-01-22 ~ 2018-01-26
 
 * 2018-01-22
 ** Fix the version name error in changes.dita. (D)
-** [$xENON-4348/[$SWIFT-16484 (verify Philip's fix for CSI). (P)
-** [$xENON-4318/[$VAULT2-2406 (analysis of performance data, updated JIRA case). (P)
+** [$XENON-4348/[$SWIFT-16484 (verify Philip's fix for CSI). (P)
+** [$XENON-4318/[$VAULT2-2406 (analysis of performance data, updated JIRA case). (P)
 
 * 2018-01-23
-** [$xENON-4318/[$VAULT2-2406 (front-end FileidMap cache: soft reference -> weak reference?). (P)
+** [$XENON-4318/[$VAULT2-2406 (front-end FileidMap cache: soft reference -> weak reference?). (P)
 ** [$OTTER Shanghai annual party. (D)
 
 * 2018-01-24
-** [$xENON-4318/[$VAULT2-2406 (front-end FileidMap cache: soft reference -> weak reference?). (P)
+** [$XENON-4318/[$VAULT2-2406 (front-end FileidMap cache: soft reference -> weak reference?). (P)
 ** Audit Fortify issues. (P)
-** [$xENON-4348/[$SWIFT-16484 (gave an [$xENON-CSI session for [$STARLING). (+)
+** [$XENON-4348/[$SWIFT-16484 (gave an [$xENON-CSI session for [$STARLING). (+)
 
 * 2018-01-25
 ** Audit Fortify issues. (P)
@@ -1957,35 +1982,35 @@
 ** Audit Fortify issues. (D)
 ** FY2018 performance plan. (+)
 ** 1-on-1 with Perica. (D)
-** [$xENON-4318/[$VAULT2-2406 (front-end access info cache). (P)
+** [$XENON-4318/[$VAULT2-2406 (front-end access info cache). (P)
 
 -------- 2018-01-15 ~ 2018-01-19
 
 * 2018-01-15
-** [$xENON-4318/[$VAULT2-2406 (performance test in progress). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance test in progress). (P)
 ** Merge recent performance/memory optimizations to 16EP3. (P)
 
 * 2018-01-16
-** [$xENON-4348/[$SWIFT-16484 (sent info about the old Windows kernel bug in NTFS to Tony). (+)
+** [$XENON-4348/[$SWIFT-16484 (sent info about the old Windows kernel bug in NTFS to Tony). (+)
 ** Merge recent performance/memory optimizations to 16EP3 (minor regressions, issues with read-only transactions on replicas). (D)
 ** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
-** [$xENON-4318/[$VAULT2-2406 (performance test in progress, local pure [$xENON test). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance test in progress, local pure [$xENON test). (P)
 
 * 2018-01-17
 ** Off/AM.
 ** Investigate the newly revealed issue with RO transactions on replicas. (P)
-** [$xENON-4318/[$VAULT2-2406 (local pure [$xENON test done, updated JIRA, collected heap dumps). (P)
+** [$XENON-4318/[$VAULT2-2406 (local pure [$xENON test done, updated JIRA, collected heap dumps). (P)
 
 * 2018-01-18
 ** Review Philip's [[xENON Threat Model]]. (+)
-** [$xENON-4318/[$VAULT2-2406 (performance test in progress, degradation happened at front-end?). (P)
-** [$xENON-4348/[$SWIFT-16484 (tried exporting Lucene files using CSI). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance test in progress, degradation happened at front-end?). (P)
+** [$XENON-4348/[$SWIFT-16484 (tried exporting Lucene files using CSI). (P)
 
 * 2018-01-19
 ** Investigate the newly revealed issue with RO transactions on replicas (checked in the fix). (P)
-** [$xENON-4318/[$VAULT2-2406 (collected performance data from front-end). (P)
-** [$xENON-4348/[$SWIFT-16484 (tried exporting Lucene files using CSI). (P)
+** [$XENON-4318/[$VAULT2-2406 (collected performance data from front-end). (P)
+** [$XENON-4348/[$SWIFT-16484 (tried exporting Lucene files using CSI). (P)
 ** Minor [$xENON issues (path version number, release notes, etc.). (+)
 ** Winston's farewell lunch. (D)
 
@@ -1993,30 +2018,30 @@
 
 * 2018-01-08
 ** JIRA cleanup. (+)
-** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
+** [$XENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
 ** [$STARLING weekly meeting. (D)
 ** Look at an assertion error reported by Yuri. (+)
 
 * 2018-01-09
-** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
+** [$XENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
 ** Look at an assertion error reported by Yuri. (P)
 ** [$xENON weekly meeting. (D)
 
 * 2018-01-10
-** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
+** [$XENON-4318/[$VAULT2-2406 (prepare for the next round of test). (P)
 ** Look at an assertion error reported by Yuri (fixed). (D)
 ** Investigate a new error reported by Sander (caused by non-volatile datafileArray?). (+)
 ** Merge recent performance/memory optimizations to 16EP3. (P)
-** [$xENON-4348/[$SWIFT-16484 (ArrayIndexOutOfBoundsException from Lucene). (+)
+** [$XENON-4348/[$SWIFT-16484 (ArrayIndexOutOfBoundsException from Lucene). (+)
 
 * 2018-01-11
-** [$xENON-4349 (Val's test results). (+)
+** [$XENON-4349 (Val's test results). (+)
 ** Merge recent performance/memory optimizations to 16EP3. (P)
-** [$xENON-4348/[$SWIFT-16484 (ask the customer to turn on assertion?). (P)
-** [$xENON-4318/[$VAULT2-2406 (performance test in progress). (P)
+** [$XENON-4348/[$SWIFT-16484 (ask the customer to turn on assertion?). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance test in progress). (P)
 
 * 2018-01-12
-** [$xENON-4318/[$VAULT2-2406 (performance test in progress). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance test in progress). (P)
 ** Set up Fortify Audit Workbench. (+)
 ** Merge recent performance/memory optimizations to 16EP3. (P)
 ** 1-on-1 with Perica. (D) 
@@ -2024,7 +2049,7 @@
 -------- 2018-01-02 ~ 2018-01-05
 
 * 2018-01-02
-** [$xENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds, testing). (P)
+** [$XENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds, testing). (P)
 ** Investigate hanging tests in unit_002 of 11.1. (+)
 ** [$xENON weekly meeting. (D)
 
@@ -2038,8 +2063,8 @@
 ** Investigate new errors reported by Sander (RO transactions may add pages from deleted files to buffer pool). (P)
 
 * 2018-01-05
-** Investigate hanging tests (ServerSocket::accept, created [$xENON-4349 with a minimal reproducible example). (P)
-** [$xENON-4318/[$VAULT2-2406 (prepare for the next round of test). (+)
+** Investigate hanging tests (ServerSocket::accept, created [$XENON-4349 with a minimal reproducible example). (P)
+** [$XENON-4318/[$VAULT2-2406 (prepare for the next round of test). (+)
 
 -------- 2017-12-25 ~ 2017-12-29
 
@@ -2064,15 +2089,15 @@
 * 2017-12-18
 ** Investgate failing tests on Jenkins (use generated lockHolderId for federation backup). (P)
 ** [$STARLING weekly meeting. (D)
-** [$xENON-4325 (need to store default file id for DELETESEGMENT and DELETEDATABASE). (P)
+** [$XENON-4325 (need to store default file id for DELETESEGMENT and DELETEDATABASE). (P)
 
 * 2017-12-19
-** [$xENON-4325 (had a look at the failure of the 'workaround', reported a CSI issue). (D)
+** [$XENON-4325 (had a look at the failure of the 'workaround', reported a CSI issue). (D)
 ** Investgate failing tests on Jenkins (maxFileSize:10 -> implicit ADDFILE -> direct data node modification). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2017-12-20
-** [$xENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds). (P)
+** [$XENON-4318/[$VAULT2-2406 (memory optimizations for DateFileLibraryScopeFileIds). (P)
 
 * 2017-12-21
 ** Off (fixed a minor test case issue reported by Petr).
@@ -2097,8 +2122,8 @@
 
 * 2017-12-15
 ** Investgate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
-** [$xENON-4325 (segment missing during federatino restore, reported by Sander). (+)
-** Create [$xENON-4327 per Perica/Petr's request. (+)
+** [$XENON-4325 (segment missing during federatino restore, reported by Sander). (+)
+** Create [$XENON-4327 per Perica/Petr's request. (+)
 
 -------- 2017-12-04 ~ 2017-12-08
 
@@ -2134,25 +2159,25 @@
 ** [$xENON weekly meeting. (D)
 
 * 2017-11-29
-** [$xENON-4318/[$VAULT2-2406 (memory optimizations for FileidMap). (P)
+** [$XENON-4318/[$VAULT2-2406 (memory optimizations for FileidMap). (P)
 ** Investgate hanging tests on Jenkins. (+)
 
 * 2017-11-30
-** [$xENON-4318/[$VAULT2-2406 (memory optimizations for Datafile). (P)
+** [$XENON-4318/[$VAULT2-2406 (memory optimizations for Datafile). (P)
 
 * 2017-12-01
-** Create [$xENON-4323 per Michael Jiang's request (admin/cmd tool to interrupt a running session). (+)
+** Create [$XENON-4323 per Michael Jiang's request (admin/cmd tool to interrupt a running session). (+)
 ** Investgate failing tests on Jenkins. (+)
 ** 1-on-1 with Perica. (D) 
 
 -------- 2017-11-20 ~ 2017-11-24
 
 * 2017-11-20
-** [$xENON-4318/[$VAULT2-2406 (collected performance data from logs, further memory optimizations for DatabaseSegmentLists). (P)
+** [$XENON-4318/[$VAULT2-2406 (collected performance data from logs, further memory optimizations for DatabaseSegmentLists). (P)
 ** [$STARLING weekly meeting. (D)
 
 * 2017-11-21
-** [$xENON-4318/[$VAULT2-2406 (fixed a few issues in the recent changes). (P)
+** [$XENON-4318/[$VAULT2-2406 (fixed a few issues in the recent changes). (P)
 ** Fix an issue caused by logically empty log files. (D)
 ** [$xENON weekly meeting. (D)
 ** [$VAULT-3901 (suspension, again...). (+)
@@ -2168,7 +2193,7 @@
 
 * 2017-11-24
 ** Concurrent library backups from replica (bug, minor improvements, etc.). (P)
-** [$xENON-4318/[$VAULT2-2406 (further memory optimizations for DatabaseSegmentLists). (P)
+** [$XENON-4318/[$VAULT2-2406 (further memory optimizations for DatabaseSegmentLists). (P)
 
 -------- 2017-11-13 ~ 2017-11-17
 
@@ -2177,39 +2202,39 @@
 
 * 2017-11-14
 ** Clarify the backward compatibility on 10.5 library backups for Petr and Damien. (+)
-** [$xENON-4318/[$VAULT2-2406 (relaunched the test from 300K with doubled memory, further memory optimizations?). (P)
+** [$XENON-4318/[$VAULT2-2406 (relaunched the test from 300K with doubled memory, further memory optimizations?). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2017-11-15
 ** [$VAULT-3901 (freeze caused by anti-barging, implemented barging). (+)
-** [$xENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
+** [$XENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
 
 * 2017-11-16
 ** Locked out of [$OTTER systems. (+)
-** [$xENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
+** [$XENON-4318/[$VAULT2-2406 (continued the test, further memory optimizations for DatabaseSegmentLists). (P)
 
 * 2017-11-17
 ** Get [$OTTER account back (had to contact APAC support hotlines). (D)
-** [$xENON-4318/[$VAULT2-2406 (reached 500K limit, further memory optimizations for DatabaseSegmentLists). (P)
+** [$XENON-4318/[$VAULT2-2406 (reached 500K limit, further memory optimizations for DatabaseSegmentLists). (P)
 ** Report the potential capacity issue with library structure in managedItemDatabase to [$VAULT/[$xENON team. (+)
 ** 1-on-1 with Perica. (D)
 
 -------- 2017-11-06 ~ 2017-11-10
 
 * 2017-11-06
-** [$xENON-4207 (DETACHABLE_ROOT segment without library-path). (+)
+** [$XENON-4207 (DETACHABLE_ROOT segment without library-path). (+)
 ** [$VAULT-3893 (suspension of read-only transactions during attach). (+)
 
 * 2017-11-07
 ** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON packed objects?). (+)
 ** Verify and check in the fix for the recovery issue with setUsage(). (D)
-** [$xENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (P)
+** [$XENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (P)
 ** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
 * 2017-11-08
-** [$xENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (D)
-** Fix upgrade issue with unusable segments (found during the investigation of [$xENON-4207). (+)
+** [$XENON-4207 (force-detach button should be greyed out for empty DETACHABLE_ROOT segments). (D)
+** Fix upgrade issue with unusable segments (found during the investigation of [$XENON-4207). (+)
 ** Dingmeng's all-hands. (D)
 ** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON). (+)
 
@@ -2220,23 +2245,23 @@
 
 * 2017-11-10
 ** Set up the [$VAULT test environment and launch the test. (P)
-** [$xENON-4318 (memory profiling and optimizations). (P)
+** [$XENON-4318 (memory profiling and optimizations). (P)
 
 -------- 2017-10-30 ~ 2017-11-03
 
 * 2017-10-30
 ** Day 1 at KIC 6, unpack stuff and set up the new table. (D)
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test, merged the recent changes to Main). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test, merged the recent changes to Main). (P)
 ** Use Int2IntMaps::fastIterable as Bas has upgraded fastutil to 8.1.0. (+)
 
 * 2017-10-31
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test, investigate build failures). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test, investigate build failures). (P)
 ** Investigate a recovery issue with the new replication logic. (+)
 ** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
 * 2017-11-01
-** [$xENON-4318/[$VAULT2-2406 (merged the recent changes to Main). (P)
+** [$XENON-4318/[$VAULT2-2406 (merged the recent changes to Main). (P)
 ** Investigate a recovery issue with the new replication logic (KVS updates intentionally not included in NTA). (P)
 ** Elaine's introduction to her [$VAULT test environment. (+)
 
@@ -2251,20 +2276,20 @@
 * 2017-10-23
 ** Rework AttachFilesTest. (D)
 ** Petr's 2nd session on the new quorum based replication feature. (+)
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test). (P)
 
 * 2017-10-24
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test, optimizations for DatabaseSegmentLists). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test, optimizations for DatabaseSegmentLists). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2017-10-25
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test, partitioned n2L map). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test, partitioned n2L map). (P)
 
 * 2017-10-26
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test, optimizations for getRootFileAccessInfo()). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test, optimizations for getRootFileAccessInfo()). (P)
 
 * 2017-10-27
-** [$xENON-4318/[$VAULT2-2406 (performance and memory test, keep segment lists sorted). (P)
+** [$XENON-4318/[$VAULT2-2406 (performance and memory test, keep segment lists sorted). (P)
 ** Pack stuff for moving. (D)
 
 -------- 2017-10-16 ~ 2017-10-20
@@ -2280,12 +2305,12 @@
 
 * 2017-10-18
 ** Reinstate the asserts Bas found problems with. (D)
-** [$xENON-4318 (sharing SegmentListUpdate objects). (P)
+** [$XENON-4318 (sharing SegmentListUpdate objects). (P)
 ** Stabilize the Main build. (P)
 
 * 2017-10-19
 ** Stabilize the Main build (issues with begin() in a replication group). (P)
-** [$xENON-4318 (initial size of load factor for Int2IntMap). (P)
+** [$XENON-4318 (initial size of load factor for Int2IntMap). (P)
 
 * 2017-10-20
 ** Rework AttachFilesTest. (P)
@@ -2951,7 +2976,7 @@
 ** Various performance fixes and improvements for [$VAULT. (P)
 
 * 2017-03-23
-** File [$xENON-4229 (parallelism for server initialization). (+)
+** File [$XENON-4229 (parallelism for server initialization). (+)
 ** Various performance fixes and improvements for [$VAULT. (P)
 
 * 2017-03-24
@@ -3239,10 +3264,10 @@
 -------- 2016-12-12 ~ 2016-12-16
 
 * 2016-12-12
-** [$xENON-4194 (failed attempt, new problems). (P)
+** [$XENON-4194 (failed attempt, new problems). (P)
 
 * 2016-12-13
-** [$xENON-4194 (hmmm... new solutions propsed by Petr). (P)
+** [$XENON-4194 (hmmm... new solutions propsed by Petr). (P)
 ** Log file compression for online backup. (P)
 ** [$xENON weekly meeting. (D)
 
@@ -3276,12 +3301,12 @@
 
 * 2016-12-08
 ** Optimization for the global segment list map. (P)
-** File [$xENON-4194 (atomicity and consistency issues with online restore). (+)
+** File [$XENON-4194 (atomicity and consistency issues with online restore). (+)
 
 * 2016-12-09
-** Review and reply to Petr's comments for [$xENON-4194. (+)
-** File [$xENON-4196 (childSegmentId not updated during online restore). (+)
-** Fix [$xENON-4196. (+)
+** Review and reply to Petr's comments for [$XENON-4194. (+)
+** File [$XENON-4196 (childSegmentId not updated during online restore). (+)
+** Fix [$XENON-4196. (+)
 
 -------- 2016-11-28 ~ 2016-12-02
 
@@ -3303,7 +3328,7 @@
 * 2016-12-01
 ** [$STARLING team lunch with Ying. (D)
 ** Fix a progamming error in unused code (found by Val). (+)
-** Fix [$xENON-4164. (+)
+** Fix [$XENON-4164. (+)
 ** Optimization for the global segment list map. (P)
 
 * 2016-12-02
@@ -3332,7 +3357,7 @@
 
 * 2016-11-25
 ** Finalize the new detach/attach (the whole weekend). (P)
-** File [$xENON-4181 (online restore relies on naming convention). (+)
+** File [$XENON-4181 (online restore relies on naming convention). (+)
 
 -------- 2016-11-14 ~ 2016-11-18
 
@@ -3340,7 +3365,7 @@
 ** New implementation for removeChild(detachable). (P)
 
 * 2016-11-15
-** File [$xENON-4169 (deadlock during close()). (D)
+** File [$XENON-4169 (deadlock during close()). (D)
 ** New implementation for removeChild(detachable) (first version checked in). (P)
 
 * 2016-11-16
@@ -3420,7 +3445,7 @@
 ** Off.
 
 * 2016-10-28
-** File [$xENON-4164. (D)
+** File [$XENON-4164. (D)
 ** Cross-DN attach (more test cases). (P)
 ** [$VAULT2-858 (more instructions for Val). (D)
 
