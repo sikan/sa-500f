@@ -2,6 +2,24 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-09-02 ~ 2019-09-06
+
+* 2019-09-02
+** [$XENON-4506 (deadlock involving 4 resources, fixed). (D)
+** [$VAULT2-5226 (Bruno's test showed no improvement). (P)
+** Look into an LSN/snapshot issue caused by restoring a library using an SI transaction (reported by Loic). (+)
+
+* 2019-09-03
+** [$VAULT2-10504 (consistency check probably impeded by ulimit). (+)
+** [$VAULT2-10810 (LSN/snapshot issue caused by restoring a library using an SI transaction). (P)
+** [$xENON weekly meeting. (D)
+** JIRA kanban cleanup. (+)
+
+* 2019-09-04
+** [$VAULT2-10810 (LSN/snapshot issue caused by restoring a library using an SI transaction). (D)
+** 1-on-1 with Michiel. (D)
+** [$VAULT2-5226 (relexed the precondition for the latest optimization). (P)
+
 -------- 2019-08-26 ~ 2019-08-30
 
 * 2019-08-26
