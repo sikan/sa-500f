@@ -20,6 +20,15 @@
 ** 1-on-1 with Michiel. (D)
 ** [$VAULT2-5226 (relexed the precondition for the latest optimization). (P)
 
+* 2019-09-05
+** [$VAULT2-10810 (helped Elaine to verify the fix and updated JIRA with explanation of the root cause). (P)
+** Investigate an admin client issue with switching data node connections (fixed, reported by Bruno). (+)
+** Create [$XENON-4508 (admin client issue caused by sharing page cache among drivers). (+)
+
+* 2019-09-06
+** Create [$XENON-4508. (P)
+** Try out shared page cache with federation set. (+)
+
 -------- 2019-08-26 ~ 2019-08-30
 
 * 2019-08-26
