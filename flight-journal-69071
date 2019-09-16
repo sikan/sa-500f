@@ -2,6 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-09-09 ~ 2019-09-12
+
+* 2019-09-09
+** [$STARLING team lunch. (D)
+** Helped Elaine look into her environment issues. (+)
+** [$VAULT2-5226 (resolved with some required comments). (+)
+** [$XENON-4508. (P)
+
+* 2019-09-10
+** [$XENON-4508 (fixed). (D)
+** [$xENON weekly meeting. (D)
+** [$XENON-4471 (discussion regarding password encryption). (+)
+** Revisit 2PC logic. (+)
+
+* 2019-09-11
+** [$XENON-4471 (discussion regarding password encryption). (P)
+** [$VAULT2-8014 (performance of table archiving improved, presumably thanks to batched index keys). (+)
+** Answer Xavier's questions of index rebuild. (+)
+** [$XENON-4509 (admin issue with renaming an index). (+)
+** Daily check-in meeting. (D)
+
+* 2019-09-12
+** Answer Xavier's more follow-up questions of index rebuild. (+)
+** [$XENON-4510 (AdminFx: renaming without rebuild). (+)
+** Daily check-in meeting. (D)
+** Perform a quick interval query test to observe the behavior of query optimizer. (+)
+
 -------- 2019-09-02 ~ 2019-09-06
 
 * 2019-09-02
@@ -26,7 +53,7 @@
 ** Create [$XENON-4508 (admin client issue caused by sharing page cache among drivers). (+)
 
 * 2019-09-06
-** Create [$XENON-4508. (P)
+** [$XENON-4508. (P)
 ** Try out shared page cache with federation set. (+)
 
 -------- 2019-08-26 ~ 2019-08-30
