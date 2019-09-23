@@ -2,6 +2,35 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-09-16 ~ 2019-09-20
+
+* 2019-09-16
+** [$XENON-4510 (AdminFx: renaming without rebuild). (P)
+** Daily check-in meeting. (D)
+
+* 2019-09-17
+** [$XENON-4510 (AdminFx: renaming without rebuild). (D)
+** [$XENON-4501 (various issues with SimultaneousBackupRestore during replication). (P)
+** [$xENON weekly meeting. (D)
+** Discuss the upgrade plan for BoC with the support engineer. (+)
+
+* 2019-09-18
+** Discuss the upgrade plan for BoC with various parties. (P)
+** [$XENON-4501 (root cause: final merge segment set to read-only). (P)
+** Daily check-in meeting. (D)
+
+* 2019-09-19
+** Discuss the upgrade plan for BoC with the support engineer. (P)
+** Performance review with Michiel. (D)
+** Daily check-in meeting. (D)
+** [$XENON-4501 (fixed). (D)
+
+* 2019-09-20
+** Fix a failing test of MPI repair tool caused by different behaviors between 16.3 and 11.1. (+)
+** [$XENON-4349 (no longer reproducible with recent JDK, presumably a JDK bug). (D)
+** Daily check-in meeting. (D)
+** Attempt to fix and eventually replace a jammed dock. (+)
+
 -------- 2019-09-09 ~ 2019-09-12
 
 * 2019-09-09
