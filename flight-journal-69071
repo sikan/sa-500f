@@ -2,6 +2,27 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-09-23 ~ 2019-09-27
+
+* 2019-09-23
+** [$XENON-4420 (validation of database names, already fixed, verified the behavior). (+)
+** [$XENON-4447 (created a data node with half a million data files for testing). (+)
+** Daily check-in meeting. (D)
+
+* 2019-09-24
+** [$XENON-4447 (fixed, forever -> 10+ sec, for a data node with 500,000 data files). (D)
+** [$xENON weekly meeting. (D)
+
+* 2019-09-25
+** [$VAULT2--10723 (worked out detailed steps to shrink the size of a default segment). (+)
+** Discuss the upgrade plan for BoC with Yanjuan and Yumin. (+)
+** Daily check-in meeting. (D)
+** [$XENON-4437 (but failed to reproduce the error). (P)
+
+* 2019-09-26
+** [$XENON-4437 (log record for index page deletion not expected by get(Index)PageVerion()?). (P)
+** Daily check-in meeting. (D)
+
 -------- 2019-09-16 ~ 2019-09-20
 
 * 2019-09-16
