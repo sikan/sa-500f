@@ -2,6 +2,46 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-10-21 ~ 2019-10-25
+
+* 2019-10-21
+** [$XENON-4437 (leaf page enqueued and cleaned during the check?). (P)
+** [$XENON-4517 (fixed). (D)
+** [$XENON-4521 (continued the discussion, Damien responded). (P)
+** Create and investigate [$XENON-4522 (leaf pages not enqueued for cleaning after full scan). (+)
+** Discuss the upgrade plan for BoC with Yanjuan (16.3?). (+)
+** Daily check-in meeting. (D)
+
+* 2019-10-22
+** [$XENON-4437 (implemented preventive measures for the consistency checker). (D)
+** [$XENON-4521 (provided detailed options for ING). (P)
+** [$xENON weekly meeting. (D)
+
+-------- 2019-10-14 ~ 2019-10-18
+
+* 2019-10-14
+** Clean up hanging builds on Jenkins. (+)
+** Create [$XENON-4518 (deadlock caused by the fix for [$XENON-4506, fixed). (+)
+** Daily check-in meeting. (D)
+
+* 2019-10-15
+** [$XENON-4437 (Jenkins returned with debug info, fixed, more experiments). (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-10-16
+** [$XENON-4437 (added more debug output to find out why the error was still there with index cleaner quiesced). (P)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+
+* 2019-10-17
+** [$XENON-4517 (created a specific B-tree structure for testing, but unable to trigger cleaning). (P) 
+** Daily check-in meeting. (D)
+
+* 2019-10-18
+** [$XENON-4521 (name index contains entries without id mapping). (+)
+** [$XENON-4517 (confirmed a legitimate bug). (P) 
+** Daily check-in meeting. (D)
+
 -------- 2019-10-08 ~ 2019-10-12
 
 * 2019-10-08
