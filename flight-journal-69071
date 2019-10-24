@@ -17,6 +17,9 @@
 ** [$XENON-4521 (provided detailed options for ING). (P)
 ** [$xENON weekly meeting. (D)
 
+* 2019-10-23
+** [$XENON-4521 (CSI, but not with xDBCSI; dangling pointers in id/name indexes; parent data tampered with?). (P)
+
 -------- 2019-10-14 ~ 2019-10-18
 
 * 2019-10-14
