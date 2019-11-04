@@ -8,6 +8,23 @@
 ** EzMerge. (P)
 ** Daily check-in meeting. (D)
 
+* 2019-10-29
+** EzMerge (the initial version worked pretty well). (D)
+** Merge some unintegrated changes (manual resolving required). (+)
+** [$xENON weekly meeting. (D)
+
+* 2019-10-30
+** Create a write-up for EzMerge on wiki. (D)
+** [$XENON-4522 (started to follow the logic in debugger). (P)
+** Daily check-in meeting. (D)
+
+* 2019-10-31
+** [$VAULT2-11294 (looked into an error found in ING's test environment during the recreation of the affected database). (+)
+** [$XENON-4522 (fixed: space not being reclaimed during B-tree traversal which now skips keys without values internally). (P)
+
+* 2019-11-01
+** Sick leave.
+
 -------- 2019-10-21 ~ 2019-10-25
 
 * 2019-10-21
