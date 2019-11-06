@@ -7,6 +7,12 @@
 * 2019-11-04
 ** [$XENON-4522 (verified the fix with the small-page-long-key scenario). (P)
 
+* 2019-11-05
+** [$XENON-4522 (updated JIRA with test cases, asked Alex to correct the fix version). (D)
+** [$VAULT2-11377 (a LOCK_NOT_GRANTED error without much info). (+)
+** Fix an issue with EzMerge where it couldn't detect unresolved missing target files. (+)
+** Merge optimizations and fixes for concurrent index to higher branches. (P)
+
 -------- 2019-10-28 ~ 2019-11-01
 
 * 2019-10-28
