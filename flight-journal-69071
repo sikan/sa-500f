@@ -13,6 +13,18 @@
 ** Fix an issue with EzMerge where it couldn't detect unresolved missing target files. (+)
 ** Merge optimizations and fixes for concurrent index to higher branches. (P)
 
+* 2019-11-06
+** Merge optimizations and fixes for concurrent index to higher branches. (P)
+** Daily check-in meeting. (D)
+
+* 2019-11-07
+** Merge optimizations and fixes for concurrent index (and some other changes as well) to higher branches. (D)
+
+* 2019-11-08
+** Clean up hanging builds on Jenkins (created [$XENON-4528). (+)
+** [$XENON-4528 (deadlock in cluster environment on checkpoint). (+)
+** Discuss issues reported by security team with Val and Vadim. (+)
+
 -------- 2019-10-28 ~ 2019-11-01
 
 * 2019-10-28
