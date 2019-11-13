@@ -9,6 +9,12 @@
 ** [$XENON-4528 (deadlock in cluster environment on checkpoint). (P)
 ** Daily check-in meeting. (D)
 
+* 2019-11-12
+** [$XENON-4528 (deadlock in cluster environment on checkpoint). (P)
+** [$VAULT2-11294 (ask the support to obtain the files on ING's replica). (+)
+** Look into an InstallAnyWhere issue on Jenkins. (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2019-11-04 ~ 2019-11-08
 
 * 2019-11-04
