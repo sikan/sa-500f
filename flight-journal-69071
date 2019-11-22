@@ -25,6 +25,12 @@
 ** [$VAULT2-11294 (ING successfully set up a new replica, but data size seemed larger than expected). (+)
 ** Daily check-in meeting. (D)
 
+* 2019-11-22
+** Read the slides for new [$VAULT architecture. (+)
+** Review Vadim's fix (no-logging restore session?) for the replication issue with online library restore. (+)
+** Clean up hanging builds on Jenkins (no java thread dump, no further action, probably just something didn't quit gracefully). (+)
+** Investigate failures of deployment tool tests in Main. (P)
+
 -------- 2019-11-11 ~ 2019-11-15
 
 * 2019-11-11
