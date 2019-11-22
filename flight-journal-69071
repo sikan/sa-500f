@@ -19,6 +19,12 @@
 ** Investigate a replication issue with online library restore (continued the discussion with Vadim). (P)
 ** Daily check-in meeting. (D)
 
+* 2019-11-21
+** VPN account locked out by IT for no reason. (+)
+** Investigate failures of deployment tool tests in Main (related to jar management). (P)
+** [$VAULT2-11294 (ING successfully set up a new replica, but data size seemed larger than expected). (+)
+** Daily check-in meeting. (D)
+
 -------- 2019-11-11 ~ 2019-11-15
 
 * 2019-11-11
