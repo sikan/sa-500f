@@ -2,6 +2,18 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2019-11-25 ~ 2019-11-29
+
+* 2019-11-25
+** Investigate failures of deployment tool tests in Main. (P)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+
+* 2019-11-26
+** Investigate failures of deployment tool tests in Main. (D)
+** Muhi's all-hands. (D)
+** Rethink the replication issue caused by log records generated during the undo phase of online recovery. (+)
+
 -------- 2019-11-18 ~ 2019-11-22
 
 * 2019-11-18
@@ -30,6 +42,7 @@
 ** Review Vadim's fix (no-logging restore session?) for the replication issue with online library restore. (+)
 ** Clean up hanging builds on Jenkins (no java thread dump, no further action, probably just something didn't quit gracefully). (+)
 ** Investigate failures of deployment tool tests in Main. (P)
+** Daily check-in meeting. (D)
 
 -------- 2019-11-11 ~ 2019-11-15
 
