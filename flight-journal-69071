@@ -13,6 +13,13 @@
 ** Investigate failures of deployment tool tests in Main. (D)
 ** Muhi's all-hands. (D)
 ** Rethink the replication issue caused by log records generated during the undo phase of online recovery. (+)
+** [$xENON weekly meeting. (D)
+
+* 2019-11-27
+** [$XENON-4534 (fixed the replication issue caused by online library restore). (D)
+** Create [$XENON-4539 (log records already truncated when being backed up). (+) 
+** [$XENON-4312 (but enountered issues with password caching). (P) 
+** Daily check-in meeting. (D)
 
 -------- 2019-11-18 ~ 2019-11-22
 
