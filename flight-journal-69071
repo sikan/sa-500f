@@ -21,6 +21,18 @@
 ** [$XENON-4312 (but enountered issues with password caching). (P) 
 ** Daily check-in meeting. (D)
 
+* 2019-11-28
+** Fix the password caching issue with CLI. (+)
+** [$XENON-4312 (implemented two new commands). (D) 
+** Daily check-in meeting. (D)
+
+* 2019-11-29
+** Fix a problem with the fix for password caching. (+)
+** Update release notes with recent changes for CLI. (D)
+** [$XENON-4536 (closed, no additional work required for CSI). (D)
+** [$XENON-4539 (reproduced with debug output). (P)
+** Daily check-in meeting. (D)
+
 -------- 2019-11-18 ~ 2019-11-22
 
 * 2019-11-18
