@@ -9,6 +9,24 @@
 ** [$XENON-4539 (missing log records on replica not caused by log truncation). (P)
 ** Daily check-in meeting. (D)
 
+* 2019-12-03
+** [$XENON-4539 (getNextLSN() on replica?). (P)
+** [$xENON weekly meeting. (D)
+
+* 2019-12-04
+** [$XENON-4540 (corrupted wal file, root cause analysis, action plan, etc.). (P)
+
+* 2019-12-05
+** [$XENON-4540 (EPA would like to restore an earlier backup). (P)
+** [$XENON-4539 (last received log record may be incomplete on replica, should use last redone log record instead). (P)
+
+* 2019-12-06
+** [$XENON-4539 (fix checked in, also added 'lastTruncateLSN'). (D)
+** [$XENON-4529 (helped Vadim verify the fix, but the whole thing didn't make much sense). (+)
+** [$XENON-4540 (EPA's backup worked, answered questions from the support). (P)
+** Look into an interesting XQuery profiling result reported by Loic. (+)
+** Daily check-in meeting. (D)
+
 -------- 2019-11-25 ~ 2019-11-29
 
 * 2019-11-25
