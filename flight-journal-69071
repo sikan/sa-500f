@@ -4,6 +4,32 @@
 
 -------- 2019-12-30 ~ 2020-01-03
 
+* 2020-01-06
+** Merge changes to to-be-retired branches (regressions). (P)
+** Investigate a Jenkins issue with the new password complexity policy. (+)
+
+* 2020-01-07
+** [$VAULT2-11804 (wal files removed, but why?). (+)
+** Merge changes to to-be-retired branches. (P)
+** Investigate a Jenkins issue with the new password complexity policy. (+)
+** Check with Tools (Perforce admin) team whether they can make certain branches read-only. (+)
+
+* 2020-01-08
+** Merge changes to to-be-retired branches. (P)
+** Investigate a Jenkins issue with the new password complexity policy. (+)
+
+* 2020-01-09
+** WFH.
+** Think about how to implement a workaround for issues caused by password complexity policy being mutable. (+)
+
+** 2020-01-10
+** Report the issues with Cisco AnyConnect. (+)
+** Implement a workaround for password complexity policy issues. (D)
+** Merge changes to to-be-retired branches. (P)
+** [$XENON-4543 (JPMC, corrupted library index). (+) 
+
+-------- 2019-12-30 ~ 2020-01-03
+
 * 2019-12-30
 ** Off.
 
@@ -79,7 +105,7 @@
 -------- 2019-12-02 ~ 2019-12-06
 
 * 2019-12-02
-** [$VAULT2-11601 (default segment file found empty). (+) 
+** [$VAULT2-11601 (default segment fiyyle found empty). (+) 
 ** [$XENON-4539 (missing log records on replica not caused by log truncation). (P)
 ** Daily check-in meeting. (D)
 
