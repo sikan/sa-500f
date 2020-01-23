@@ -2,6 +2,28 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-01-19 ~ 2020-01-23
+
+* 2020-01-19
+** WFH.
+** Investigate the issues with AnyConnect on macOS Catalina. (+)
+
+* 2020-01-20
+** Investigate issues with user locks exposed by concurrency tests in Main. (+)
+** Daily check-in meeting. (D)
+
+* 2020-01-21
+** WFH (mostly impeded by the unusable corprate VPN).
+
+* 2020-01-22
+** Merge changes to to-be-retired branches. (P)
+** Improve p4 merge check script. (+)
+
+* 2020-01-23
+** Merge changes to to-be-retired branches (sent the summary to the team). (D)
+** Improve p4 merge check script. (D)
+** [$XENON-4545 (broken replication). (+)
+
 -------- 2020-01-13 ~ 2020-01-17
 
 * 2020-01-13
