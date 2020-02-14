@@ -19,8 +19,14 @@
 ** Daily check-in meeting. (D)
 
 * 2020-02-13
-** [$XENON-4181 (new tests, fixes). (P)
+** [$XENON-4181 (new tests, fixes, preventive code). (D)
 ** Report more details of the VPN issue. (+)
+** Daily check-in meeting. (D)
+
+* 2020-02-14
+** [$VAULT2-11907 (unknown postfix in data file name). (+)
+** Fix a long-standing bug in RestoreConfig, which is only revealed by recent code changes. (+)
+** Fix a logging level issue that may cause sample tests to fail. (+)
 ** Daily check-in meeting. (D)
 
 -------- 2020-01-19 ~ 2020-01-23
