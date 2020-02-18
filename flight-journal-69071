@@ -2,6 +2,17 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-02-17 ~ 2020-02-21
+
+* 2020-02-17
+** FIXMEs/TODOs. (+)
+** Daily check-in meeting. (D)
+
+* 2020-02-18
+** FIXMEs/TODOs. (P)
+** Change page write to use FileChannel instead of RAF (because we use FileChannel.force() on checkpoint). (+)
+** [$xENON weekly meeting. (D)
+
 -------- 2020-02-10 ~ 2020-02-14
 
 * 2020-02-10
