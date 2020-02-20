@@ -12,6 +12,13 @@
 ** FIXMEs/TODOs. (P)
 ** Change page write to use FileChannel instead of RAF (because we use FileChannel.force() on checkpoint). (+)
 ** [$xENON weekly meeting. (D)
+** Account locked out, again. (+)
+
+* 2020-02-19
+** Evaluate the performance impact of the change to page write. (D)
+** FIXMEs/TODOs. (P)
+** Remove the suppport for secondary database connections. (+) 
+** Daily check-in meeting. (D)
 
 -------- 2020-02-10 ~ 2020-02-14
 
