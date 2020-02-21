@@ -20,6 +20,17 @@
 ** Remove the suppport for secondary database connections. (+) 
 ** Daily check-in meeting. (D)
 
+* 2020-02-20
+** Slim down indirect addressing code for 11.1. (+)
+** Fix regressions caused by the change to page write. (+)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+
+* 2020-02-21
+** Create a new test case for read-only transactions getting correct page versions when accessing read-only segments. (+)
+** Investigate a hanging issue caused by lock acquisition on replica (probably caused by UPDATE locks being released before the generation of LrEnd on master). (+)
+** Daily check-in meeting. (D)
+
 -------- 2020-02-10 ~ 2020-02-14
 
 * 2020-02-10
