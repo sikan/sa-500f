@@ -6,7 +6,14 @@
 
 * 2020-03-02
 ** WFH.
-** [$XENON-4554 (ING, replication failures in both ACC and PROC). (+)
+** [$XENON-4554 (ING, replication failures in both test and production environments). (+)
+
+* 2020-03-03
+** WFH.
+** [$XENON-4554 (started to analyze wal files). (P)
+** [$xENON weekly meeting. (D)
+** Create [$XENON-4556 ("inputRead" flag). (+)
+** Fix a few high priority SpotBugs warnings. (+)
 
 -------- 2020-02-24 ~ 2020-02-28
 
