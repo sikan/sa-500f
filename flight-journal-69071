@@ -2,31 +2,71 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-03-02 ~ 2020-03-6
+
+* 2020-03-02
+** WFH.
+** [$XENON-4554 (ING, replication failures in both ACC and PROC). (+)
+
+-------- 2020-02-24 ~ 2020-02-28
+
+* 2020-02-24
+** WFH.
+** [$XENON-4550 (slowness of restore process). (+)
+** Check the merge history of snapshot isolation. (D)
+** Fix a regression in 10.x caused by a fix for read-only transactions not being compatible with the multi-node architecture. (+) 
+
+* 2020-02-25
+** WFH.
+** Discuss issues with LrLockPage with Val (Orion customer case). (+)
+** Fix issues with LrLockPage in 16.3 and above. (D)
+** [$xENON weekly meeting. (D)
+
+* 2020-02-26
+** WFH.
+** Remove config node related code. (+)
+** Update release notes for 11.1.16. (+)
+** Daily check-in meeting. (D)
+
+* 2020-02-27
+** WFH.
+** Remove config node related code. (D)
+    
+* 2020-02-28
+** WFH.
+** [$SWIFT-18101 (found and fixed an issue with the "inputRead" flag). (+)
+** Implement a mechanism to detect other instances of the above issue. (+)
+
 -------- 2020-02-17 ~ 2020-02-21
 
 * 2020-02-17
+** WFH.
 ** FIXMEs/TODOs. (+)
 ** Daily check-in meeting. (D)
 
 * 2020-02-18
+** WFH.
 ** FIXMEs/TODOs. (P)
 ** Change page write to use FileChannel instead of RAF (because we use FileChannel.force() on checkpoint). (+)
 ** [$xENON weekly meeting. (D)
 ** Account locked out, again. (+)
 
 * 2020-02-19
+** WFH.
 ** Evaluate the performance impact of the change to page write. (D)
 ** FIXMEs/TODOs. (P)
 ** Remove the suppport for secondary database connections. (+) 
 ** Daily check-in meeting. (D)
 
 * 2020-02-20
+** WFH.
 ** Slim down indirect addressing code for 11.1. (+)
 ** Fix regressions caused by the change to page write. (+)
 ** 1-on-1 with Alex. (D)
 ** Daily check-in meeting. (D)
 
 * 2020-02-21
+** WFH.
 ** Create a new test case for read-only transactions getting correct page versions when accessing read-only segments. (+)
 ** Investigate a hanging issue caused by lock acquisition on replica (probably caused by UPDATE locks being released before the generation of LrEnd on master). (+)
 ** Daily check-in meeting. (D)
@@ -40,19 +80,23 @@
 ** Daily check-in meeting. (D)
 
 * 2020-02-11
+** WFH.
 ** [$XENON-4181 (new tests). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2020-02-12
+** WFH.
 ** [$XENON-4181 (new tests, fixes). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-02-13
+** WFH.
 ** [$XENON-4181 (new tests, fixes, preventive code). (D)
 ** Report more details of the VPN issue. (+)
 ** Daily check-in meeting. (D)
 
 * 2020-02-14
+** WFH.
 ** [$VAULT2-11907 (unknown postfix in data file name). (+)
 ** Fix a long-standing bug in RestoreConfig, which is only revealed by recent code changes. (+)
 ** Fix a logging level issue that may cause sample tests to fail. (+)
