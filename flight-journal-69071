@@ -15,6 +15,11 @@
 ** Create [$XENON-4556 ("inputRead" flag). (+)
 ** Fix a few high priority SpotBugs warnings. (+)
 
+* 2020-03-04
+** WFH.
+** [$XENON-4554 (baffled by the apparently impossible stack trace; no response for code review request; ING failed to enable assertions). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-02-24 ~ 2020-02-28
 
 * 2020-02-24
