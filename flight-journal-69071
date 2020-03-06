@@ -20,6 +20,10 @@
 ** [$XENON-4554 (baffled by the apparently impossible stack trace; no response for code review request; ING failed to enable assertions). (P)
 ** Daily check-in meeting. (D)
 
+* 2020-03-05
+** WFH.
+** [$XENON-4554 (assertions enabled at ING, fixed a design flaw with replica initialization logic). (P)
+
 -------- 2020-02-24 ~ 2020-02-28
 
 * 2020-02-24
