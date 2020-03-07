@@ -6,7 +6,7 @@
 
 * 2020-03-02
 ** WFH.
-** [$XENON-4554 (ING, replication failures in both test and production environments). (+)
+** [$XENON-4554 (ING, replication failures in both PRD and ACC environments). (+)
 
 * 2020-03-03
 ** WFH.
@@ -23,6 +23,11 @@
 * 2020-03-05
 ** WFH.
 ** [$XENON-4554 (assertions enabled at ING, fixed a design flaw with replica initialization logic). (P)
+
+* 2020-03-06
+** WFH.
+** [$XENON-4554 (started to investigate ING's ACC error, modified CSI to dump transaction logs, requested for more info). (P)
+** Daily check-in meeting. (D)
 
 -------- 2020-02-24 ~ 2020-02-28
 
