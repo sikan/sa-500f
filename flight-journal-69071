@@ -8,6 +8,11 @@
 ** Network issues caused by the Tokyo proxy being inaccessible. (+)
 ** [$XENON-4556 ("inputRead" issue, regressions in 10.5). (P)
 
+* 2020-03-10
+** [$XENON-4556 ("inputRead" issue, regressions in 10.5). (P)
+** [$XENON-4554 (ACC: could be issues caused by concurrent checkpoints?). (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2020-03-02 ~ 2020-03-06
 
 * 2020-03-02
@@ -16,23 +21,23 @@
 
 * 2020-03-03
 ** WFH.
-** [$XENON-4554 (started to analyze wal files). (P)
+** [$XENON-4554 (PRD: started to analyze wal files). (P)
 ** [$xENON weekly meeting. (D)
 ** Create [$XENON-4556 ("inputRead" flag). (+)
 ** Fix a few high priority SpotBugs warnings. (+)
 
 * 2020-03-04
 ** WFH.
-** [$XENON-4554 (baffled by the apparently impossible stack trace; no response for code review request; ING failed to enable assertions). (P)
+** [$XENON-4554 (PRD: baffled by the apparently impossible stack trace; no response for code review request; ING failed to enable assertions). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-03-05
 ** WFH.
-** [$XENON-4554 (assertions enabled at ING, fixed a design flaw with replica initialization logic). (P)
+** [$XENON-4554 (PRD: assertions enabled at ING, fixed a design flaw with replica initialization logic). (P)
 
 * 2020-03-06
 ** WFH.
-** [$XENON-4554 (started to investigate ING's ACC error, modified CSI to dump transaction logs, requested for more info). (P)
+** [$XENON-4554 (ACC: modified CSI to dump transaction logs, requested for more info). (P)
 ** Daily check-in meeting. (D)
 
 -------- 2020-02-24 ~ 2020-02-28
