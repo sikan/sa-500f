@@ -17,6 +17,12 @@
 ** [$XENON-4556 (merged the changes to 11.0). (P)
 ** [$XENON-4554 (ACC: still need to check ING's checkpoint file). (P)
 
+* 2020-03-12
+** [$XENON-4556 (merged the changes to 11.1). (D)
+** [$SWIFT-18140 (Postel, high CPU utilization with very low indexing rate). (P)
+** [$XENON-4554 (ACC: checkpoint file suggested something much simpler but more mysterious). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-03-02 ~ 2020-03-06
 
 * 2020-03-02
@@ -70,7 +76,7 @@
     
 * 2020-02-28
 ** WFH.
-** [$SWIFT-18101 (found and fixed an issue with the "inputRead" flag). (+)
+** [$SWIFT-18101 (Postel, found and fixed an issue with the "inputRead" flag). (+)
 ** Implement a mechanism to detect other instances of the above issue. (+)
 
 -------- 2020-02-17 ~ 2020-02-21
