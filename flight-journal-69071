@@ -23,6 +23,10 @@
 ** [$XENON-4554 (ACC: checkpoint file suggested something much simpler but more mysterious). (P)
 ** Daily check-in meeting. (D)
 
+* 2020-03-13
+** [$XENON-4554 (ACC: checked the existence of all data files to be cached-out, instructed ING to re-create empty files for missing ones). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-03-02 ~ 2020-03-06
 
 * 2020-03-02
