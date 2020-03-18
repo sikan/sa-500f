@@ -5,12 +5,19 @@
 -------- 2020-03-16 ~ 2020-03-20
 
 * 2020-03-16
+** WFH.
 ** Rework the client-side caching mechanism for various stuff. (+)
 ** 1-on-1 with Alex. (+) 
 
 * 2020-03-17
 ** Get rid of LLPI which is not needed in a single-node setup. (+)
 ** [$xENON weekly meeting. (D)
+
+* 2020-03-18
+** WFH.
+** [$SWIFT-18140 (explained to support that they need to engage developers from [$STARLING team). (+)
+** Get rid of LLPI which is not needed in a single-node setup. (+)
+** Daily check-in meeting. (D)
 
 -------- 2020-03-09 ~ 2020-03-13
 
@@ -24,16 +31,19 @@
 ** [$xENON weekly meeting. (D)
 
 * 2020-03-11
+** WFH.
 ** [$XENON-4556 (merged the changes to 11.0). (P)
 ** [$XENON-4554 (ACC: still need to check ING's checkpoint file). (P)
 
 * 2020-03-12
+** WFH.
 ** [$XENON-4556 (merged the changes to 11.1). (D)
 ** [$SWIFT-18140 (Postel, high CPU utilization with very low indexing rate). (P)
 ** [$XENON-4554 (ACC: checkpoint file suggested something much simpler but more mysterious). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-03-13
+** WFH.
 ** [$XENON-4554 (ACC: checked the existence of all data files to be cached-out, instructed ING to re-create empty files for missing ones). (P)
 ** Daily check-in meeting. (D)
 
