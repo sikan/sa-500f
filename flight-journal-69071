@@ -19,6 +19,17 @@
 ** Get rid of LLPI which is not needed in a single-node setup. (+)
 ** Daily check-in meeting. (D)
 
+* 2020-03-19
+** WFH.
+** Rework the client-side caching mechanism for various stuff. (P)
+** Daily check-in meeting. (D)
+
+* 2020-03-20
+** WFH.
+** Discuss how to mitigate potential disk space issues on segment level (proposed a new API to switch a new file for allocation immediately). (+)
+** Rework the client-side caching mechanism for various stuff. (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-03-09 ~ 2020-03-13
 
 * 2020-03-09
