@@ -9,6 +9,13 @@
 ** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
 ** Mandatory secure coding practices training (part A). (D)
 
+* 2020-03-24
+** Report the issue of the Tokyo proxy being inaccessible with VPN. (+)
+** [$VAULT2-11907 (segment already exists while creating it on replica, possibly the same issue we fixed for segment recreation). (+)
+** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
+** Mandatory secure coding practices training (part B). (D)
+** [$xENON weekly meeting. (D)
+
 -------- 2020-03-16 ~ 2020-03-20
 
 * 2020-03-16
