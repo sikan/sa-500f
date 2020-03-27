@@ -11,7 +11,7 @@
 
 * 2020-03-24
 ** Report the issue of the Tokyo proxy being inaccessible with VPN. (+)
-** [$VAULT2-11907 (segment already exists while creating it on replica, possibly the same issue we fixed for segment recreation). (+)
+** [$VAULT2-11907 (Tieto: segment already exists while creating it on replica, possibly the same issue we fixed for segment recreation). (+)
 ** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
 ** Mandatory secure coding practices training (part B). (D)
 ** [$xENON weekly meeting. (D)
@@ -19,12 +19,18 @@
 * 2020-03-25
 ** WFH.
 ** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
-** [$VAULT2-11907 (started to analyze transaction logs which unfortunately turned out to be incomplete). (P) 
+** [$VAULT2-11907 (Tieto: started to analyze transaction logs which unfortunately turned out to be incomplete). (P) 
 ** Daily check-in meeting. (D)
 
 * 2020-03-26
 ** WFH.
 ** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
+** Daily check-in meeting. (D)
+
+* 2020-03-27
+** WFH.
+** [$XENON-4560 (Sanofi: probably caused by the known issue that bootstap updates not being rollbackable in 10.x). (P)
+** [$VAULT2-11907 (Tieto: finished analyzing transaction logs, confirmed that it was a known issue already fixed). (D) 
 ** Daily check-in meeting. (D)
 
 -------- 2020-03-16 ~ 2020-03-20
