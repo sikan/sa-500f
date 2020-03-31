@@ -2,6 +2,15 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-03-30 ~ 2020-04-03
+
+* 2020-03-30
+** WFH.
+** Discuss the upgrade plan for BoC with Yanjuan. (+)
+** [$XENON-4560 (Sanofi: suspension possibly blocked by nested read-only transaction). (P)
+** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-03-23 ~ 2020-03-27
 
 * 2020-03-23
