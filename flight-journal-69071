@@ -16,6 +16,12 @@
 ** Daily check-in meeting. (D)
 ** [$XENON-4564 (Nestle: unresponsiveness probably related to final merge). (+)
 
+* 2020-04-09
+** WFH.
+** Rework the client-side caching mechanism. (P)
+** [$XENON-4564 (Nestle: fatal error in a lucene task led to a halt which was blocked the task itself). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-03-30 ~ 2020-04-03
 
 * 2020-03-30
