@@ -2,6 +2,16 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-04-13 ~ 2020-04-17
+
+* 2020-04-13
+** [$XENON-4564 (Nestle: confirmed that the deadlock should be fixed by an upgrade; asked about issues with collected logs). (P)
+** [$XENON-4566 (Sanofi: cache-in apparently hanging again). (+)
+
+* 2020-04-14
+** [$XENON-4566 (Sanofi: probably already fixed in a later version where attach suspends read-only transactions only conditionally). (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2020-04-07 ~ 2020-04-10
 
 * 2020-04-07
@@ -21,6 +31,10 @@
 ** Rework the client-side caching mechanism. (P)
 ** [$XENON-4564 (Nestle: fatal error in a lucene task led to a halt which was blocked the task itself). (P)
 ** Daily check-in meeting. (D)
+
+* 2020-04-10
+** WFH.
+** [$XENON-4564 (Nestle: checked the behavior of the latest of 10.5). (P)
 
 -------- 2020-03-30 ~ 2020-04-03
 
