@@ -12,6 +12,12 @@
 ** [$XENON-4566 (Sanofi: probably already fixed in a later version where attach suspends read-only transactions only conditionally). (P)
 ** [$xENON weekly meeting. (D)
 
+* 2020-04-15
+** WFH.
+** Rework the client-side caching mechanism. (P)
+** [$XENON-4566 (Sanofi: provided more detailed explanations of the issue and the fix; checked new thread dumps; reviewed code). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-04-07 ~ 2020-04-10
 
 * 2020-04-07
