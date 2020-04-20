@@ -23,6 +23,13 @@
 ** Clarify the behavior of cloneSession() with respect to the suspension flag. (+)
 ** Review [$VAULT 3.2 code (spotted an apparent read-only transaction leak). (P)
 ** Daily check-in meeting. (D)
+** [$VAULT2-12712 (Medtronic: Lucene merge taking up too much disk space). (+)
+
+* 2020-04-17
+** WFH.
+** Discuss the potential read-only transaction (which turns out to be a managed resource) leak with Vadim and Damien. (P)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
 
 -------- 2020-04-07 ~ 2020-04-10
 
