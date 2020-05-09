@@ -15,7 +15,12 @@
 * 2020-05-08
 ** WFH.
 ** Rework the client-side caching mechanism (checked in). (P)
+** Discuss MarkB's announcements with Michiel. (+)
 ** Daily check-in meeting. (D)
+
+* 2020-05-09
+** WFH.
+** Look into hanging builds on Jenkins (16.x: communication layer; 11.1: concurrent MPI test, created [$XENON-4572). (+)
 
 -------- 2020-04-26 ~ 2020-04-30
 
