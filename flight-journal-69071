@@ -2,10 +2,41 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-05-18 ~ 2020-05-22
+
+* 2020-05-18
+** WFH.
+** Complete 2019 compliance and security awareness training courses. (+)
+** Investigate the deadlock found in concurrent MPI test ($XENON-4572). (P)
+** Daily check-in meeting. (D)
+
+* 2020-05-19
+** WFH.
+** Investigate the deadlock found in concurrent MPI test ($XENON-4572). (P)
+** [$xENON weekly meeting. (D)
+
+-------- 2020-05-11 ~ 2020-05-15
+
+* 2020-05-11
+** Sick.
+
+* 2020-05-12
+** Sick.
+
+* 2020-05-13
+** Sick.
+
+* 2020-05-14
+** Sick.
+
+* 2020-05-15
+** Sick.
+
 -------- 2020-05-06 ~ 2020-05-08
 
 * 2020-05-06
 ** Rework the client-side caching mechanism. (P)
+** Daily check-in meeting. (D)
 
 * 2020-05-07
 ** [$VAULT2-12720 (Sanofi: tested whether force-detach would help them recover from failure, no). (+)
