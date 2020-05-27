@@ -2,6 +2,19 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-05-25 ~ 2020-05-29
+
+* 2020-05-25
+** WFH.
+** Merge automatic session info dump to higher branches. (D)
+** Help Elaine investigate an issue where server initialization takes too long when run in Kubernetes and connected to Isilon. (+)
+** Daily check-in meeting. (D)
+
+* 2020-05-26
+** WFH/AM.
+** Sign the consent to temporary compensation changes. (D)
+** Off/PM.
+
 -------- 2020-05-18 ~ 2020-05-22
 
 * 2020-05-18
@@ -24,6 +37,11 @@
 ** WFH.
 ** Configure Jenkins to run 11.1 nightly builds repeatedly in order to reproduce the deadlock ($XENON-4572). (P)
 ** [$VAULT2-12720 (Sanofi: implemented a functionality to automatically dump session info on suspension). (P)
+** Daily check-in meeting. (D)
+
+* 2020-05-22
+** [$VAULT2-12720 (Sanofi: created a hotfix/debug jar based on 10.5.18 with automatic session info dump). (P)
+** 1-on-1 with Alex. (D)
 ** Daily check-in meeting. (D)
 
 -------- 2020-05-11 ~ 2020-05-15
