@@ -2,6 +2,24 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-06-01 ~ 2020-06-05
+
+* 2020-06-01
+** WFH.
+** [$VAULT2-12720 (Sanofi: made a change to suspend only user read-only transactions in 10.5). (P)
+** Daily check-in meeting. (D)
+
+* 2020-06-02
+** Create a new Firefox profile outside Carbonite coverage. (+)
+** Report the VPN and proxy issue again. (+)
+** [$xENON weekly meeting. (D)
+
+** 2020-06-03
+** WFH.
+** Replace segment list cache with direct access to KVS (revisited some characteristics of concurrent index). (P)
+** [$STARLING-18217 (Pfizer: node serializer failure apparently caused by an illegal character in a CDATA section). (+) 
+** Daily check-in meeting. (D)
+
 -------- 2020-05-25 ~ 2020-05-29
 
 * 2020-05-25
@@ -16,9 +34,17 @@
 ** Off/PM.
 
 * 2020-05-27
+** WFH.
 ** [$XENON-4573 (Government ICT Authority, Israel: [$STARLING customer, broken connection to storage). (+)
 ** Muhi's all-hands. (D)
 ** Tweak the new client-side caching mechanism for file id mappings. (D)
+** Daily check-in meeting. (D)
+
+* 2020-05-28
+** WFH.
+** [$VAULT2-12720 (Sanofi: debug jar revealed a nested transaction). (+)
+** [$XENON-4573 (Government ICT Authority, Israel: clarified [$xENON's expected behavior in that situation). (+)
+** [$STARLING-18202 (Pfizer: corruption probably caused by faulty manual operation). (+)
 ** Daily check-in meeting. (D)
 
 -------- 2020-05-18 ~ 2020-05-22
