@@ -20,6 +20,14 @@
 ** [$STARLING-18217 (Pfizer: node serializer failure apparently caused by an illegal character in a CDATA section). (+) 
 ** Daily check-in meeting. (D)
 
+** 2020-06-04
+** WFH.
+** Help Elaine solve a disk space issue of the 'journal' directory in her performance test. (+)
+** [$STARLING-18202 (Pfizer: stack trace from admin client). (P)
+** Replace segment list cache with direct access to KVS (use a read-only sub-transaction for a snapshot view?). (P)
+** Retrieve Bas's EDN article on concurrent indexs from the Wayback Machine. (+)
+** Daily check-in meeting. (D)
+
 -------- 2020-05-25 ~ 2020-05-29
 
 * 2020-05-25
