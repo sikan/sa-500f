@@ -2,6 +2,18 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-06-08 ~ 2020-06-12
+
+* 2020-06-08
+** SOP training courses. (+)
+** [$STARLING-18202 (Pfizer: analyzed library indexes and provided fix instructions). (P)
+** Daily check-in meeting. (D)
+
+* 2020-06-09
+** WFH/AM.
+** Discuss update procedures for change.dita files with Wouter. (+)
+** Off/PM.
+
 -------- 2020-06-01 ~ 2020-06-05
 
 * 2020-06-01
@@ -26,6 +38,11 @@
 ** [$STARLING-18202 (Pfizer: stack trace from admin client). (P)
 ** Replace segment list cache with direct access to KVS (use a read-only sub-transaction for a snapshot view?). (P)
 ** Retrieve Bas's EDN article on concurrent indexs from the Wayback Machine. (+)
+** Daily check-in meeting. (D)
+
+** 2020-06-05
+** WFH.
+** Replace segment list cache with direct access to KVS. (P)
 ** Daily check-in meeting. (D)
 
 -------- 2020-05-25 ~ 2020-05-29
