@@ -14,6 +14,13 @@
 ** Discuss update procedures for change.dita files with Wouter. (+)
 ** Off/PM.
 
+* 2020-06-10
+** [$STARLING-18202 (PG&E: clarified the fact that the database recovery procedure must run its course). (+)
+** [$STARLING-18202 (Pfizer: clarified the commands to use; unable to reproduce the error found in admin client). (P)
+** Investigate the deadlock found in concurrent MPI test (reopened $XENON-4572; obtained both thread dump and heap dump from the Jenkins slave). (+)
+** [$VAULT2-11071 (revisited the feature request of shrinking segments). (+)
+** Daily check-in meeting. (D)
+
 -------- 2020-06-01 ~ 2020-06-05
 
 * 2020-06-01
