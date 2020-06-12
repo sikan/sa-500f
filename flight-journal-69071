@@ -21,6 +21,19 @@
 ** [$VAULT2-11071 (revisited the feature request of shrinking segments). (+)
 ** Daily check-in meeting. (D)
 
+* 2020-06-11
+** WFH
+** $XENON-4572 (deadlock caused by locks on an already released page; added debug code). (P)
+** [$VAULT2-12720 (Sanofi: explained items in the release notes of 10.5.19). (+)
+** Daily check-in meeting. (D)
+
+* 2020-06-12
+** WFH
+** $XENON-4572 (a released page could be read locked by more than one thread?). (P)
+** [$STARLING-18216 (Postel: degradation of query response time). (+)
+** [$STARLING-18225 (EC: instability of query response time). (+)
+** Daily check-in meeting. (D)
+
 -------- 2020-06-01 ~ 2020-06-05
 
 * 2020-06-01
