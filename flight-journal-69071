@@ -2,6 +2,24 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-06-15 ~ 2020-06-19
+
+* 2020-06-15
+** $XENON-4572 ('deleted' flag on a page lock not unset when the page gets re-allocated). (P)
+
+* 2020-06-16
+** WFH.
+** $XENON-4572 (fixed issues caused by the 'deleted' flag). (P)
+** [$xENON weekly meeting. (D)
+
+* 2020-06-17
+** WFH.
+** Help Elaine look into an issue where [$xENON cannot
+** $XENON-4572 (issues with a new assert). (P)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+** [$STARLING-18225 (EC: wal log file pool take 3?). (P)
+
 -------- 2020-06-08 ~ 2020-06-12
 
 * 2020-06-08
