@@ -2,23 +2,52 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-06-22 ~ 2020-06-24
+
+* 2020-06-22
+** [$VAULT2-12720 (Sanofi: a harmless JMX issue). (+)
+** Investigate a new recurring failure on Jenkins caused by a new assert in the fix for LockManager. (+)
+** [$xENON weekly meeting. (D)
+
+* 2020-06-23
+** WFH.
+** Investigate a new recurring failure on Jenkins caused by a new assert in the fix for LockManager. (D)
+** Daily check-in meeting. (D)
+
+* 2020-06-24
+** Daily check-in meeting. (D)
+** [$XENON-4572 (wal file pool take improvement). (P)
+
 -------- 2020-06-15 ~ 2020-06-19
 
 * 2020-06-15
-** $XENON-4572 ('deleted' flag on a page lock not unset when the page gets re-allocated). (P)
+** [$XENON-4572 ('deleted' flag on a page lock not unset when the page gets re-allocated). (P)
 
 * 2020-06-16
 ** WFH.
-** $XENON-4572 (fixed issues caused by the 'deleted' flag). (P)
+** [$XENON-4572 (fixed issues caused by the 'deleted' flag). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2020-06-17
 ** WFH.
-** Help Elaine look into an issue where [$xENON cannot
-** $XENON-4572 (issues with a new assert). (P)
+** Help Elaine look into an issue where [$xENON cannot proceed with recovery (Isilon I/O issue?). (+)
+** [$XENON-4572 (issues with a new assert). (P)
 ** 1-on-1 with Alex. (D)
 ** Daily check-in meeting. (D)
-** [$STARLING-18225 (EC: wal log file pool take 3?). (P)
+** [$STARLING-18225 (EC: wal file pool take 3?). (P)
+
+* 2020-06-18
+** WFH.
+** Help Elaine look into an issue where server initialization takes too long (probably just the sheer number of files). (+)
+** 1-on-1 with Michiel (about his departure T_T). (+)
+** [$STARLING-18225 (EC: wal file pool take 3?). (P)
+** Daily check-in meeting. (D)
+** [$VAULT2 team update and discussion (about Michiel's departure, 0000 AM). (+)
+
+* 2020-06-19
+** Move upstairs. (D)
+** [$STARLING-18225 (EC: wal file pool take 3?). (P)
+** Daily check-in meeting. (D)
 
 -------- 2020-06-08 ~ 2020-06-12
 
@@ -35,19 +64,19 @@
 * 2020-06-10
 ** [$STARLING-18202 (PG&E: clarified the fact that the database recovery procedure must run its course). (+)
 ** [$STARLING-18202 (Pfizer: clarified the commands to use; unable to reproduce the error found in admin client). (P)
-** Investigate the deadlock found in concurrent MPI test (reopened $XENON-4572; obtained both thread dump and heap dump from the Jenkins slave). (+)
+** Investigate the deadlock found in concurrent MPI test (reopened [$XENON-4572; obtained both thread dump and heap dump from the Jenkins slave). (+)
 ** [$VAULT2-11071 (revisited the feature request of shrinking segments). (+)
 ** Daily check-in meeting. (D)
 
 * 2020-06-11
 ** WFH
-** $XENON-4572 (deadlock caused by locks on an already released page; added debug code). (P)
+** [$XENON-4572 (deadlock caused by locks on an already released page; added debug code). (P)
 ** [$VAULT2-12720 (Sanofi: explained items in the release notes of 10.5.19). (+)
 ** Daily check-in meeting. (D)
 
 * 2020-06-12
 ** WFH
-** $XENON-4572 (a released page could be read locked by more than one thread?). (P)
+** [$XENON-4572 (a released page could be read locked by more than one thread?). (P)
 ** [$STARLING-18216 (Postel: degradation of query response time). (+)
 ** [$STARLING-18225 (EC: instability of query response time). (+)
 ** Daily check-in meeting. (D)
@@ -115,12 +144,12 @@
 * 2020-05-18
 ** WFH.
 ** Complete 2019 compliance and security awareness training courses. (+)
-** Investigate the deadlock found in concurrent MPI test ($XENON-4572). (P)
+** Investigate the deadlock found in concurrent MPI test ([$XENON-4572). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-05-19
 ** WFH.
-** Investigate the deadlock found in concurrent MPI test ($XENON-4572). (P)
+** Investigate the deadlock found in concurrent MPI test ([$XENON-4572). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2020-05-20
@@ -130,7 +159,7 @@
 
 * 2020-05-21
 ** WFH.
-** Configure Jenkins to run 11.1 nightly builds repeatedly in order to reproduce the deadlock ($XENON-4572). (P)
+** Configure Jenkins to run 11.1 nightly builds repeatedly in order to reproduce the deadlock ([$XENON-4572). (P)
 ** [$VAULT2-12720 (Sanofi: implemented a functionality to automatically dump session info on suspension). (P)
 ** Daily check-in meeting. (D)
 
