@@ -2,21 +2,41 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-06-28 ~ 2020-07-03
+
+* 2020-06-28
+** [$XENON-4572 (wal file pool take improvement). (P)
+
+* 2020-06-29
+** [$XENON-4572 (wal file pool take improvement). (P)
+** Daily check-in meeting. (D)
+
+* 2020-06-30
+** WFH.
+** [$XENON-4572 (wal file pool take improvement). (P)
+** [$STARLING-18227 (Hilton: persistent LOCK_NOT_GRANTED exceptions). (P)
+** [$xENON weekly meeting. (D)
+
+* 2020-07-01
+** WFH.
+** [$XENON-4572 (wal file pool take improvement). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-06-22 ~ 2020-06-24
 
 * 2020-06-22
 ** [$VAULT2-12720 (Sanofi: a harmless JMX issue). (+)
 ** Investigate a new recurring failure on Jenkins caused by a new assert in the fix for LockManager. (+)
-** [$xENON weekly meeting. (D)
+** Daily check-in meeting. (D)
 
 * 2020-06-23
 ** WFH.
 ** Investigate a new recurring failure on Jenkins caused by a new assert in the fix for LockManager. (D)
-** Daily check-in meeting. (D)
+** [$xENON weekly meeting. (D)
 
 * 2020-06-24
-** Daily check-in meeting. (D)
 ** [$XENON-4572 (wal file pool take improvement). (P)
+** Daily check-in meeting. (D)
 
 -------- 2020-06-15 ~ 2020-06-19
 
