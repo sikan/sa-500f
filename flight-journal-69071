@@ -5,22 +5,38 @@
 -------- 2020-06-28 ~ 2020-07-03
 
 * 2020-06-28
-** [$XENON-4572 (wal file pool take improvement). (P)
+** [$XENON-4572 (wal file pool improvement). (P)
 
 * 2020-06-29
-** [$XENON-4572 (wal file pool take improvement). (P)
+** [$XENON-4572 (wal file pool improvement). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-06-30
 ** WFH.
-** [$XENON-4572 (wal file pool take improvement). (P)
+** [$XENON-4572 (wal file pool improvement). (P)
 ** [$STARLING-18227 (Hilton: persistent LOCK_NOT_GRANTED exceptions). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2020-07-01
 ** WFH.
-** [$XENON-4572 (wal file pool take improvement). (P)
+** [$XENON-4572 (wal file pool improvement). (P)
 ** Daily check-in meeting. (D)
+
+
+* 2020-07-02
+** WFH.
+** [$XENON-4572 (wal file pool improvement; stress/performance test). (P)
+** [$STARLING-18230 (BASF: inexplicably slow I/O performance). (+)
+** [$STARLING-18225 (EC: perhaps enabling sharing read-only pages would help; action plan). (P)
+** Daily check-in meeting. (D)
+
+
+* 2020-07-03
+** WFH.
+** [$STARLING-18225 (EC: discussed action plan with Zed and Sherry; some issues with building the obfuscated jar). (P)
+** Investigate a new 10.5 failing test (after the checkin of the new wal file pool) on Jenkins. (+)
+** Daily check-in meeting. (D)
+** Invetigate why sharing read-only pages is not enabled for index leafs (just an oversight?). (+)
 
 -------- 2020-06-22 ~ 2020-06-24
 
@@ -35,7 +51,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2020-06-24
-** [$XENON-4572 (wal file pool take improvement). (P)
+** [$XENON-4572 (wal file pool improvement). (P)
 ** Daily check-in meeting. (D)
 
 -------- 2020-06-15 ~ 2020-06-19
