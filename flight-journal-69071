@@ -2,6 +2,34 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-07-06 ~ 2020-07-10
+
+* 2020-07-06
+** WFH.
+** Revisit the code of sharing read-only pages. (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-07
+** [$STARLING-18225 (EC: meeting with Zed on initial results of applying the fixes on the first node and action plan). (P)
+** FY2020 year-end self-review. (P)
+** [$xENON weekly meeting. (D)
+
+* 2020-07-08
+** Revisit the code of sharing read-only pages. (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-09
+** WFH.
+** Revisit the code of sharing read-only pages and enable it for index leaves. (P)
+** [$STARLING-18225 (EC: initial results of applying the fixes on the second node). (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-10
+** WFH.
+** Revisit the code of sharing read-only pages and enable it for index leaves. (P)
+** Create [$XENON-4582 for the above. (+)
+** Daily check-in meeting. (D)
+
 -------- 2020-06-28 ~ 2020-07-03
 
 * 2020-06-28
@@ -22,14 +50,12 @@
 ** [$XENON-4572 (wal file pool improvement). (P)
 ** Daily check-in meeting. (D)
 
-
 * 2020-07-02
 ** WFH.
 ** [$XENON-4572 (wal file pool improvement; stress/performance test). (P)
 ** [$STARLING-18230 (BASF: inexplicably slow I/O performance). (+)
 ** [$STARLING-18225 (EC: perhaps enabling sharing read-only pages would help; action plan). (P)
 ** Daily check-in meeting. (D)
-
 
 * 2020-07-03
 ** WFH.
@@ -742,7 +768,7 @@
 -------- 2019-12-02 ~ 2019-12-06
 
 * 2019-12-02
-** [$VAULT2-11601 (default segment fiyyle found empty). (+) 
+** [$VAULT2-11601 (default segment found empty). (+) 
 ** [$XENON-4539 (missing log records on replica not caused by log truncation). (P)
 ** Daily check-in meeting. (D)
 
