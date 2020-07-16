@@ -2,6 +2,34 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-07-13 ~ 2020-07-17
+
+* 2020-07-13
+** WFH.
+** [$XENON-4582 (figured out why it would be difficult for concurrent index leaves). (P)
+** [$STARLING-18225 (EC: latest thread dumps). (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-14
+** WFH.
+** Consider the possibility of releasing page latches before accessing WAL files in getIndexPageVersion(). (+)
+** [$STARLING-18225 (EC: latest thread dumps). (P)
+** [$xENON weekly meeting. (D)
+
+* 2020-07-15
+** WFH.
+** [$STARLING-18225 (EC: finished reviewing all thread dumps; proposed next steps). (P)
+** Merge the new WAL file pool to 10.7 (requested by EC). (+)
+** Daily check-in meeting. (D)
+
+* 2020-07-16
+** [$STARLING-18225 (EC: meeting with Zed on action plan; built the 10.7 patch release). (P)
+** Look into an assertion failure found in recent [$VAULT2 builds, probably related to the LockManager fix for [$XENON-4572. (+)
+** Daily check-in meeting. (D)
+
+* 2020-07-17
+** "Self-care" day.
+
 -------- 2020-07-06 ~ 2020-07-10
 
 * 2020-07-06
@@ -33,26 +61,26 @@
 -------- 2020-06-28 ~ 2020-07-03
 
 * 2020-06-28
-** [$XENON-4572 (wal file pool improvement). (P)
+** [$XENON-4578 (WAL file pool improvement). (P)
 
 * 2020-06-29
-** [$XENON-4572 (wal file pool improvement). (P)
+** [$XENON-4578 (WAL file pool improvement). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-06-30
 ** WFH.
-** [$XENON-4572 (wal file pool improvement). (P)
+** [$XENON-4578 (WAL file pool improvement). (P)
 ** [$STARLING-18227 (Hilton: persistent LOCK_NOT_GRANTED exceptions). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2020-07-01
 ** WFH.
-** [$XENON-4572 (wal file pool improvement). (P)
+** [$XENON-4578 (WAL file pool improvement). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-07-02
 ** WFH.
-** [$XENON-4572 (wal file pool improvement; stress/performance test). (P)
+** [$XENON-4578 (WAL file pool improvement; stress/performance test). (P)
 ** [$STARLING-18230 (BASF: inexplicably slow I/O performance). (+)
 ** [$STARLING-18225 (EC: perhaps enabling sharing read-only pages would help; action plan). (P)
 ** Daily check-in meeting. (D)
@@ -60,7 +88,7 @@
 * 2020-07-03
 ** WFH.
 ** [$STARLING-18225 (EC: discussed action plan with Zed and Sherry; some issues with building the obfuscated jar). (P)
-** Investigate a new 10.5 failing test (after the checkin of the new wal file pool) on Jenkins. (+)
+** Investigate a new 10.5 failing test (after the checkin of the new WAL file pool) on Jenkins. (+)
 ** Daily check-in meeting. (D)
 ** Invetigate why sharing read-only pages is not enabled for index leafs (just an oversight?). (+)
 
@@ -77,7 +105,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2020-06-24
-** [$XENON-4572 (wal file pool improvement). (P)
+** [$XENON-4578 (WAL file pool improvement). (P)
 ** Daily check-in meeting. (D)
 
 -------- 2020-06-15 ~ 2020-06-19
@@ -96,19 +124,19 @@
 ** [$XENON-4572 (issues with a new assert). (P)
 ** 1-on-1 with Alex. (D)
 ** Daily check-in meeting. (D)
-** [$STARLING-18225 (EC: wal file pool take 3?). (P)
+** [$STARLING-18225 (EC: WAL file pool take 3?). (P)
 
 * 2020-06-18
 ** WFH.
 ** Help Elaine look into an issue where server initialization takes too long (probably just the sheer number of files). (+)
 ** 1-on-1 with Michiel (about his departure T_T). (+)
-** [$STARLING-18225 (EC: wal file pool take 3?). (P)
+** [$STARLING-18225 (EC: WAL file pool take 3?). (P)
 ** Daily check-in meeting. (D)
 ** [$VAULT2 team update and discussion (about Michiel's departure, 0000 AM). (+)
 
 * 2020-06-19
 ** Move upstairs. (D)
-** [$STARLING-18225 (EC: wal file pool take 3?). (P)
+** [$STARLING-18225 (EC: WAL file pool take 3?). (P)
 ** Daily check-in meeting. (D)
 
 -------- 2020-06-08 ~ 2020-06-12
@@ -504,7 +532,7 @@
 
 * 2020-03-03
 ** WFH.
-** [$XENON-4554 (PRD: started to analyze wal files). (P)
+** [$XENON-4554 (PRD: started to analyze WAL files). (P)
 ** [$xENON weekly meeting. (D)
 ** Create [$XENON-4556 ("inputRead" flag). (+)
 ** Fix a few high priority SpotBugs warnings. (+)
@@ -672,7 +700,7 @@
 ** Investigate a Jenkins issue with the new password complexity policy. (+)
 
 * 2020-01-07
-** [$VAULT2-11804 (wal files removed, but why?). (+)
+** [$VAULT2-11804 (WAL files removed, but why?). (+)
 ** Merge changes to to-be-retired branches. (P)
 ** Investigate a Jenkins issue with the new password complexity policy. (+)
 ** Check with Tools (Perforce admin) team whether they can make certain branches read-only. (+)
@@ -777,7 +805,7 @@
 ** [$xENON weekly meeting. (D)
 
 * 2019-12-04
-** [$XENON-4540 (corrupted wal file, root cause analysis, action plan, etc.). (P)
+** [$XENON-4540 (corrupted WAL file, root cause analysis, action plan, etc.). (P)
 
 * 2019-12-05
 ** [$XENON-4540 (EPA would like to restore an earlier backup). (P)
@@ -1638,7 +1666,7 @@
 
 * 2019-03-27
 ** Group lunch with Vicky, Jack and Moose. (D)
-** [$XENON-4474 (EC: wal files not truncated after incremental backup). (P)
+** [$XENON-4474 (EC: WAL files not truncated after incremental backup). (P)
 ** Study the leader election logic. (P)
 
 * 2019-03-28
