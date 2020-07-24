@@ -2,6 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-07-20 ~ 2020-07-24
+
+* 2020-07-20
+** WFH (in fact ZSXM).
+** [$STARLING-18225 (EC: implemented auto-thread-dump with dynamic configuration). (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-21
+** Off.
+
+* 2020-07-22
+** [$STARLING-18225 (EC: issues with thread exhaustion). (P)
+** Carla's questions regarding the BigDecimal support in [$xENON and [$VAULT2. (+)  
+** Daily check-in meeting. (D)
+
+* 2020-07-23
+** WFH.
+** Revisit the BigDecimal support in [$xENON and answer Carla's questions. (D)
+** [$STARLING-18225 (EC: discussion with Sherry). (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-24
+** WFH.
+** [$STARLING-18225 (EC: reviewed the latest thread dumps and stressed the issues with excessive idle threads). (P)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+
 -------- 2020-07-13 ~ 2020-07-17
 
 * 2020-07-13
