@@ -2,6 +2,34 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-07-27 ~ 2020-07-31
+
+* 2020-07-27
+** WFH.
+** [$STARLING-18225 (EC: helped Sherry verify the debug function). (P)
+** Daily check-in meeting. (D)
+** Create a ticket for the SAP time sheet issue. (+)
+
+* 2020-07-28
+** [$STARLING-18225 (EC: reviewed latest thread dumps and spotted an issue with the log buffer monitor; detected the wrong jar on Akamai uploaded by [$STARLING team). (P)
+** [$xENON weekly meeting. (D)
+
+* 2020-07-29
+** WFH.
+** [$STARLING-18225 (EC: used a non-volatile read to avoid always locking the log buffer monitor, quite a bit of intricacies here: JMM, JLS, etc.; built the new jar; added more thoughts to JIRA). (P)
+** Daily check-in meeting. (D)
+
+* 2020-07-30
+** [$STARLING-18225 (EC: meeting with Sherry and Zed; reviewed new thread dumps). (P)
+** Revisit 2PC logic. (P)
+** Test whether the internal lock in LinkedBlockingQueue::poll a performance bottleneck or just a red herring. (+)
+** Daily check-in meeting. (D)
+
+* 2020-07-31
+** WFH.
+** [$STARLING-18225 (EC: reviewed new thread dumps, optimization worked; added current thoughts about a different approach to JIRA; meeting with Sherry and Zed). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-07-20 ~ 2020-07-24
 
 * 2020-07-20
