@@ -2,6 +2,30 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-08-03 ~ 2020-08-07
+
+* 2020-08-03
+** WFH.
+** [$STARLING-18225 (EC: ProcessBuilder). (P)
+
+* 2020-08-04
+** [$STARLING-18225 (EC: ProcessBuilder -> jstack / mpstat). (P)
+** Discuss performance test plan with Sherry and Ellick. (+)
+** [$xENON weekly meeting. (D)
+
+* 2020-08-05
+** WFH.
+** [$STARLING-18225 (EC: dsearch logs; hard coded sleep to make verification easier). (P)
+
+* 2020-08-06
+** WFH.
+** Drop obfuscation from 10.5, 10.6 and 10.7. (P)
+
+* 2020-08-07
+** WFH.
+** Drop obfuscation from 10.5, 10.6 and 10.7. (P)
+** [$STARLING-18225 (EC: helped Michael look into a few environment issues; discussed with Sherry about potential root causes). (P)
+
 -------- 2020-07-27 ~ 2020-07-31
 
 * 2020-07-27
