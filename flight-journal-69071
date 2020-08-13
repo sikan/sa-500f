@@ -2,11 +2,40 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-08-10 ~ 2020-08-14
+
+* 2020-08-10
+** WFH.
+** Merge the removal of obfuscation to 10.6. (P)
+** [$STARLING-18225 (EC: Michael reported a problematic jline import with the new debug jar). (P)
+** Daily check-in meeting. (D)
+
+* 2020-08-11
+** WFH.
+** Drop obfuscation from 10.5 and above (some loose ends to tie up). (P)
+** [$STARLING-18225 (EC: investigated the jline import issue; had to use iCloud for file sharing). (P)
+** Investigate the premature termination of the "pal" threads in the debug jar. (+)
+** [$xENON weekly meeting. (D)
+
+* 2020-08-12
+** WFH.
+** [$STARLING-18225 (EC: investigated various issues with the debug jar as well as [$STARLING's test environment). (P)
+** Investigate the premature termination of the "pal" threads in the debug jar (eclipse's remote test runner will kill JVM explicitly, perhaps to avoid runaway threads?). (D)
+** Daily check-in meeting. (D)
+
+* 2020-08-13
+** WFH.
+** Drop obfuscation from 10.5 and above (some loose ends to tie up). (D)
+** Merge the removal of obfuscation to 10.6 and 10.7. (D)
+** [$STARLING-18225 (EC: verified the behavior of the debug jar in [$STARLING's test environment). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-08-03 ~ 2020-08-07
 
 * 2020-08-03
 ** WFH.
 ** [$STARLING-18225 (EC: ProcessBuilder). (P)
+** Daily check-in meeting. (D)
 
 * 2020-08-04
 ** [$STARLING-18225 (EC: ProcessBuilder -> jstack / mpstat). (P)
@@ -16,15 +45,18 @@
 * 2020-08-05
 ** WFH.
 ** [$STARLING-18225 (EC: dsearch logs; hard coded sleep to make verification easier). (P)
+** Daily check-in meeting. (D)
 
 * 2020-08-06
 ** WFH.
-** Drop obfuscation from 10.5, 10.6 and 10.7. (P)
+** Drop obfuscation from 10.5 and above. (P)
+** Daily check-in meeting. (D)
 
 * 2020-08-07
 ** WFH.
-** Drop obfuscation from 10.5, 10.6 and 10.7. (P)
-** [$STARLING-18225 (EC: helped Michael look into a few environment issues; discussed with Sherry about potential root causes). (P)
+** Drop obfuscation from 10.5 and above. (P)
+** [$STARLING-18225 (EC: helped Michael look into a few environment issues; discussed with Sherry about potential issues with initialization of sub-path configurations). (P)
+** Daily check-in meeting. (D)
 
 -------- 2020-07-27 ~ 2020-07-31
 
