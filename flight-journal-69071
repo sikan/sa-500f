@@ -2,6 +2,34 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-08-17 ~ 2020-08-21
+
+* 2020-08-17
+** WFH (Xiamen).
+** [$STARLING-18225 (EC: analyzed new thread dumps; suspicious contention on Lucene blacklist filtering; updated JIRA with findings). (P)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+
+* 2020-08-18
+** WFH (Xiamen).
+** [$STARLING-18225 (EC: reviewed Lucene blacklist filtering logic). (P)
+** Emergency support case (Supplier Exchange: EU data center down; incorrect client version on replica). (+)
+** 1-on-1 with Bruno. (+)
+
+* 2020-08-19
+** WFH (Xiamen).
+** [$STARLING-18225 (EC: compared the performance of AtomicInteger vs. synchronized block; optimization for concurrent blacklist filtering during 'delta' calculation; discussion with Sherry). (P)
+** Daily check-in meeting. (D)
+
+* 2020-08-20
+** WFH (Xiamen).
+** Fix an issue with determining the log truncation LSN (investigated and found by Vadim). (+)
+
+* 2020-08-21
+** WFH.
+** [$STARLING-18225 (EC: optimization for concurrent blacklist filtering during 'delta' calculation; suspicious I/O performance issues with logging output; discussion with Sherry). (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-08-10 ~ 2020-08-14
 
 * 2020-08-10
@@ -27,8 +55,11 @@
 ** WFH.
 ** Drop obfuscation from 10.5 and above (some loose ends to tie up). (D)
 ** Merge the removal of obfuscation to 10.6 and 10.7. (D)
-** [$STARLING-18225 (EC: verified the behavior of the debug jar in [$STARLING's test environment). (P)
+** [$STARLING-18225 (EC: verified the behavior of the debug jar in [$STARLING's test environment; updated JIRA with instructions). (P)
 ** Daily check-in meeting. (D)
+
+* 2020-08-14
+** Investigate an eclipse build issue with build-web.xml. (+)
 
 -------- 2020-08-03 ~ 2020-08-07
 
@@ -89,7 +120,7 @@
 -------- 2020-07-20 ~ 2020-07-24
 
 * 2020-07-20
-** WFH (in fact ZSXM).
+** WFH (ZSXM).
 ** [$STARLING-18225 (EC: implemented auto-thread-dump with dynamic configuration). (P)
 ** Daily check-in meeting. (D)
 
