@@ -2,6 +2,24 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-08-24 ~ 2020-08-28
+
+* 2020-08-24
+** WFH.
+** Look into an admin client error reported by [$NEON (session found read-only for an updating query). (+)
+** Look into the broken Perforce connection on Jenkins (build account no longer exists). (+)
+** [$STARLING-18225 (EC: meeting with Ellick, John and Sherry on next steps). (+)
+** Daily check-in meeting. (D)
+
+* 2020-08-25
+
+* 2020-08-26
+
+* 2020-08-27
+
+* 2020-08-28
+
+
 -------- 2020-08-17 ~ 2020-08-21
 
 * 2020-08-17
@@ -59,6 +77,7 @@
 ** Daily check-in meeting. (D)
 
 * 2020-08-14
+** WFH.
 ** Investigate an eclipse build issue with build-web.xml. (+)
 
 -------- 2020-08-03 ~ 2020-08-07
