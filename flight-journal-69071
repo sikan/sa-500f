@@ -2,6 +2,22 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-08-31 ~ 2020-09-04
+
+* 2020-08-31
+** WFH.
+** Continue the discussion with Wouter regarding IndexKeyResourceId. (P)
+** Continue the investigation of the OOM issue found in [$NEON Supplier Exchange deployment in North America (session count). (+)
+** [$VAULT2-13554 (fme AG: SNAPSHOT_TOO_OLD thrown from an index-in-construction; code review; etc.). (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-01
+** WFH.
+** Investigate a replica hanging issue found in [$NEON Supplier Exchange deployment in North America (caused by LrLockPage, already fixed in 11.1.16; helped Xiangyi with the [$xENON upgrade). (+)
+** [$STARLING-18287 (EC: SEGMENT_READONLY; explained more to the support and requested .wal files). (+)
+** [$VAULT2-13554 (fme AG: started to created a test to reproduce the SNAPSHOT_TOO_OLD error from an index-in-construction). (P)
+** [$xENON weekly meeting. (D)
+
 -------- 2020-08-24 ~ 2020-08-28
 
 * 2020-08-24
@@ -20,12 +36,20 @@
 ** WFH.
 ** Muhi's all-hands. (D)
 ** Revisit 2PC logic. (P)
-** [$xENON weekly meeting. (D)
+** Daily check-in meeting. (D)
 
 * 2020-08-27
+** Investigate an OOM issue found in [$NEON Supplier Exchange deployment in North America (analyzed the heap dump). (+) 
+** Daily check-in meeting. (D)
 
 * 2020-08-28
-
+** WFH.
+** Investigate an OOM issue found in [$NEON Supplier Exchange deployment in North America (more analysis). (P)
+** [$VAULT2-13554 (fme AG: SNAPSHOT_TOO_OLD). (+)
+** [$STARLING-18287 (EC: unexpected SEGMENT_READONLY?). (+)
+** [$NEON Supplier Exchange support call (LOCK_NOT_GRANTED seemed the only relevant [$xENON issue). (+)
+** Answer Wouter's questions regarding IndexKeyResourceId. (+)
+** Communications with Alex and Bruno regarding Alex's resignation. (+)
 
 -------- 2020-08-17 ~ 2020-08-21
 
@@ -38,7 +62,7 @@
 * 2020-08-18
 ** WFH (Xiamen).
 ** [$STARLING-18225 (EC: reviewed Lucene blacklist filtering logic). (P)
-** Emergency support case (Supplier Exchange: EU data center down; incorrect client version on replica). (+)
+** Emergency support case ([$NEON Supplier Exchange: EU data center down; incorrect client version on replica). (+)
 ** 1-on-1 with Bruno. (+)
 
 * 2020-08-19
