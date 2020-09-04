@@ -15,8 +15,22 @@
 ** WFH.
 ** Investigate a replica hanging issue found in [$NEON Supplier Exchange deployment in North America (caused by LrLockPage, already fixed in 11.1.16; helped Xiangyi with the [$xENON upgrade). (+)
 ** [$STARLING-18287 (EC: SEGMENT_READONLY; explained more to the support and requested .wal files). (+)
-** [$VAULT2-13554 (fme AG: started to created a test to reproduce the SNAPSHOT_TOO_OLD error from an index-in-construction). (P)
+** [$VAULT2-13554 (fme AG: tried to reproduce the SNAPSHOT_TOO_OLD error from an index-in-construction). (P)
 ** [$xENON weekly meeting. (D)
+
+* 2020-09-02
+** WFH.
+** [$VAULT2-13554 (fme AG: tried to reproduce the SNAPSHOT_TOO_OLD error from an index-in-construction). (P)
+** [$STARLING-18296 (PG&E: checkpointLSN and systemRedoLSN in same file, but the latter log record corrupted). (+)
+** Sync-up meeting with Silvia, Sherry and others on EC's current situation. (D)
+
+* 2020-09-03
+** WFH.
+** Send a summary of current status of EC's case and [$xENON's engagement to Bruno and Alex. (+)  
+** [$VAULT2-13554 (fme AG: reproduced the SNAPSHOT_TOO_OLD error from an index-in-construction; updated JIRA with conclusion). (D)
+** [$STARLING-18296 (PG&E: analyzed transaction log files with CSI; large portion zeroed out). (P)
+** [$STARLING-18225 (EC: meeting with John and Sherry to discuss the progress of the performance test; updated JIRA with instructions for the latest jar). (+)
+** Daily check-in meeting. (D)
 
 -------- 2020-08-24 ~ 2020-08-28
 
