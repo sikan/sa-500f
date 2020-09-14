@@ -2,6 +2,31 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-09-07 ~ 2020-09-11
+
+* 2020-09-07
+** WFH.
+** Investigate build failures caused by the deletion of test analyzer, etc. (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-08
+** Investigate build failures caused by the deletion of test analyzer, etc. (P)
+** [$STARLING-18287 (EC: checked .wal files, but no log records of segment state change). (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-09
+** WFH.
+** [$STARLING-18225 (EC: explained the latest optimization for black node filtering). (P)
+** [$STARLING-18287 (EC: prepared a new debug jar to detect segment state change). (P)
+** Investigate build failures caused by the deletion of test analyzer, etc. (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-10
+** Off.
+
+* 2020-09-11
+** Off.
+
 -------- 2020-08-31 ~ 2020-09-04
 
 * 2020-08-31
@@ -16,7 +41,7 @@
 ** Investigate a replica hanging issue found in [$NEON Supplier Exchange deployment in North America (caused by LrLockPage, already fixed in 11.1.16; helped Xiangyi with the [$xENON upgrade). (+)
 ** [$STARLING-18287 (EC: SEGMENT_READONLY; explained more to the support and requested .wal files). (+)
 ** [$VAULT2-13554 (fme AG: tried to reproduce the SNAPSHOT_TOO_OLD error from an index-in-construction). (P)
-** [$xENON weekly meeting. (D)
+** Daily check-in meeting. (D)
 
 * 2020-09-02
 ** WFH.
@@ -26,11 +51,16 @@
 
 * 2020-09-03
 ** WFH.
-** Send a summary of current status of EC's case and [$xENON's engagement to Bruno and Alex. (+)  
+** Send a summary of current status of EC's case and [$xENON's engagement to Bruno and Alex. (+)
 ** [$VAULT2-13554 (fme AG: reproduced the SNAPSHOT_TOO_OLD error from an index-in-construction; updated JIRA with conclusion). (D)
 ** [$STARLING-18296 (PG&E: analyzed transaction log files with CSI; large portion zeroed out). (P)
-** [$STARLING-18225 (EC: meeting with John and Sherry to discuss the progress of the performance test; updated JIRA with instructions for the latest jar). (+)
+** [$STARLING-18225 (EC: meeting with John and Sherry to discuss the progress of the performance test; updated JIRA with instructions for the latest jar). (P)
 ** Daily check-in meeting. (D)
+
+* 2020-09-04
+** WFH/AM.
+** Checked the status of open support cases. (+)
+** Off/PM.
 
 -------- 2020-08-24 ~ 2020-08-28
 
@@ -38,11 +68,11 @@
 ** WFH.
 ** Look into an admin client error reported by [$NEON (session found read-only for an updating query). (+)
 ** Look into the broken Perforce connection on Jenkins (build account no longer exists). (+)
-** [$STARLING-18225 (EC: meeting with Ellick, John and Sherry on next steps). (+)
+** [$STARLING-18225 (EC: meeting with Ellick, John and Sherry on next steps). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-08-25
-** [$STARLING-18225 (EC: sent Bruno status update; discussion with Sherry). (+)
+** [$STARLING-18225 (EC: sent Bruno status update; discussion with Sherry). (P)
 ** Look into the broken Perforce connection on Jenkins (reconfigured Jenkins to work with the new user name). (D)
 ** [$xENON weekly meeting. (D)
 
