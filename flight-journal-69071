@@ -2,6 +2,43 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-09-21 ~ 2020-09-25
+
+* 2020-09-21
+** WFH.
+** Investigate an issue reported by [$NEON Supplier Exchange where it attempts to create a cluster receiver in a single node setup. (+)  
+** [$STARLING-18225 (EC: spotted an issue with recursion in the optimization for black node filtering). (P)
+
+-------- 2020-09-14 ~ 2020-09-18
+
+* 2020-09-14
+** WFH.
+** Investigate build failures caused by the deletion of test analyzer (payload attribute vs. weight attribute). (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-15
+** WFH.
+** Investigate build failures caused by the deletion of test analyzer (payload attribute vs. weight attribute). (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-16
+** WFH.
+** Investigate build failures caused by the deletion of test analyzer (payload attribute vs. weight attribute). (D)
+** Fix a regression in 10.6 caused by an incorrect package name for the standard analyzer. (D)
+** [$STARLING-18225 (EC: analyzed latest logs, not much information though except indications of issues with final merge). (P)
+
+* 2020-09-17
+** WFH.
+** Help [$STARLING team look into a license issue reported by an internal customer ([$xENON instance in Docker environment). (+)
+** 1-on-1 with Alex. (D)
+** Daily check-in meeting. (D)
+
+* 2020-09-18
+** WFH.
+** Help [$STARLING team look into a license issue reported by an internal customer ([$xENON instance in Docker environment). (P)
+** Investigate the failures of upgrade tests in multiple branches. (+)
+** Daily check-in meeting. (D)
+
 -------- 2020-09-07 ~ 2020-09-11
 
 * 2020-09-07
