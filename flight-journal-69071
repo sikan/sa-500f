@@ -6,8 +6,15 @@
 
 * 2020-09-21
 ** WFH.
-** Investigate an issue reported by [$NEON Supplier Exchange where it attempts to create a cluster receiver in a single node setup. (+)  
+** Investigate an issue reported by [$NEON Supplier Exchange where it attempts to create a cluster receiver in a single node setup. (+)
 ** [$STARLING-18225 (EC: spotted an issue with recursion in the optimization for black node filtering). (P)
+** P51 keyboard replaced.
+
+* 2020-09-22
+** WFH.
+** Investigate an issue reported by [$NEON Supplier Exchange where it attempts to create a cluster receiver in a single node setup. (P)
+** [$STARLING-18225 (EC: created a new jar with fix for the recursion; discussed with Sherry and Ellick about JVM options). (P)
+** Daily check-in meeting. (D)
 
 -------- 2020-09-14 ~ 2020-09-18
 
@@ -20,6 +27,7 @@
 ** WFH.
 ** Investigate build failures caused by the deletion of test analyzer (payload attribute vs. weight attribute). (P)
 ** Daily check-in meeting. (D)
+** P51 keyboard dead.
 
 * 2020-09-16
 ** WFH.
