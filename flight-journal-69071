@@ -2,6 +2,12 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-09-27 ~ 2020-09-30
+
+* 2020-09-27
+** WFH.
+** Add logic to print file access mode when buffer flusher fails due to IOE (infrequent Heisenbug found at Tieto). (+)
+
 -------- 2020-09-21 ~ 2020-09-25
 
 * 2020-09-21
@@ -16,10 +22,30 @@
 ** [$STARLING-18225 (EC: created a new jar with fix for the recursion; discussed with Sherry and Ellick about JVM options). (P)
 ** Daily check-in meeting. (D)
 
+* 2020-09-23
+** WFH.
+** [$VAULT2-13789 (Energir: recovery failure caused by false alert of an unknown bootstrap log record type). (+)
+** The "chat" with Bruno which never happens. (+)
+** Daily check-in meeting. (D)
+
+* 2020-09-24
+** WFH.
+** "Next steps" meeting with Bruno and Wendy. (D)
+** Muhi's China Town Hall meeting. (D)
+** Brief chat with Wei. (+)
+** [$VAULT2-13789 (Energir: reviewed Val's fix and updated release notes). (D)
+** Daily check-in meeting. (D)
+
+* 2020-09-25
+** WFH.
+** Wei's all-hands. (D)
+** [$XENON-4594 (pom files for api/impl jars?). (+)
+** Sign the additional retention plan. (+)
+
 -------- 2020-09-14 ~ 2020-09-18
 
 * 2020-09-14
-** WFH.
+** WFH (Xiamen).
 ** Investigate build failures caused by the deletion of test analyzer (payload attribute vs. weight attribute). (P)
 ** Daily check-in meeting. (D)
 
