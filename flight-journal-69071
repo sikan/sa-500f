@@ -8,6 +8,11 @@
 ** WFH.
 ** Add logic to print file access mode when buffer flusher fails due to IOE (infrequent Heisenbug found at Tieto). (+)
 
+* 2020-09-28
+** [$XENON-4594 (million dollar question: how can one build the full jar?). (P)
+** Revisit 2PC logic. (P)
+** Daily check-in meeting. (D)
+
 -------- 2020-09-21 ~ 2020-09-25
 
 * 2020-09-21
