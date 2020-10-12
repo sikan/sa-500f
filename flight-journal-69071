@@ -2,6 +2,18 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-10-09 ~ 2020-10-10
+
+* 2020-10-09
+** WFH.
+** Email backlog. (D)
+** Revisit 2PC logic. (P)
+** Review the resumes of two candidates and exchange thoughts on hiring with Bruno. (+)
+
+* 2020-10-10
+** WFH.
+** Revisit 2PC logic. (P)
+
 -------- 2020-09-27 ~ 2020-09-30
 
 * 2020-09-27
@@ -11,6 +23,19 @@
 * 2020-09-28
 ** [$XENON-4594 (million dollar question: how can one build the full jar?). (P)
 ** Revisit 2PC logic. (P)
+** Daily check-in meeting. (D)
+
+* 2020-09-29
+** WFH.
+** [$XENON-4594 (fixed issues with deps.xml). (P)
+** Investigate LOCK_NOT_GRANTED issues reported by [$NEON Supplier Exchange (stack trace indicates NO_WAIT). (+)
+** Look into a trivial version (in)compatbility issue reported by [$NEON Supplier Exchange. (+)  
+** Daily check-in meeting. (D)
+** 1-on-1 with Alex (performance review). (D)
+
+* 2020-09-30
+** WFH.
+** More explanation and clarification regarding the locking behavior and the NO_WAIT option (also suggested turning on trace level logging and getting session info). (P)
 ** Daily check-in meeting. (D)
 
 -------- 2020-09-21 ~ 2020-09-25
