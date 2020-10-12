@@ -2,6 +2,14 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-10-12 ~ 2020-10-16
+
+* 2020-10-12
+** Open a ticket for the proxy issue (caused by exceptions being cleared). (+)
+** Investigate the failures of upgrade tests in multiple branches. (P)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+
 -------- 2020-10-09 ~ 2020-10-10
 
 * 2020-10-09
