@@ -2,6 +2,14 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-10-19 ~ 2020-10-23
+
+* 2020-10-19
+** Review the resumes of current candidates. (P)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4597 (deadlocks found on Jenkins). (P)
+
 -------- 2020-10-12 ~ 2020-10-16
 
 * 2020-10-12
@@ -9,6 +17,31 @@
 ** Investigate the failures of upgrade tests in multiple branches. (P)
 ** Meeting with Bruno and Val on hiring. (D)
 ** [$xENON scrum meeting. (D)
+
+* 2020-10-13
+** WFH.
+** [$STARLING-18225 (EC: discussed the proposal to create a new 20.2 patch). (P)
+** Investigate the failures of upgrade tests in multiple branches (couldn't invoke Ant from generated tests, Windows quirk?). (P)
+** Answer Xavier's questions regarding certain locking behavior. (+)
+
+* 2020-10-14
+** WFH.
+** Investigate the failures of upgrade tests in multiple branches (updated the plain jar location in the XSL file). (D)
+** Create a wiki page for hiring and review the resumes of current candidates. (+)
+** Answer Xavier's questions regarding certain locking behavior (needed to explain what would otherwise have been a deadlock situation). (P)
+
+* 2020-10-15
+** WFH.
+** Investigate the issue with upgrade tests (java ProcessBuilder) on Windows (ant.bat instead of ant). (+)
+** Answer a license issue raised by [$NEON Supplier Exchange team. (+)
+** Answer Xavier's follow-up questions. (D)
+** [$xENON scrum meeting. (D)
+** [$VAULT2 21.1 Product Charter. (D)
+
+* 2020-10-16
+** WFH.
+** Create [$XENON-4597 to track two deadlocks found on Jenkins. (+)
+** Merge unintegrated changelists (due to another failure on Jenkins). (+)
 
 -------- 2020-10-09 ~ 2020-10-10
 
