@@ -10,6 +10,24 @@
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4597 (deadlocks found on Jenkins). (P)
 
+* 2020-10-20
+** Investigate an upgrade issue reported by Bank of China (invovled our own Trie structure API). (+)
+** Fix a concurrency issue with the segment cleaner. (+)
+** Investigate a Black Duck reported issue with honest profiler (probably a false positive). (+)
+
+* 2020-10-21
+** Investigate an upgrade issue reported by Bank of China (reproduction, Trie, etc.). (P)
+
+* 2020-10-22
+** Investigate an upgrade issue reported by Bank of China (reproduction, Trie, etc.). (P)
+** Investigate a recovery issue reported by Dentsply (problem introduced and fixed in earlier versions of 11.1.x). (+)
+** [$xENON scrum meeting. (D)
+
+* 2020-10-23
+** WFH.
+** Discuss the JIRA process with Bruno and the team. (+)
+** [$XENON-4601 ([$NEON Supplier Exchange team: a never seen before "local class incompatible" issue, probably caused by serialVersionUID computed on the fly). (+)
+
 -------- 2020-10-12 ~ 2020-10-16
 
 * 2020-10-12
