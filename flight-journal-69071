@@ -2,6 +2,35 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-10-26 ~ 2020-10-30
+
+* 2020-10-26
+** Off.
+
+* 2020-10-27
+** WFH.
+** Quick chat with Bruno on the downgrade issue. (+)
+** Go through the changelists since 11.1.14 to identify potential downgrade risks. (+)
+** Add missing serialVersionUID to abstract query classes (as a preventive measure). (+)
+** Look into a log file flushing error probably caused by a network hiccup (Cargill). (+)
+** [$VAULT2-13961 (Societe Generale: issues caused by rolling back updates made to an uncommitted online restored library). (P)
+
+* 2020-10-28
+** WFH.
+** [$VAULT2-13961 (Societe Generale: issues caused by rolling back updates made to an uncommitted online restored library). (D)
+
+* 2020-10-29
+** [$VAULT2-13961 (Societe Generale: Sabine's question regarding the ETA of the patch release). (+)
+** 1-on-1 with Wendy (regarding the next few months). (D)
+** 1-on-1 with Jason. (+)
+** Fix the issue with Trie::commonPath (Bank of China). (D)
+** [$xENON scrum meeting. (D)
+
+* 2020-10-30
+** WFH.
+** Add test cases for Trie::commonPath. (D)
+** Update release notes with the fix for the Trie. (D)
+
 -------- 2020-10-19 ~ 2020-10-23
 
 * 2020-10-19
