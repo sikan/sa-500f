@@ -2,6 +2,45 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-11-09 ~ 2020-11-13
+
+* 2020-11-09
+** Off.
+
+* 2020-11-10
+** Off.
+
+-------- 2020-11-02 ~ 2020-11-06
+
+* 2020-11-02
+** Watch the recording of the meeting about the move to Postgres and Lucene. (+)
+** Verify the fix for Bank of China against their data. (D)
+** [$VAULT2-14073 (LyondellBasell: SNAPSHOT_TOO_OLD). (+)
+** Review the resumes of another batch of 70. (+)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+** Revisit the logic of clean shutdown check on start-up. (+)
+
+* 2020-11-03
+** WFH.
+** Check the distribution requirements for Bank of China with Yanjuan. (+)
+** Update the wiki page for hiring with 5 candidates from the last batch. (D)
+** Revisit the logic of clean shutdown check on start-up. (P)
+
+* 2020-11-04
+** Fix a minor performance issue so that the 10.0 upgrade condition check is now only done once. (+)
+
+* 2020-11-05
+** WFH.
+** [$XENON-4602 (discussions about various issues related to managing potential downgrade scenarios). (P)
+** Revisit the version restrictions for the upgrade to 11. (+)
+** Revisit 2PC logic. (P)
+
+* 2020-11-06
+** WFH.
+** [$XENON-4602 (discussions about various issues related to managing potential downgrade scenarios). (P)
+** [$XENON-4603 (needed to explain TRANSACTION_ROLLBACK_ONLY to the new support working on [$STARLING cases). (+)
+
 -------- 2020-10-26 ~ 2020-10-30
 
 * 2020-10-26
