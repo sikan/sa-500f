@@ -2,6 +2,41 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-11-16 ~ 2020-11-20
+
+* 2020-11-16
+** WFH.
+** [$XENON-4606 (BlackDuck: security vulnerabilities caused by outdated Jetty). (+)
+** Discuss [$STARLING support clock with Bruno and Andreas (due to [$XENON-4606). (+)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+
+* 2020-11-17
+** WFH.
+** Add input to the updated job description. (+)
+** [$XENON-4606 (BlackDuck: both Jetty and Jersey should be updated). (P)
+** [$STARLING-18225 (EC: new 10.7 blocked by [$XENON-4606). (P)
+
+* 2020-11-18
+** WFH.
+** [$XENON-4606 (BlackDuck: fixed 10.7, but left out 10.5 and 10.6 due to the lack of a Java 7 compatible fix; CCE uses 11?). (P)
+** Add logic to update version stored in bootstrap file on server start-up. (D)
+** Fix a start-up time replica bug where it may attempt to create a checkpoint by itself. (+)
+** Discuss [$STARLING support clock and evolutions of [$xENON architecture with Bruno. (+)
+
+* 2020-11-19
+** Talk with Sherry and sum up the current [$STARLING support status. (+)
+** Implement a mechanism to disable auto version update on server start-up. (D)
+** Implement downgrade check. (D)
+** Summarize the recent work for better managing the case of a potential [$xENON downgrade. (D)
+** [$xENON scrum meeting. (D)
+** Propose simultaneous library (de)serialization as an optimization for [$VAULT2. (+)
+
+* 2020-11-20
+** WFH.
+** [$STARLING-4607 (TRANSACTION_ROLLBACK_ONLY probably related to DUPLICATE_KEY). (+)
+** [$STARLING-18225 (EC: create a new 10.7 build with all recent improvements and debug functions). (P)
+
 -------- 2020-11-09 ~ 2020-11-13
 
 * 2020-11-09
@@ -9,6 +44,23 @@
 
 * 2020-11-10
 ** Off.
+
+* 2020-11-11
+** WFH.
+** Take the Pulse survey. (+)
+** [$XENON-4603 (but unfortunately only [$STARLING team could help them get the stack trace). (P)
+** [$XENON-4605 ($NEON Supplier Exchange: presumably the same recovery hanging issue fixed in 11.1.19). (+)
+** [$XENON-4604 ($NEON Supplier Exchange: inconsistent log data on replica). (+)
+
+* 2020-11-12
+** Add new APIs to help users detect potential upgrade/downgrade scenarios in advance. (P)
+** [$XENON-4605 ($NEON Supplier Exchange: reviewed the thread dump and confirmed it's a duplicate). (D)
+** [$xENON scrum meeting. (D)
+
+* 2020-11-13
+** WFH.
+** Add new APIs to help users detect potential upgrade/downgrade scenarios in advance. (P)
+** [$STARLING-4603 (explaned TRANSACTION_ROLLBACK_ONLY to the new [$STARLING team). (+)
 
 -------- 2020-11-02 ~ 2020-11-06
 
