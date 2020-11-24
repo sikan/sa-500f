@@ -2,6 +2,20 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-11-23 ~ 2020-11-27
+
+* 2020-11-23
+** WFH.
+** Meeting with Bruno and Val on hiring (turned out more about [$xENON maintenance status). (D)
+** [$xENON scrum meeting. (D)
+** [$VAULT2-14217 (BlackDuck: upgraded Jetty and Ant to the latest versions). (+)
+** Update realease notes for recent changes. (D)
+
+* 2020-11-24
+** WFH.
+** Discuss upgrade paths for existing customers on old versions of [$xENON. (+)
+** Investigate failures of the recent nightly builds (a typo in pom template led to a fatal but somewhat hidden error). (+)
+
 -------- 2020-11-16 ~ 2020-11-20
 
 * 2020-11-16
