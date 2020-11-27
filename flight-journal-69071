@@ -16,6 +16,24 @@
 ** Discuss upgrade paths for existing customers on old versions of [$xENON. (+)
 ** Investigate failures of the recent nightly builds (a typo in pom template led to a fatal but somewhat hidden error). (+)
 
+* 2020-11-25
+** [$STARLING team lunch. (D)
+** [$VAULT2-14217 (BlackDuck: did another Jetty upgrade to the latest version released just days ago; readied 11.1.22). (D)
+** Discuss upgrade paths for existing customers on old versions of [$xENON. (P)
+** Investigate the build failures of 10.7. (P)
+** 1-on-1 with Jason. (+)
+
+* 2020-11-26
+** WFH.
+** Discuss upgrade paths for existing customers on old versions of [$xENON. (P)
+** Investigate the build failures of 10.7 (finalization of RemoteSession). (P)
+** [$xENON scrum meeting. (D)
+
+* 2020-11-27
+** WFH.
+** Review two new resumes. (+)
+** Remove Apache Avalon and FOP related obsolete stuff. (+)
+
 -------- 2020-11-16 ~ 2020-11-20
 
 * 2020-11-16
