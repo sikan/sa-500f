@@ -2,6 +2,38 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-11-30 ~ 2020-12-04
+
+* 2020-11-30
+** Lunch with Jason, Zed, Joy, Peng and Tao. (+)
+** JIRA cleanup. (+)
+** Try to avoid a test failure by using Java ReferenceQueue. (+)
+** Meeting with Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+
+* 2020-12-01
+** WFH.
+** Create a custom Ant task to detect jar name inconsistencies. (D)
+** [$STARLING-18225 (EC: reminded to [$STARLING Indian team to verify debug functions). (+)
+
+* 2020-12-02
+** WFH.
+** Fix inconsistent jar names detected by the new Ant task. (D)
+
+* 2020-12-03
+** WFH.
+** Investigate failures of recent nightly builds (InstallAnywhere project file issues caused by the removal of FOP libraries). (+)
+** Disable the nightly builds of 16.3, 16.5 and Main. (+)
+** Fix various issues with Jenkins configurations (jar file publishing, slave selection, etc.) (+)
+** [$xENON scrum meeting. (D)
+** Notify [$STARLING Indian team of the new 10.7 build. (+)
+** Resignation letter. (P)
+
+* 2020-12-04
+** WFH.
+** Look into an weird version issue reported by $NEON Supplier Exchange team. (+)
+** Resignation letter (sent). (D)
+
 -------- 2020-11-23 ~ 2020-11-27
 
 * 2020-11-23
@@ -33,6 +65,7 @@
 ** WFH.
 ** Review two new resumes. (+)
 ** Remove Apache Avalon and FOP related obsolete stuff. (+)
+** Create [$XENON-4606 (java_classpath.dita). (+)
 
 -------- 2020-11-16 ~ 2020-11-20
 
