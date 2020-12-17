@@ -2,6 +2,60 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2020-12-14 ~ 2020-12-18
+
+* 2020-12-14
+** WFH.
+** Investigate urgent issues reported by [$NEON Supplier Exchange team during the weekend (seemed to be usage problems). (+)
+** Summarize the potential pros and cons of upgrading [$STARLING to 11. (+)
+** Conference call with Yanjuan/Bank of China. (D)
+** Chat with Yanjuan about some follow-ups. (+)
+** Discuss coding assignment with Val. (+)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+** 1-on-1 with Bruno (resignation, potential 10-to-11 upgrade plan for [$STARLING, Bank of China). (+)
+
+* 2020-12-15
+** WFH.
+** Check the latest status of [$NEON Supplier Exchange issues and sum it up for Bruno and Wouter ([$NEON team did crazy things). (+)
+** Chat with Wendy about the potential arrangement after official departure. (+)
+** Discuss coding assignment with Val. (P)
+** Get rid of legacy false alarms in merge check report. (P)
+
+-------- 2020-12-07 ~ 2020-12-11
+
+* 2020-12-07
+** [$STARLING-18225 (EC: explained once again the necessity to verify debug functions). (P)
+** Prepare interview questions (from past work). (P)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+** Investigate the version issue reported by [$NEON Supplier Exchange team. (P)
+
+* 2020-12-08
+** Check with Sherry on CCE's deployment status and [$xENON dependency, and report back to Bruno. (+)
+** Investigate the version issue reported by [$NEON Supplier Exchange team (false alarm, nonissue). (D)
+** [$STARLING-4607 (confused by support response). (P)
+** Respond to inquiries regarding 10-to-11 upgrade from Yanjuan/Bank of China. (+)
+** 1-on-1 with Bruno (about resignation). (+)
+** Propose other options to Bruno after the above. (+)
+** [$STARLING-4610 (Best Buy: probably not related to [$xENON). (+)
+** Prepare interview questions (interval, etc.). (D)
+
+* 2020-12-09
+** WFH.
+** [$STARLING-18225 (EC: helped Santosh with the verification of debug functions). (P)
+** Respond to inquiries regarding 10-to-11 upgrade from Yanjuan/Bank of China. (P)
+** [$xENON technical interview (Rohit). (D)
+
+* 2020-12-10
+** WFH.
+** Discuss queue segment and external lucene support. (+)
+** Respond to inquiries regarding 10-to-11 upgrade from Yanjuan/Bank of China. (P)
+** [$xENON scrum meeting (but more about hiring). (D)
+
+* 2020-12-11
+** Get rid of legacy false alarms in merge check report. (+)
+
 -------- 2020-11-30 ~ 2020-12-04
 
 * 2020-11-30
@@ -14,7 +68,7 @@
 * 2020-12-01
 ** WFH.
 ** Create a custom Ant task to detect jar name inconsistencies. (D)
-** [$STARLING-18225 (EC: reminded to [$STARLING Indian team to verify debug functions). (+)
+** [$STARLING-18225 (EC: reminded to [$STARLING Indian team to verify debug functions). (P)
 
 * 2020-12-02
 ** WFH.
@@ -31,7 +85,7 @@
 
 * 2020-12-04
 ** WFH.
-** Look into an weird version issue reported by $NEON Supplier Exchange team. (+)
+** Look into an weird version issue reported by [$NEON Supplier Exchange team. (+)
 ** Resignation letter (sent). (D)
 
 -------- 2020-11-23 ~ 2020-11-27
@@ -114,12 +168,12 @@
 ** WFH.
 ** Take the Pulse survey. (+)
 ** [$XENON-4603 (but unfortunately only [$STARLING team could help them get the stack trace). (P)
-** [$XENON-4605 ($NEON Supplier Exchange: presumably the same recovery hanging issue fixed in 11.1.19). (+)
-** [$XENON-4604 ($NEON Supplier Exchange: inconsistent log data on replica). (+)
+** [$XENON-4605 ([$NEON Supplier Exchange: presumably the same recovery hanging issue fixed in 11.1.19). (+)
+** [$XENON-4604 ([$NEON Supplier Exchange: inconsistent log data on replica). (+)
 
 * 2020-11-12
 ** Add new APIs to help users detect potential upgrade/downgrade scenarios in advance. (P)
-** [$XENON-4605 ($NEON Supplier Exchange: reviewed the thread dump and confirmed it's a duplicate). (D)
+** [$XENON-4605 ([$NEON Supplier Exchange: reviewed the thread dump and confirmed it's a duplicate). (D)
 ** [$xENON scrum meeting. (D)
 
 * 2020-11-13
