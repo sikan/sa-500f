@@ -2,6 +2,38 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-01-04 ~ 2021-01-08
+
+* 2021-01-04
+** WFH.
+** IDP Global Survey 2020. (+)
+** [$XENON-4613 (mentions of cluster in the manuals on the support site). (+)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+
+* 2021-01-05
+** WFH.
+** [$XENON-4613 (mentions of cluster in the manuals on the support site). (D)
+** Discuss with Wouter the new option for skipping the downgrade check. (+)
+
+* 2021-01-06
+** WFH.
+** Implement mechanism to enable users to force a downgrade. (D)
+** Fix a CLI bug which prevents force-recovery from functioning. (+)
+
+* 2021-01-07
+** WFH.
+** Fix regressions caused a new assert. (+)
+** [$xENON scrum meeting. (D)
+** Fix a deadlock detected on Jenkins (related to the logic of updating 'xdbversion' in bootstrap file). (+)
+** Discuss with Bruno the default java version for 10.7 in the future. (+)
+
+* 2021-01-08
+** WFH.
+** Answer Martin's questions regarding the 'wait' option in stop-server command. (+)
+** Look into an issue with the new downgrade behavior reported by Wouter. (+)
+** Open a ticket with UBMT to update the administrator of the confluence wiki space. (+)
+
 -------- 2020-12-28 ~ 2020-12-31
 
 * 2020-12-28
