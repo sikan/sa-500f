@@ -2,6 +2,37 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-01-11 ~ 2021-01-15
+
+* 2021-01-11
+** WFH.
+** Create another ticket for the Confluence administrator issue via self-service. (+)
+** Continue the discussion with Bruno about the default java version for 10.7 in the future. (+)
+** Test the exact scenario which Wouter claimed showed some unexpected behavior. (+)
+** 1-on-1 with Bruno (last day of service). (+)
+** [$xENON scrum meeting. (D)
+** Send the official resignation letter to Bruno. (+)
+
+* 2021-01-12
+** WFH.
+** Send out my own leaving-[$OTTER email. (D)
+** Start to work on that 'stuff' wiki page. (P)
+
+* 2021-01-13
+** WFH.
+** Work on that 'stuff' wiki page. (P)
+** Fix upgrade test issues in Main caused by the drop of obfuscation in 10.5. (D)
+** [$XENON-4611 (discussed the standby node with Bruno and Val). (+)
+
+* 2021-01-14
+** Off.
+
+* 2021-01-15
+** WFH.
+** Provide the reason for leaving in Talent Central. (+)
+** [$XENON-4613 (removed more cluster related stuff from manual and made things less confusing). (+)
+** Work on that 'stuff' wiki page. (P)
+
 -------- 2021-01-04 ~ 2021-01-08
 
 * 2021-01-04
@@ -32,7 +63,7 @@
 ** WFH.
 ** Answer Martin's questions regarding the 'wait' option in stop-server command. (+)
 ** Look into an issue with the new downgrade behavior reported by Wouter. (+)
-** Open a ticket with UBMT to update the administrator of the confluence wiki space. (+)
+** Open a ticket with UBMT to update the administrator of the Confluence wiki space. (+)
 
 -------- 2020-12-28 ~ 2020-12-31
 
