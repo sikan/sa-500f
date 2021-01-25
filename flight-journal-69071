@@ -2,6 +2,35 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-01-18 ~ 2021-01-22
+
+* 2021-01-18
+** WFH.
+** [$XENON-4609 (backported the inconsistent jar file name detector and fixed violations). (D)
+** Meeting with Bruno and Val on hiring. (D)
+** [$xENON scrum meeting. (D)
+** JIRA cleanup. (P)
+
+* 2021-01-19
+** WFH.
+** [$VAULT2-14421 (Tieto: replica hanging issue probably caused that LrLockPage bug). (+)
+** [$XENON-4597 (two deadlocks probably both caused by crashed threads). (D)
+** JIRA cleanup. (P)
+
+* 2021-01-20
+** WFH.
+** Work on that 'stuff' wiki page. (P)
+** [$XENON-4616 (State Archives: specific [$STARLING queries running slow). (+)
+
+* 2021-01-21
+** Work on that 'stuff' wiki page. (P)
+** Get rid of legacy false alarms in merge check report. (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-01-22
+** WFH.
+** Get rid of legacy false alarms in merge check report. (+)
+
 -------- 2021-01-11 ~ 2021-01-15
 
 * 2021-01-11
