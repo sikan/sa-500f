@@ -2,6 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-01-25 ~ 2021-01-29
+
+* 2021-01-25
+** [$VAULT2-14515 (discussed with Elmar the new APIs to support version check, downgrade, etc.). (+)
+** Get rid of legacy false alarms in merge check report. (D)
+** Create [$XENON-4616 (another deadlock found in concurrent MPI test on Jenkins). (+)
+** [$xENON scrum meeting. (D)
+
+* 2021-01-26
+** WFH.
+** [$XENON-4602 (more discussions on managing upgrade/downgrade within [$VAULT2; proposed solutions for version probe, but deemed too "advanced/smart/elaborate": elephant/mosquito, Saint Bernard/Chihuahua). (P)
+** Work on that 'stuff' wiki page. (D)
+** [$XENON-4616 (needed to obtain the heap dump to inspect locks). (P)
+
+* 2021-01-27
+** [$XENON-4602 (explained the exact moments when the version attribute gets updated during recovery and start-up). (P)
+** Update SAP time sheet for one last time. (D)
+** [$XENON-4616 (identified circular waits; posted findings and YourKit screenshots on JIRA; stopped there and left to the new member). (P)
+** Open 2 HR tickets (employment certificate, waiver on non-compatition). (+)
+** Quick meeting with Val to discuss [$STARLING issues and workflow. (+)
+
+* 2021-01-28
+** WFH.
+** Discuss with Wendy the details of the employment certificate and the waiver on non-compatition. (D)
+** Assign open JIRA issues to Val. (+)
+** [$xENON scrum meeting (the very last [$xENON meeting, bye guys, don't make me weep). (D)
+
 -------- 2021-01-18 ~ 2021-01-22
 
 * 2021-01-18
@@ -20,7 +47,7 @@
 * 2021-01-20
 ** WFH.
 ** Work on that 'stuff' wiki page. (P)
-** [$XENON-4616 (State Archives: specific [$STARLING queries running slow). (+)
+** [$XENON-4614 (State Archives: specific [$STARLING queries running slow). (+)
 
 * 2021-01-21
 ** Work on that 'stuff' wiki page. (P)
@@ -29,7 +56,7 @@
 
 * 2021-01-22
 ** WFH.
-** Get rid of legacy false alarms in merge check report. (+)
+** Get rid of legacy false alarms in merge check report. (P)
 
 -------- 2021-01-11 ~ 2021-01-15
 
