@@ -2,14 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-04-12 ~ 2021-04-16
+
+* 2021-04-12
+** tP.
+** Sign the labor contract. (D)
+** Report the Perforce password issue. (+)
+** [$XENON-4616 (code review). (P)
+** [$VAULT2-15355 (potential memory issue?). (+)
+** [$xENON scrum meeting. (D)
+** Activate YourKit and deactivate the old copy. (+)
+
+* 2021-04-13
+** REC.
+** Confirm with Kimi on the "Technical" configuration. (+)
+** [$XENON-4616 (code review). (P)
+** [$VAULT2-15355 (added misleading comments; refreshed memory on shared page cache thanks to Elmar's clarification). (P)
+
 -------- 2021-04-06 ~ 2021-04-09
 
 * 2021-04-06
 ** Re-entry.
+** tP.
 ** Set up hardware (for which deep cleaning is also needed) and software. (P)
 ** Apply for access to JIRA and Perforce. (+)
 
 * 2021-04-07
+** tP.
 ** Provide Bruno and Champaka with justification for a "Technical" configuration laptop and desktop version Outlook. (+)
 ** Apply for 2FA mobile token. (D)
 ** Apply for lab account. (D)
@@ -17,6 +36,17 @@
 ** Re-add my email as a recipient of p4check notifications. (+)
 ** Set up eclipse. (D)
 ** Build [$xENON branches (Java 11?). (D)
+
+* 2021-04-08
+** REC.
+** [$XENON-4616 (picked up from where I left off). (+)
+** [$xENON scrum meeting. (+)
+** 1-on-1 with Champaka. (D)
+
+* 2021-04-09
+** REC.
+** Replace Oracle JDK 11.0.10 with OpenJDK 11.0.10. (+)
+** [$XENON-4616 (released pages still locked). (P)
 
 -------- 2021-01-25 ~ 2021-01-29
 
