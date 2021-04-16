@@ -16,8 +16,27 @@
 * 2021-04-13
 ** REC.
 ** Confirm with Kimi on the "Technical" configuration. (+)
-** [$XENON-4616 (code review). (P)
+** [$XENON-4616 (code review; heap dump inspection; segment extent being released and re-allocated at the same time?). (P)
 ** [$VAULT2-15355 (added misleading comments; refreshed memory on shared page cache thanks to Elmar's clarification). (P)
+
+* 2021-04-14
+** REC.
+** SOP training courses (00344). (+)
+** [$XENON-4616 (ran OQL in Memory Analyzer; added debug code to allocate/release logic). (P)
+** Expose an internal parse method for Carla. (+)
+
+* 2021-04-15
+** REC.
+** [$XENON-4630 (Healthcare: reviewed the migration plan from IPF 2.0/10.5 to IPF 3.5/11.1). (+)
+** Enhance the 'print-version' Ant target and backport it to old branches. (+)
+** Investigate the failures of 11.0 -> 11.1 upgrade tests (probably caused by the absence of JAXB as a result of the switch to Java 11). (+)
+** [$xENON scrum meeting. (D)
+
+* 2021-04-16
+** REC.
+** Fix issues with JAXB in 11.1 (versions, maven dependencies, etc.). (+)
+** Fix 11.0 -> 11.1 upgrade tests (switched back to Java 8 when building legacy jars). (D)
+** Open another ticket for lab account. (+)
 
 -------- 2021-04-06 ~ 2021-04-09
 
