@@ -2,6 +2,44 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-04-19 ~ 2021-04-23
+
+* 2021-04-19
+** tP.
+** Create [$XENON-4631 and [$XENON-4632 to keep track of two build stability issues. (+)
+** Set up hardware (a 'new' P52 this time) and software. (P)
+** [$xENON scrum meeting. (D)
+** Create an ELSS ticket for lab account. (+)
+** Apply for E3 license. (+)
+
+* 2021-04-20
+** REC.
+** Create an HR ticket for issues with 'Time Off' access. (+)
+** Inform Champaka of the Perforce paths for CSI and xTest. (+)
+** Try FancyZones and a few other window manager utilities. (D)
+** Discuss a .wal file piling up issue with Martin. (+)
+** Create [$XENON-4633 (enable CSI to dump basic log record info even without system-db). (+)
+** Fix a duplicate file names issue found in 16.3 and 16.5 (root cause quite complicated; Perforce server runs on a case-sensitive file system). (+)
+** Create another ticket for an activation issue with E3 license. (+)
+
+* 2021-04-21
+** REC.
+** Analyze .wal files with CSI and continue the discussion about the .wal file piling up issue. (P)
+** Michael Cybala's all-hands. (D)
+** Fix uprgade tests in 11.1 branch by switching to the appropriate version of JDK when setting up the legacy database with Ant. (D)
+** Investigate an issue where the forked Ant sub-process hangs during the local run of upgrade tests. (+)
+
+* 2021-04-22
+** REC.
+** Create a UBMT ticket as the Perforce LDAP authentication fails (couldn't work most of the day due to this). (+)
+** Follow up with the E3 license activation issue (moved to second level support). (+)
+** [$xENON scrum meeting. (D)
+** Create [$XENON-4633 (local run of upgrade tests hangs). (+)
+
+* 2021-04-23
+** REC.
+** Fix more issues with upgrade tests (in 16.3 and Main branches) caused our switch to JDK 11 (in 11.1 branch). (D)
+
 -------- 2021-04-12 ~ 2021-04-16
 
 * 2021-04-12
@@ -36,7 +74,7 @@
 ** REC.
 ** Fix issues with JAXB in 11.1 (versions, maven dependencies, etc.). (+)
 ** Fix 11.0 -> 11.1 upgrade tests (switched back to Java 8 when building legacy jars). (D)
-** Open another ticket for lab account. (+)
+** Create a UBMT ticket for lab account. (+)
 
 -------- 2021-04-06 ~ 2021-04-09
 
