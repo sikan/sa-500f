@@ -2,6 +2,46 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-04-25 ~ 2021-04-30
+
+* 2021-04-25
+** REC.
+** Set up new Jenkins configurations for upgrade tests from legacy branches to 11.1. (D)
+
+* 2021-04-26
+** REC.
+** Fix an issue with the downgrade logic which causes the warning to display only once. (+)
+** Follow up on the E3 license activation issue (provided more screenshots as suggested by Kimi). (P)
+** [$xENON scrum meeting. (D)
+** Catch up with Val. (+)
+** Create [$XENON-4635 (two more hanging conurrent MPI tests; collected heap dumps; installed YourKit, again). (+)
+
+* 2021-04-27
+** Off.
+
+* 2021-04-28
+** REC.
+** Install Office and import the PST archive (just the beginning of what would turn out to be a struggle). (+)
+** [$XENON-4635 (heap dump analysis; created a debug branch). (P)
+** Attempt to fix P52 as all input devices fail (evetually including the on-screen soft keyboard) expect the wired mouse. (+)
+
+* 2021-04-29
+** REC/tP.
+** Continue the fruitless effort to fix P52. (P)
+** Reimage P52 (and redo all the setup). (+)
+** Send a status update to the team. (+)
+** Create a ticket for an SAP timesheet issue. (+)
+** See you, Sherry.
+
+* 2021-04-30
+** REC.
+** Struggle with the 'paragraph marks' which refuse to go away in Outlook (finally created a ticket which wouldn't help). (+)
+** Complete SAP timesheet for April. (+)
+** Quick call with Michael Jiang about a backup issue ([$XENON-4637). (+)
+** Compile a list of build machines used by [$xENON as requested the build team. (+)
+** Sat: [$XENON-4608 (reviewed and closed the issue about Sentinel's false alerts on Avalon's text files). (D)
+** Sat: [$XENON-4637 (action items for Micheal). (P)
+
 -------- 2021-04-19 ~ 2021-04-23
 
 * 2021-04-19
@@ -17,14 +57,14 @@
 ** Create an HR ticket for issues with 'Time Off' access. (+)
 ** Inform Champaka of the Perforce paths for CSI and xTest. (+)
 ** Try FancyZones and a few other window manager utilities. (D)
-** Discuss a .wal file piling up issue with Martin. (+)
+** Discuss a .wal file piling up issue with Martin (NiSource). (+)
 ** Create [$XENON-4633 (enable CSI to dump basic log record info even without system-db). (+)
 ** Fix a duplicate file names issue found in 16.3 and 16.5 (root cause quite complicated; Perforce server runs on a case-sensitive file system). (+)
 ** Create another ticket for an activation issue with E3 license. (+)
 
 * 2021-04-21
 ** REC.
-** Analyze .wal files with CSI and continue the discussion about the .wal file piling up issue. (P)
+** Analyze .wal files with CSI and continue the discussion about the .wal file piling up issue (NiSource). (P)
 ** Michael Cybala's all-hands. (D)
 ** Fix uprgade tests in 11.1 branch by switching to the appropriate version of JDK when setting up the legacy database with Ant. (D)
 ** Investigate an issue where the forked Ant sub-process hangs during the local run of upgrade tests. (+)
@@ -32,7 +72,7 @@
 * 2021-04-22
 ** REC.
 ** Create a UBMT ticket as the Perforce LDAP authentication fails (couldn't work most of the day due to this). (+)
-** Follow up with the E3 license activation issue (moved to second level support). (+)
+** Follow up on the E3 license activation issue (moved to second level support). (+)
 ** [$xENON scrum meeting. (D)
 ** Create [$XENON-4633 (local run of upgrade tests hangs). (+)
 
