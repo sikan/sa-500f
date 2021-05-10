@@ -2,6 +2,37 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-05-10 ~ 2021-05-14
+
+* 2021-05-10
+** REC.
+** [$XENON-4637 (suspicion confirmed: robocopy turned out to be configured to skip files based on size and last modified time; proposed improvement on our side). (P)
+** Propose updates to project files as we migrate to OpenJDK 11. (+)
+** Send a status update to the team. (+)
+** Create [$XENON-4641 (deadlock found in conurrent MPI tests again; this time caused by 'shrinkSegmentsLock'). (+)
+
+-------- 2021-05-06 ~ 2021-05-08
+
+* 2021-05-06
+** REC.
+** Explain to Christina (IT) the procedure to turn off paragraph marks (while Outlook still remains buggy). (+)
+** [$XENON-4635 ([$NEON Supplier Exchange: reviewed logs from an outage; [$xENON seemed innocent). (+)
+** [$XENON-4637 (checkpoint file definitely out of sync; discussed with Val about the access mode used for checkpoint.wal). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-05-07
+** REC.
+** [$XENON-4637 (sync-up call with Michael). (P)
+** Create a cloned 11.1 branch dedicated to debugging purpose and set up a Jenkins debug pipeline to repeat a single test. (+)
+** 1-on-1 with Champaka. (D)
+
+* 2021-05-08
+** REC.
+** Fix a database naming issue with the build file when 'create-database' and 'run-unit-test' are used together with '-Dname'. (+)
+** Sun: Merge the above to downstream branches. (D)
+** Sun: [$XENON-4637 (remind the support to check their exact file copy procedure). (P)
+** Sun: Parameterize the new Jenkins debug pipeline so that we no longer need to hard code the test class, etc. (D)
+
 -------- 2021-04-25 ~ 2021-04-30
 
 * 2021-04-25
@@ -40,7 +71,7 @@
 ** Quick call with Michael Jiang about a backup issue ([$XENON-4637). (+)
 ** Compile a list of build machines used by [$xENON as requested the build team. (+)
 ** Sat: [$XENON-4608 (reviewed and closed the issue about Sentinel's false alerts on Avalon's text files). (D)
-** Sat: [$XENON-4637 (action items for Micheal). (P)
+** Sat: [$XENON-4637 (action items for Michael). (P)
 
 -------- 2021-04-19 ~ 2021-04-23
 
