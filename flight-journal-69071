@@ -2,6 +2,39 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-05-17 ~ 2021-05-21
+
+* 2021-05-17
+** REC.
+** Further tweak the pipelines for debug builds (still constrained by disk space). (P)
+** [$XENON-4642 ('-wait' -> '-nowait'?). (P)
+** 1-on-1 with Bruno. (D)
+** [$xENON scrum meeting. (D)
+
+* 2021-05-18
+** tP.
+** [$XENON-4642 (started to implement a parameterized replication test for the master shutdown scenarios). (P)
+** Assist Simon in restoring (recreating, actually) all the Jenkins configurations for [$xENON. (+)
+
+* 2021-05-19
+** REC.
+** Recreate the essential build configurations for 11.1. (D)
+** [$XENON-4642 (parameterized replication test for the master shutdown scenarios). (P)
+
+* 2021-05-20
+** REC.
+** Jenkins configuration and maintenance. (P)
+** [$XENON-4642 (parameterized replication test for the master shutdown scenarios). (P)
+** [$xENON scrum meeting. (D)
+** Check with [$STARLING team regarding our potential switch to OpenJDK for 10.x branches. (+)
+
+* 2021-05-21
+** REC.
+** Jenkins configuration and maintenance. (P)
+** Answer questions from Rajiv (from the new [$STARLING team) on XQuery APIs. (+)
+** [$XENON-4642 (reused the new test for CLI). (P)
+** Fix an issue with LocalFederation where operations might be silently and mistakenly skipped. (+)
+
 -------- 2021-05-10 ~ 2021-05-14
 
 * 2021-05-10
@@ -10,6 +43,30 @@
 ** Propose updates to project files as we migrate to OpenJDK 11. (+)
 ** Send a status update to the team. (+)
 ** Create [$XENON-4641 (deadlock found in conurrent MPI tests again; this time caused by 'shrinkSegmentsLock'). (+)
+
+* 2021-05-11
+** REC.
+** [$XENON-4641 (corrected the initial judgement; this one still related to page allocation/release). (P)
+** Tweak the pipeline script for debug builds (local/remote, fail-fast, etc.). (P)
+
+* 2021-05-12
+** REC.
+** Quick call with Michael to discuss an network issue reported by BHP. (+)
+** Launch a local repeated run (x1000) of concurrent MPI test. (+)
+** [$XENON-4637 (fixed by forcing meta-data on suspendDiskWrites()). (D)
+
+* 2021-05-13
+** REC.
+** Make logging.level an option for test runs. (+)
+** Answer Martin's questions about missing .wal files in a restored data node. (+)
+** Create a nightly configuration for the debug branch. (+)
+** Add debug logic for page allocation and release in Lucene blob segments. (+)
+
+* 2021-05-14
+** REC.
+** Jenkins disk space issue caused by massive amount of console output by debug builds. (+)
+** Parameterize logging level for debug builds on Jenkins. (D)
+** Look into a logical issue with the '-wait' option of the 'stop-server' command. (+)
 
 -------- 2021-05-06 ~ 2021-05-08
 
