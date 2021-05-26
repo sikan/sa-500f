@@ -2,6 +2,16 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-05-24 ~ 2021-05-28
+
+* 2021-05-24
+** [$XENON-4645 (BoC HK: issues with update queries). (+)
+** Check with Val about the trigger for non-nightly builds (poll or push?). (+)
+
+* 2021-05-25
+** [$XENON-4645 (BoC HK: fixed a UX issue; reviewed the partner's test code). (D)
+** Jenkins/pipelines configuration and maintenance. (P)
+
 -------- 2021-05-17 ~ 2021-05-21
 
 * 2021-05-17
@@ -23,14 +33,14 @@
 
 * 2021-05-20
 ** REC.
-** Jenkins configuration and maintenance. (P)
+** Jenkins/pipelines configuration and maintenance. (P)
 ** [$XENON-4642 (parameterized replication test for the master shutdown scenarios). (P)
 ** [$xENON scrum meeting. (D)
 ** Check with [$STARLING team regarding our potential switch to OpenJDK for 10.x branches. (+)
 
 * 2021-05-21
 ** REC.
-** Jenkins configuration and maintenance. (P)
+** Jenkins/pipelines configuration and maintenance. (P)
 ** Answer questions from Rajiv (from the new [$STARLING team) on XQuery APIs. (+)
 ** [$XENON-4642 (reused the new test for CLI). (P)
 ** Fix an issue with LocalFederation where operations might be silently and mistakenly skipped. (+)
