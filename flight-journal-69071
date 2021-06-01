@@ -2,14 +2,44 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-05-31 ~ 2021-06-04
+
+* 2021-05-31
+** REC.
+** [$XENON-4642 (implemented the new '--nowait' option; split the test class into an API test and a CLI test). (D)
+** [$xENON scrum meeting. (D)
+** Configure new triggers and schedules for active branches on Jenkins (weekly build + daily scm poll for the most part, except 11.1). (D)
+** Back up Jenkins job configurations in Perforce. (+)
+
 -------- 2021-05-24 ~ 2021-05-28
 
 * 2021-05-24
+** REC.
 ** [$XENON-4645 (BoC HK: issues with update queries). (+)
 ** Check with Val about the trigger for non-nightly builds (poll or push?). (+)
 
 * 2021-05-25
+** REC.
 ** [$XENON-4645 (BoC HK: fixed a UX issue; reviewed the partner's test code). (D)
+** Jenkins/pipelines configuration and maintenance. (P)
+
+* 2021-05-26
+** REC.
+** Investigate an issue with Java version string in the installer utility (the form $YEAR.$MONTH no longer used?). (+)
+** Create new pipelines for 10.x nightly builds. (P)
+
+* 2021-05-27
+** REC.
+** Create new pipelines for 10.x nightly builds. (P)
+** Create another HR ticket for issues with vacation days. (+)
+** [$xENON scrum meeting. (D)
+** Check with Michael for details of BoC HK. (+)
+
+* 2021-05-28
+** REC.
+** Create new pipelines for 10.x nightly builds. (P)
+** [$XENON-4642 (reused the new test setup for CLI command test; completely wrong behavior with '--wait'). (P)
+** Fix an issue with publishing build artifacts in 11.x pipelines. (+)
 ** Jenkins/pipelines configuration and maintenance. (P)
 
 -------- 2021-05-17 ~ 2021-05-21
