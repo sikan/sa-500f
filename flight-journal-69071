@@ -11,6 +11,30 @@
 ** Configure new triggers and schedules for active branches on Jenkins (weekly build + daily scm poll for the most part, except 11.1). (D)
 ** Back up Jenkins job configurations in Perforce. (+)
 
+* 2021-06-01
+** tP.
+** Explain to Wouter the error from replica found in his test of the new '--nowait' option. (+)
+** Re-set the debug build and make it run continuously. (D)
+** Read XQuery spec. (+)
+
+* 2021-06-02
+** REC.
+** Read XQuery spec. (P)
+** Look into a thread dump shared by Pavan from [$STARLING team (states: IN_VM, IN_NATIVE, idle threads marked as BLOCKED, etc.). (+)
+
+* 2021-06-03
+** REC.
+** Answer Pavan's question regarding [$STARLING and [$xENON version compatibilities. (+)
+** Muhi's all-hands. (D)
+** Look into an issue where long running backups may cause lock table to expand like crazy (Cargill). (+)
+** [$xENON scrum meeting. (D)
+
+* 2021-06-04
+** REC.
+** Answer Pavan's question regarding compatible JDK versions. (+)
+** Rework the lock table cleanup policy and make it based on oldest snapshot LSN instead of oldest undo LSN. (D)
+** Quick call with Val about the above. (+)
+
 -------- 2021-05-24 ~ 2021-05-28
 
 * 2021-05-24
