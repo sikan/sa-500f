@@ -2,6 +2,48 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-06-15 ~ 2021-06-18
+
+* 2021-06-15
+** REC.
+** Create pipelines for nightly builds of legacy branches. (+)
+** Re-enable debug runs of ConcurrentMPITest on Jenkins with 'ECO' mode logging configurations (detected locked released pages; assertion errors in merge logic). (D)
+** Create [$XENON-4649 (the fix for Cargill may cause a deadlock with transaction suspension). (+)
+** Discuss with Champaka the connection/protocol errors found in recent [$VAULT2 builds (same as what Mark encountered last week). (+)
+** Quick call with Champaka and Val about the above. (+)
+
+-------- 2021-06-07 ~ 2021-06-11
+
+* 2021-06-07
+** REC.
+** Complete mandatory training courses. (D)
+** Fix an issue caused by an abstract test class (Test -> TestCase). (+)
+** Investigate the deadlock found in ConcurrentMPITest (reproduced by Jenkins debug build). (P)
+** [$xENON scrum meeting. (D)
+** Quick call with Mark and Val about the fix and a new connection/protocol error. (+)
+** Investigate a new deadlock found in AttachFilesTest. (+)
+
+* 2021-06-08
+** tP.
+** Investigate a new deadlock found in AttachFilesTest (regression caused by the fix for Cargill; fixed by skipping termination check when accessing transaction table on lock table GC). (D)
+
+* 2021-06-09
+** REC.
+** Quick call with Val about his deterministic test for my fix. (+)
+** Backport the fix for Cargill to 10.7. (D)
+** Investigate intermittent failures of the new master shutdown test (the replication master not fully initialized before the main test logic). (D)
+** Investigate the deadlock found in ConcurrentMPITest (had to extract stdout from a ByteArrayOutputStream in the heap dump). (P)
+
+* 2021-06-10
+** REC.
+** Investigate the deadlock found in ConcurrentMPITest. (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-06-11
+** REC.
+** [$XENON-4648 (Tieto: replicateFully() timeout probably caused by control connection waiting too long for backup/restore connection; shelved a quick fix). (+)
+** Investigate the deadlock found in ConcurrentMPITest (added new 'ECO' mode logging configurations to save disk space on Jenkins master). (P)
+
 -------- 2021-05-31 ~ 2021-06-04
 
 * 2021-05-31
