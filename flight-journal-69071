@@ -12,6 +12,25 @@
 ** Discuss with Champaka the connection/protocol errors found in recent [$VAULT2 builds (same as what Mark encountered last week). (+)
 ** Quick call with Champaka and Val about the above. (+)
 
+* 2021-06-16
+** REC.
+** Help Michael answer the question from BoC HK regarding the behavior of background merge when a library is set to read-only. (+)
+** [$XENON-4649 (eliminated the hold-and-wait condition caused by transaction suspension). (P)
+** Tag the latest 10.7 revision used by [$STARLING as required by Champaka. (D)
+** Explain to Yan See Ng the current status of the team as BoC's decision to renew their service contract (or not) seems to hinge on this. (+)
+** Contacted by Yanjuan as Founder/BoC (without knowing my current employment) are considering 'Plan B'. (+)
+
+* 2021-06-17
+** REC.
+** [$XENON-4649 (another potential deadlock condition caused by system checkpoint in the presence of XA transactions; reworked the fix for Cargill and eliminated the need to synchronize on transaction table). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-06-18
+** REC.
+** Re-enable the assert to detect other potential deadlocks involving 'tableLock'. (+)
+** Adjust the Jenkins triggers for OOS builds. (+)
+** [$XENON-4649 (re-enabled the assert to detect other potential deadlocks involving 'tableLock'; GC algorithm on replica). (P)
+
 -------- 2021-06-07 ~ 2021-06-11
 
 * 2021-06-07
