@@ -2,6 +2,14 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-06-21 ~ 2021-06-25
+
+* 2021-06-21
+** REC.
+** [$XENON-4649 (simply no need to detect snapshot transaction write conflicts on replica). (P)
+** [$xENON scrum meeting. (D)
+** Investigate the deadlock found in ConcurrentMPITest (reproduced on Jenkins again with detailed locking info). (P)
+
 -------- 2021-06-15 ~ 2021-06-18
 
 * 2021-06-15
