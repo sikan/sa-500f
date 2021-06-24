@@ -10,6 +10,19 @@
 ** [$xENON scrum meeting. (D)
 ** Investigate the deadlock found in ConcurrentMPITest (reproduced on Jenkins again with detailed locking info). (P)
 
+* 2021-06-22
+** REC.
+** [$VAULT2-15589 (Tieto: replication updater blocking itself, probably caused by the LrLockPage bug fixed in 11.1.16). (+)
+** Investigate the deadlock found in ConcurrentMPITest (almost certain a page may get released twice; set up more debug builds to accelerate reproduction). (P)
+** Discuss current open issues and version mappings between [$VAULT2 and [$xENON with Champaka. (+)
+
+* 2021-06-23
+** REC.
+** Create [$XENON-4650 (another MPI deadlock which didn't involve page allocation). (+)
+** Create [$XENON-4651 (violation of 2PL?? what the heck is going on?). (+)
+** Investigate the deadlock found in ConcurrentMPITest (two new JIRA cases above, etc.). (P)
+** [$XENON-4649 (marked as resolved and explained the fix). (P)
+
 -------- 2021-06-15 ~ 2021-06-18
 
 * 2021-06-15
