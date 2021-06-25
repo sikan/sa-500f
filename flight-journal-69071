@@ -23,6 +23,18 @@
 ** Investigate the deadlock found in ConcurrentMPITest (two new JIRA cases above, etc.). (P)
 ** [$XENON-4649 (marked as resolved and explained the fix). (P)
 
+* 2021-06-24
+** REC.
+** Investigate the deadlock found in ConcurrentMPITest (culprit perhaps not in low-level code). (P)
+** [$xENON scrum meeting. (D)
+** [$VAULT2-15589 (Tieto: support needed instructions on how/when to trigger a thread dump on that replica). (P)
+
+* 2021-06-25
+** REC.
+** Investigate the deadlock found in ConcurrentMPITest (more detailed logging for clean-index tasks). (P)
+** [$XENON-4648 (Tieto: attempted to reproduce the timeout by idling in the protocol body of backup connection #1). (P)
+** Create [$XENON-4652 (null page id found on Jenkins during a clean-index task). (+)
+
 -------- 2021-06-15 ~ 2021-06-18
 
 * 2021-06-15
