@@ -2,6 +2,16 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-06-28 ~ 2021-07-02
+
+* 2021-06-28
+** REC.
+** [$VAULT2-15589 (Tieto: checked the thread dump which confirmed our earlier conclusion). (D)
+** [$XENON-4648 (Tieto: error seemed unrelated to backup connection #1). (P)
+** [$XENON-4653 ([$NEON: an outage earlier this month; network too slow to download log files). (P)
+** Investigate the deadlock found in ConcurrentMPITest (two transactions in the same critical section? started to review LMPI code). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2021-06-21 ~ 2021-06-25
 
 * 2021-06-21
