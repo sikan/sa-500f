@@ -12,6 +12,23 @@
 ** Investigate the deadlock found in ConcurrentMPITest (two transactions in the same critical section? started to review LMPI code). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2021-06-29
+** REC.
+** [$XENON-4653 ([$NEON: the same receiver type error found in [$XENON-4601). (P)
+** Investigate the deadlock found in ConcurrentMPITest (what we saw was just impossible...). (P)
+
+* 2021-06-30
+** REC.
+** Investigate the deadlock found in ConcurrentMPITest ('running' flag on task rather than index level; implemented the fix). (P)
+
+* 2021-07-01
+** Off.
+
+* 2021-07-02
+** REC.
+** Investigate the deadlock found in ConcurrentMPITest (set up Jenkins debug nodes to verify the fix during the weekend and beyond). (P)
+** [$XENON-4653 ([$NEON: mat analysis: some read-only transactions accessed ~500,000 pages each). (P)
+
 -------- 2021-06-21 ~ 2021-06-25
 
 * 2021-06-21
