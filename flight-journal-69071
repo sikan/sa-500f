@@ -2,6 +2,38 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-07-05 ~ 2021-07-09
+
+* 2021-07-05
+** REC.
+** Help Michael help a customer reset superuser password. (+)
+** [$xENON scrum meeting. (D)
+** Update changes.dita for the fix for MPI (8 debug builds been running flawless). (D)
+** Investigate issues with the internal file pool reported by Naga and [$VAULT2 PERF team (suggested increasing maxOpen). (+)
+
+* 2021-07-06
+** REC.
+** Investigate performance and concurrency issues with the internal file pool (expensive I/O calls in synchronized blocks, etc.). (P)
+** 'New Hire' survey. (+)
+** [$VAULT2-15589 (Tieto: segment shrinking via serialization/deserialization). (+)
+
+* 2021-07-07
+** REC.
+** Investigate performance and concurrency issues with the internal file pool (tested suspected race conditions; heap dump analysis; Xavier's questions; fixes and improvements). (P)
+
+* 2021-07-08
+** REC.
+** [$XENON-4653 ([$NEON: request for a new license key). (+)
+** Investigate performance and concurrency issues with the internal file pool (fixes and improvements; more discussions with Naga). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-07-09
+** REC.
+** [$XENON-4653 ([$NEON: replaced their old license key which was shared by [$VAULT2). (D)
+** Create pipelines for nightly builds of legacy branches. (P)
+** Investigate performance and concurrency issues with the internal file pool (robustness of waitForOpenLRU(); fixed open/close calls issues with read file handles). (P)
+** [$VAULT2-16120 (CREDITO EMILIANO S.P.A.: INDEX_KEY_TOO_LARGE caused by the '2 keys and 3 pointers' internal B-tree page constraint; tested the FULL_TEXT option as a workaround). (+)
+
 -------- 2021-06-28 ~ 2021-07-02
 
 * 2021-06-28
