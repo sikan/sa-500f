@@ -2,6 +2,55 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-07-19 ~ 2021-07-23
+
+* 2021-07-19
+** REC.
+** [$XENON-4648 (Tieto: Wouter's question regarding BootstrapSM). (P)
+4661 (files not from same point)
+** [$XENON-4661 (BoC Shandong: shared files not from the same point in time). (P)
+** [$XENON-4662 (BoC Neimenggu: mixed types of log records during upgrade; server not cleanly shut down). (P)
+
+* 2021-07-20
+** REC.
+** [$XENON-4662 (BoC Neimenggu: modified CSI to dump mixed log record types; invalid page ids found on queue length initialization??). (P)
+
+-------- 2021-07-12 ~ 2021-07-16
+
+* 2021-07-12
+** REC.
+** Review Naga's JProfiler snapshots. (+)
+** [$xENON scrum meeting. (D)
+** Explain to Wouter the new detach/attach APIs. (+)
+** Summarize our analysis and understanding of the performance issue reported by Naga. (+)
+
+* 2021-07-13
+** REC.
+** More discussions with Naga (as they shifted the suspicion to storage performance). (+)
+** [$XENON-4657 ([$NEON: LOCK_NOT_GRANTED caused by NO_WAIT). (+)
+** JIRA cleanup. (+)
+
+* 2021-07-14
+** REC.
+** Quick meeting with Michael on 3 Bank of China upgrade failures. (+)
+** Jenkins/pipelines configuration and maintenance (legacy branches). (P)
+** Investigate performance and concurrency issues with the internal file pool (optimizations for write file handles). (D)
+
+* 2021-07-15
+** REC.
+** SOP training course (00387). (D)
+** Discuss next steps with Naga (backport?). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4660 (BoC Shenzhen: upgrade failure). (P)
+** [$XENON-4661 (BoC Shandong: indirect addressing error after the upgrade). (P)
+** [$XENON-4662 (BoC Neimenggu: upgrade failure). (P)
+
+* 2021-07-16
+** REC.
+** Jenkins/pipelines configuration and maintenance (legacy branches). (P)
+** Discuss next steps with Xavier and Champaka (latest jar for PERF instead of backporting the optimizations to 11.1.27). (+)
+** 1-on-1 with Champaka. (D)
+
 -------- 2021-07-05 ~ 2021-07-09
 
 * 2021-07-05
