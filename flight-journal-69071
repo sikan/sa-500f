@@ -7,13 +7,27 @@
 * 2021-07-19
 ** REC.
 ** [$XENON-4648 (Tieto: Wouter's question regarding BootstrapSM). (P)
-4661 (files not from same point)
 ** [$XENON-4661 (BoC Shandong: shared files not from the same point in time). (P)
 ** [$XENON-4662 (BoC Neimenggu: mixed types of log records during upgrade; server not cleanly shut down). (P)
 
 * 2021-07-20
 ** REC.
 ** [$XENON-4662 (BoC Neimenggu: modified CSI to dump mixed log record types; invalid page ids found on queue length initialization??). (P)
+
+* 2021-07-21
+** REC.
+** Take the Pulse survey. (D)
+** [$XENON-4662 (BoC Neimenggu: a few question marks). (P)
+
+* 2021-07-22
+** REC.
+** [$XENON-4651 (added code to detect violations of 2PL). (P)
+** [$XENON-4662 (BoC Neimenggu: server logs do not agree with what they claim they did; multiple upgrade attempts). (P)
+** SOP training course (00479). (D)
+
+* 2021-07-23
+** REC.
+** [$XENON-4661 (BoC Shandong: a new OBJECT_DEAD error thrown from the internal structures for non-concurrent libraries). (P)
 
 -------- 2021-07-12 ~ 2021-07-16
 
