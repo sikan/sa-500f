@@ -2,6 +2,18 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-07-26 ~ 2021-07-30
+
+* 2021-07-26
+** REC.
+** [$XENON-4662 (BoC Neimenggu: obtained a 90GB zip file of two 68GB segments). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-07-27
+** REC.
+** [$XENON-4662 (BoC Neimenggu: ALLOC_STACK page found with QUEUE magic, QUEUE page found with BLOCK_TREE_LEAF magic). (P)
+** Improve consistency check code for segment internal administration structures. (+)
+
 -------- 2021-07-19 ~ 2021-07-23
 
 * 2021-07-19
@@ -9,6 +21,7 @@
 ** [$XENON-4648 (Tieto: Wouter's question regarding BootstrapSM). (P)
 ** [$XENON-4661 (BoC Shandong: shared files not from the same point in time). (P)
 ** [$XENON-4662 (BoC Neimenggu: mixed types of log records during upgrade; server not cleanly shut down). (P)
+** [$xENON scrum meeting. (D)
 
 * 2021-07-20
 ** REC.
