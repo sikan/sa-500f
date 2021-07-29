@@ -14,6 +14,12 @@
 ** [$XENON-4662 (BoC Neimenggu: ALLOC_STACK page found with QUEUE magic, QUEUE page found with BLOCK_TREE_LEAF magic). (P)
 ** Improve consistency check code for segment internal administration structures. (+)
 
+* 2021-07-28
+** REC.
+** Fix a long-standing typo in an internal method name. (+)
+** [$XENON-4662 (BoC Neimenggu: wrote small programs to inspect and fix the administration structures). (P)
+** Create [$XENON-4668 for the corruption of the administration structures found in the case above.  (+)
+
 -------- 2021-07-19 ~ 2021-07-23
 
 * 2021-07-19
