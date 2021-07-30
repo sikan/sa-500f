@@ -20,6 +20,13 @@
 ** [$XENON-4662 (BoC Neimenggu: wrote small programs to inspect and fix the administration structures). (P)
 ** Create [$XENON-4668 for the corruption of the administration structures found in the case above.  (+)
 
+* 2021-07-29
+** REC.
+** [$XENON-4665 (ING: explained user locks to Wouter). (+)
+** [$XENON-4662 (BoC Neimenggu: uploaded fixed data file and new jars; provided detailed instructions). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4668 (inspection of the internal structures of the pages with incorrect magic number). (P)
+
 -------- 2021-07-19 ~ 2021-07-23
 
 * 2021-07-19
