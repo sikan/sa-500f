@@ -11,6 +11,17 @@
 ** [$XENON-4668 (head-scratching). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2021-08-03
+** REC.
+** Quick call with Michael. (+)
+** [$XENON-4668 (head-scratching; lost/unflushed log records?). (P)
+
+* 2021-08-04
+** REC.
+** [$XENON-4661 (BoC Shandong: BoC tampered with data; repairability depending on parent library properties). (P)
+** [$XENON-4668 (what happened with [$XENON-4662 and [$XENON-4670?). (P)
+** Michael Cybala's all-hands. (D)
+
 -------- 2021-07-26 ~ 2021-07-30
 
 * 2021-07-26
@@ -20,6 +31,7 @@
 
 * 2021-07-27
 ** REC.
+** Quick call with Michael. (+)
 ** [$XENON-4662 (BoC Neimenggu: ALLOC_STACK page found with QUEUE magic, QUEUE page found with BLOCK_TREE_LEAF magic). (P)
 ** Improve consistency check code for segment internal administration structures. (+)
 
