@@ -22,6 +22,21 @@
 ** [$XENON-4668 (what happened with [$XENON-4662 and [$XENON-4670?). (P)
 ** Michael Cybala's all-hands. (D)
 
+* 2021-08-05
+** REC.
+** [$XENON-4661 (BoC Shandong: parent library non-detachable with missing child). (P)
+** [$XENON-4670 (BoC Heilongjiang: fixed the administration structures). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4665 (ING: .wal files piling up; replication okay; long running read-write transactions; disappeared locks in session dump?). (+)
+
+* 2021-08-05
+** REC.
+** Write about the issues with lock info in session info dump (found during the investigation of [$XENON-4665). (+)
+** Detect if a transaction has started to release locks on session info dump. (+)
+** [$XENON-4670 (BoC Heilongjiang: uploaded fixed data file; instructions and questions). (P)
+** [$XENON-4660 (BoC Shenzhen: still the corruption of the administration structures). (P)
+** [$XENON-4665 (ING: next step for Sahana). (P)
+
 -------- 2021-07-26 ~ 2021-07-30
 
 * 2021-07-26
