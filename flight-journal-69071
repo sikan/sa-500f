@@ -13,6 +13,17 @@
 ** Quick session with Val to go through his test code for my fix for snapshot isolation. (+)
 ** [$XENON-4662 (BoC Neimenggu: perplexing java version issue with the new jar, caused by local maven cache). (P)
 
+* 2021-08-10
+** REC.
+** Ask Michael to check BoC's stance on the adopting Java 11. (+)
+** [$XENON-4671 (Mylan: df reported sufficient disk space; running out of inodes? zombie processes holding deleted files?). (P)
+** [$XENON-4662 (BoC Neimenggu: another corrupted file). (P)
+** Update changes.dita for the improvement for session info dump. (D)
+** [$XENON-4653 ([$NEON: GC errors; still unidentified heartbeat messages). (+)
+** Quick call with Mark about a query hanging issue. (+)
+** Create [$XENON-4672 for the jar building issue caused by local Maven cache.  (+)
+** [$XENON-4665 (ING: that 'unknown receiver type' issue). (P)
+
 -------- 2021-08-02 ~ 2021-08-06
 
 * 2021-08-02
