@@ -19,10 +19,23 @@
 ** [$XENON-4671 (Mylan: df reported sufficient disk space; running out of inodes? zombie processes holding deleted files?). (P)
 ** [$XENON-4662 (BoC Neimenggu: another corrupted file). (P)
 ** Update changes.dita for the improvement for session info dump. (D)
-** [$XENON-4653 ([$NEON: GC errors; still unidentified heartbeat messages). (+)
+** [$XENON-4653 ([$NEON: OOM; still unidentified heartbeat messages). (+)
 ** Quick call with Mark about a query hanging issue. (+)
 ** Create [$XENON-4672 for the jar building issue caused by local Maven cache.  (+)
 ** [$XENON-4665 (ING: that 'unknown receiver type' issue). (P)
+
+* 2021-08-11
+** REC.
+** [$XENON-4653 ([$NEON: heap dump analysis; master and replica in the same JVM?). (P)
+
+* 2021-08-12
+** REC.
+** [$XENON-4671 (Mylan: plenty of inodes available). (P)
+** [$XENON-4653 ([$NEON: ~800,000 PageImpls and ~25 million Pages). (P)
+** Quick call with Val to check his audio setup. (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4662 (BoC Neimenggu: 32 corrupted files detected by the consistency checker; still some question marks; next steps?). (P)
+** [$XENON-4670 (BoC Heilongjiang: more corrupted files surfaced after the first fixed one, just like [$XENON-4662). (P)
 
 -------- 2021-08-02 ~ 2021-08-06
 
