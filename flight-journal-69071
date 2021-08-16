@@ -37,6 +37,13 @@
 ** [$XENON-4662 (BoC Neimenggu: 32 corrupted files detected by the consistency checker; still some question marks; next steps?). (P)
 ** [$XENON-4670 (BoC Heilongjiang: more corrupted files surfaced after the first fixed one, just like [$XENON-4662). (P)
 
+* 2021-08-13
+** REC.
+** [$XENON-4653 ([$NEON: Karen proposed to simply restart the broker on new deployment due to the lack of knowledge on [$NEON). (P)
+** [$XENON-4662 (BoC Neimenggu: issues with the flush behavior of the consistency checker; created and tested new code snippets for them). (P)
+** [$XENON-4676 (whether to revert Big ID?). (+)
+** [$XENON-4677 (inconsistent flush behaviors with the consistency checker). (+)
+
 -------- 2021-08-02 ~ 2021-08-06
 
 * 2021-08-02
