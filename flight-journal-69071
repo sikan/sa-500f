@@ -18,6 +18,20 @@
 ** Push Michael to get a firm response on the Java version issue from BoC. (+)
 ** [$XENON-4670 (BoC Heilongjiang: instructed them to force-detach the missing segment in the pre-upgrade environment). (P)
 
+* 2021-08-18
+** REC.
+** 1-on-1 with Bruno (team extension). (+)
+** [$XENON-4665 (ING: provided instructions to help find out the root cause of 'unknown receiver type'). (P)
+** [$XENON-4670 (BoC Heilongjiang: instructions and caveats, which they probably won't listen). (P)
+** Think about the design of force-detach from a non-concurrent parent. (P)
+
+* 2021-08-19
+** REC.
+** [$XENON-4679 ([$NEON: a migration issue, but described in their own terminology). (+)
+** [$xENON scrum meeting. (D)
+** Think about the design of force-detach from a non-concurrent parent. (P)
+** Verify Val's tests in 11.1 and notify Mark. (+)
+
 -------- 2021-08-09 ~ 2021-08-13
 
 * 2021-08-09
