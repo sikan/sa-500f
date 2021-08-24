@@ -2,6 +2,16 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-08-23 ~ 2021-08-27
+
+* 2021-08-23
+** REC.
+** Create [$XENON-4680 (to stabilize legacy builds). (+)
+** Create [$XENON-4681 (deadlock involving segment cleaner and write latch on superblock found in 11.1 build). (+)
+** JIRA cleanup. (+)
+** [$xENON scrum meeting. (D)
+** Force-detach from a non-concurrent parent. (P)
+
 -------- 2021-08-16 ~ 2021-08-20
 
 * 2021-08-16
@@ -31,6 +41,11 @@
 ** [$xENON scrum meeting. (D)
 ** Think about the design of force-detach from a non-concurrent parent. (P)
 ** Verify Val's tests in 11.1 and notify Mark. (+)
+
+* 2021-08-20
+** REC.
+** Move archived [$EEL emails to [$OTTER inbox. (+)
+** Force-detach from a non-concurrent parent. (P)
 
 -------- 2021-08-09 ~ 2021-08-13
 
