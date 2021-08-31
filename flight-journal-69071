@@ -12,6 +12,30 @@
 ** [$xENON scrum meeting. (D)
 ** Force-detach from a non-concurrent parent. (P)
 
+* 2021-08-24
+** REC.
+** [$XENON-4683 ([$NEON: a complex 4-way join XQuery). (+)
+
+* 2021-08-25
+** REC.
+** [$XENON-4683 ([$NEON: recommendations on index definitions). (P)
+** Force-detach from a non-concurrent parent. (P)
+** Explain to Ananda [$xENON versions used in [$STARLING. (+)
+
+* 2021-08-26
+** REC.
+** [$XENON-4670 (BoC Heilongjiang: explained the harmless start-up time reconstruction of temporary segments). (P)
+** Force-detach from a non-concurrent parent. (P)
+** [$xENON scrum meeting. (D)
+** Discuss with Michael a feature request raised by Thai Military Bank (TMBThanachart Bank). (+)
+
+* 2021-08-27
+** REC.
+** [$XENON-4661 (BoC Shandong: needed to check indexes on root-library). (P)
+** [$XENON-4665 (ING: further explained why 'unknown receiver type' was most likely caused by some unrelated program). (P)
+** [$XENON-4660 (BoC Shenzhen: asked for MD5 as manual fix might just be more efficient). (P)
+** [$XENON-4682 ([$EEL: chunks of 0s found in .wal files; explained to Val why the second to last .wal file was most recently updated). (+)
+
 -------- 2021-08-16 ~ 2021-08-20
 
 * 2021-08-16
