@@ -2,6 +2,17 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-08-30 ~ 2021-09-03
+
+* 2021-08-30
+** Off.
+
+* 2021-08-31
+** REC.
+** [$XENON-4660 (BoC Shenzhen: suggested using force-detach to get rid of the only remaining corrupted segment as a large portion was zeroed out). (P)
+** [$XENON-4688 ([$NEON: memory issue with an XQuery; helped to rewrite). (P)
+** Force-detach from a non-concurrent parent. (P)
+
 -------- 2021-08-23 ~ 2021-08-27
 
 * 2021-08-23
