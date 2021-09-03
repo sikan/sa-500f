@@ -13,6 +13,18 @@
 ** [$XENON-4688 ([$NEON: memory issue with an XQuery; helped to rewrite). (P)
 ** Force-detach from a non-concurrent parent. (P)
 
+* 2021-09-01
+** REC.
+** Force-detach from a non-concurrent parent. (P)
+
+* 2021-09-02
+** REC.
+** [$XENON-4688 ([$NEON: the rewritten query still not good; asked for indexes and debug output). (P)
+** [$XENON-4665 (ING: suggested using Wireshark, ss, etc.). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4682 ([$EEL: shared some thoughts on whether hardware failures are necessarily detectable). (P)
+** Force-detach from a non-concurrent parent. (P)
+
 -------- 2021-08-23 ~ 2021-08-27
 
 * 2021-08-23
