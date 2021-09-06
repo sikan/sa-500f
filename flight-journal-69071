@@ -25,6 +25,12 @@
 ** [$XENON-4682 ([$EEL: shared some thoughts on whether hardware failures are necessarily detectable). (P)
 ** Force-detach from a non-concurrent parent. (P)
 
+* 2021-09-03
+** REC.
+** [$XENON-4688 ([$NEON: relevant indexes seemed to exist; asked for debug output). (P)
+** [$XENON-4689 ([$STARLING: Guava version). (+)
+** Force-detach from a non-concurrent parent. (P)
+
 -------- 2021-08-23 ~ 2021-08-27
 
 * 2021-08-23
