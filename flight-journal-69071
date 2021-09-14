@@ -2,6 +2,45 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-09-13 ~ 2021-09-17
+
+* 2021-09-13
+** REC.
+** [$XENON-4661 (BoC Shandong: uploaded the new jar; stressed the importance of creating a backup routine as well as solving reliability issues with their storage). (P)
+** [$XENON-4689 ([$STARLING: upgraded to Guava 30.1.1-jre; fixed a few code level compatibility issues). (D)
+** [$XENON-4690 (VF Services: questions regarding sizing; re-assigned to Wouter). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4665 (ING: customer insisted that the unidentified connection was from [$VAULT2; asked Champaka to involve [$VAULT2 engineering). (P)
+
+-------- 2021-09-06 ~ 2021-09-10
+
+* 2021-09-06
+** REC.
+** Force-detach from a non-concurrent parent. (P)
+** Explain to PG&E and [$STARLING team there is no way to revert to a previous state unless they restore a backup. (+)
+** [$xENON scrum meeting. (D)
+
+* 2021-09-07
+** REC.
+** Force-detach from a non-concurrent parent. (P)
+
+* 2021-09-08
+** REC.
+** Force-detach from a non-concurrent parent. (P)
+** Briefly look into a login failure issue reported by a [$VAULT2 customer through Michael (apparently not an [$xENON issue). (+)
+
+* 2021-09-09
+** REC.
+** Force-detach from a non-concurrent parent. (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4661 (BoC Shandong: gave instructions on how to proceed with enhanced force-detach). (P)
+** [$XENON-4649 (backport the fix to 10.7; one failure out of 1000 runs). (P)
+
+* 2021-09-10
+** REC.
+** Split new generated test cases (thousands of them) for enhanced force-detach into separate classes to alleviate memory pressures on Jenkins. (+)
+** [$XENON-4649 (investigated the one-time failure and concluded it was caused by one thread falling behind). (D)
+
 -------- 2021-08-30 ~ 2021-09-03
 
 * 2021-08-30
