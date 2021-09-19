@@ -2,7 +2,7 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
--------- 2021-09-13 ~ 2021-09-17
+-------- 2021-09-13 ~ 2021-09-18
 
 * 2021-09-13
 ** REC.
@@ -11,6 +11,37 @@
 ** [$XENON-4690 (VF Services: questions regarding sizing; re-assigned to Wouter). (+)
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4665 (ING: customer insisted that the unidentified connection was from [$VAULT2; asked Champaka to involve [$VAULT2 engineering). (P)
+
+* 2021-09-14
+** REC.
+** Implement tools to reset page allocation stack and free extent queue. (P)
+
+* 2021-09-15
+** REC.
+** Implement tools to reset page allocation stack and free extent queue. (P)
+** [$XENON-4661 (BoC Shandong: issues with mismatched Lucene jars; provided 'patch' files). (P)
+
+* 2021-09-16
+** REC.
+** Discuss with Val the root password issues with Jenkins machines. (+)
+** Implement tools to reset page allocation stack and free extent queue. (D)
+** [$XENON-4661 (BoC Shandong: another issue with rest-related jars). (P)
+** [$XENON-4691 (Instituto Municipal de: NPE caused by SegmentObjRef). (+)
+** SOP training course (00344). (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4677 (another behavioral inconsistency: local vs. remote). (P)
+
+* 2021-09-17
+** REC.
+** [$XENON-4690 (VF Services: added comments regarding sizing and its performance impact from [$xENON's perspective). (P)
+** [$XENON-4665 (ING: asked to check replica; willingness to use debug jar?). (P)
+** [$XENON-4661 (BoC Shandong: wrong command, wrong jar... they didn't read the instructions carefully enough). (P)
+** Create a script to automatically change the root passwords for Jenkins machines. (+)
+
+* 2021-09-18
+** REC.
+** [$STARLING team's inquiry regarding jdk8 compiled 'Spring Data [$XENON'. (+)
+** [$XENON-4690 (VF Services: some maths problems). (P)
 
 -------- 2021-09-06 ~ 2021-09-10
 
