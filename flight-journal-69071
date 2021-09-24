@@ -2,6 +2,31 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-09-22 ~ 2021-09-24
+
+* 2021-09-22
+** REC.
+** Communicate the updated root passwords for Jenkins machines to UBMT (wrote a script to change passwords for all the VMs on Monday; stored a copy of results in Perforce, just in case). (D)
+** Ask [$VAULT2 team to help with the request for a jdk8 compiled 'Spring Data [$XENON'. (+)
+** Fix a legacy issue where a latch might be released twice. (+)
+** [$XENON-4692 ([$STARLING/Volkswagen: log corruption during recovery undo phase). (+)
+** Investigate the StackOverflowError from XQTS3 (probably caused by garbage data left by force-detach?). (P)
+
+* 2021-09-23
+** REC.
+** Check whether Jenkins machines have FQDN (no). (+)
+** [$XENON-4686 (BoC Liaoning: action plan for Liaoning as well as other remaining sites). (+)
+** [$XENON-4661 (BoC Shandong: double-checked the outcome of force-detach; apparently no issues; fingers crossed). (P)
+** [$XENON-4665 (ING: created a debug jar which would print remote/local socket addresses as well as initial bytes in the socket channel on 'unknown receiver type' error). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-09-24
+** REC.
+** Check with [$STARLING team whether CCE must stay on Java 8 (after checking with Sherry). (+)
+** Check in the debug code for ING to 11.1 as it should be included anyway. (+)
+** Investigate the StackOverflowError from XQTS3 (probably caused by garbage data left by force-detach?). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: weird pattern of corruption towards the end of the last .wal file). (P)
+
 -------- 2021-09-13 ~ 2021-09-18
 
 * 2021-09-13
