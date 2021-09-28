@@ -2,6 +2,21 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-09-26 ~ 2021-09-30
+
+* 2021-09-26
+** REC.
+** [$XENON-4692 ([$STARLING/Volkswagen: previous log records overwritten/polluted by subsequent ones; most likely a bug with the buffer flusher for log records). (P)
+
+* 2021-09-27
+** REC.
+** [$XENON-4692 ([$STARLING/Volkswagen: CLRs involved). (P)
+** [$XENON-4660, [$XENON-4661 (BoC Shenzhen/Shandong: green-lighted second upgrade attempt). (P)
+** [$XENON-4662, [$XENON-4686 (BoC Neimenggu/Liaoning: corrupted size/block trees). (P)
+** [$xENON scrum meeting. (D)
+** Enhance the existing tool to reset size/block trees. (+)
+** [$XENON-4963 (Kansaneläkelaitos: an replication error; probably caused by deleted/recreated files on master). (+)
+
 -------- 2021-09-22 ~ 2021-09-24
 
 * 2021-09-22
