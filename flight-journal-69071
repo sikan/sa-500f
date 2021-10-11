@@ -2,6 +2,21 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-10-08 ~ 2021-10-09
+
+* 2021-10-08
+** REC.
+** Email backlog. (D)
+** [$XENON-4691 (Instituto Municipal de: instructed them to export bootstrap file and confirm version for a potential debug jar). (P)
+** [$XENON-4665 (ING: instructed them to monitor the outgoing traffic on the remote node identified by the debug jar). (P)
+** [$XENON-4693 (Kansaneläkelaitos: requested .wal files). (P)
+** [$XENON-4686 (BoC Liaoning: explained the failed repair operations carried out by BoC). (P)
+** [$XENON-4662 (BoC Neimenggu: requested detailed consistency check results). (P)
+
+* 2021-10-09
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (LogRythm, Sentinel One, Qualys). (+)
+
 -------- 2021-09-26 ~ 2021-09-30
 
 * 2021-09-26
@@ -15,7 +30,28 @@
 ** [$XENON-4662, [$XENON-4686 (BoC Neimenggu/Liaoning: corrupted size/block trees). (P)
 ** [$xENON scrum meeting. (D)
 ** Enhance the existing tool to reset size/block trees. (+)
-** [$XENON-4963 (Kansaneläkelaitos: an replication error; probably caused by deleted/recreated files on master). (+)
+** [$XENON-4693 (Kansaneläkelaitos: an replication error; probably caused by deleted/recreated files on master). (+)
+
+* 2021-09-28
+** REC.
+** Explain the performance optimization (which seems forgotten by everybody) for the deletion of a detachable library in 11 as well as the main differences between delete and detach. (+)
+** [$VAULT2-15589 (Tieto:explained to Wouter the differences between the old and new detach APIs). (+)
+** Enhance the existing tool to reset size/block trees. (P)
+
+* 2021-09-29
+** REC.
+** Enhance the existing tool to reset size/block trees (created a local build for BoC due to Perforce issues). (D)
+** [$XENON-4662, [$XENON-4686 (BoC Neimenggu/Liaoning: provided instructions to clear block/size trees). (P)
+** Investigate the StackOverflowError from XQTS3 (infinite loop caused by system property list?). (P)
+** Create a UBMT ticket for the Perforce issues. (+)
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; code review). (P)
+
+* 2021-09-30
+** REC.
+** Investigate the StackOverflowError from XQTS3 (added debug output for Jenkins runs). (P)
+** Quick call with Michael about a [$STARLING customer seemingly stuck in recovery. (+)
+** Add one FY2022 goal as requested by HR. (D)
+** Check in the latest changes for segment repair tool (Perforce still not fully functional though). (D)
 
 -------- 2021-09-22 ~ 2021-09-24
 
