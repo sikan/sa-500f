@@ -2,6 +2,41 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-10-11 ~ 2021-10-15
+
+* 2021-10-11
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (LogRythm). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-10-12
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (LogRythm). (P)
+** [$XENON-4662 (BoC Neimenggu: advised to re-run the repair tools based on the results). (P)
+** [$XENON-4695 (Mylan: OOM; no empty segment available to LMPI; requested heap dump). (+)
+** 1-on-1 with Champaka. (D)
+
+* 2021-10-13
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (checked a few things with Jasminder). (P)
+** [$XENON-4695 (Mylan: explained and stressed what we needed for investigation). (P)
+** Investigate the StackOverflowError from XQTS3 (reinstated debug output which caused memory issues before the holidays). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; page boundaries). (P)
+
+* 2021-10-14
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (SentinelOne). (P)
+** Investigate the StackOverflowError from XQTS3 (caused by the new system property created for each distinct bootstrap file location). (D)
+** Catch up with Jacky Ngew (started with [$XENON-4695). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4662 (BoC Neimenggu: -debug option required to chase down a seemingly harmless error during the repair). (P)
+
+* 2021-10-15
+** REC.
+** [$XENON-4691 (Instituto Municipal de: another you-asked-for-three-things-but-only-got-one situation). (P)
+** [$XENON-4696 (Societe Generale: much lower write rate on replica; but master claimed to be at 4GBps, seriously?). (+)
+** Install on all Jenkins machines the three tools required by UBMT (Qualys). (P)
+
 -------- 2021-10-08 ~ 2021-10-09
 
 * 2021-10-08
@@ -15,7 +50,7 @@
 
 * 2021-10-09
 ** REC.
-** Install on all Jenkins machines the three tools required by UBMT (LogRythm, Sentinel One, Qualys). (+)
+** Install on all Jenkins machines the three tools required by UBMT (LogRythm, SentinelOne, Qualys). (+)
 
 -------- 2021-09-26 ~ 2021-09-30
 
