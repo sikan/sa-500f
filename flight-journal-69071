@@ -2,6 +2,31 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-10-18 ~ 2021-10-22
+
+* 2021-10-18
+** REC.
+** [$XENON-4662 (BoC Neimenggu: reviewed the latest consistency reports; green-lighted another upgrade attempt). (P)
+** Install on all Jenkins machines the three tools required by UBMT (SentinelOne verified, but not LogRythm). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-10-19
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (questions for Jasminder). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; code inspection; pre-upgrade version?). (P)
+** [$XENON-4696 (Societe Generale: replica not supplied with new log records fast enough; probably an inherent design issue). (P)
+
+* 2021-10-20
+** REC.
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; made manual modifications to parse log records generated after the corruption; contacted VW to double check some details; more questions marks). (P)
+** [$XENON-4696 (Societe Generale: thought more about the explanation; logging shipping mechanism sending one .wal page at a time might just be the culprit). (P)
+
+* 2021-10-21
+** REC.
+** JIRA cleanup and prioritization. (+)
+** [$xENON scrum meeting. (D)
+** Investigate the failure of OOS tests. (+)
+
 -------- 2021-10-11 ~ 2021-10-15
 
 * 2021-10-11
