@@ -27,6 +27,12 @@
 ** [$xENON scrum meeting. (D)
 ** Investigate the failure of OOS tests. (+)
 
+* 2021-10-22
+** REC.
+** [$XENON-4696 (Societe Generale: recommended creating the replica after the bulk ingestion/migration for the time being). (P)
+** Install on all Jenkins machines the three tools required by UBMT (created a 'GIS IPC SIEM' ticket to have them accept logs). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; noticed a CSI bug with the last transaction id field). (P)
+
 -------- 2021-10-11 ~ 2021-10-15
 
 * 2021-10-11
