@@ -2,6 +2,19 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-10-25 ~ 2021-10-29
+
+* 2021-10-25
+** REC.
+** [$XENON-4698 (European Paliament: vague description of an index performance issue). (+)
+** Install on all Jenkins machines the three tools required by UBMT (log forwarding; Qualys proxy configuration). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-10-26
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT ('[$xENON Scan' node; two headless Windows VMs; caret sign in password). (P)
+** [$XENON-4698 (European Paliament: management demanded further response). (P)
+
 -------- 2021-10-18 ~ 2021-10-22
 
 * 2021-10-18
