@@ -15,12 +15,32 @@
 ** Install on all Jenkins machines the three tools required by UBMT ('[$xENON Scan' node; two headless Windows VMs; caret sign in password). (P)
 ** [$XENON-4698 (European Paliament: management demanded further response). (P)
 
+* 2021-10-27
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (unable to enable GUI on two Windows Server 2016 boxes). (P)
+** [$XENON-4698 (European Paliament: requested detailed info and a sequence of thread dumps). (P)
+** Michael Cybala's all-hands. (D)
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; more questions for VW; investigated a CSI bug with checkpoint log records). (P)
+
+* 2021-10-28
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (installed SentinelOne via PowerShell). (P)
+** [$XENON-4698 (European Paliament: page cache sizing; dedicated page cache for ACL; potential [$STARLING performance/programming issue with large hash maps). (P)
+** [$NEON-1437 (multiple sessions managed by one thread; known issues with session-info as we don't 'stop the world'). (+)
+
+* 2021-10-29
+** REC.
+** Install on all Jenkins machines the three tools required by UBMT (installed LogRhythm and Qualys via PowerShell). (D)
+** [$XENON-4698 (European Paliament: follow-up questions from support; more work for [$STARLING). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; interesting responses from VW). (P)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: created a debug jar). (P)
+
 -------- 2021-10-18 ~ 2021-10-22
 
 * 2021-10-18
 ** REC.
 ** [$XENON-4662 (BoC Neimenggu: reviewed the latest consistency reports; green-lighted another upgrade attempt). (P)
-** Install on all Jenkins machines the three tools required by UBMT (SentinelOne verified, but not LogRythm). (P)
+** Install on all Jenkins machines the three tools required by UBMT (SentinelOne verified, but not LogRhythm). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2021-10-19
@@ -50,12 +70,12 @@
 
 * 2021-10-11
 ** REC.
-** Install on all Jenkins machines the three tools required by UBMT (LogRythm). (P)
+** Install on all Jenkins machines the three tools required by UBMT (LogRhythm). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2021-10-12
 ** REC.
-** Install on all Jenkins machines the three tools required by UBMT (LogRythm). (P)
+** Install on all Jenkins machines the three tools required by UBMT (LogRhythm). (P)
 ** [$XENON-4662 (BoC Neimenggu: advised to re-run the repair tools based on the results). (P)
 ** [$XENON-4695 (Mylan: OOM; no empty segment available to LMPI; requested heap dump). (+)
 ** 1-on-1 with Champaka. (D)
@@ -77,7 +97,7 @@
 
 * 2021-10-15
 ** REC.
-** [$XENON-4691 (Instituto Municipal de: another you-asked-for-three-things-but-only-got-one situation). (P)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: another you-asked-for-three-things-but-only-got-one situation). (P)
 ** [$XENON-4696 (Societe Generale: much lower write rate on replica; but master claimed to be at 4GBps, seriously?). (+)
 ** Install on all Jenkins machines the three tools required by UBMT (Qualys). (P)
 
@@ -86,7 +106,7 @@
 * 2021-10-08
 ** REC.
 ** Email backlog. (D)
-** [$XENON-4691 (Instituto Municipal de: instructed them to export bootstrap file and confirm version for a potential debug jar). (P)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: instructed them to export bootstrap file and confirm version for a potential debug jar). (P)
 ** [$XENON-4665 (ING: instructed them to monitor the outgoing traffic on the remote node identified by the debug jar). (P)
 ** [$XENON-4693 (Kansaneläkelaitos: requested .wal files). (P)
 ** [$XENON-4686 (BoC Liaoning: explained the failed repair operations carried out by BoC). (P)
@@ -94,7 +114,7 @@
 
 * 2021-10-09
 ** REC.
-** Install on all Jenkins machines the three tools required by UBMT (LogRythm, SentinelOne, Qualys). (+)
+** Install on all Jenkins machines the three tools required by UBMT (LogRhythm, SentinelOne, Qualys). (+)
 
 -------- 2021-09-26 ~ 2021-09-30
 
@@ -181,7 +201,7 @@
 ** Discuss with Val the root password issues with Jenkins machines. (+)
 ** Implement tools to reset page allocation stack and free extent queue. (D)
 ** [$XENON-4661 (BoC Shandong: another issue with rest-related jars). (P)
-** [$XENON-4691 (Instituto Municipal de: NPE caused by SegmentObjRef). (+)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: NPE caused by SegmentObjRef). (+)
 ** SOP training course (00344). (D)
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4677 (another behavioral inconsistency: local vs. remote). (P)
