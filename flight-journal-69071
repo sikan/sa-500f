@@ -2,6 +2,39 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-11-01 ~ 2021-11-05
+
+* 2021-11-01
+** REC.
+** [$XENON-4698 (European Paliament: warm-up API for [$STARLING). (P)
+** [$XENON-4693 (Kansaneläkelaitos: started to inspect .wal files on replica). (P)
+
+* 2021-11-02
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4700 (UTI US: .wal file corruptions; confirmed Val's findings; additional remarks; room for improvements). (+)
+** [$XENON-4698 (European Paliament: helped [$STARLING team with warm-up concept and script). (P)
+
+* 2021-11-03
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** Refactor .wal file parallel task framework for more informative logging (in the wake of [$XENON-4700). (+)
+** [$XENON-4698 (European Paliament: [$STARLING team skipped the Javadoc and used the wrong API). (P)
+
+* 2021-11-04
+** REC.
+** Refactor .wal file parallel task framework for more informative logging (merge, etc.). (D)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: asked them to go ahead with the debug jar without locating the problematic index). (P)
+** Print current LSN in case of unchecked exceptions during redo/undo (in the wake of [$XENON-4700). (D)
+** [$xENON scrum meeting. (D)
+
+* 2021-11-05
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4696 (Societe Generale: suspicious 10-second interval between network activities on replica, related to non-forced LSN on master?). (P)
+** [$NEON-1437 (more explanations for Wouter about the potential outcomes of session-info caused by not 'stopping the world'). (P)
+** [$XENON-4662 (BoC Neimenggu: failed upgrade attempt; issues with the depths of size/block trees). (P)
+
 -------- 2021-10-25 ~ 2021-10-29
 
 * 2021-10-25
@@ -52,7 +85,7 @@
 * 2021-10-20
 ** REC.
 ** [$XENON-4692 ([$STARLING/Volkswagen: .wal file corruptions; made manual modifications to parse log records generated after the corruption; contacted VW to double check some details; more questions marks). (P)
-** [$XENON-4696 (Societe Generale: thought more about the explanation; logging shipping mechanism sending one .wal page at a time might just be the culprit). (P)
+** [$XENON-4696 (Societe Generale: thought more about the explanation; log shipping mechanism sending one .wal page at a time might just be the culprit). (P)
 
 * 2021-10-21
 ** REC.
@@ -134,7 +167,7 @@
 * 2021-09-28
 ** REC.
 ** Explain the performance optimization (which seems forgotten by everybody) for the deletion of a detachable library in 11 as well as the main differences between delete and detach. (+)
-** [$VAULT2-15589 (Tieto:explained to Wouter the differences between the old and new detach APIs). (+)
+** [$VAULT2-15589 (Tieto: explained to Wouter the differences between the old and new detach APIs). (+)
 ** Enhance the existing tool to reset size/block trees. (P)
 
 * 2021-09-29
