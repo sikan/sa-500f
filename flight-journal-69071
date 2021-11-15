@@ -2,6 +2,39 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-11-08 ~ 2021-11-12
+
+* 2021-11-08
+** REC.
+** [$XENON-4686 (BoC Liaoning: instructed BoC to suspend upgrade). (P)
+** [$XENON-4696 (Societe Generale: no RPC tracing for replication, but we could still enable it for queries to measure network latency). (P)
+** [$XENON-4693 (Kansaneläkelaitos: confused by the statement that they ran into the same error even after re-creating the replica). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-11-09
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4698 (European Paliament: explained to management they were chasing a red herring). (P)
+** [$XENON-4699 (EDF: counter-intuitive scoring results; explained that our plate was full, but started investigation anyway). (P)
+** Incorporate the checks for the depths of size/block trees into the consistency check for segments. (D)
+** [$XENON-4662 (BoC Neimenggu: prepared the new jar with fixed consistency checker and repair tool; provided instructions for next steps). (P)
+
+* 2021-11-10
+** Off.
+
+* 2021-11-11
+** REC.
+** Take the "Modern Work: The [$OTTER Way" training. (D)
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: renaming did the trick to unzip files; no findings from the logs; code review and .wal analysis). (P)
+
+* 2021-11-12
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4662 (BoC Neimenggu: attached the jar file as Michael seemed to have missed the last message). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal analysis). (P)
+** [$XENON-4702 (American Express: vairous issues including 'unknown receiver type' and .wal files piling up; suggested using a newer jar in the wake of [$XENON-4665). (+)
+
 -------- 2021-11-01 ~ 2021-11-05
 
 * 2021-11-01
@@ -4482,7 +4515,7 @@
 
 * 2018-06-08
 ** [$XENON-4375 (delete leftover files caused by a failed change-binding). (P)
-** [$VAULT2-7088 (read-only transactions reading accessing deleted segments). (+)
+** [$VAULT2-7088 (read-only transactions accessing deleted segments). (+)
 
 -------- 2018-05-28 ~ 2018-06-01
 
