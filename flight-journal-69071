@@ -2,6 +2,23 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-11-15 ~ 2021-11-19
+
+* 2021-11-15
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4702 (American Express: reviewed changelists between their current version and the latest). (P)
+** [$XENON-4693 (Kansaneläkelaitos: their response not answers to our questions). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal file analysis). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4662, [$XENON-4686 (BoC Neimenggu/Liaoning: reviewed lastest results with our fixes; instructed them to move forward). (P)
+
+* 2021-11-16
+** REC.
+** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal file analysis). (P)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: more instructions on how to leverage the debug jar). (P)
+** [$XENON-4702 (American Express: core logger still not enabled? asked Wouter to have a look). (P)
+
 -------- 2021-11-08 ~ 2021-11-12
 
 * 2021-11-08
@@ -26,13 +43,14 @@
 ** REC.
 ** Take the "Modern Work: The [$OTTER Way" training. (D)
 ** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
-** [$XENON-4692 ([$STARLING/Volkswagen: renaming did the trick to unzip files; no findings from the logs; code review and .wal analysis). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: renaming did the trick to unzip files; no findings from the logs; code review and .wal file analysis). (P)
+** [$xENON scrum meeting. (D)
 
 * 2021-11-12
 ** REC.
 ** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4662 (BoC Neimenggu: attached the jar file as Michael seemed to have missed the last message). (P)
-** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal analysis). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal file analysis). (P)
 ** [$XENON-4702 (American Express: vairous issues including 'unknown receiver type' and .wal files piling up; suggested using a newer jar in the wake of [$XENON-4665). (+)
 
 -------- 2021-11-01 ~ 2021-11-05
