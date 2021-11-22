@@ -19,6 +19,28 @@
 ** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: more instructions on how to leverage the debug jar). (P)
 ** [$XENON-4702 (American Express: core logger still not enabled? asked Wouter to have a look). (P)
 
+* 2021-11-17
+** REC.
+** Earthquake.
+** [$XENON-4702 (American Express: serialVersionUID issue with the new jar in Wouter's own environment; suggested establishing a standard jar replacement procedure for [$VAULT2 customers). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal file analysis; found the culprit: buffer position not always changed back on buffer flush). (P)
+
+* 2021-11-18
+** REC.
+** [$XENON-4702 (American Express: 'keep-log-files'/incremental backups prevented truncation). (P)
+** [$XENON-4692 ([$STARLING/Volkswagen: checked in the fix to all active branches; detailed technical summary of the investigation). (D)
+** Create [$XENON-4703 in the wake of [$XENON-4692 (asserts in log writes -> errors?). (+)
+** Create [$XENON-4704 (CSI: interpretation of checkpoint log record fields). (+)
+** [$xENON scrum meeting. (D)
+** [$VAULT2-17290 (Societe Generale: slow and apparently non-linear cache-in; due to related to special log records created for restored libraries?). (+)
+** Create [$STARLING-19320 in the wake of [$XENON-4692 (to urge them to upgrade). (+)
+
+* 2021-11-19
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4699 (EDF: pieces of different info don't match each other). (P)
+** [$XENON-4698 (European Paliament: [$STARLING needed explanation on the behavior of security filter, but didn't provide the full call stack). (P)
+
 -------- 2021-11-08 ~ 2021-11-12
 
 * 2021-11-08
