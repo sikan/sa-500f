@@ -2,6 +2,35 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-11-22 ~ 2021-11-26
+
+* 2021-11-22
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4686 (BoC Liaoning: upgrade failed with the same error seen at Neimenggu branch before the fix). (P)
+** [$XENON-4698 (European Paliament: manually deobfuscated the call stack provided by [$STARLING). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-11-23
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** Muhi's all-hands. (D)
+** [$XENON-4693 (Kansaneläkelaitos: requested to reiterate what we needed for the investigation). (P)
+** [$XENON-4698 (European Paliament: started to review the behavior of 'subsequence'). (P)
+
+* 2021-11-24
+** Off.
+
+* 2021-11-25
+** Sick day.
+** [$XENON-4698 (European Paliament: explained the necessity of sending all the results to the security filter; gave pointers to related topics in [$STARLING's own guide; even checked with Sherry). (P)
+
+* 2021-11-26
+** REC.
+** [$XENON-4699 (EDF: had to reiterate what we need for the investigation). (P)
+** [$XENON-4698 (European Paliament: just because the method name is applyFilterOnce() doesn't mean it should be invoked only once). (P)
+** Pick up the Lucene stuff. (P)
+
 -------- 2021-11-15 ~ 2021-11-19
 
 * 2021-11-15
