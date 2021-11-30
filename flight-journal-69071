@@ -2,6 +2,15 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-11-29 ~ 2021-12-03
+
+* 2021-11-29
+** REC.
+** [$XENON-4662 (BoC Neimenggu: upgrade failed due to NonWritableChannelException from buffer flusher; all segments in read-write state). (P)
+** [$XENON-4698 (European Paliament: subsequence() not used in compute-facets). (P)
+** [$xENON scrum meeting. (D)
+** Power off slave-19 and slave-20 (I will miss everything created by PhRx). (+)
+
 -------- 2021-11-22 ~ 2021-11-26
 
 * 2021-11-22
