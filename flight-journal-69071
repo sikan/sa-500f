@@ -10,6 +10,21 @@
 ** [$XENON-4698 (European Paliament: subsequence() not used in compute-facets). (P)
 ** [$xENON scrum meeting. (D)
 ** Power off slave-19 and slave-20 (I will miss everything created by PhRx). (+)
+** Pick up the Lucene stuff. (P)
+
+* 2021-11-30
+** REC.
+** Print detailed info of page write on unchecked exceptions (e.g., NonWritableChannelException, which was once seen at BoC). (+)
+** [$XENON-4698 (European Paliament: [$STARLING team questioned our recommendation without first doing the maths). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-01
+** REC.
+** [$XENON-4698 (European Paliament: debugged subsequence() where it appeared twice in a single XQuery; explained the behavior to [$STARLING team). (P)
+** Pick up the Lucene stuff. (P)
+** [$XENON-4699 (EDF: scoring seemed mostly affected 'fieldNorm'?). (P)
+** [$XENON-4662 (BoC Neimenggu: NonWritableChannelException confirmed a permission issue; next upgrade attempt successful; case closed). (D)
+** [$XENON-4686 (BoC Liaoning: did they really replace with the latest jar for consistency check before the upgrade?). (P)
 
 -------- 2021-11-22 ~ 2021-11-26
 
