@@ -26,6 +26,14 @@
 ** [$XENON-4662 (BoC Neimenggu: NonWritableChannelException confirmed a permission issue; next upgrade attempt successful; case closed). (D)
 ** [$XENON-4686 (BoC Liaoning: did they really replace with the latest jar for consistency check before the upgrade?). (P)
 
+* 2021-12-02
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: core logger enabled, but messages still missing; no stack traces available; use --debug for CLI by default?). (P)
+** [$XENON-4699 (EDF: asked [$STARLING team to share freshness boost customizer). (P)
+** [$XENON-4698 (European Paliament: weighed in with action items and suggestions in the support email loop). (P)
+** Pick up the Lucene stuff. (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2021-11-22 ~ 2021-11-26
 
 * 2021-11-22
