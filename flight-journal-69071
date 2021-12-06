@@ -34,6 +34,12 @@
 ** Pick up the Lucene stuff. (P)
 ** [$xENON scrum meeting. (D)
 
+* 2021-12-03
+** REC.
+** Create [$XENON-4708 (make '--debug' a default option for CLI). (+)
+** [$XENON-4698 (European Paliament: explained why [$STARLING team saw different call stacks in their own environment; they've been wasting time and not listening to us). (P)
+** Pick up the Lucene stuff. (P)
+
 -------- 2021-11-22 ~ 2021-11-26
 
 * 2021-11-22
