@@ -2,6 +2,15 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-12-06 ~ 2021-12-10
+
+* 2021-12-06
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** [$XENON-4698 (European Paliament: insisted on a [$STARLING engineering build despite the noises; added Champaka to the email loop). (P)
+** [$XENON-4709 (XML Store: expected failure with wrong client version, but hanging otherwise; requested thread dumps). (+)
+** [$xENON scrum meeting. (D)
+
 -------- 2021-11-29 ~ 2021-12-03
 
 * 2021-11-29
