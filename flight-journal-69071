@@ -11,6 +11,11 @@
 ** [$XENON-4709 (XML Store: expected failure with wrong client version, but hanging otherwise; requested thread dumps). (+)
 ** [$xENON scrum meeting. (D)
 
+* 2021-12-07
+** REC.
+** [$XENON-4709 (XML Store: client and server still on different minor versions). (P)
+** Pick up the Lucene stuff. (P)
+
 -------- 2021-11-29 ~ 2021-12-03
 
 * 2021-11-29
