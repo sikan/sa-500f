@@ -16,6 +16,23 @@
 ** [$XENON-4709 (XML Store: client and server still on different minor versions). (P)
 ** Pick up the Lucene stuff. (P)
 
+* 2021-12-08
+** REC.
+** [$XENON-4709 (XML Store: explained the design and closed the case despite their insistence on compatibility). (D)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-09
+** REC.
+** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
+** Investigate the failures of xTest-based OOS test suites. (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4698 (European Paliament: re-assigned it to [$STARLING team per Champaka's request). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-10
+** REC.
+** Investigate the failures of xTest-based OOS test suites. (P)
+
 -------- 2021-11-29 ~ 2021-12-03
 
 * 2021-11-29
