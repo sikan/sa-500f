@@ -2,6 +2,39 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-12-13 ~ 2021-12-17
+
+* 2021-12-13
+** REC.
+** Investigate the failures of xTest-based OOS test suites. (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4698 (European Paliament: explained to [$STARLING team what the next steps would be). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-14
+** REC.
+** Investigate the failures of xTest-based OOS test suites (deadlocks involving latches; heap dump not quite useful; added debug code). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-15
+** REC.
+** [$XENON-4698 (European Paliament: shared XQuery sample code with [$STARLING team). (P)
+** Investigate the failures of xTest-based OOS test suites (P4 login issue; more heap dumps; failed to set up remote debugging). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-16
+** REC.
+** Investigate the failures of xTest-based OOS test suites (debug code, take 2). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4698 (European Paliament: added brief summary of the current status on JIRA; added Champaka to the email loop, again). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-17
+** REC.
+** [$XENON-4686 (BoC Liaoning: latest upgrade successful; all BoC cases now closed). (D)
+** [$XENON-4698 (European Paliament: helped [$STARLING team with a pure[$xENON test case; expected behavior observed). (P)
+** Investigate the failures of xTest-based OOS test suites (an unreleased latch by the thread itself with no traces of possible exceptions). (P)
+
 -------- 2021-12-06 ~ 2021-12-10
 
 * 2021-12-06
