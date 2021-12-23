@@ -2,6 +2,26 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2021-12-20 ~ 2021-12-24
+
+* 2021-12-20
+** REC.
+** Look into issues with Jenkins and its VMs (a crash during the weekend; eventually turned out not 2FA related, but the main P4 server down). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4698 (European Paliament: added a quick status update as requested by Champaka). (P)
+** Double check whether Log4j is used in any of the branches since 8.2. (+)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-21
+** REC.
+** [$VAULT2-17290 (Societe Generale: revisited the issue with a backup provided by the customer as requested by Bruno and Champaka; culprit: highly inefficient free page check). (+)
+** Create [$XENON-4711 for the above. (+)
+** Pick up the Lucene stuff. (P)
+
+* 2021-12-22
+** REC.
+** [$XENON-4711 (probably written when someone was drunk; fixed the extent check; added a mechanism for administrative tasks to break out the traversal of queue or size/block tree). (P)
+
 -------- 2021-12-13 ~ 2021-12-17
 
 * 2021-12-13
