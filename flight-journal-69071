@@ -22,6 +22,15 @@
 ** REC.
 ** [$XENON-4711 (probably written when someone was drunk; fixed the extent check; added a mechanism for administrative tasks to break out the traversal of queue or size/block tree). (P)
 
+* 2021-12-23
+** REC.
+** [$XENON-4711 (started to implement a new algorithm which traverses all leaf pages only once, etc.). (P)
+** [$xENON scrum meeting. (D)
+
+* 2021-12-24
+** REC.
+** [$XENON-4711 (new algorithm completed). (P)
+
 -------- 2021-12-13 ~ 2021-12-17
 
 * 2021-12-13
