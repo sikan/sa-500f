@@ -2,6 +2,13 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-01-04 ~ 2022-01-07
+
+* 2022-01-04
+** Look into issues with 5 Jenkins slaves. (+)
+** Fiddle with what appears to the new behavior of 'undo' in P4V (check out old revision -> undo -> sync to head -> resolve; end result still the same). (+)
+** [$XENON-4711 (verified that the new algorithm would generate log records for the exact same set of pages for replication purpose as the old one would). (D)
+
 -------- 2021-12-27 ~ 2021-12-31
 
 * 2021-12-27
