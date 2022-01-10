@@ -5,9 +5,31 @@
 -------- 2022-01-04 ~ 2022-01-07
 
 * 2022-01-04
+** REC.
 ** Look into issues with 5 Jenkins slaves. (+)
 ** Fiddle with what appears to the new behavior of 'undo' in P4V (check out old revision -> undo -> sync to head -> resolve; end result still the same). (+)
-** [$XENON-4711 (verified that the new algorithm would generate log records for the exact same set of pages for replication purpose as the old one would). (D)
+** [$XENON-4711 (verified that the new algorithm would generate log records for the exact same set of pages for replication purpose as the old one would). (P)
+
+* 2022-01-05
+** REC.
+** [$XENON-4712 ([$NEON: a few API questions). (+)
+** [$XENON-4693 (Kansaneläkelaitos: customer's description rather vague; unable to access their shared files). (P)
+** [$XENON-4711 (verified the new algorithm with the backup provided by Societe Generale; fixed a minor issue caused by 0-sized extents in queue). (P)
+
+* 2022-01-06
+** REC.
+** [$XENON-4711 (backed out verification logic; ready for 11.1.31; empty extents in queue remained a mystery though). (D)
+** Investigate what could possibly result in empty extents in queue. (P)
+** [$xENON scrum meeting. (D)
+** Explain 'detachable piece' and restrictions for segment reuse. (+)
+** Pick up the Lucene stuff. (P)
+
+* 2022-01-07
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: line numbers indicated the old jar was still in use). (P)
+** Investigate what could possibly result in empty extents in queue. (P)
+** Sync the debug branch to the latest revision (for the above). (+)
+** Investigate the failures of xTest-based OOS test suites (another heap dump). (P)
 
 -------- 2021-12-27 ~ 2021-12-31
 
