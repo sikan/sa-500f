@@ -2,6 +2,36 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-01-10 ~ 2022-01-14
+
+* 2022-01-10
+** REC.
+** Investigate what could possibly result in empty extents in queue. (P)
+** Investigate the failures of xTest-based OOS test suites. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-01-11
+** Investigate what could possibly result in empty extents in queue. (P)
+** Investigate the failures of xTest-based OOS test suites. (P)
+** REC.
+
+* 2022-01-12
+** REC.
+** Investigate what could possibly result in empty extents in queue ('logical' rollback of sub-committed queue release). (D)
+** [$XENON-4713 (DSV A/S: apparent .wal file corruption on undo recovery after upgrade). (+)
+** [$XENON-4698 (European Paliament: [$STARLING came back with questions about sort order). (P)
+** [$VAULT2-17796 (a strange SSL truststore issue). (+)
+
+* 2022-01-13
+** REC.
+** [$VAULT2-17796 (a strange SSL truststore issue). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-01-14
+** REC.
+** [$VAULT2-17796 (a strange SSL truststore issue; verified what Wouter did). (P)
+** [$XENON-4715 (how to check the size of a single database). (+)
+
 -------- 2022-01-04 ~ 2022-01-07
 
 * 2022-01-04
