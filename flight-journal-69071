@@ -2,6 +2,48 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-01-24 ~ 2022-01-2
+
+* 2022-01-24
+** REC.
+** [$XENON-4718 (Flatirons: explained how to check for queue segments). (P)
+** [$xENON scrum meeting. (D)
+** Discuss with Champaka the version issues around potential ad-hoc releases for customers on legacy branches. (+)
+** Investigate the failures of xTest-based OOS test suites (potential dedalock with LMPI: unreleased latch caused by fatal error in try block, re-latch in finally). (P)
+
+-------- 2022-01-17 ~ 2022-01-21
+
+* 2022-01-17
+** REC.
+** [$XENON-4715 (provided pointers and sample code). (P)
+** Look into an XML schema validation issue encountered by Karen Alexander (not [$xENON related). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4716, [$STARLING-19067 (European Paliament: now code red, escalated to Muhi; default sort order of 'order by'; summarized current status and our efforts so far). (P)
+
+* 2022-01-18
+** REC.
+** Look into an XML schema validation issue encountered by Karen Alexander (sequence of child elements). (D)
+** Investigate the failures of xTest-based OOS test suites. (P)
+
+* 2022-01-19
+** REC.
+** Help Roginy look into a DQL issue ('count' and 'return_top' not to be used in the same query; not [$xENON related). (+)
+** Investigate the failures of xTest-based OOS test suites (fatal error first detected by LogManager; a quick-and-dirty fix). (P)
+** Michael Cybala's all-hands. (D)
+
+* 2022-01-20
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: uncertain if they really reproduced the NPE). (P)
+** Investigate the failures of xTest-based OOS test suites (some debug code seems too expensive). (P)
+** [$XENON-4713 (DSV A/S: 4 contiguous wal pages of zeros). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-01-21
+** REC.
+** [$XENON-4693 (Kansaneläkelaitos: probably related to the 'off-logging' option for multi-path indices). (P)
+** [$XENON-4718 (Flatirons: potential name base related corruptions found with the legacy version 10.2; explained the 'dummy-library' in error message). (+)
+** Investigate the failures of xTest-based OOS test suites. (P)
+
 -------- 2022-01-10 ~ 2022-01-14
 
 * 2022-01-10
