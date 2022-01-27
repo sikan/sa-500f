@@ -11,6 +11,19 @@
 ** Discuss with Champaka the version issues around potential ad-hoc releases for customers on legacy branches. (+)
 ** Investigate the failures of xTest-based OOS test suites (potential dedalock with LMPI: unreleased latch caused by fatal error in try block, re-latch in finally). (P)
 
+* 2022-01-25
+** REC.
+** Investigate the failures of xTest-based OOS test suites. (P)
+** Use awk to analyze the very large transactions found in [$XENON-4713. (+)
+** Quick postmortem call with Champaka regarding the European Parliment case. (+)
+
+* 2022-01-26
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: rebuilt the debug jar as decompilation revealed problems with local build procedure). (P)
+** [$XENON-4672 (revisited this local build problem in the wake of the above).  (P)
+** Use awk to analyze the very large transactions found in [$XENON-4713 (created [$XENON-4720). (P)
+** [$XENON-4713 (DSV A/S: id mapping error after restore, probably caused by a page with value 0 at OFFSET_PAGEID). (P)
+
 -------- 2022-01-17 ~ 2022-01-21
 
 * 2022-01-17
