@@ -2,7 +2,7 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
--------- 2022-01-24 ~ 2022-01-2
+-------- 2022-01-24 ~ 2022-01-30
 
 * 2022-01-24
 ** REC.
@@ -23,6 +23,21 @@
 ** [$XENON-4672 (revisited this local build problem in the wake of the above).  (P)
 ** Use awk to analyze the very large transactions found in [$XENON-4713 (created [$XENON-4720). (P)
 ** [$XENON-4713 (DSV A/S: id mapping error after restore, probably caused by a page with value 0 at OFFSET_PAGEID). (P)
+
+* 2022-01-27
+** REC.
+** Create [$XENON-4721 to review data node related commands and options. (+)
+** Investigate the failures of xTest-based OOS test suites (but blocked by availability issues with Munich lab). (P)
+** [$XENON-4720 (continued with the analysis of the .wal dump). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-01-28
+** REC.
+** [$XENON-4720 (continued with the analysis of the .wal dump). (P)
+
+* 2022-01-29
+** REC.
+** [$XENON-4720 (finished the analysis of the .wal dump; summarized the findings). (P)
 
 -------- 2022-01-17 ~ 2022-01-21
 
