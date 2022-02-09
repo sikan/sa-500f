@@ -2,6 +2,20 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-02-07 ~ 2022-02-11
+
+* 2022-02-07
+** REC.
+** Email backlog. (D)
+** [$XENON-4693 (Kansaneläkelaitos: needed to turn off 'off-logging'). (P)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: latest jar worked; requested related files). (P)
+** [$VAULT2-17796 (error stacks of the SSL handshake provided by Wouter). (P)
+
+* 2022-02-08
+** REC.
+** Project Pegasus survey. (+)
+** [$VAULT2-17796 (reproduced the exact error stacks in a standalone environment; identified a bug with SSL enablement). (P)
+
 -------- 2022-01-24 ~ 2022-01-30
 
 * 2022-01-24
