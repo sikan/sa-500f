@@ -10,11 +10,30 @@
 ** [$XENON-4693 (Kansaneläkelaitos: needed to turn off 'off-logging'). (P)
 ** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: latest jar worked; requested related files). (P)
 ** [$VAULT2-17796 (error stacks of the SSL handshake provided by Wouter). (P)
+** [$xENON scrum meeting. (D)
 
 * 2022-02-08
 ** REC.
 ** Project Pegasus survey. (+)
 ** [$VAULT2-17796 (reproduced the exact error stacks in a standalone environment; identified a bug with SSL enablement). (P)
+
+* 2022-02-09
+** REC.
+** Create [$XENON-4725 (the '--ssl' option not honored when used alone). (D)
+** Explain to Val what the above is really about. (+)
+** [$VAULT2-18070 (Societe Generale: an inexplicable issue probably related to leftover data found in socket streams). (+)
+** Quick call with Val regarding the above. (+)
+
+* 2022-02-10
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: instructions on how to locate segment files). (P)
+** [$XENON-4718 (Flatirons: random corruptions; feasible to turn a replica into a new master?). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-02-11
+** REC.
+** [$XENON-4713 (DSV A/S: reiterated our suspicion of storage faults). (P)
+** [$XENON-4725 (fixed the issues with SSL enablement by deprecating '--use-blocking-sockets'). (D)
 
 -------- 2022-01-24 ~ 2022-01-30
 
