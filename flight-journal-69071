@@ -2,6 +2,37 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-02-21 ~ 2022-02-25
+
+* 2022-02-21
+** REC.
+** Off.
+
+-------- 2022-02-14 ~ 2022-02-18
+
+* 2022-02-14
+** REC.
+** [$XENON-4708 (make '--debug' a default option for CLI). (D)
+** [$XENON-4721 (review data node related commands and options). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-02-15
+** REC.
+** [$XENON-4721 (review data node related commands and options). (D)
+** Implement a mechanism for CLI to generate deprecation notice. (+)
+
+* 2022-02-16
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: analyzed the data files with CSI; missing field just inexplicable). (P)
+
+* 2022-02-17
+** REC.
+** Off.
+
+* 2022-02-18
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: created another debug jar to collect more info). (P)
+
 -------- 2022-02-07 ~ 2022-02-11
 
 * 2022-02-07
