@@ -2,10 +2,56 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-02-28 ~ 2022-03-04
+
+* 2022-02-28
+** Off.
+
+* 2022-03-01
+** REC.
+** [$VAULT2-12575 (slightly confused what needs to be done from our side). (+)
+** [$XENON-4628 ([$STARLING: request to upgrade Lucene; No-Go). (+)
+** Merge changes to downstream branches. (P)
+** 1-on-1 with Champaka. (D)
+
+* 2022-03-02
+** REC.
+** Create [$XENON-4729 (known issue found in OOS tests: Lucene worker might be blocked by an unreleased latch held by itself). (+)
+** Merge changes to downstream branches. (P)
+
+* 2022-03-03
+** REC.
+** [$XENON-4730 ([$NEON: questions regarding backup/restore of a database). (+)
+** Merge changes to downstream branches. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-03-04
+** REC.
+** Continue the discussion about the support clock for 11.0 (listed the timeline for last check-in, build, P4 label, publication, etc.). (+)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: they didn't follow instructions to use the debug jar; two weeks wasted). (P)
+** [$VAULT2-12575 (explained data management basic concepts in [$xENON to Ramasubramanian Thiyagarajan). (P)
+** Quick sync-up with Champaka (about 'Grow with [$OTTER'). (+)
+** [$XENON-4731 ([$NEON: OLR seemingly hanging; presumably caused by the same issue already fixed for [$XENON-4711). (+)
+
 -------- 2022-02-21 ~ 2022-02-25
 
 * 2022-02-21
+** Off.
+
+* 2022-02-22
 ** REC.
+** Merge changes to downstream branches. (+)
+
+* 2022-02-23
+** REC.
+** Merge changes to downstream branches. (P)
+
+* 2022-02-24
+** REC.
+** Merge changes to downstream branches. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-02-25
 ** Off.
 
 -------- 2022-02-14 ~ 2022-02-18
@@ -26,7 +72,6 @@
 ** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: analyzed the data files with CSI; missing field just inexplicable). (P)
 
 * 2022-02-17
-** REC.
 ** Off.
 
 * 2022-02-18
