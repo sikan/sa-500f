@@ -2,6 +2,37 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-03-07 ~ 2022-03-11
+
+* 2022-03-07
+** REC.
+** [$xENON scrum meeting. (D)
+** Write a formal email proposal to retire 11.0. (+)
+
+* 2022-03-08
+** REC.
+** Merge changes to downstream branches. (P)
+** Fix a failing CLI test (root cause: help messages may break into two lines). (D)
+
+* 2022-03-09
+** REC.
+** Take the Pulse survey. (+)
+** Respond to Michael Cybala's urgent request to help Supplier Exchange to 'BOSHify' [$xENON. (+)
+** [$XENON-4731 ([$NEON: Ashwin attemped to validate the fix, but without setting up a replica). (P)
+** Quick call with Bruno to discuss the situation with Supplier Exchange. (+)
+** Quick call with Champaka to discuss the same subject. (+)
+** Fix HP FindBugs issues found in 10.x (two trivial (un)boxing issues and one logical error in the unregistration of replica). (D)
+
+* 2022-03-10
+** REC.
+** [$XENON-4713 (DSV A/S: reiterated next steps, almost lost the context though). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-03-11
+** REC.
+** [$XENON-4732 ([$NEON: requested to help them 'BOSHify' [$xENON; discussed with Champaka). (+)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: that's still the wrong jar). (P)
+
 -------- 2022-02-28 ~ 2022-03-04
 
 * 2022-02-28
