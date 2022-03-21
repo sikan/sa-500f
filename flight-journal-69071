@@ -1,6 +1,39 @@
+BVEPP
+
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-------- 2022-03-14 ~ 2022-03-18
+
+* 2022-03-14
+** REC.
+** Investigate the failures of xTest-based OOS test suites (set up an OOS run against the debug branch). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-03-15
+** REC.
+** Instruct [$NEON team how to restore the problematic library without any replica and then recreate a new one. (+)
+** Investigate the failures of xTest-based OOS test suites (the revision that used to work flawlessly now hanging). (P)
+** Fix a regex issue that caused the generated version of a debug branch to default to 'main'. (+)
+
+* 2022-03-16
+** REC.
+** More questions from [$NEON team regarding Adoptium OpenJDK and the potential performance impact of recreating a replica. (+)
+** Investigate the failures of xTest-based OOS test suites (increased the timeout for the debug branch). (P)
+
+* 2022-03-17
+** REC.
+** Investigate the failures of xTest-based OOS test suites (turned out just slow instead of hanging). (P)
+** [$XENON-4729 (wake up all the sessions blocking on a latch before closing LMPIs upon server termination). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-03-18
+** REC.
+** Investigate the failures of xTest-based OOS test suites (it did finish in 7+ hours). (P)
+** [$XENON-4720 (Elmar shed some light on things as this could be related to [$VAULT2-18583). (P)
+** [$XENON-4713 (DSV A/S: confirmed the potential issues with deleting an LMPI with corrupted pages). (P)
+** [$VAULT2-18583 (DSV A/S: session dumps seemed too large). (+)
 
 -------- 2022-03-07 ~ 2022-03-11
 
@@ -32,6 +65,7 @@
 ** REC.
 ** [$XENON-4732 ([$NEON: requested to help them 'BOSHify' [$xENON; discussed with Champaka). (+)
 ** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: that's still the wrong jar). (P)
+** Investigate the failures of xTest-based OOS test suites (needed to inspect the code of early 2021). (P)
 
 -------- 2022-02-28 ~ 2022-03-04
 
