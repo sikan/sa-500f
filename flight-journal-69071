@@ -1,6 +1,15 @@
 BVEPP
-
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
+
+-------- 2022-03-21 ~ 2022-03-25
+
+* 2022-03-21
+** REC.
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: 5 LMPIs not properly initialized, but safe to remove; still inexplicable). (P)
+** Fix an xTest issue with property expansion. (D)
+** Create [$XENON-4734 (delete an LMPI without accessing its segments). (+)
+** Create [$XENON-4734 (include external index name on index list export). (+)
+** [$VAULT2-18583 (DSV A/S: nothing suspicious found in the thread dumps). (P)
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
