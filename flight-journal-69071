@@ -1,6 +1,8 @@
 BVEPP
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 -------- 2022-03-21 ~ 2022-03-25
 
 * 2022-03-21
@@ -11,7 +13,12 @@ BVEPP
 ** Create [$XENON-4734 (include external index name on index list export). (+)
 ** [$VAULT2-18583 (DSV A/S: nothing suspicious found in the thread dumps). (P)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* 2022-03-22
+** REC.
+** Discuss the necessity of 11.1.32. (+)
+** [$XENON-4736 (Informatica Alto Adige spa: query performance issue involving date range; asked for index definitions). (+)
+** Investigate the failures of xTest-based OOS test suites (still timed out after 12 hours). (P)
+** [$VAULT2-18583 (DSV A/S: mysterious 16-byte keys). (P)
 
 -------- 2022-03-14 ~ 2022-03-18
 
