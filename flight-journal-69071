@@ -20,6 +20,26 @@ BVEPP
 ** Investigate the failures of xTest-based OOS test suites (still timed out after 12 hours). (P)
 ** [$VAULT2-18583 (DSV A/S: mysterious 16-byte keys). (P)
 
+* 2022-03-23
+** REC.
+** Explain to [$NEON team restore must take place before the recreation of the replica if they stick with 11.1.19. (+)
+** [$VAULT2-18583 (DSV A/S: various issues/question marks with the implementation of index-in-construction; session dump analysis; code review). (P)
+** [$XENON-4731 ([$NEON: re-opened due to the restore failure in PROD). (P)
+
+* 2022-03-24
+** REC.
+** [$XENON-4731 ([$NEON: creation of log records triggered by incremental backups rather than replica; detailed analysis and action plan). (D)
+** [$VAULT2-18583 (DSV A/S: various issues/question marks with the implementation of index-in-construction; session dump analysis; code review). (P)
+** [$VAULT2-18638 (Allianz Technology SE: indirect addressing error; probably caused by data page corruption). (+)
+** [$xENON scrum meeting. (D)
+** Night-time meeting with James, Ashwin and Wouter to reset the backup LSN in checkpoint file and make restore succeed in reasonable time ([$XENON-4731). (+)
+** Check with Bruno about the link to [$OTTER's current JDK policy ([$NEON was pushing for a one-off [$xENON patch based on Java 8). (+)
+
+* 2022-03-25
+** REC.
+** Clarify some technical details regarding [$XENON-4731 with Wouter. (+)
+** [$VAULT2-18583 (DSV A/S: various issues/question marks with the implementation of index-in-construction; session dump analysis; code review). (P)
+
 -------- 2022-03-14 ~ 2022-03-18
 
 * 2022-03-14
