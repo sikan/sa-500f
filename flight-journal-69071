@@ -3,6 +3,21 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-03-28 ~ 2022-04-01
+
+* 2022-03-28
+** REC.
+** [$xENON scrum meeting. (D)
+** Clarify just a bit more technical details regarding [$XENON-4731 with Wouter. (+)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: SEGMENT_ID_UNKOWN after the removal of uninitialized LMPI segments). (P)
+** [$VAULT2-18583 (DSV A/S: all packed node ids in the backlog turned out valid). (P)
+** Pick up the Lucene stuff. (P)
+
+* 2022-03-29
+** REC.
+** Quick call with Michael about new issues reported by BoC. (+)
+** [$VAULT2-18583 (DSV A/S: code review of the implementation of index-in-construction). (P)
+
 -------- 2022-03-21 ~ 2022-03-25
 
 * 2022-03-21
