@@ -18,6 +18,23 @@ BVEPP
 ** Quick call with Michael about new issues reported by BoC. (+)
 ** [$VAULT2-18583 (DSV A/S: code review of the implementation of index-in-construction). (P)
 
+* 2022-03-30
+** REC.
+** [$XENON-4738 (BoC: references to a detached library; system-db conformed detached state). (+)
+** [$VAULT2-18583 (DSV A/S: code review of the implementation of index-in-construction). (P)
+
+* 2022-03-31
+** REC.
+** [$XENON-4738 (BoC: environment gone, further investigation made impossible). (D)
+** [$XENON-4738 (BoC: request to support other export formats, e.g., csv, xlsx, etc.; no). (+)
+** [$XENON-4736 (Informatica Alto Adige spa: query was slow only for the first time; caching definitely kicked in). (P)
+** [$VAULT2-18583 (DSV A/S: code review of the implementation of index-in-construction). (P)
+** [$xENON scrum meeting. (D)
+** Quick call with Val to discuss the locking behavior of index-in-construction. (+)
+
+* 2022-04-01
+** Off ('a day of reflection, rest and rejuvenation').
+
 -------- 2022-03-21 ~ 2022-03-25
 
 * 2022-03-21
