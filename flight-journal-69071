@@ -3,6 +3,21 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-04-06 ~ 2022-04-08
+
+* 2022-04-06
+** REC.
+** [$XENON-4713 (DSV A/S: requested the stack trace of the new ArrayIndexOutOfBoundsException and the .wal files, if needed). (P)
+** [$XENON-4736 (Informatica Alto Adige spa: downloaded the whole database). (P)
+
+* 2022-04-07
+** REC.
+** [$XENON-4743 (Spring upgrades). (+)
+** [$XENON-4713 (DSV A/S: needed to check againt storage system requirements for write-ahead logging). (P)
+** [$XENON-4736 (Informatica Alto Adige spa: they seemed to have got the operator precedence wrong). (P)
+** [$xENON scrum meeting. (D)
+** Continue the code review of index-in-construction. (P)
+
 -------- 2022-03-28 ~ 2022-04-01
 
 * 2022-03-28
