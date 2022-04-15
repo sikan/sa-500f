@@ -3,6 +3,32 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-04-11 ~ 2022-04-15
+
+* 2022-04-11
+** REC.
+** [$XENON-4713 (DSV A/S: found no errors or exceptions whatsoever in the new logs; stressed again potential issues with their storage). (P)
+** Continue the code review of index-in-construction. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-04-12
+** REC.
+** [$XENON-4744 ([$STARLING/BHP Billiton: slow snapshot construction of sub-path field cache, caused accumulated unmerged index entries). (+)
+** Discuss the KT plan for new members.
+** Create [[[$xENON Jumpstart]]. (+)
+
+* 2022-04-13
+** REC.
+** [$XENON-4744 ([$STARLING/BHP Billiton: suggestions to get final merge running). (P)
+** Continue the code review of index-in-construction. (P)
+** [[[$xENON Jumpstart]]. (P)
+
+* 2022-04-14
+** REC.
+** [$XENON-4744 ([$STARLING/BHP Billiton: [$STARLING insisted on tweaking certain buffer size instead). (P)
+** KT session for IN team. (D)
+** [$xENON scrum meeting. (D)
+
 -------- 2022-04-06 ~ 2022-04-08
 
 * 2022-04-06
@@ -16,6 +42,10 @@ BVEPP
 ** [$XENON-4713 (DSV A/S: needed to check againt storage system requirements for write-ahead logging). (P)
 ** [$XENON-4736 (Informatica Alto Adige spa: they seemed to have got the operator precedence wrong). (P)
 ** [$xENON scrum meeting. (D)
+** Continue the code review of index-in-construction. (P)
+
+* 2022-04-08
+** REC.
 ** Continue the code review of index-in-construction. (P)
 
 -------- 2022-03-28 ~ 2022-04-01
