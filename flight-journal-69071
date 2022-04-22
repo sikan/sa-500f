@@ -3,6 +3,36 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-04-18 ~ 2022-04-22
+
+* 2022-04-18
+** REC.
+** [$XENON-4713 (DSV A/S: another support asked about the document of storage system requirements). (P)
+** Add new test scenarios for index-in-construction (direct modification of underlying index on REMOVE events). (P)
+
+* 2022-04-19
+** REC.
+** [$XENON-4748 ([$STARLING/Linklaters: disk space issues, LOCK_NOT_GRANTED, long running queries which eventually timed out). (+)
+** Continue the code review of index-in-construction implementation and the testing logic as well. (P)
+
+* 2022-04-20
+** REC.
+** [$XENON-4748 ([$STARLING/Linklaters: too much noise caused by issues already resolved and nonissues; must focus on timed-out queries). (P)
+** Meeting with support and [$STARLING engineers regarding the above. (+)
+** Add new test scenarios for index-in-construction (reuse of object ids). (P)
+
+* 2022-04-21
+** REC.
+** KT session for IN team. (D)
+** [$xENON scrum meeting. (D)
+** Team meeting (announcement regarding MvR). (+)
+** Add new test scenarios for index-in-construction (reuse of object ids). (P)
+
+* 2022-04-22
+** REC.
+** [$XENON-4713 (DSV A/S: requested to reiterate the rationale behind our suspicion of storage issues). (P)
+** Add new test scenarios for index-in-construction (reuse of object ids) and verify related IIC logic. (P)
+
 -------- 2022-04-11 ~ 2022-04-15
 
 * 2022-04-11
