@@ -3,6 +3,22 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-04-24 ~ 2022-04-29
+
+* 2022-04-24
+** REC.
+** Add new test scenarios for index-in-construction (reuse of object ids). (D)
+** [$xENON scrum meeting. (D)
+
+* 2022-04-25
+** REC.
+** Fix an issue with resetting allocation size internally upon the initialization of LMPI (which caused the failures of new LMPI IIC tests). (+)
+** [$XENON-4696 (Societe Generale: backend exception in Wouter's environment: client driver not properly closed). (P)
+
+* 2022-04-26
+** REC.
+** Optimize the performance of index-in-construction. (P)
+
 -------- 2022-04-18 ~ 2022-04-22
 
 * 2022-04-18
@@ -31,6 +47,7 @@ BVEPP
 * 2022-04-22
 ** REC.
 ** [$XENON-4713 (DSV A/S: requested to reiterate the rationale behind our suspicion of storage issues). (P)
+** [$XENON-4696 (Societe Generale: Wouter reported a backlog issue; suggested turning on debug mode). (P)
 ** Add new test scenarios for index-in-construction (reuse of object ids) and verify related IIC logic. (P)
 
 -------- 2022-04-11 ~ 2022-04-15
