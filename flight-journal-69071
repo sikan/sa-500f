@@ -3,6 +3,24 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-05-05 ~ 2022-05-07
+
+* 2022-05-05
+** REC.
+** [$XENON-4718 (Flatirons: one broken reference detected by consistency check; suggested to check library properties in admin client). (P)
+** [$XENON-4751 (Allianz Technology SE: [$xENON reading .wal files for recovery, but what's the real issue here? .wal files piling up?). (+)
+** [$xENON scrum meeting. (D)
+
+* 2022-05-06
+** REC.
+** [$XENON-4718 (Flatirons: CLI commands to check library properties). (P)
+** [$XENON-4751 (Allianz Technology SE: Wouter found keep-log-files to be true). (P)
+** Optimize the performance of index-in-construction. (P)
+
+* 2022-05-07
+** REC.
+** Optimize the performance of index-in-construction. (P)
+
 -------- 2022-04-24 ~ 2022-04-29
 
 * 2022-04-24
