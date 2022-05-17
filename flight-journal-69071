@@ -3,6 +3,42 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-05-16 ~ 2022-05-20
+
+* 2022-05-16
+** REC.
+** Verify the behavior with respect to OBJECT_DEAD and page locking for owner and non-owner objects. (D)
+** [$xENON scrum meeting. (D)
+** Optimize the performance of index-in-construction (code review, comments, changes.dita, check-in). (P)
+
+-------- 2022-05-09 ~ 2022-05-13
+
+* 2022-05-09
+** REC.
+** Optimize the performance of index-in-construction. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-05-10
+** REC.
+** Optimize the performance of index-in-construction. (P)
+
+* 2022-05-11
+** REC.
+** Optimize the performance of index-in-construction. (P)
+** Write an email to Val explaining the necessity of locking the entire index-in-construction while updating backlog (concurrent deletion prevention). (+)
+
+* 2022-05-12
+** REC.
+** [$xENON scrum meeting. (D)
+** Discuss with Val the scenario where consumption of nodesToIndex and REMOVE events happen concurrently. (+)
+** Verify the behavior of index-in-construction in the above scenario (without concurrent deletion prevention mechanisms in both the old and new implementations). (+)
+
+* 2022-05-13
+** REC.
+** [$XENON-4718 (Flatirons: another corruption in the namebase of an ancestor library). (P)
+** Complete mandatory compliance training courses (722, 743, 737, 739, 741). (D)
+** SOP training course (00344). (D)
+
 -------- 2022-05-05 ~ 2022-05-07
 
 * 2022-05-05
