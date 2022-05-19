@@ -11,6 +11,19 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Optimize the performance of index-in-construction (code review, comments, changes.dita, check-in). (P)
 
+* 2022-05-17
+** REC.
+** [$XENON-4752 ([$NEON: turned out to be a stupid programming mistake on their side). (+)
+** [$XENON-4718 (Flatirons: rebuild the b-tree using the namebase mappings stored in the red-black tree? communicated the fix plan and potential uncertainties). (P)
+** Investigate the hanging 11.1 nightly on Jenkins. (+)
+
+* 2022-05-18
+** REC.
+** [$XENON-4752 ([$NEON: happy with Wouter's fix, they blissfully ignored the request to look into the potential error masked by that programming mistake). (P)
+** Investigate the hanging 11.1 nightly on Jenkins (semaphore not released by a thread which inexplicably disappeared). (D)
+** Investigate what seems to be an intermittent maven repository issue with the OOS test suite (possibly related to '+' in specified version numbers). (+)
+** Attempt to set up the performance regression test suite (Alexandria is gone and considered obsolete; that's news to me). (P)
+
 -------- 2022-05-09 ~ 2022-05-13
 
 * 2022-05-09
