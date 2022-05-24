@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-05-23 ~ 2022-05-27
+
+* 2022-05-23
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2022-05-16 ~ 2022-05-20
 
 * 2022-05-16
@@ -23,6 +30,16 @@ BVEPP
 ** Investigate the hanging 11.1 nightly on Jenkins (semaphore not released by a thread which inexplicably disappeared). (D)
 ** Investigate what seems to be an intermittent maven repository issue with the OOS test suite (possibly related to '+' in specified version numbers). (+)
 ** Attempt to set up the performance regression test suite (Alexandria is gone and considered obsolete; that's news to me). (P)
+
+* 2022-05-19
+** REC.
+** [$xENON scrum meeting. (D)
+** [$XENON-4718 (Flatirons: suggested the possibility of turning a healthy replica into the new master; reiterated the request to confirm the feasibility of repair). (P)
+
+* 2022-05-20
+** REC.
+** [$XENON-4753 ([$STARLING/Novartis: suggested having Roginy take a look due to its apparent similarity to [$XENON-4698). (+)
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
 
 -------- 2022-05-09 ~ 2022-05-13
 
