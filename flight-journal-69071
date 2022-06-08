@@ -3,6 +3,41 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-06-06 ~ 2022-06-10
+
+* 2022-06-06
+** REC.
+** Flash the BIOS of P52 to bring back Bluetooth. (+)
+** [$XENON-4756 (Infineon: start-up taking too long; thread dumps taken only after the successful start-up). (+)
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+
+* 2022-06-07
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+** [$VAULT2-18638 (Allianz Technology SE: no useful info in uploaded logs which were long after the original error anyway). (P)
+
+-------- 2022-05-30 ~ 2022-06-02
+
+* 2022-05-30
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+** [$xENON scrum meeting. (D)
+** Quick call with Raja to discuss a multithreaded programming issue with [$xENON sessions. (+)
+** Start a dedicated email thread about [$xENON 101 for the IN team. (+)
+
+* 2022-05-31
+** REC.
+** Answer Raja's follow-up questions. (+)
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+
+* 2022-06-01
+** Off.
+
+* 2022-06-02
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2022-05-23 ~ 2022-05-27
 
 * 2022-05-23
@@ -11,6 +46,18 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 
 * 2022-05-24
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+
+* 2022-05-25
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+
+* 2022-05-26
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+
+* 2022-05-27
 ** REC.
 ** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
 
@@ -141,7 +188,7 @@ BVEPP
 
 * 2022-04-21
 ** REC.
-** KT session for IN team. (D)
+** KT session for the IN team. (D)
 ** [$xENON scrum meeting. (D)
 ** Team meeting (announcement regarding MvR). (+)
 ** Add new test scenarios for index-in-construction (reuse of object ids). (P)
@@ -175,7 +222,7 @@ BVEPP
 * 2022-04-14
 ** REC.
 ** [$XENON-4744 ([$STARLING/BHP Billiton: [$STARLING insisted on tweaking certain buffer size instead). (P)
-** KT session for IN team. (D)
+** KT session for the IN team. (D)
 ** [$xENON scrum meeting. (D)
 
 * 2022-04-15
