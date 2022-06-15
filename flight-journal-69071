@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-06-13 ~ 2022-06-17
+
+* 2022-06-13
+** REC.
+** [$XENON-4718 (Flatirons: at least one of the two corruptions already propagated to both replicas; then what about the namebase?). (P)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (CLI). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-06-14
+** Implement a repair tool to force remove index references to a (non-detachable) library child (CLI, initial manual testing). (P)
+
 -------- 2022-06-06 ~ 2022-06-10
 
 * 2022-06-06
@@ -15,6 +26,21 @@ BVEPP
 ** REC.
 ** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
 ** [$VAULT2-18638 (Allianz Technology SE: no useful info in uploaded logs which were long after the original error anyway). (P)
+
+* 2022-06-08
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+
+* 2022-06-09
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child. (P)
+** [$xENON scrum meeting. (D)
+** Check with Wouter about an script issue which prevents running CLI from a 10.x dev environment. (+)
+
+* 2022-06-10
+** REC.
+** Fix the script issue confirmed by Wouter. (+)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (CLI). (P)
 
 -------- 2022-05-30 ~ 2022-06-02
 
