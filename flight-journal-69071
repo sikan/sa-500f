@@ -12,7 +12,20 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 
 * 2022-06-14
+** REC.
 ** Implement a repair tool to force remove index references to a (non-detachable) library child (CLI, initial manual testing). (P)
+
+* 2022-06-15
+** REC.
+** [$XENON-4718 (Flatirons: the namebase corruption also propagated; force-remove the library? affirmative; instructed them to check ancester indexes). (P)
+** Discuss with Nara the near-term arrangements for Ram. (+)
+
+* 2022-06-16
+** REC.
+** [$XENON-4718 (Flatirons: a direct removal didn't touch corrupted pages in a simulated test; Val suggested checking maximum file size limit). (P)
+** [$xENON scrum meeting. (D)
+** Create [$XENON-4758 (perhaps a '--dry-run' option for CLI?). (+)
+** Create [$XENON-4759 (to leverage library indexes to access otherwise inaccessible children while force-updating child links). (+)
 
 -------- 2022-06-06 ~ 2022-06-10
 
