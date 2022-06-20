@@ -27,6 +27,11 @@ BVEPP
 ** Create [$XENON-4758 (perhaps a '--dry-run' option for CLI?). (+)
 ** Create [$XENON-4759 (to leverage library indexes to access otherwise inaccessible children while force-updating child links). (+)
 
+* 2022-06-17
+** REC.
+** [$XENON-4757 ([$NEON: timed out queries seemingly caused by the lack of proper index definitions). (P)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (CLI, initial manual testing). (P)
+
 -------- 2022-06-06 ~ 2022-06-10
 
 * 2022-06-06
