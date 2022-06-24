@@ -3,6 +3,31 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-06-20 ~ 2022-06-24
+
+* 2022-06-20
+** REC.
+** [$XENON-4757 ([$NEON: Wouter's troubleshooting plan). (P)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (CLI, initial manual testing, documentation). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-06-21
+** REC.
+** [$XENON-4760 (Allianz Technology SE: data node backup double the size of actual data; 3 system-db names found). (+)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (merge to 10.x). (P)
+** Backport the default --debug option. (+)
+
+* 2022-06-22
+** REC.
+** [$XENON-4713 (DSV A/S: journal multiplexing enabled; all data moved to local storage; storage system requirements?). (P)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests). (P)
+
+* 2022-06-23
+** REC.
+** KT session for Ram. (D)
+** [$xENON scrum meeting. (D)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests). (P)
+
 -------- 2022-06-13 ~ 2022-06-17
 
 * 2022-06-13
