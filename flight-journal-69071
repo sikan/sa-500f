@@ -3,6 +3,32 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-06-27 ~ 2022-07-01
+
+* 2022-06-27
+** REC.
+** [$XENON-4718 (Flatirons: instructed them to try removing the corrupt library via CLI). (P)
+** [$XENON-4760 (Allianz Technology SE: perhaps a different data node instance bootstraped with either a copy or a restored backup?). (P)
+** [$xENON scrum meeting. (D)
+** Fix an issue with the handling of LibraryTreeNode upon force-detach/remove. (+)
+
+* 2022-06-28
+** REC.
+** Fix an issue with the handling of LibraryTreeNode upon force-detach/remove. (D)
+
+* 2022-06-29
+** REC.
+** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests, stabilization). (P)
+
+* 2022-06-30
+** Off.
+
+* 2022-07-01
+** REC.
+** [$XENON-4718 (Flatirons: Wouter encountered issues when attempting to deserialize data into a detachable library; not supported yet). (P)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests, stabilization). (P)
+** Discuss the possibility to read Lucene data from [$STARLING/[$xENON with Ravi from search team. (+)
+
 -------- 2022-06-20 ~ 2022-06-24
 
 * 2022-06-20
@@ -26,6 +52,11 @@ BVEPP
 ** REC.
 ** KT session for Ram. (D)
 ** [$xENON scrum meeting. (D)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests). (P)
+
+* 2022-06-24
+** REC.
+** [$XENON-4760 (Allianz Technology SE: Elmar suggested the customer used [$xENON backup command). (P)
 ** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests). (P)
 
 -------- 2022-06-13 ~ 2022-06-17
