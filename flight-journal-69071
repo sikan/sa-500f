@@ -3,6 +3,35 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-07-04 ~ 2022-07-08
+
+* 2022-07-04
+** REC.
+** Enable tests to run consistency checker with excluded options. (+)
+** Implement a repair tool to force remove index references to a (non-detachable) library child (consistency checks at the end of each test case). (D)
+** [$xENON scrum meeting. (D)
+** Merge unintegrated changes, including the force-remove-child-refs implementation. (+)
+
+* 2022-07-05
+** REC.
+** [$XENON-4756 (Infineon: reopened; 3 hours between system db recovery and user db recovery apparently caused by existence check of data files). (P)
+** Merge the force-remove-child-refs implementation (concurrent index lookup caused locking issues with indirect addressing). (P)
+
+* 2022-07-06
+** REC.
+** [$XENON-4718 (Flatirons: reminded the support to ask them to try removing the corrupt library via CLI). (P)
+** Merge the force-remove-child-refs implementation (the NON_CONCURRENT option must be explicitly specified in 11). (P)
+** Implement a mechanism for concurrent indexes to skip locking values upon lookups (for the above to work with indirect addressing). (+)
+
+* 2022-07-07
+** REC.
+** [$XENON-4760 (Allianz Technology SE: customer wanted to have a call). (P)
+** Consider generating a unique 'serverid' for a restored data node or a replica (related to [$XENON-4760). (+)
+** KT session for Ram (lasted only two minutes due to Ram's illness). (D)
+** [$STARLING-19755 (really [$xENON related?). (+)
+** [$xENON scrum meeting. (D)
+** Merge the force-remove-child-refs implementation (tests stabilized in 11). (D)
+
 -------- 2022-06-27 ~ 2022-07-01
 
 * 2022-06-27
