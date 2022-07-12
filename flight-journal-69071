@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-07-11 ~ 2022-07-15
+
+* 2022-07-11
+** REC.
+** [$XENON-4761 ([$STARLING/Ericsson AB: XQUERY_ERROR_VALUE caused by an empty dateTime field; but no indexing time error?). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4760 (Allianz Technology SE: webex meeting with the customer). (P)
+** [$XENON-4756 (Infineon: started to work on a fix). (P)
+
 -------- 2022-07-04 ~ 2022-07-08
 
 * 2022-07-04
@@ -31,6 +40,10 @@ BVEPP
 ** [$STARLING-19755 (really [$xENON related?). (+)
 ** [$xENON scrum meeting. (D)
 ** Merge the force-remove-child-refs implementation (tests stabilized in 11). (D)
+
+* 2022-07-08
+** REC.
+** [$XENON-4718 (Flatirons: direct removal via CLI didn't work; indexes on ancestors?). (P)
 
 -------- 2022-06-27 ~ 2022-07-01
 
@@ -1556,7 +1569,7 @@ BVEPP
 ** REC.
 ** Help Michael help a customer reset superuser password. (+)
 ** [$xENON scrum meeting. (D)
-** Update changes.dita for the fix for MPI (8 debug builds been running flawless). (D)
+** Update changes.dita for the fix for MPI (8 debug builds been running flawlessly). (D)
 ** Investigate issues with the internal file pool reported by Naga and [$VAULT2 PERF team (suggested increasing maxOpen). (+)
 
 * 2021-07-06
