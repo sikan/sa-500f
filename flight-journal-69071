@@ -12,6 +12,32 @@ BVEPP
 ** [$XENON-4760 (Allianz Technology SE: webex meeting with the customer). (P)
 ** [$XENON-4756 (Infineon: started to work on a fix). (P)
 
+* 2022-07-12
+** REC.
+** [$XENON-4756 (Infineon: optimization completed). (P)
+** Add support for deserializing data into an existing detachable library. (P)
+** Create [$XENON-4763 (keep server id unique even for a restored node or replica). (+)
+
+* 2022-07-13
+** Off.
+
+* 2022-07-14
+** REC.
+** [$XENON-4764 ([$STARLING/EDF: index size issue found during upgrade). (+)
+** Submit FY2022 year-end self-review. (D)
+** KT session for Ram (bootstrap info, XOD, persistent object, tree segment, etc.). (D)
+** [$xENON scrum meeting. (D)
+** Look into the Jenkins access issue with Ram's lab account. (+)
+** Fix a stderr redirection issue uncovered by the new --no-debug option. (+)
+** Investigate a data corruption error found in CmdTest. (+)
+** Investigate the failures of ForceRemoveChildRefsTest in big id mode on Jenkins. (+)
+
+* 2022-07-15
+** REC.
+** Look into the Jenkins access issue with Ram's lab account. (P)
+** Investigate a data corruption error found in CmdTest (related to index value locking and the unusable flag, caused by the fix for [$XENON-4756). (D)
+** Investigate the failures of ForceRemoveChildRefsTest in big id mode on Jenkins (API: long -> String, to support file ids larger than 2^20). (D)
+
 -------- 2022-07-04 ~ 2022-07-08
 
 * 2022-07-04
@@ -92,7 +118,7 @@ BVEPP
 
 * 2022-06-23
 ** REC.
-** KT session for Ram. (D)
+** KT session for Ram (internal procedure of server start-up, etc.). (D)
 ** [$xENON scrum meeting. (D)
 ** Implement a repair tool to force remove index references to a (non-detachable) library child (randomized tests). (P)
 
