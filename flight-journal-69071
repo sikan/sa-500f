@@ -3,6 +3,18 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-07-18 ~ 2022-07-22
+
+* 2022-07-18
+** REC.
+** Look into the Jenkins access issue with Ram's lab account (opened an ELSS ticket). (D)
+** [$xENON scrum meeting. (D)
+** Fix an indentation issue with CmdTest. (+)
+** [$XENON-4756 (Infineon: 130,000+ data files; suggested they wait for the next patch). (D)
+** [$XENON-4718 (Flatirons: 50+ indexes on the parent; proposed next steps). (P)
+** [$XENON-4676 (closed; better keep the support for more than 2^20 data files on a single node). (D)
+** [$XENON-4760 (Allianz Technology SE: re-organized the tree output with awk for better comparison; sizes reported by du seemed far off). (P)
+
 -------- 2022-07-11 ~ 2022-07-15
 
 * 2022-07-11
