@@ -15,6 +15,11 @@ BVEPP
 ** [$XENON-4676 (closed; better keep the support for more than 2^20 data files on a single node). (D)
 ** [$XENON-4760 (Allianz Technology SE: re-organized the tree output with awk for better comparison; sizes reported by du seemed far off). (P)
 
+* 2022-07-19
+** REC.
+** [$XENON-4764 ([$STARLING/EDF: journal directory? no-logging option? suggested triggering another final merge). (P)
+** Add support for deserializing data into an existing detachable library. (P)
+
 -------- 2022-07-11 ~ 2022-07-15
 
 * 2022-07-11
