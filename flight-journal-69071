@@ -3,6 +3,52 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-08-01 ~ 2022-08-05
+
+* 2022-08-01
+** REC.
+** Create [$XENON-4767 (third party (de)serialization libraries?). (+)
+** [$xENON scrum meeting. (D)
+** Investigate a hanging nightly build (reconstructed from the heap dump the stack trace of the error that caused a replica to crash). (+)
+** Create [$XENON-4768 for the above (an assertion error found in read-only page sharing logic). (+)
+** Check randomized force-detach tests (Val encountered some issues). (+)
+
+* 2022-08-02
+** REC.
+** Investigate a backslash issue caused by the removal of Xalan (fixed by Val). (+)
+** Check randomized force-detach tests. (P)
+** Suppress WARN level logging output for the Jenkins runs of the above. (+)
+** Invetigate various test failures on Jenkins (all non-trivial rare errors; fruitless search in the heap dump for the root cause of a crashed parallel query). (P)
+** [$XENON-4764 ([$STARLING/EDF: surprised and disappointed by $[STARLING's response). (P)
+** Add support for running a single test repeatedly on Jenkins (this time for the official 11.1). (+)
+
+-------- 2022-07-25 ~ 2022-07-29
+
+* 2022-07-25
+** REC.
+** Add support for deserializing data into an existing detachable library. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-07-26
+** REC.
+** Add support for deserializing data into an existing detachable library. (P)
+
+* 2022-07-27
+** REC.
+** Add support for deserializing data into an existing detachable library. (P)
+** [$XENON-4764 ([$STARLING/EDF: urged [$STARLING to take action). (P)
+
+* 2022-07-28
+** REC.
+** KT session for Ram (an issue with Spring Data [$XENON, samples, build-manual, etc.). (D)
+** [$xENON scrum meeting. (D)
+** myCDP. (+)
+
+* 2022-07-29
+** REC.
+** [$XENON-4766 ([$STARLING/HMRC: high buff/cache utilization; drop_caches? size restriction?). (P)
+** myCDP. (D)
+
 -------- 2022-07-18 ~ 2022-07-22
 
 * 2022-07-18
