@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-08-08 ~ 2022-08-12
+
+* 2022-08-08
+** Off.
+
+* 2022-08-09
+** REC.
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
+
 -------- 2022-08-01 ~ 2022-08-05
 
 * 2022-08-01
@@ -22,20 +31,35 @@ BVEPP
 ** [$XENON-4764 ([$STARLING/EDF: surprised and disappointed by $[STARLING's response). (P)
 ** Add support for running a single test repeatedly on Jenkins (this time for the official 11.1). (+)
 
+* 2022-08-03
+** REC.
+** Investigate a timeout issue of CmdExternalTest found on Jenkins (implemented a mechanism to take a thread dump of the spawned process upon timeouts). (+)
+** Investigate a leftover lock on a released page (reproducible on Jenkins with repeated runs). (+)
+** Michael Cybala's all-hands. (D)
+
+* 2022-08-04
+** REC.
+** [$xENON scrum meeting. (D)
+
+* 2022-08-05
+** REC.
+** [$XENON-4764 ([$STARLING/EDF: $[STARLING's internal discussion?). (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
+
 -------- 2022-07-25 ~ 2022-07-29
 
 * 2022-07-25
 ** REC.
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2022-07-26
 ** REC.
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 
 * 2022-07-27
 ** REC.
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 ** [$XENON-4764 ([$STARLING/EDF: urged [$STARLING to take action). (P)
 
 * 2022-07-28
@@ -64,22 +88,22 @@ BVEPP
 * 2022-07-19
 ** REC.
 ** [$XENON-4764 ([$STARLING/EDF: journal directory? no-logging option? suggested triggering another final merge). (P)
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 
 * 2022-07-20
 ** REC.
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 
 * 2022-07-21
 ** REC.
 ** [$XENON-4760 (Allianz Technology SE: similar du issues found in another environment). (P)
 ** KT session for Ram (manual code samples, Admin Client, etc., cut short due to power outage on Ram's side). (D)
 ** [$xENON scrum meeting. (D)
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 
 * 2022-07-22
 ** REC.
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 
 -------- 2022-07-11 ~ 2022-07-15
 
@@ -93,7 +117,7 @@ BVEPP
 * 2022-07-12
 ** REC.
 ** [$XENON-4756 (Infineon: optimization completed). (P)
-** Add support for deserializing data into an existing detachable library. (P)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 ** Create [$XENON-4763 (keep server id unique even for a restored node or replica). (+)
 
 * 2022-07-13
