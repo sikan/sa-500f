@@ -12,6 +12,22 @@ BVEPP
 ** REC.
 ** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
 
+* 2022-08-10
+** REC.
+** SOP training course (00344). (+)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
+
+* 2022-08-11
+** REC.
+** KT session for Ram (recap, trivia, etc.). (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4769 (BlackDuck: xalan:serializer:jar:2.7.2). (+)
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
+
+* 2022-08-12
+** REC.
+** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (D)
+
 -------- 2022-08-01 ~ 2022-08-05
 
 * 2022-08-01
