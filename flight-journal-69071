@@ -3,6 +3,28 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-08-15 ~ 2022-08-19
+
+* 2022-08-15
+** Off.
+
+* 2022-08-16
+** Investigate two problematic Jenkins builds (collected heap dumps). (+)
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones. (P)
+
+* 2022-08-17
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones. (P)
+** [$XENON-4771 (BoC: quick call with Michael; apparent network hiccups). (+)
+
+* 2022-08-18
+** [$XENON-4772 ([$NEON Supplier Exchange: OOM; but nothing for us to look at except snippets of GC logs). (+)
+** Sick.
+
+* 2022-08-19
+** [$XENON-4764 ([$STARLING/EDF: no index size change after manual final merge; suggested running consistency checks on indexes). (P)
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones. (P)
+** Discuss with Champaka the schedule to support another migration of [$NEON Supplier Exchange during the weekend. (+)
+
 -------- 2022-08-08 ~ 2022-08-12
 
 * 2022-08-08
@@ -19,7 +41,7 @@ BVEPP
 
 * 2022-08-11
 ** REC.
-** KT session for Ram (recap, trivia, etc.). (D)
+** KT session for Ram (recap, historical trivia, etc.). (D)
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4769 (BlackDuck: xalan:serializer:jar:2.7.2). (+)
 ** Add support for deserializing data into an existing detachable library (and fixes for related known issues in 10 as well). (P)
