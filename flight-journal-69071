@@ -3,6 +3,35 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-08-22 ~ 2022-08-26
+
+* 2022-08-22
+** REC.
+** [$XENON-4771 (BoC: indirect addressing error; requested extended bootstrap file). (P)
+** [$XENON-4770 ([$STARLING: they wanted to upgrade [$xENON for both its core and CCE; clarified a few things). (+)
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-08-23
+** REC.
+** [$XENON-4764 ([$STARLING/EDF: confirmed the commands to run consistency checker). (P)
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones. (P)
+
+* 2022-08-24
+** REC.
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones (randomized tests done). (P)
+
+* 2022-08-25
+** REC.
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones (tests for LOCK_WITH_PARENT). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4770 ([$STARLING: clarified and explained more things; discussed a potential revival of 10.7 releases). (P)
+
+* 2022-08-26
+** REC.
+** [$XENON-4770 ([$STARLING: requested the manifest file of the jar currently used by their core). (P)
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones (tests for root-library as a child). (P)
+
 -------- 2022-08-15 ~ 2022-08-19
 
 * 2022-08-15
