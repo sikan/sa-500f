@@ -3,6 +3,38 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-08-29 ~ 2022-09-02
+
+* 2022-08-29
+** REC.
+** [$XENON-4770 ([$STARLING: missing from Perforce; moved to GitLab? inspected their manifest file to determine revision number). (P)
+** Create javadoc for the recent enhancements to deserialization. (D)
+** [$xENON scrum meeting. (D)
+** Gather the heap dumps of two hanging Jenkins builds. (+)
+
+* 2022-08-30
+** REC.
+** [$XENON-4770 ([$STARLING: the same dilemma as [$ARGON-149: no new Java 8 build of [$ARGON). (P)
+** [$XENON-4774 ([$NEON Supplier Exchange: apparently same as [$XENON-4772; strong ref from PageImpl to Page might beat the purpose of weak ref cache for Pages?). (+)
+
+* 2022-08-31
+** REC.
+** [$XENON-4630 (Healthcare/Ospedale Pediatrico Bambino Gesu: LOCK_NOT_GRANTED; suggested finer logging level to better understand the specific locking behavior). (+)
+** [$XENON-4774 ([$NEON Supplier Exchange: checked whether turning on shared read only pages would help). (P)
+** Create a Confluence wiki page to summarize the recent enhancements to deserialization. (D)
+
+
+* 2022-09-01
+** REC.
+** [$xENON scrum meeting. (D)
+** [$XENON-4771 (BoC: in fact extended bootstrap file not needed; mappings did exist as indicated by the error itself). (P)
+** [$XENON-4774 ([$NEON Supplier Exchange: quick call with Val; gathered detailed info of transactions that touched more than 100,000 pages from the heap dump). (P)
+
+* 2022-09-02
+** REC.
+** [$XENON-4771 (BoC: indirect addressing error due to serverStateTimestamp; expected as the back-end restarted). (P)
+** Look into the heap dumps of hanging Jenkins builds. (P)
+
 -------- 2022-08-22 ~ 2022-08-26
 
 * 2022-08-22
@@ -30,7 +62,7 @@ BVEPP
 * 2022-08-26
 ** REC.
 ** [$XENON-4770 ([$STARLING: requested the manifest file of the jar currently used by their core). (P)
-** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones (tests for root-library as a child). (P)
+** Implement a new deserialization feature of optionally converting non-detachable libraries into detachable ones (tests for root-library as a child). (D)
 
 -------- 2022-08-15 ~ 2022-08-19
 
