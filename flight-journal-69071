@@ -2,6 +2,21 @@ BVEPP
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-------- 2022-09-05 ~ 2022-09-09
+
+* 2022-09-05
+** REC.
+** [$XENON-4764 ([$STARLING/EDF: consistency check aborted prematurely; suggested running CLEAN_TASK). (P)
+** Update Bruno on the status of [$NEON Supplier Exchange issues. (+)
+** Explain the purpose of 'Unintegrated Changes Reminder' to Champaka. (D)
+** Fix a re-initialization problem with the default driver/session that could potentially result in hanging builds. (D)
+** [$XENON-4770 ([$STARLING: the crux: they need to decide whether to drop Java 8 support for CCE). (P)
+** Clean up unintegrated changes to/from 11.0 which is expected to be retired soon. (+)
+** Update Michael Cybala on the status of [$NEON Supplier Exchange issues. (+)
+
+* 2022-09-06
+** REC.
+** Take a crack at improving the success rate of bootstrap and indirect addressing upgrade test suite. (P)
 
 -------- 2022-08-29 ~ 2022-09-02
 
