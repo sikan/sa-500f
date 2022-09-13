@@ -2,6 +2,7 @@ BVEPP
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 -------- 2022-09-05 ~ 2022-09-09
 
 * 2022-09-05
@@ -17,6 +18,20 @@ BVEPP
 * 2022-09-06
 ** REC.
 ** Take a crack at improving the success rate of bootstrap and indirect addressing upgrade test suite. (P)
+
+* 2022-09-07
+** REC.
+** [$XENON-4718 (Flatirons: detailed instructions on how to export/import index definitions on parent, and get rid of the corrupted child). (P)
+** Take a crack at improving the success rate of bootstrap and indirect addressing upgrade test suite. (P)
+
+* 2022-09-08
+** REC.
+** Take a crack at improving the success rate of bootstrap and indirect addressing upgrade test suite. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-09-09
+** REC.
+** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
 
 -------- 2022-08-29 ~ 2022-09-02
 
