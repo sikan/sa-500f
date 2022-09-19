@@ -3,6 +3,30 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-09-13 ~ 2022-09-16
+
+* 2022-09-13
+** REC.
+** Perforce down.
+** [$XENON-4775 (SentinelOne false alarm of Avalon again; to remove FOP jar as core dependencies). (+)
+** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+
+* 2022-09-14
+** REC.
+** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** [$XENON-4775 (removed the formatter interface; issues with the generation of PDF manual). (P)
+
+* 2022-09-15
+** REC.
+** [$XENON-4776, [$XENON-4777, [$XENON-4778 ([$STARLING: basically just continuation of [$XENON-4770). (+)
+** KT session for Ram ([$XENON-4672, AbstractSession, etc.). (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4775 (issues with the generation of PDF manual). (P)
+
+* 2022-09-16
+** REC.
+** [$XENON-4775 (checked in all the changes and fixes). (D)
+
 -------- 2022-09-05 ~ 2022-09-09
 
 * 2022-09-05
