@@ -3,6 +3,44 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-09-19 ~ 2022-09-23
+
+* 2022-09-19
+** REC.
+** [$XENON-4780 ([$NEON Supplier Exchange: connection refused error; no indication [$xENON related). (+)
+** [$xENON scrum meeting. (D)
+** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Quick call with Ram to discuss/repeat some details about [$XENON-4672. (+)
+
+* 2022-09-20
+** REC.
+** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Enhance the p4check script to support externally specified retired branches. (+)
+** Continue the discussion with Ram about [$XENON-4672. (P)
+
+* 2022-09-21
+** REC.
+** Continue the discussion with Ram about [$XENON-4672. (P)
+** Karen's questions about the page cache. (+)
+** Enhance the p4check script to support externally specified retired branches ([[Advanced Bash-Scripting Guide]] to the rescue). (D)
+** JIRA cleanup (requested by Champaka). (+)
+** Clarify for Wouter a usage issue with the new API for non-detachable -> detachable conversion. (+)
+
+* 2022-09-22
+** REC.
+** [$XENON-4781 (VF Services: read/write errors caused by network/storage problems; suggested running consistency checker and enabling log directory multiplexing). (+)
+** Karen's questions about the page cache. (P)
+** Create [$XENON-4782 (better fail if an invalid path is specified for non-detachable -> detachable conversion). (+)
+** [$XENON-4764 ([$STARLING/EDF: no output from consistency checker; still running?). (P)
+** KT session for Ram (mostly about [$XENON-4672; cut short due to hammer drill noise). (D)
+** [$xENON scrum meeting (hammer drill noise). (D)
+** [$XENON-4672 (more experiments). (P)
+
+* 2022-09-23
+** REC.
+** Discussion initiated by Karen with wider team. (+)
+** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+
 -------- 2022-09-13 ~ 2022-09-16
 
 * 2022-09-13
