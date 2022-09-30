@@ -3,18 +3,51 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-09-26 ~ 2022-09-30
+
+* 2022-09-26
+** REC.
+** [$XENON-4781 (VF Services: final verification: health status of the journal directory, etc.). (D)
+** [$NEON-1437 (recent discussions, especially insights from Elmar). (P)
+** [$xENON scrum meeting. (D)
+** Explain to the team once again the strong/weak reference issues with PageImpl and CacheEntry. (+)
+** [$XENON-4672 (tried out Ram's solution; still problematic). (+)
+
+* 2022-09-27
+** REC.
+** Investigate an extremely rare but reproducible locked released page found on Jenkins (new index-in-construction logic). (P)
+** Help Keethan and others collect [$xENON diagnostic info from Supplier Exchange AM3 production environment for Qatar Gas. (+)
+
+* 2022-09-28
+** REC.
+** Investigate an extremely rare but reproducible locked released page found on Jenkins (new index-in-construction logic). (P)
+** Code cleanup (expecting better performance after removing remaining traces of cluster-related logic). (+)
+
+* 2022-09-29
+** REC.
+** [$XENON-4672 (definitely different behavior than what Ram claimed and saw on his machine). (P)
+** [$NEON-1437 (Wouter's explanation for two [$xENON errors found in the log). (P)
+** Sick leave/PM.
+
+* 2022-09-30
+** REC.
+** Code cleanup (expecting better performance after removing remaining traces of cluster-related logic). (D)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins (new index-in-construction logic). (P)
+** [$XENON-4764 ([$STARLING/EDF: consistency checker quit after 11 days with OOM). (P)
+** [$XENON-4782 (to provide an option whether to ignore unmatched paths for non-detachable -> detachable conversion). (P)
+
 -------- 2022-09-19 ~ 2022-09-23
 
 * 2022-09-19
 ** REC.
 ** [$XENON-4780 ([$NEON Supplier Exchange: connection refused error; no indication [$xENON related). (+)
 ** [$xENON scrum meeting. (D)
-** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins. (P)
 ** Quick call with Ram to discuss/repeat some details about [$XENON-4672. (+)
 
 * 2022-09-20
 ** REC.
-** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins. (P)
 ** Enhance the p4check script to support externally specified retired branches. (+)
 ** Continue the discussion with Ram about [$XENON-4672. (P)
 
@@ -39,7 +72,7 @@ BVEPP
 * 2022-09-23
 ** REC.
 ** Discussion initiated by Karen with wider team. (+)
-** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins. (P)
 
 -------- 2022-09-13 ~ 2022-09-16
 
@@ -47,11 +80,11 @@ BVEPP
 ** REC.
 ** Perforce down.
 ** [$XENON-4775 (SentinelOne false alarm of Avalon again; to remove FOP jar as core dependencies). (+)
-** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins. (P)
 
 * 2022-09-14
 ** REC.
-** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins. (P)
 ** [$XENON-4775 (removed the formatter interface; issues with the generation of PDF manual). (P)
 
 * 2022-09-15
@@ -93,7 +126,7 @@ BVEPP
 
 * 2022-09-09
 ** REC.
-** Investigate the extremely rare but reproducible locked released page found on Jenkins. (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins. (P)
 
 -------- 2022-08-29 ~ 2022-09-02
 
