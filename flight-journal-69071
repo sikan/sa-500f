@@ -3,6 +3,60 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-10-08 ~ 2022-10-14
+
+* 2022-10-08
+** REC.
+
+* 2022-10-09
+** REC.
+
+* 2022-10-10
+** REC.
+** Email backlog. (D)
+** Ask Ram to go through Petr's KT recordings and have a look at [$XENON-4677. (+)
+** [$XENON-4785 ([$NEON: migration of [$STARLING dataset?). (+)
+** [$XENON-4764 ([$STARLING/EDF: OOM again with twice the memory; follow-up suggestions). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4783 (doc enhancement request: consistency checker runs way faster in embedded mode). (+)
+** Create [$XENON-4787 (potential performance improvements for consistency checker). (+)
+** Perforce -> GitLab migration (branch vs. repo? jenkins integration? labels? playground? etc.). (+)
+** [$XENON-4782 (Wouter's long comment regarding what should be the expected deserialization behavior). (P)
+
+* 2022-10-11
+** REC.
+** Perforce -> GitLab migration (preservation of changelist numbers? could branch actions be lost? shared the concerns with the team). (P)
+** [$XENON-4785 ([$NEON: explained problems with the migration of [$STARLING dataset; potential but unlikely solutions: indirect addressing). (P)
+** [$XENON-4782 (first part of the response to Wouter's long comment). (P)
+
+* 2022-10-12
+** REC.
+** [$NEON-1437 (how to programmatically configure the page cache). (P)
+** Perforce -> GitLab migration (//Playground paths to be included; Nagaraj's reply; user mapping issues). (P)
+** [$XENON-4785 ([$NEON: command to launch Admin Client from [$STARLING environment). (P)
+** Arun's meeting about the migration of [$STARLING from [$NEON to OT2 for Supplier Exchange. (+)
+** 1-on-1 with Champaka (performance review). (+)
+
+* 2022-10-13
+** REC.
+** Clarify again that [$STARLING should still contain an 'unofficial' release of Admin Client. (+)
+** [$XENON-4672 (output of two runs of 'ant create-jars' in a row). (P)
+** [$NEON-1437 (Karen's question about certain memory related settings for client vs. server; but they initialize the driver programmatically anyway). (P)
+** Investigate an extremely rare but reproducible locked released page found on Jenkins (debug output). (P)
+** KT session for Ram (issues with the fix for [$XENON-4672; learning plan). (D)
+** [$xENON scrum meeting. (D)
+** Create learning tasks for Ram in JIRA. (+)
+** Quick call with Val to discuss the property settings for the page cache. (+)
+** [$XENON-4764 ([$STARLING/EDF: memory settings for 'server'?). (P)
+** Arun's meeting about the migration of [$STARLING from [$NEON to OT2 for Supplier Exchange. (+)
+
+* 2022-10-14
+** REC.
+** [$XENON-4791 (FWD Life Insurance: memory (setting) issues with the consistency checker). (+)
+** Perforce -> GitLab migration (reiterated the user mapping issues). (P)
+** [$XENON-4785 ([$NEON: brief summary of the current status after Arun's meetings). (P)
+** [$XENON-4672 (output of two runs of 'ant purge-xhive-jars' in a row; Ram's latest fix). (P)
+
 -------- 2022-09-26 ~ 2022-09-30
 
 * 2022-09-26
@@ -4770,7 +4824,7 @@ BVEPP
 ** Red-black tree (concurrent namebase). (+)
 
 * 2019-04-09
-** Fix a Windows specific cleanup issue with the Gradle build ('/temp/xhive/data' not recognized by Gradle/Groovy). (D)
+** Fix a Windows specific cleanup issue with the Gradle build ('/temp/[$xenon/data' not recognized by Gradle/Groovy). (D)
 ** [$xENON weekly meeting. (D)
 ** Petr's knowledge transfer session (unit test framework). (D)
 
