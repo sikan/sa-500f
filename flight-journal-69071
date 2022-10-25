@@ -3,6 +3,45 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-10-17 ~ 2022-10-21
+
+* 2022-10-17
+** REC.
+** [$XENON-4791 (FWD Life Insurance: quick call with Jacky Ngew as their second upgrade attempt ended up in mess). (P)
+** [$XENON-4782 (thoughts on making deserialization fully customizable wrt segment and detachability). (P)
+** [$XENON-4792 (Framatome: recurring I/O errors on flush; recovery failure due to .wal file corruption). (+)
+** [$xENON scrum meeting. (D)
+** Perforce -> GitLab migration (all set for trial migration?). (P)
+
+* 2022-10-18
+** REC.
+** [$XENON-4791 (FWD Life Insurance: 'check-database' on individual databases instead of 'check-node'). (P)
+** [$VAULT2-20763 (Societe Generale: .wal file prematurely truncated on replica; suggestions on how to protect against this, if desired). (+)
+** Perforce -> GitLab migration (worked out the detailed repository and branch mapping plan). (P)
+** Remind everyone of the legacy projects by former colleagues that need to/must be migrated to GitLab (people don't seem to care). (+)
+
+* 2022-10-19
+** REC.
+** [$XENON-4792 (Framatome: existing .wal used to be consistent, but apparently externally modified at some point; severe reliability concern; closed). (P)
+** [$XENON-4791 (FWD Life Insurance: asked Champaka to engage [$VAULT team to the investigate the apprently hanging upgrade). (P)
+** [$VAULT2-20763 (Societe Generale: restored .wal file originally from the replica? code review). (P)
+** Help Arun determine the exact [$STARLING version used by [$NEON. (+)
+** [$XENON-4782 (Wouter's another long comment). (P)
+
+* 2022-10-20
+** REC.
+** SOP training course (00344). (+)
+** [$XENON-4792 (Framatome: reopened; moved systemRedoLSN as a last resort by request, not recommended though). (D)
+** Fix (and eliminate in 11) a rarely used code path where the checkpoint file is not opened in 'rwd' mode (irrelevant to [$VAULT2-20763 though). (+)
+** Unable to join [$xENON scrum meeting (Teams outage?). (+)
+** Create [$XENON-4794 (listed problems that must be solved before the Perforce->GitLab migration). (+)
+
+* 2022-10-21
+** REC.
+** [$VAULT2-20660 (Medtronic: corruption in segment administrative structure). (+)
+** [$XENON-4764 ([$STARLING/EDF: hmmm... they asked how they could run CLEAN_INDE). (P)
+** Perforce -> GitLab migration (issues with SSH authentication for the sandbox). (P)
+
 -------- 2022-10-08 ~ 2022-10-14
 
 * 2022-10-08
