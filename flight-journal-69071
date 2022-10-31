@@ -3,6 +3,36 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-10-24 ~ 2022-10-28
+
+* 2022-10-24
+** REC.
+** [$XENON-4794 (version issues with InstallAnywhere related files). (P)
+** [$XENON-4764 ([$STARLING/EDF: hmmm... they asked why they need to run CLEAN_INDE). (P)
+** Unable to join [$xENON scrum meeting (Teams... again?). (+)
+** Perforce -> GitLab migration (issues with SSH authentication for the sandbox). (P)
+
+* 2022-10-25
+** REC.
+** [$XENON-4794 (explained the current branch merging policy to Wouter). (P)
+** Perforce -> GitLab migration (.gitconfigs for different accounts; inconsistent migration behavior for each branch's initial checkin). (P)
+
+* 2022-10-26
+** REC.
+** [$XENON-4794 (IAClasses.zip must stay as we need it for text mode installer test). (P)
+** [$VAULT2-20763 (Societe Generale: premature truncation triggered by backup on the replica?). (P)
+** Create p4-git-check to validate the consistency of the trial migration (using p4java and JGit). (+)
+** Perforce -> GitLab migration (already more issues detected by the above tool). (P)
+
+* 2022-10-27
+** REC.
+** Create p4-git-check to validate the consistency of the trial migration. (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-10-28
+** REC.
+** Create p4-git-check to validate the consistency of the trial migration. (P)
+
 -------- 2022-10-17 ~ 2022-10-21
 
 * 2022-10-17
