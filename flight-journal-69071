@@ -3,6 +3,20 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-10-31 ~ 2022-11-04
+
+* 2022-10-31
+** REC.
+** Create p4-git-check to validate the consistency of the trial migration (no-op changelists; binary files). (P)
+** Perforce -> GitLab migration (binary filtering? shelved changelists?). (P)
+** [$XENON-4764 ([$STARLING/EDF: perhaps just rebuild?). (P)
+** [$xENON scrum meeting. (D)
+** Create [$STARLING-20283 (jar file management for historical revisions after the migration to GitLab?). (+)
+
+* 2022-11-01
+** REC.
+** Create p4-git-check to validate the consistency of the trial migration (all-binary changelists; double-delete in Perforce). (P)
+
 -------- 2022-10-24 ~ 2022-10-28
 
 * 2022-10-24
@@ -28,6 +42,7 @@ BVEPP
 ** REC.
 ** Create p4-git-check to validate the consistency of the trial migration. (P)
 ** [$xENON scrum meeting. (D)
+** KT session for Ram (some follow-up issues with the checkin for [$XENON-4672; learning plan, again). (D)
 
 * 2022-10-28
 ** REC.
