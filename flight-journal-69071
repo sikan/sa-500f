@@ -3,6 +3,30 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-11-07 ~ 2022-11-11
+
+* 2022-11-07
+** Off.
+** [$VAULT2-20763 (Societe Generale: assured the customer that the investigation would continue). (P)
+
+
+* 2022-11-08
+** Sick.
+
+* 2022-11-09
+** Sick.
+** Perforce -> GitLab migration (launched checks against all branches since 8.2). (P)
+
+* 2022-11-10
+** REC.
+** Create one more HR ticket for the long-standing issue with vacation days. (+)
+** Create an HR ticket wrt eligibility for virtual fitness program reimbursement (Strava, Zwift). (+)
+** [$XENON-4794 (looked like a temporary network issue which resulted in maven errors). (P)
+** Perforce -> GitLab migration (reviewed new type of errors in the latest p4-git-check reports). (P)
+** p4-git-check (vairous minor fixes; shared the tool with other teams with detailed instructions, via Champaka). (P)
+** [$xENON scrum meeting. (D)
+** Quick call with Champaka to discuss the next steps for Ram. (+)
+
 -------- 2022-10-31 ~ 2022-11-04
 
 * 2022-10-31
@@ -16,6 +40,22 @@ BVEPP
 * 2022-11-01
 ** REC.
 ** Create p4-git-check to validate the consistency of the trial migration (all-binary changelists; double-delete in Perforce). (P)
+
+* 2022-11-02
+** REC.
+** [$XENON-4794 (class file version issue; installed jdk 11 on two Windows agents). (P)
+** Create p4-git-check to validate the consistency of the trial migration (double-delete in Perforce; blacklist of excluded binary file types). (P)
+
+* 2022-11-03
+** REC.
+** [$XENON-4794 (issues caused by absolute paths accidentally introduced by Ram's changes for [$XENON-4672; reviewed Ram's fix). (P)
+** Perforce -> GitLab migration (questioned the no-binary 'mandate'; described in detail issues found by p4-git-check). (P)
+** Create p4-git-check to validate the consistency of the trial migration (initial checkin; etc.). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-11-04
+** REC.
+** p4-git-check (fixed issues with getting the previous revision of a given file spec). (P)
 
 -------- 2022-10-24 ~ 2022-10-28
 
