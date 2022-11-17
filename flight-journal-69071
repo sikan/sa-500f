@@ -3,12 +3,34 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-11-14 ~ 2022-11-18
+
+* 2022-11-14
+** Off.
+** Perforce -> GitLab migration (finished the check for Main; reported new types of issues; [$STARLING-20283: solution/workaround not retroactive). (P)
+** [$xENON scrum meeting. (D)
+** p4-git-check (program arguments). (P)
+** Perforce workspaces accidentally deleted by some genius.
+
+* 2022-11-15
+** Off.
+** Provide feedback on Ram. (+)
+** Restore Perforce workspaces (alt). (+)
+** Perforce -> GitLab migration ([$STARLING-20283: reminded them of lost info). (P)
+
+* 2022-11-16
+** Off.
+** Restore Perforce workspaces (thinkpad). (D)
+** Perforce -> GitLab migration (investigation started at Nagaraj's end; branches now migrated 'independently'). (P)
+** p4-git-check (moved some constants to the properties file). (P)
+** [$XENON-4796 ([$STARLING/NextEra-FPL: query issues with multi-value sibling elements). (P)
+** Michael Cybala's all-hands. (D)
+
 -------- 2022-11-07 ~ 2022-11-11
 
 * 2022-11-07
 ** Off.
 ** [$VAULT2-20763 (Societe Generale: assured the customer that the investigation would continue). (P)
-
 
 * 2022-11-08
 ** Sick.
@@ -26,6 +48,11 @@ BVEPP
 ** p4-git-check (vairous minor fixes; shared the tool with other teams with detailed instructions, via Champaka). (P)
 ** [$xENON scrum meeting. (D)
 ** Quick call with Champaka to discuss the next steps for Ram. (+)
+
+* 2022-11-11
+** REC.
+** p4-git-check (performance fixes for resuming the check from a certain changelist). (P)
+** Perforce -> GitLab migration ([$STARLING-20283: jars zipped and uploaded; able to build any random old version?). (P)
 
 -------- 2022-10-31 ~ 2022-11-04
 
