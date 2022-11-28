@@ -3,28 +3,79 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-11-21 ~ 2022-11-25
+
+* 2022-11-21
+** REC.
+** p4-git-check (added support for checking semicolon separated list of branches). (P)
+** [$xENON scrum meeting. (D)
+** Create an HR ticket for further questions regarding virtual fitness program reimbursement. (+)
+** Create an HR ticket for vacation carryover. (+)
+** Create [$XENON-4799 (move dependencies to artifactory). (+)
+** [$XENON-4796 ([$STARLING/NextEra-FPL: instructed them on how to retrieve the correct index definitions). (P)
+** Perforce -> GitLab migration (unable to clone the new 'database-binary' repo via HTTP; SSH still fine). (P)
+
+* 2022-11-22
+** REC.
+** Deal with the vacation carryover issue (now too much of a hassle; forget about it). (+)
+** Quick call with Ram (IntelliJ specific issue of launching two Admin Client instances). (+)
+** Perforce -> GitLab migration (reported the issue with cloning via HTTP). (P)
+** [$XENON-4796 ([$STARLING/NextEra-FPL: need to export index definitions on all ancestors). (P)
+** Perforce -> GitLab migration (validation for the new 'database-binary' repo). (P)
+
+* 2022-11-23
+** REC.
+** Perforce -> GitLab migration (validation for the new 'database-binary' repo). (P)
+** [$XENON-4783 (doc enhancement request: explained why no more work was expected; closed as requested). (D)
+** Deal with the request from local tax authorities to collect info wrt to the work on [$xENON (concerns over the disclosure of potentially sensitive info). (+)
+** [$XENON-4798 (reviewed Ram's fix for the menu item to start listening port on a remote server). (+)
+
+* 2022-11-24
+** REC.
+** Perforce -> GitLab migration (validation for the new 'database-binary' repo). (P)
+** KT session for Ram (just a quick sync-up; suggested focusing on the consistency checker framework for now). (D)
+** Create [$XENON-4799 (Apache Ivy?). (P)
+** Deal with the request from local tax authorities to collect info wrt to the work on [$xENON (greenlighted, sort of). (D)
+
+* 2022-11-25
+** REC.
+** Perforce -> GitLab migration (validation for the new 'database-binary' repo; issues with branch renaming still there; encoding?). (P)
+
 -------- 2022-11-14 ~ 2022-11-18
 
 * 2022-11-14
-** Off.
+** REC.
 ** Perforce -> GitLab migration (finished the check for Main; reported new types of issues; [$STARLING-20283: solution/workaround not retroactive). (P)
 ** [$xENON scrum meeting. (D)
 ** p4-git-check (program arguments). (P)
 ** Perforce workspaces accidentally deleted by some genius.
 
 * 2022-11-15
-** Off.
+** REC.
 ** Provide feedback on Ram. (+)
 ** Restore Perforce workspaces (alt). (+)
 ** Perforce -> GitLab migration ([$STARLING-20283: reminded them of lost info). (P)
 
 * 2022-11-16
-** Off.
+** REC.
 ** Restore Perforce workspaces (thinkpad). (D)
 ** Perforce -> GitLab migration (investigation started at Nagaraj's end; branches now migrated 'independently'). (P)
 ** p4-git-check (moved some constants to the properties file). (P)
 ** [$XENON-4796 ([$STARLING/NextEra-FPL: query issues with multi-value sibling elements). (P)
 ** Michael Cybala's all-hands. (D)
+
+* 2022-11-17
+** REC.
+** Perforce -> GitLab migration (further discussions with Nagaraj on found issues). (P)
+** KT session for Ram (build-manual; p4 file type: unicode? issue with the menu item to start listening port on a remote server). (D)
+** [$VAULT2-20763 (Societe Generale: they've been pressing me...). (P)
+** [$XENON-4796 ([$STARLING/NextEra-FPL: that's not index definition; explained how to export the definitions). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4764 ([$STARLING/EDF: no size change after rebuilding the index; requested index definition). (P)
+
+* 2022-11-18
+** REC.
+** Perforce -> GitLab migration (wrote a lengthy email to explain in detail why we must keep all the binaries). (P)
 
 -------- 2022-11-07 ~ 2022-11-11
 
