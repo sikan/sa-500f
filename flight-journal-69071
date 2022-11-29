@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-11-28 ~ 2022-12-02
+
+* 2022-11-28
+** REC.
+** Perforce -> GitLab migration (validation for 'database-binary' done; investigation of the issues with meta-data encoding and branch renaming). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2022-11-21 ~ 2022-11-25
 
 * 2022-11-21
