@@ -3,12 +3,34 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-12-05 ~ 2022-12-09
+
+* 2022-12-05
+** Off.
+
+* 2022-12-06
+** Off.
+
 -------- 2022-11-28 ~ 2022-12-02
 
 * 2022-11-28
 ** REC.
 ** Perforce -> GitLab migration (validation for 'database-binary' done; investigation of the issues with meta-data encoding and branch renaming). (P)
 ** [$xENON scrum meeting. (D)
+
+* 2022-11-29
+** REC.
+** Perforce -> GitLab migration (shared with Nagaraj the P4 mini project for the investigation of the branch renaming issue). (P)
+** [$XENON-4796 ([$STARLING/NextEra-FPL: not reproducible w/o their analyzer; requested debug output). (P)
+
+* 2022-11-30
+** Off.
+
+* 2022-12-01
+** Off.
+
+* 2022-12-02
+** Off.
 
 -------- 2022-11-21 ~ 2022-11-25
 
