@@ -11,6 +11,12 @@ BVEPP
 * 2022-12-06
 ** Off.
 
+* 2022-12-07
+** REC.
+** [$XENON-4718 (Flatirons: direct removal didn't work due to the processing of external nodes; proposed next steps; option to uprgade?). (P)
+** [$VAULT2-20763 (Societe Generale: promised to take another look). (P)
+** [$XENON-4764 ([$STARLING/EDF: advised them to check sub-path configurations, INCLUDE_DESCENDANTS?). (P)
+
 -------- 2022-11-28 ~ 2022-12-02
 
 * 2022-11-28
@@ -1759,7 +1765,7 @@ BVEPP
 * 2021-10-12
 ** REC.
 ** Install on all Jenkins machines the three tools required by UBMT (LogRhythm). (P)
-** [$XENON-4662 (BoC Neimenggu: advised to re-run the repair tools based on the results). (P)
+** [$XENON-4662 (BoC Neimenggu: advised them to re-run the repair tools based on the results). (P)
 ** [$XENON-4695 (Mylan: OOM; no empty segment available to LMPI; requested heap dump). (+)
 ** 1-on-1 with Champaka. (D)
 
