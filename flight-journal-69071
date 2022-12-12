@@ -24,6 +24,12 @@ BVEPP
 ** Sync up with Nara on Ram's status. (+)
 ** [$XENON-4718 (Flatirons: advised the customer to consider the option to upgrade). (P)
 
+* 2022-12-09
+** REC.
+** Create an HR ticket for fitness membership and wellness reimbursement. (+)
+** Perforce -> GitLab migration (validation for the latest migration with the fix for the branch renaming issue). (P)
+** [$VAULT2-20763 (Societe Generale: perhaps the apparently deleted .wal file wasn't replicated in the first place?). (P)
+
 -------- 2022-11-28 ~ 2022-12-02
 
 * 2022-11-28
