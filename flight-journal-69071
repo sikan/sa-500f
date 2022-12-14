@@ -3,6 +3,25 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-12-12 ~ 2022-12-16
+
+* 2022-12-12
+** REC.
+** [$VAULT2-20763 (Societe Generale: the missing .wal file restored from a backup of the master or the replica?). (P)
+** Perforce -> GitLab migration (validation for the latest migration with the fix for the branch renaming issue). (P)
+** [$XENON-4799 (Apache Ivy documentation; checked with Satish's team for other recommended approaches). (P)
+** [$xENON scrum meeting. (D)
+
+* 2022-12-13
+** REC.
+** Perforce -> GitLab migration (validation for the latest migration with the fix for the branch renaming issue; timeline discussion with Satish). (P)
+** Deal with a currency conversion issue with the fitness membership and wellness reimbursement program. (+)
+** [$XENON-4799 (Apache Ivy documentation; Satish also recommended Ivy). (P)
+
+* 2022-12-14
+** Off.
+** Perforce -> GitLab migration (validation done; nice-to-have: 1. dev branches under 'dev/'? 2. file list in commit message?). (P)
+
 -------- 2022-12-05 ~ 2022-12-09
 
 * 2022-12-05
