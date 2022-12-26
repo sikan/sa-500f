@@ -17,6 +17,16 @@ BVEPP
 * 2022-12-22
 ** Sick.
 
+* 2022-12-23
+** REC.
+** Create another follow-up HR ticket for fitness membership and wellness reimbursement. (+)
+** IDP Global Survey 2022. (+)
+** Innovation Spotlight: DNS leak prevention. (+)
+** [$VAULT2-20763 (Societe Generale: .wal file restored from a backup of the replica itself; apparently still the issues with LSN calculation or truncation). (P)
+** Create [$XENON-4804 (10.7 build hanging: index writer cannot be closed due to active/pending merges). (P)
+** Perforce -> GitLab migration (GitLab build; Jenkins upgrade; all unsuccessful... too many lab restrictions). (P)
+** [$XENON-4801 ([$STARLING/BHP Billiton: quick discussion with Val). (+)
+
 -------- 2022-12-12 ~ 2022-12-16
 
 * 2022-12-12
