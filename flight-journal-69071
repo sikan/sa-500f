@@ -3,6 +3,27 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2022-12-26 ~ 2022-12-30
+
+* 2022-12-26
+** REC.
+** [$VAULT2-21642 (COOP, Basel Informatik, Entwicklung: receiver not found, probably caused by IP/port mapping). (P)
+** [$VAULT2-20763 (Societe Generale: requested .wal files; reviewed log truncation logic, and weakly committed transactions in particular). (P)
+
+* 2022-12-27
+** REC.
+** [$VAULT2-21642 (COOP, Basel Informatik, Entwicklung: print the addresses of connected clients as seen by the server on 'receiver not found' error; suggested extracting the info from heap dump). (P)
+** Perforce -> GitLab migration (installed Temurin on all Jenkins VMs). (P)
+
+* 2022-12-28
+** Off.
+
+* 2022-12-29
+** Off.
+
+* 2022-12-30
+** Off.
+
 -------- 2022-12-19 ~ 2022-12-23
 
 * 2022-12-19
