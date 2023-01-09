@@ -3,6 +3,29 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-01-03 ~ 2023-01-06
+
+* 2023-01-03
+** REC.
+** Perforce -> GitLab migration (Git installation on Jenkins VMs; issues with yum; created a UBMT ticket). (P)
+
+* 2023-01-04
+** REC.
+** Perforce -> GitLab migration (further explained the issues with yum to UBMT team). (P)
+** Investigate a hanging 10.5 build on Jenkins (blocked at lookupAllHostAddr). (+)
+** [$XENON-4799 (Apache Ivy documentation). (P)
+
+* 2023-01-05
+** REC.
+** Perforce -> GitLab migration (created another ELSS ticket, as suggested by UBMT). (P)
+** [$XENON-4799 (Apache Ivy documentation). (P)
+** Muhi's all-hands. (D)
+
+* 2023-01-06
+** REC.
+** Perforce -> GitLab migration (ELSS shared the instructions to register VMs to Red Hat Satellite server; informed Wouter of that). (P)
+** [$XENON-4799 (Apache Ivy documentation). (P)
+
 -------- 2022-12-26 ~ 2022-12-30
 
 * 2022-12-26
