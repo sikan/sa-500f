@@ -12,6 +12,16 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** [$VAULT2-20763 (Societe Generale: closed but moved to [$XENON for further investigation). (D)
 
+* 2023-01-10
+** REC.
+** Perforce -> GitLab migration (made all Jenkins VMs yum ready; Git installation; sync-up with Nagaraj). (P)
+** [$XENON-4806 ([$NEON: constant false predicate). (P)
+
+* 2023-01-11
+** REC.
+** [$XENON-4806 ([$NEON: further explained why the specific query resulted in a constant false predicate). (D)
+** Perforce -> GitLab migration (Git installation, except slave-17 and slave-18; new Git build and pipeline). (P)
+
 -------- 2023-01-03 ~ 2023-01-06
 
 * 2023-01-03
