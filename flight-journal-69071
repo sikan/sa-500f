@@ -22,6 +22,15 @@ BVEPP
 ** [$XENON-4806 ([$NEON: further explained why the specific query resulted in a constant false predicate). (D)
 ** Perforce -> GitLab migration (Git installation, except slave-17 and slave-18; new Git build and pipeline). (P)
 
+* 2023-01-12
+** REC.
+** Perforce -> GitLab migration (new Git build and pipeline). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-01-13
+** REC.
+** Perforce -> GitLab migration (preparation for Jenkins upgrade: installed Temurin JDK again via yum, to be picked up by update-alternatives; 8 -> 11 switch for all VMs). (P)
+
 -------- 2023-01-03 ~ 2023-01-06
 
 * 2023-01-03
@@ -55,7 +64,7 @@ BVEPP
 * 2022-12-27
 ** REC.
 ** [$VAULT2-21642 (COOP, Basel Informatik, Entwicklung: print the addresses of connected clients as seen by the server on 'receiver not found' error; suggested extracting the info from heap dump). (P)
-** Perforce -> GitLab migration (installed Temurin on all Jenkins VMs). (P)
+** Perforce -> GitLab migration (installed Temurin JDK on all Jenkins VMs). (P)
 
 * 2022-12-28
 ** Off.
