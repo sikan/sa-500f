@@ -3,6 +3,16 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-01-16 ~ 2023-01-20
+
+* 2023-01-16
+** REC.
+** [$XENON-4807 (Istituto Clinico Humanitas: unable to register replica). (+)
+** Create ELSS-37039 for slave-17 (lost its resource pool; solved through vCenter; network adapter type: E100E -> VMXNET3). (+)
+** [$xENON scrum meeting. (D)
+** Issues with existing Jenkins pipelines after the switch to Java 11 (even without upgrading Jenkins). (+)
+** (Unsuccessful) attempts to upgrade Jenkins (via war file replacement; via yum; one LTS at a time; vairous plugin errors). (P)
+
 -------- 2023-01-09 ~ 2023-01-13
 
 * 2023-01-09
@@ -15,7 +25,7 @@ BVEPP
 * 2023-01-10
 ** REC.
 ** Perforce -> GitLab migration (made all Jenkins VMs yum ready; Git installation; sync-up with Nagaraj). (P)
-** [$XENON-4806 ([$NEON: constant false predicate). (P)
+** [$XENON-4806 ([$NEON: constant false predicate). (+)
 
 * 2023-01-11
 ** REC.
