@@ -11,7 +11,12 @@ BVEPP
 ** Create ELSS-37039 for slave-17 (lost its resource pool; solved through vCenter; network adapter type: E100E -> VMXNET3). (+)
 ** [$xENON scrum meeting. (D)
 ** Issues with existing Jenkins pipelines after the switch to Java 11 (even without upgrading Jenkins). (+)
-** (Unsuccessful) attempts to upgrade Jenkins (via war file replacement; via yum; one LTS at a time; vairous plugin errors). (P)
+** (Unsuccessful) attempts to upgrade Jenkins (via war file replacement, one LTS at a time; via yum; vairous plugin errors). (P)
+
+* 2023-01-16
+** REC.
+** Upgrade Jenkins (via yum, one LTS at a time, with all compatible plugins updated for each LTS). (D)
+** Perforce -> GitLab migration (issues caused by the now deprecated pipeline declarative agent API; global Git timeout setting at agent level; 'standard' pipeline finally working). (P)
 
 -------- 2023-01-09 ~ 2023-01-13
 
