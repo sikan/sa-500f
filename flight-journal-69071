@@ -13,10 +13,27 @@ BVEPP
 ** Issues with existing Jenkins pipelines after the switch to Java 11 (even without upgrading Jenkins). (+)
 ** (Unsuccessful) attempts to upgrade Jenkins (via war file replacement, one LTS at a time; via yum; vairous plugin errors). (P)
 
-* 2023-01-16
+* 2023-01-17
 ** REC.
 ** Upgrade Jenkins (via yum, one LTS at a time, with all compatible plugins updated for each LTS). (D)
 ** Perforce -> GitLab migration (issues caused by the now deprecated pipeline declarative agent API; global Git timeout setting at agent level; 'standard' pipeline finally working). (P)
+
+* 2023-01-18
+** REC.
+** Perforce -> GitLab migration ('nightly' pipeline working; refspec not honored?). (P)
+** Official pipeline guide. (+)
+
+* 2023-01-19
+** REC.
+** [$XENON-4808 (Istituto Clinico Humanitas: unable to start replica as Windows service; '--master' not specified?). (+)
+** [$xENON scrum meeting. (D)
+** Perforce -> GitLab migration (failure of the nightly build, which stage? stage names missing in the output). (P)
+
+* 2023-01-20
+** REC.
+** [$XENON-4808 (Istituto Clinico Humanitas: command seemed correct; issues with .bat file and Windows service? suggested experimenting with different combinations of options). (P)
+** Fix the year (2023) in the command line copyright notice for all active branches. (+)
+** [$XENON-4809 ([$NEON: XQuery update syntax). (+)
 
 -------- 2023-01-09 ~ 2023-01-13
 
