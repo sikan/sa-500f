@@ -3,6 +3,16 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-01-28 ~ 2023-02-03
+
+* 2023-01-28
+** REC.
+** [$XENON-4808 (Istituto Clinico Humanitas: Windows error code indicated an issue with the path to the executable). (P)
+** Perforce -> GitLab migration (wrote an email to Bruno about the omission of XPD). (P)
+** Read PhRx's article [[[$xENON Jenkins Jobs and Pipelines]]. (+)
+** Continue investigating the issues with pipeline stage names in console logs (intentionally removed; rendering now done on client side; see JENKINS-54304, JENKINS-56957). (D)
+** Investigate various failures of the 'Distribution' step in almost all branches. (+)
+
 -------- 2023-01-16 ~ 2023-01-20
 
 * 2023-01-16
