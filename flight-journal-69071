@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-02-06 ~ 2023-02-10
+
+* 2023-02-06
+** REC.
+** Replace full-width punctuations that resulted in gibberish characters in GitLab commit messages (but for my own changelists only). (+)
+** [$XENON-4808 (Istituto Clinico Humanitas: scripts and setup all seemed okay at first glance; requested explicit confirmations; engaged Wouter). (P)
+** [$xENON scrum meeting. (D)
+** Write an email to discuss the issues with '--dedicated-replica'. (+)
+
 -------- 2023-01-28 ~ 2023-02-03
 
 * 2023-01-28
@@ -11,7 +20,44 @@ BVEPP
 ** Perforce -> GitLab migration (wrote an email to Bruno about the omission of XPD). (P)
 ** Read PhRx's article [[[$xENON Jenkins Jobs and Pipelines]]. (+)
 ** Continue investigating the issues with pipeline stage names in console logs (intentionally removed; rendering now done on client side; see JENKINS-54304, JENKINS-56957). (D)
-** Investigate various failures of the 'Distribution' step in almost all branches. (+)
+** Investigate various types of failures of the 'Distribution' step in almost all branches. (+)
+
+* 2023-01-29
+** REC.
+** Continue investigating the issues with the new pipelines: timeout, refspec, etc. (P)
+** Continue Investigating various types of failures of the 'Distribution' step. (P)
+
+* 2023-01-30
+** REC.
+** Continue Investigating various types of failures of the 'Distribution' step (added '-find-mvn' and fixed a specific problem with running the build script in Git Bash on Windows). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-01-31
+** REC.
+** Replace p4 commands in the build script with git equivalents ('git rev-parse'). (D)
+** Use the 8-character short hash of Git commit as the new build number (for the time being). (D)
+
+* 2023-02-01
+** REC.
+** Update the script for the pipeline step 'checkout scmGit()' (refspec, depth, etc.). (D)
+** Create [$XENON-4810 (a leftover 'target' directory under the project root, presumably created by maven). (+)
+** Switch to the new PoC repo on the production GitLab server (network too slow to perform clone). (+)
+** Make the 'Distribution' step work (revived stash/unstash; workaround for the 'not a git repository' while re-generating version for the dev distro; further investigation needed). (D)
+** Investigate an issue with determining the branch name on Jenkins ('git rev-parse --abbrev-ref HEAD' not working as expected). (+)
+
+* 2023-02-02
+** REC.
+** Investigate an issue with determining the branch name on Jenkins ('HEAD detached' on Jenkins slaves; 'git show -s --pretty=%d HEAD'). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-02-03
+** REC.
+** [$XENON-4808 (Istituto Clinico Humanitas: requested detailed info and the scripts to start master/replica). (P)
+** Fix a type casting error with 0xffffffffL which caused the failure of decoding the new build number (that 'L', a beginner mistake). (+)
+** Fix the regex issue by recognizing build numbers as short as 6 characters in length (smallest changelist number for [$xENON). (+)
+** Update the regex to extract the branch name from the output of 'git show -s --pretty=%d HEAD'. (D)
+** Clean up unintegrated changes in upstream branches (except for 10.7 -> 11.1). (D)
+** Create [$XENON-4811 (changes to merge from 10.7 to 11.1 after the migration; will be used to verify the new merge check tool). (+)
 
 -------- 2023-01-16 ~ 2023-01-20
 
