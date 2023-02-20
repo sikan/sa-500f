@@ -3,14 +3,69 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-02-13 ~ 2023-02-17
+
+* 2023-02-13
+** REC.
+** Perforce -> GitLab migration (validation; urged Nagaraj to move unrelated stuff to appropriate locations). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-02-14
+** REC.
+** Perforce -> GitLab migration (validation). (P)
+** [$XENON-4813 (Flatirons: updated version of WebDav needed; internal discussions about potential strategies). (+)
+** Set up the new 11.1 in eclipse (renamed all good old Perforce projects to avoid name conflicts). (D)
+
+* 2023-02-15
+** REC.
+** Perforce -> GitLab migration (validationi; hindered by p4 connection issues). (P)
+** [$VAULT2-22228 (that JSZip came from nowhere). (+)
+** [$XENON-4814 (Kansaneläkelaitos: two identical copies, one for normal updates, one for index building, merge via incremental backup? should use index-in-construction instead). (+)
+** [$XENON-4816 (FWD Life Insurance: no evidence in the very few thread dumps suggesting a performance issue) (+)
+
+* 2023-02-16
+** REC.
+** Perforce -> GitLab migration (validationi; hindered by p4 connection issues). (P)
+** Fix test failures caused by using Git commit hash as build number. (D)
+** Set up the new standard and nightly pipelines for 11.1 (this is official). (D)
+** [$XENON-4816 (FWD Life Insurance: no evidence in the very few thread dumps suggesting a performance issue) (P)
+** [$xENON scrum meeting. (D)
+** Remove mentions of Perforce/p4 from the build file. (D)
+
+* 2023-02-17
+** REC.
+** Perforce -> GitLab migration (validation). (P)
+** [$XENON-4817 (Istituto Clinico Humanitas: opened in error; not an [$xENON issue). (+)
+** [$XENON-4816 (FWD Life Insurance: something suspicious in the new batch of thread dumps; further confirmation needed) (P)
+
 -------- 2023-02-06 ~ 2023-02-10
 
 * 2023-02-06
 ** REC.
 ** Replace full-width punctuations that resulted in gibberish characters in GitLab commit messages (but for my own changelists only). (+)
-** [$XENON-4808 (Istituto Clinico Humanitas: scripts and setup all seemed okay at first glance; requested explicit confirmations; engaged Wouter). (P)
+** [$XENON-4808 (Istituto Clinico Humanitas: scripts and setup all seemed okay; requested explicit confirmations; engaged Wouter; tested creating/running replica from CLI). (P)
 ** [$xENON scrum meeting. (D)
 ** Write an email to discuss the issues with '--dedicated-replica'. (+)
+
+* 2023-02-07
+** REC.
+** [$XENON-4808 (Istituto Clinico Humanitas: Wouter's comment regarding the .lax file). (P)
+** Create [$XENON-4812 (apparently harmless communication errors triggered by 'create-replica'). (+)
+
+* 2023-02-08
+** REC.
+** [$XENON-4808 (Istituto Clinico Humanitas: resolved? hmmm...). (P)
+** [$XENON-4803 ([$STARLING: folder descendant query returned unexpected empty results). (+)
+** Review Sherry's aged KT slides for LMPI. (+)
+
+* 2023-02-09
+** REC.
+** Perforce -> GitLab migration (repos in GitLab went live; PHT? suggestions regarding 'PlayGround' and unclaimed tools). (P)
+
+* 2023-02-10
+** REC.
+** Perforce -> GitLab migration (validation). (P)
+** Invetigate another 'not a git repository' error found on Jenkins ('.git' directory skipped by 'stash'; fixed by 'useDefaultExcludes: false'). (D)
 
 -------- 2023-01-28 ~ 2023-02-03
 
