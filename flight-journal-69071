@@ -3,6 +3,23 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-02-20 ~ 2023-02-21
+
+* 2023-02-20
+** REC.
+** Perforce -> GitLab migration (validation: errors and warnings; explained the nature of the 'tools' and 'Playground' directories to Satish). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-02-21
+** REC.
+** OWASP 2021 - Broken Access Control. (D)
+** OWASP 2021 - Cryptographic Failures. (D)
+** Perforce -> GitLab migration (validation: xTest). (P)
+** p4-git-check (now able to run against P4 projects without branches). (P)
+** Add shortcuts for Git Bash to switch [$xENON/Java/Ant versions. (+)
+** Set up the new standard and nightly pipelines for 10.5 and 10.6 ('git cherry-pick' for 10.5 -> 10.6). (D)
+** Unexpected support call for a [$STARLING/Ericsson query issue. (+)
+
 -------- 2023-02-13 ~ 2023-02-17
 
 * 2023-02-13
