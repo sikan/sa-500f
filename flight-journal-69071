@@ -20,6 +20,14 @@ BVEPP
 ** Set up the new standard and nightly pipelines for 10.5 and 10.6 ('git cherry-pick' for 10.5 -> 10.6). (D)
 ** Unexpected support call for a [$STARLING/Ericsson query issue. (+)
 
+* 2023-02-22
+** REC.
+** Perforce -> GitLab migration (validation: CSI). (P)
+** Set up the new standard and nightly pipelines for 10.7. (D)
+** Set up new pipelines for upgrade and OOS tests. (D)
+** [$XENON-4819 ([$NEON Supplier Exchange: OOM; error upon recovery redo). (+)
+** Quick sync-up with Champaka. (+)
+
 -------- 2023-02-13 ~ 2023-02-17
 
 * 2023-02-13
