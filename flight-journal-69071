@@ -28,6 +28,17 @@ BVEPP
 ** [$XENON-4819 ([$NEON Supplier Exchange: OOM; error upon recovery redo). (+)
 ** Quick sync-up with Champaka. (+)
 
+* 2023-02-23
+** REC.
+** [$XENON-4819 ([$NEON Supplier Exchange: fixed the corrupted .wal file; suggested running full consistency checks afterwards). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-02-24
+** REC.
+** [$XENON-4819 ([$NEON Supplier Exchange: questions regarding backups; reminded them to re-run the failed indexing operations as well as the consistency checks). (P)
+** [$XENON-4822 (helped Karen implement the code to delete a certain node using [$xENON public APIs). (+)
+** [$XENON-4821 (Flatirons: apparently inexplicable stack trace and NPE). (+)
+
 -------- 2023-02-13 ~ 2023-02-17
 
 * 2023-02-13
