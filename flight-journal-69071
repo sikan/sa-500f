@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-02-27 ~ 2023-03-03
+
+* 2023-02-27
+** REC.
+** [$XENON-4821 (Flatirons: affected version changed to 10.5...). (P)
+** [$XENON-4814 (Kansaneläkelaitos: index-in-construction said to set 750GB of data to read-only mode, really?). (P)
+** [$xENON scrum meeting. (D)
+** Write an email to Wouter about the issues with building distributions for 10.x. (+)
+
 -------- 2023-02-20 ~ 2023-02-21
 
 * 2023-02-20
