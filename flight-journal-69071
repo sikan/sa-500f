@@ -12,6 +12,30 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Write an email to Wouter about the issues with building distributions for 10.x. (+)
 
+* 2023-02-28
+** REC.
+** [$XENON-4814 (Kansaneläkelaitos: explained the internal mechanism of index-in-construction; clarifications needed from the customer). (P)
+** Continue investigating the issues with building distributions for 10.x. (P)
+
+* 2023-03-01
+** REC.
+** [$XENON-4823 (XQuery and API questions from Karen). (+)
+** Continue investigating the issues with building distributions for 10.x. (P)
+
+* 2023-03-02
+** REC.
+** [$NEON Supplier Exchange team's inquiry regarding HA setup, backup/restore and storage. (+)
+** [$XENON-4823 (XQuery and API questions from Karen). (P)
+** [$XENON-4814 (Kansaneläkelaitos: reiterated the internal mechanism and locking behaviors of index-in-construction after a confusing reply). (P)
+** Continue investigating the issues with building distributions for 10.x (inspection of InstallAnywhere's shell script used to determine Java version). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-03-03
+** REC.
+** [$XENON-4821 (Flatirons: 10.2.7 confirmed; requested the exact jar file). (P)
+** [$XENON-4823 (XQuery and API questions from Karen). (P)
+** Configure personal access token (HTTPS) and OpenSSH key for Sourcetree. (+)
+
 -------- 2023-02-20 ~ 2023-02-21
 
 * 2023-02-20
