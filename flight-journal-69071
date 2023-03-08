@@ -3,6 +3,20 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-03-06 ~ 2023-03-10
+
+* 2023-03-06
+** REC.
+** Look into the Git build issues reported by Wouter ([$XENON-4810, distribution version name, etc.). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4810 (moved jar shading working directory into 'build'; made purge-local-repository more efficient). (P)
+
+* 2023-03-07
+** REC.
+** Training: Work Arrangements Policy. (+)
+** [$XENON-4810 (verification). (D)
+** Continue investigating the issues with building distributions for 10.x (InstallAnywhere's shell script; direct invocation on Jenkins). (P)
+
 -------- 2023-02-27 ~ 2023-03-03
 
 * 2023-02-27
