@@ -17,6 +17,27 @@ BVEPP
 ** [$XENON-4810 (verification). (D)
 ** Continue investigating the issues with building distributions for 10.x (InstallAnywhere's shell script; direct invocation on Jenkins). (P)
 
+* 2023-03-08
+** REC.
+** [$XENON-4824 ([$STARLING/Ericsson: explained how to single-node a mutli-node setup). (+)
+** [$XENON-4825 ([$STARLING/BHP Billiton: indexing performance issues, with no details). (+)
+** Continue investigating the issues with building distributions for 10.x (fixed what seemed a bug with InstallAnywhere's shell script). (D)
+** Fix JDK version mistakes in readme files. (+)
+
+* 2023-03-09
+** REC.
+** Answer Wouter's questions regarding how to perform our good old P4 style merges in Git. (+)
+** Turn on LAX_DEBUG and redirect the output of InstallAnywhere for active branches. (+)
+** Create $[XENON-4826 (details of the issues with InstallAnywhere's shell script and the fix). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4825 ([$STARLING/BHP Billiton: explained a few performance related properties, but suggested not tweaking them without identifying the bottleneck). (P)
+
+* 2023-03-10
+** REC.
+** [$XENON-4825 ([$STARLING/BHP Billiton: basically reiterated previous points). (P)
+** [$XENON-4827 (questions regarding the '[$XENON_STRING_LIMIT' property). (+)
+** Investigate how to make xTest work with Git. (+)
+
 -------- 2023-02-27 ~ 2023-03-03
 
 * 2023-02-27
