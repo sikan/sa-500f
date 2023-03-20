@@ -3,6 +3,38 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-03-13 ~ 2023-03-17
+
+* 2023-03-13
+** REC.
+** [$XENON-4827 ('[$XENON_STRING_LIMIT' must be specified as a numeric value instead of abbreviations such as 10M). (P)
+** Introduction and eProfile System Training by Direct ATP. (D)
+** Fix a directory issue with the pipelines for upgrade tests. (+)
+** [$xENON scrum meeting. (D)
+
+* 2023-03-14
+** tP.
+** Rearrange office desk after being away for almost 2 years. (D)
+** Investigate how to make xTest work with Git (OOS tests now working). (D)
+** Investigate how to detected unmerged commits between Git branches ('git cherry'?). (+)
+** Fix another issue with the upgrade tests from 11.0 to 11.1 (regex for version pattern, 'no.preforce' resulted in revision number '0' for 11.0). (+)
+
+* 2023-03-15
+** tP.
+** (Re-)familiarize with some advanced and potentially destructive Git commands. (+)
+** Michael Cybala's all-hands. (D)
+
+* 2023-03-16
+** REC.
+** Create another HR ticket for the issue with vacation days (again???). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4814 (Kansaneläkelaitos: needed an updated version of Wouter's tool for 11). (P)
+
+* 2023-03-17
+** REC.
+** [$XENON-4814 (Kansaneläkelaitos: Wouter's confirmation). (P)
+** Off/PM.
+
 -------- 2023-03-06 ~ 2023-03-10
 
 * 2023-03-06
@@ -35,7 +67,7 @@ BVEPP
 * 2023-03-10
 ** REC.
 ** [$XENON-4825 ([$STARLING/BHP Billiton: basically reiterated previous points). (P)
-** [$XENON-4827 (questions regarding the '[$XENON_STRING_LIMIT' property). (+)
+** [$XENON-4827 (questions from Karen regarding the '[$XENON_STRING_LIMIT' property). (+)
 ** Investigate how to make xTest work with Git. (+)
 
 -------- 2023-02-27 ~ 2023-03-03
@@ -366,6 +398,7 @@ BVEPP
 ** Perforce -> GitLab migration (validation done; nice-to-have: 1. dev branches under 'dev/'? 2. file list in commit message?). (P)
 
 * 2022-12-15
+4814
 ** Off.
 
 * 2022-12-16
