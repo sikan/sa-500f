@@ -20,6 +20,13 @@ BVEPP
 ** OWASP 2021 - Software and Data Integrity Failures. (D)
 ** OWASP 2021 - Vulnerable and Outdated Components. (D)
 
+* 2023-03-28
+** tP.
+** [$XENON-4830 ([$STARLING/BHP Billiton: general recommendations regarding final merge). (P)
+** Create [$XENON-4833 to better understand the optimizer behavior (Wouter confirmed the same finding). (+)
+** Continue experimenting with different queries and index definitions for the above. (P)
+** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: reminded Karen of the snapshot view for read-only transactions). (P)
+
 -------- 2023-03-20 ~ 2023-03-24
 
 * 2023-03-20
