@@ -3,6 +3,23 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-03-27 ~ 2023-03-31
+
+* 2023-03-27
+** REC.
+** [$XENON-4830 ([$STARLING/BHP Billiton: tens of gigabytes of log records for recovery; no issues with the checkpoint; answered some non-trivial questions from Roger). (+)
+** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: detailed suggestions regarding debugging logic for further investigation in customer's environment). (P)
+** [$xENON scrum meeting. (D)
+** OWASP 2021 - Fundamentals. (D)
+** OWASP 2021 - Identification and Authentication Failures. (D)
+** OWASP 2021 - Injection. (D)
+** OWASP 2021 - Insecure Design. (D)
+** OWASP 2021 - Security Logging and Monitoring Failures. (D)
+** OWASP 2021 - Security Misconfiguration. (D)
+** OWASP 2021 - Server-Side Request Forgery. (D)
+** OWASP 2021 - Software and Data Integrity Failures. (D)
+** OWASP 2021 - Vulnerable and Outdated Components. (D)
+
 -------- 2023-03-20 ~ 2023-03-24
 
 * 2023-03-20
@@ -16,6 +33,23 @@ BVEPP
 ** REC.
 ** Experiment with multibranch pipeline. (P)
 ** Create a UBMT ticket to change GitLab user roles for the team. (D)
+
+* 2023-03-22
+** REC.
+** Experiment with multibranch pipeline (sent out an email explaining how to use it). (D)
+** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: out-of-sync index? read-only transaction? caching on upper layer? 'ignore-indexes'). (+)
+
+* 2023-03-23
+** REC.
+** Change the default branch of our Git repo to 11.1. (D)
+** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: verification of [$xENON] behavior with their data and index definition; but index apparently ignored by the optimizer). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-03-24
+** REC.
+** [$XENON-4829 ([$STARLING: federation created in an unexpected directory; hey, it's not our fault). (+)
+** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: further verification of index consistency; more experiments with the optimizer behavior). (P)
+** [$XENON-4821 (Flatirons: inspected the obfuscated jar; presumably a JVM issue beyond the scope of [$xENON). (P)
 
 -------- 2023-03-13 ~ 2023-03-17
 
