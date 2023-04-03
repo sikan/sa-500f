@@ -27,6 +27,20 @@ BVEPP
 ** Continue experimenting with different queries and index definitions for the above. (P)
 ** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: reminded Karen of the snapshot view for read-only transactions). (P)
 
+* 2023-03-29
+** tP.
+** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger; issues with their kubernetes Pod; successful recovery, failure upon registering the shutdown hook; code to dump systemRedoLSN; proposed to perform recovery separately). (P)
+
+* 2023-03-30
+** tP.
+** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger and Daniel; unsuccessful attempt to directly launch [$xENON with CLI; proposed to use a modified jar). (P)
+** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+
+* 2023-03-31
+** tP.
+** [$XENON-4830 ([$STARLING/BHP Billiton: prepared a new jar that forced dirty page flush and a new checkpoint at the end of recovery; new workflow: dedicated Git branch for that). (P)
+** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+
 -------- 2023-03-20 ~ 2023-03-24
 
 * 2023-03-20
