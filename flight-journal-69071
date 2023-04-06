@@ -3,6 +3,28 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-04-03 ~ 2023-04-07
+
+* 2023-04-03
+** REC.
+** Provide support to Roger on vairous indexing and final merge related questions. (+)
+** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+** [$xENON scrum meeting (that 'no good deed goes...' message, thank you, Val, for the kind words and suppport). (D)
+** [$XENON-4830 ([$STARLING/BHP Billiton: had to deal with some corporate bs caused by that new hotfix jar). (P)
+
+* 2023-04-04
+** REC.
+** Add to release notes the switch from Perforce changelist number to Git commit hash as the build number. (D)
+** [$XENON-4830 ([$STARLING/BHP Billiton: systemRedoLSN advanced to currentLSN after recovery with the new jar; no undo phase due to CLRs created during last attempt; all good). (P)
+** [$XENON-4830 ([$STARLING/BHP Billiton: .wal files piling up again with only recently initiated transactions, but auto truncated shortly after indexing stopped; requested heap dump). (P)
+** Discuss with Val about problems with his SSH key setup for Git. (+)
+** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+** [$XENON-4835 ([$STARLING/Mylan: explained potential causes of value 0 at OFFSET_PAGEID). (+)
+** Create another HR ticket for the issue with vacation days (new monthly routine?). (+)
+
+* 2023-04-05
+** Off.
+
 -------- 2023-03-27 ~ 2023-03-31
 
 * 2023-03-27
