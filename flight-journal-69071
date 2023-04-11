@@ -3,6 +3,18 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-04-10 ~ 2023-04-14
+
+* 2023-04-10
+** REC.
+** Troubleshoot license key check in the new installer ('Next' button not properly wired? basically a black box to me). (P)
+
+* 2023-04-11
+** tP.
+** Troubleshoot license key check in the new installer (10.7 installer okay; pipeline-dist; various experiments). (P)
+** Identify a usage issue with Jenkin multibranch pipelines (should have used $BRANCH_NAME). (+)
+** Identify a regex issue with the output of 'git show -s --pretty=%d HEAD' when multiple branches share the same HEAD. (+)
+
 -------- 2023-04-03 ~ 2023-04-07
 
 * 2023-04-03
@@ -24,6 +36,15 @@ BVEPP
 
 * 2023-04-05
 ** Off.
+
+* 2023-04-06
+** REC.
+** Provide Champaka and Wouter with some notes regarding the new release. (+)
+** [$XENON-4834 ([$STARLING/BHP Billiton: billion-laughs test; started to inspect the... obfuscated heap dump). (P)
+
+* 2023-04-07
+** REC.
+** Troubleshoot license key check in the new installer (installer custom code). (+)
 
 -------- 2023-03-27 ~ 2023-03-31
 
