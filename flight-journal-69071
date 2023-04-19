@@ -3,6 +3,20 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-04-17 ~ 2023-04-21
+
+* 2023-04-17
+** REC.
+** [$XENON-4834 ([$STARLING/BHP Billiton: discussed performance tuning with Roger; case converted to internal task). (P)
+** Investigate the differences in class loading behavior between our own exception class and the Guava Strings class. (P)
+** [$xENON scrum meeting. (D)
+** Avoid that blunt NPE caused by the new build number (and the old regex) in a downgrade scenario. (+)
+** Quick call with Val (Git hanging at 'push'). (+)
+
+* 2023-04-18
+** REC.
+** Investigate the differences in class loading behavior between our own exception class and the Guava Strings class (type check for 'athrow' during verification). (D)
+
 -------- 2023-04-10 ~ 2023-04-14
 
 * 2023-04-10
@@ -14,6 +28,24 @@ BVEPP
 ** Troubleshoot license key check in the new installer (10.7 installer okay; pipeline-dist; various experiments). (P)
 ** Identify a usage issue with Jenkin multibranch pipelines (should have used $BRANCH_NAME). (+)
 ** Identify a regex issue with the output of 'git show -s --pretty=%d HEAD' when multiple branches share the same HEAD. (+)
+
+* 2023-04-12
+** REC.
+** Fix the regex issue identified yesterday. (D)
+** Fix the multibranch pipeline issue identified yesterday. (D)
+** Troubleshoot license key check in the new installer (various experiments). (P)
+
+* 2023-04-13
+** REC.
+** Troubleshoot license key check in the new installer (various experiments; debug output suggested issues with class loading). (P)
+** Identify and fix another regex issue with the output of 'git show -s --pretty=%d HEAD' after 'git reset'. (+)
+** [$xENON scrum meeting. (D)
+
+* 2023-04-14
+** tP.
+** Troubleshoot license key check in the new installer (classes turned out missing from the install jar; fixed; discussions with Wouter). (D)
+** Investigate the differences in class loading behavior between our own exception class and the Guava Strings class (an unsolved mystery from the above). (+)
+** Help Champaka find out what XDA is. (+)
 
 -------- 2023-04-03 ~ 2023-04-07
 
@@ -41,6 +73,7 @@ BVEPP
 ** REC.
 ** Provide Champaka and Wouter with some notes regarding the new release. (+)
 ** [$XENON-4834 ([$STARLING/BHP Billiton: billion-laughs test; started to inspect the... obfuscated heap dump). (P)
+** [$xENON scrum meeting. (D)
 
 * 2023-04-07
 ** REC.
@@ -71,16 +104,16 @@ BVEPP
 ** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: reminded Karen of the snapshot view for read-only transactions). (P)
 
 * 2023-03-29
-** tP.
+** REC.
 ** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger; issues with their kubernetes Pod; successful recovery, failure upon registering the shutdown hook; code to dump systemRedoLSN; proposed to perform recovery separately). (P)
 
 * 2023-03-30
-** tP.
+** REC.
 ** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger and Daniel; unsuccessful attempt to directly launch [$xENON with CLI; proposed to use a modified jar). (P)
 ** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
 
 * 2023-03-31
-** tP.
+** REC.
 ** [$XENON-4830 ([$STARLING/BHP Billiton: prepared a new jar that forced dirty page flush and a new checkpoint at the end of recovery; new workflow: dedicated Git branch for that). (P)
 ** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
 
