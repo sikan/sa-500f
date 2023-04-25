@@ -3,6 +3,19 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-04-23 ~ 2023-04-28
+
+* 2023-04-23
+** REC.
+** Store the full version as two separate attributes in bootstrap file. (D)
+
+* 2023-04-24
+** REC.
+** [$XENON-4834 ([$STARLING/BHP Billiton: .wal files not purged and piling up again). (P)
+** [$xENON scrum meeting. (D)
+** Fix regressions caused by the new way to store the full version in bootstrap file. (+)
+** Add new test cases to validate the logic used to check the validity of the full version read from bootstrap file. (+)
+
 -------- 2023-04-17 ~ 2023-04-21
 
 * 2023-04-17
@@ -16,6 +29,21 @@ BVEPP
 * 2023-04-18
 ** REC.
 ** Investigate the differences in class loading behavior between our own exception class and the Guava Strings class (type check for 'athrow' during verification). (D)
+
+* 2023-04-19
+** REC.
+** [$XENON-4834 ([$STARLING/BHP Billiton: Roger's query regarding monitoring the progress of final merge). (P)
+** Propose to split the full version information into two parts with an additional 'build' attribute in bootstrap file (to support the downgrade scenario). (D)
+
+* 2023-04-20
+** REC.
+** [$XENON-4841 ([$STARLING/Mylan: performance issues with final merge; requested some essential details). (+)
+** [$xENON scrum meeting. (D)
+** Store the full version as two separate attributes in bootstrap file. (P)
+
+* 2023-04-21
+** REC.
+** Store the full version as two separate attributes in bootstrap file. (P)
 
 -------- 2023-04-10 ~ 2023-04-14
 
