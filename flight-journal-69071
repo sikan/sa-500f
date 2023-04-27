@@ -16,6 +16,25 @@ BVEPP
 ** Fix regressions caused by the new way to store the full version in bootstrap file. (+)
 ** Add new test cases to validate the logic used to check the validity of the full version read from bootstrap file. (+)
 
+* 2023-04-25
+** REC.
+** [$XENON-4841 ([$STARLING/Mylan: listed the things they should collect and examine). (P)
+** [$XENON-4834 ([$STARLING/BHP Billiton: analysis of the second heap dump; culprit: long running read-only transactions). (P)
+
+* 2023-04-26
+** REC.
+** [$XENON-4841 ([$STARLING/Mylan: helped the support locate the .DB files...). (P)
+** Fix a build number padding issue found in the test (reported by Wouter; the last commit hash contained a leading '0' when he ran the test). (+)
+** [$XENON-4843 ([$STARLING/BHP Billiton: slow indexing performance; too vague, hard to pin down). (+)
+** [$XENON-4834 ([$STARLING/BHP Billiton: analysis of the first heap dump; unflushed dirty pages still a mystery; suggested forcing flush by 'suspend-diskwrites'). (P)
+
+* 2023-04-27
+** REC.
+** [$XENON-4841 ([$STARLING/Mylan: missing LMPI segments? reiterated the items to collect and examine). (P)
+
+* 2023-04-28
+** Off.
+
 -------- 2023-04-17 ~ 2023-04-21
 
 * 2023-04-17
