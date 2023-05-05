@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-05-04 ~ 2023-05-06
+
+* 2023-05-04
+** REC.
+** [$XENON-4834 ([$STARLING/BHP Billiton: call with Roger; determined systemRedoLSN for the potential recovery; urged [$STARLING to fix the usage issue with read-only transactions; further analysis of the first heap dump). (P)
+** [$XENON-4844 ([$STARLING/Volkswagen: no blackout for non-final merges; apparently they didn't heed our advice to upgrade after [XENON-4692). (+)
+** Revisit Philip's article [[[$xENON Core Desc - PageCache] (ring, page age, etc.). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2023-04-23 ~ 2023-04-28
 
 * 2023-04-23
@@ -99,7 +108,7 @@ BVEPP
 * 2023-04-03
 ** REC.
 ** Provide support to Roger on vairous indexing and final merge related questions. (+)
-** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+** [$XENON-4833 (Philip's article [[[$xENON Query Optimizer]). (P)
 ** [$xENON scrum meeting (that 'no good deed goes...' message, thank you, Val, for the kind words and suppport). (D)
 ** [$XENON-4830 ([$STARLING/BHP Billiton: had to deal with some corporate bs caused by that new hotfix jar). (P)
 
@@ -109,7 +118,7 @@ BVEPP
 ** [$XENON-4830 ([$STARLING/BHP Billiton: systemRedoLSN advanced to currentLSN after recovery with the new jar; no undo phase due to CLRs created during last attempt; all good). (P)
 ** [$XENON-4830 ([$STARLING/BHP Billiton: .wal files piling up again with only recently initiated transactions, but auto truncated shortly after indexing stopped; requested heap dump). (P)
 ** Discuss with Val about problems with his SSH key setup for Git. (+)
-** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+** [$XENON-4833 (Philip's article [[[$xENON Query Optimizer]). (P)
 ** [$XENON-4835 ([$STARLING/Mylan: explained potential causes of value 0 at OFFSET_PAGEID). (+)
 ** Create another HR ticket for the issue with vacation days (new monthly routine?). (+)
 
@@ -157,12 +166,12 @@ BVEPP
 * 2023-03-30
 ** REC.
 ** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger and Daniel; unsuccessful attempt to directly launch [$xENON with CLI; proposed to use a modified jar). (P)
-** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+** [$XENON-4833 (Philip's article [[[$xENON Query Optimizer]). (P)
 
 * 2023-03-31
 ** REC.
 ** [$XENON-4830 ([$STARLING/BHP Billiton: prepared a new jar that forced dirty page flush and a new checkpoint at the end of recovery; new workflow: dedicated Git branch for that). (P)
-** [$XENON-4833 (Philip's article [[[$xENON] Query Optimizer]). (P)
+** [$XENON-4833 (Philip's article [[[$xENON Query Optimizer]). (P)
 
 -------- 2023-03-20 ~ 2023-03-24
 
@@ -186,7 +195,7 @@ BVEPP
 * 2023-03-23
 ** REC.
 ** Change the default branch of our Git repo to 11.1. (D)
-** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: verification of [$xENON] behavior with their data and index definition; but index apparently ignored by the optimizer). (P)
+** [$XENON-4828 ([$NEON Supplier Exchange/Qatar Gas: verification of [$xENON behavior with their data and index definition; but index apparently ignored by the optimizer). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2023-03-24
