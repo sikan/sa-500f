@@ -3,14 +3,33 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-05-08 ~ 2023-05-12
+
+* 2023-05-08
+** REC.
+** Further analysis of the first heap dump from [$XENON-4834 (dirty pages should have been added to the flush queue during checkpoint phase two, right?). (P)
+** [$xENON scrum meeting. (D)
+** Create [$XENON-4846 (dirty pages not added to the flush queue, holding back systemRedoLSN). (+)
+** Create [$STARLING-20815 (issue with long-running read-only transactions, for Rajiv). (+)
+
 -------- 2023-05-04 ~ 2023-05-06
 
 * 2023-05-04
 ** REC.
 ** [$XENON-4834 ([$STARLING/BHP Billiton: call with Roger; determined systemRedoLSN for the potential recovery; urged [$STARLING to fix the usage issue with read-only transactions; further analysis of the first heap dump). (P)
 ** [$XENON-4844 ([$STARLING/Volkswagen: no blackout for non-final merges; apparently they didn't heed our advice to upgrade after [XENON-4692). (+)
-** Revisit Philip's article [[[$xENON Core Desc - PageCache] (ring, page age, etc.). (P)
+** Revisit Philip's article [[[$xENON Core Desc - PageCache] (ring, page age, etc.). (+)
 ** [$xENON scrum meeting. (D)
+
+* 2023-05-05
+** REC.
+** [$XENON-4834 ([$STARLING/BHP Billiton: explained the issue with read-only transactions to Rajiv; production instance quickly recovered after the restart, .wal files purged; call with Roger about query performance). (P)
+** Create an HR ticket for fitness membership and wellness reimbursement. (+)
+** [$XENON-4841 ([$STARLING/Mylan: thread dumps analysis; batch indexing during final merge?). (P)
+
+* 2023-05-06
+** REC.
+** Further analysis of the first heap dump from [$XENON-4834 (still a mystery). (P)
 
 -------- 2023-04-23 ~ 2023-04-28
 
@@ -28,7 +47,7 @@ BVEPP
 * 2023-04-25
 ** REC.
 ** [$XENON-4841 ([$STARLING/Mylan: listed the things they should collect and examine). (P)
-** [$XENON-4834 ([$STARLING/BHP Billiton: analysis of the second heap dump; culprit: long running read-only transactions). (P)
+** [$XENON-4834 ([$STARLING/BHP Billiton: analysis of the second heap dump; culprit: long-running read-only transactions). (P)
 
 * 2023-04-26
 ** REC.
