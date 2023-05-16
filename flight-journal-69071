@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-05-15 ~ 2023-05-19
+
+* 2023-05-15
+** REC.
+** [$XENON-4846 (fix? perhaps a user-triggered action to force flush pages in the flush queue?). (P)
+** KT session for Prem and Shanmuga (kick-off; overview). (D)
+** [$xENON scrum meeting. (D)
+
 -------- 2023-05-08 ~ 2023-05-12
 
 * 2023-05-08
@@ -11,6 +19,26 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Create [$XENON-4846 (dirty pages not added to the flush queue, holding back systemRedoLSN). (+)
 ** Create [$STARLING-20815 (issue with long-running read-only transactions, for Rajiv). (+)
+
+
+* 2023-05-09
+** tP.
+** [$XENON-4845 (VF Services: 'Unknown receiver type 22'; 'Client Hello' handshake message). (+)
+** [$XENON-4846 (further analysis of the heap dump). (P)
+
+* 2023-05-10
+** tP.
+** [$XENON-4841 ([$STARLING/Mylan: answered questions from [$STARLING and provided suggestions). (P)
+** [$XENON-4846 (800+ versions/PageImpls of the page in question; page updated too fast to be flushed, with dirty flag cleared). (P)
+
+* 2023-05-11
+** REC.
+** [$xENON scrum meeting. (D)
+** Discuss with Champaka and Nara the KT arrangements for Prem and Shanmuga. (+)
+
+* 2023-05-12
+** REC.
+** [$XENON-4846 (created a test case where one thread keeps updating one page, preventing the progression of systemRedoLSN). (P)
 
 -------- 2023-05-04 ~ 2023-05-06
 
