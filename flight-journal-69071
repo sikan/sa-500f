@@ -11,6 +11,22 @@ BVEPP
 ** KT session for Prem and Shanmuga (kick-off; overview). (D)
 ** [$xENON scrum meeting. (D)
 
+* 2023-05-16
+** REC.
+** [$XENON-4846 (adjusted test logic to keep old PageImpls in pageCache, and thus the heap dump). (P)
+
+* 2023-05-17
+** REC.
+** [$XENON-4846 (heap dump analysis; flushPageCache() not working due to page getting replaced in dirty queue). (P)
+
+* 2023-05-18
+** REC.
+** [$XENON-4846 (issues with the monitor lock due to the flusher being a dedicated system thread). (P)
+
+* 2023-05-19
+** REC.
+** [$XENON-4846 (perhaps a separate method other than flushPageCache()). (P)
+
 -------- 2023-05-08 ~ 2023-05-12
 
 * 2023-05-08
