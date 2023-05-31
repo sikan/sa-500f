@@ -3,6 +3,49 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-05-29 ~ 2023-06-02
+
+* 2023-05-29
+** REC.
+** [$XENON-4847 ([$STARLING: issues with third party backup tools; suspend-diskwrites?). (+)
+** [$XENON-4846 (wrapped up the fix: a new CLI command flush-page-cache, javadoc, etc.). (P)
+
+* 2023-05-30
+** REC.
+** [$XENON-4846 (updated the case with findings from heap dump analysis, along with the details of the solution). (D)
+** Fix HP FindBugs issus. (+)
+** Quick call with Champaka (JIRA status; 10.7 nightly build #127 for [$STARLING). (+)
+** [$XENON-4701 (hex format for all LSN fields in logging/exception messages). (+)
+
+-------- 2023-05-22 ~ 2023-05-26
+
+* 2023-05-22
+** REC.
+** Discuss with [$STARLING team an ArrayIndexOutOfBoundsException thrown from Lucene kernel. (+)
+** [$xENON scrum meeting. (D)
+** Invetigate issues with 10.7 builds on Jenkins (hanging at lookupAllHostAddr). (+)
+** [$XENON-4846 (a new force-flush API with suspension of the page cache). (P)
+
+
+* 2023-05-23
+** REC.
+** Complete mandatory compliance training courses (1904, 1915, 1917, 1919, 1921). (D)
+** [$XENON-4841 ([$STARLING/Mylan: dealt with some nonsense). (P)
+** [$XENON-4846 (a new force-flush API with suspension of the page cache). (P)
+
+* 2023-05-24
+** REC.
+** [$XENON-4846 (a new force-flush API with suspension of the page cache). (P)
+
+* 2023-05-25
+** REC.
+** [$XENON-4846 (a new force-flush API with suspension of the page cache). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-05-26
+** REC.
+** [$XENON-4846 (a new force-flush API with suspension of the page cache). (P)
+
 -------- 2023-05-15 ~ 2023-05-19
 
 * 2023-05-15
