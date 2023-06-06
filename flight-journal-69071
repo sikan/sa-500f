@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-06-05 ~ 2023-06-09
+
+* 2023-06-05
+** REC.
+** [$XENON-4848 ([$VAULT/Medtronic: clarified the consistency check errors about free pages). (P)
+** KT session for Prem and Shanmuga (finished the overview part). (D)
+** [$XENON-4799 (Apache Ivy documentation). (P)
+
 -------- 2023-05-29 ~ 2023-06-02
 
 * 2023-05-29
@@ -16,6 +24,25 @@ BVEPP
 ** Fix HP FindBugs issus. (+)
 ** Quick call with Champaka (JIRA status; 10.7 nightly build #127 for [$STARLING). (+)
 ** [$XENON-4701 (hex format for all LSN fields in logging/exception messages). (+)
+
+* 2023-05-31
+** REC.
+** Answered follow-up questions from Cloud Services team regarding suspend-diskwrites. (+)
+** [$XENON-4701 (final review; done). (D)
+** Set up a new 11.1 dev environment (preparation for the KT). (+)
+** Fix a long-standing issue with a property in the sample code package. (+)
+** Discuss with Champaka the issue with the Java version for 10.7 and files that should be uploaded to the artifactory. (+)
+
+* 2023-06-01
+** REC.
+** [$XENON-4848 ([$VAULT/Medtronic: inconsistent block tree and size tree; laid out all options; implemented a standalone fix tool; added page checksum logic at the last minute, phew). (+)
+** [$xENON scrum meeting. (D)
+
+* 2023-06-01
+** REC.
+** [$XENON-4848 ([$VAULT/Medtronic: clarified the idempotency of the fix). (P)
+** [$XENON-4849 (created due to the above; randomized tests for segment extent allocation/release). (+)
+** [$XENON-4799 (Apache Ivy documentation). (P)
 
 -------- 2023-05-22 ~ 2023-05-26
 
