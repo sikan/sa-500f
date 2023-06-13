@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-06-12 ~ 2023-06-16
+
+* 2023-06-12
+** REC.
+** KT session for Prem and Shanmuga (build, Admin Client, samples, dev environment, unit tests, etc.). (D)
+** [$VAULT2-23358 (Medtronic: suggested running consistency checker against individual databases suspected to be corrupted). (P)
+** [$xENON scrum meeting. (D)
+** Create [$XENON-4851 (CHECK_ADMIN_FREE_DATA_PAGES_USAGE_CONSISTENCY shouldn't fail fast). (+)
+
 -------- 2023-06-05 ~ 2023-06-09
 
 * 2023-06-05
@@ -10,6 +19,30 @@ BVEPP
 ** [$XENON-4848 ([$VAULT/Medtronic: clarified the consistency check errors about free pages). (P)
 ** KT session for Prem and Shanmuga (finished the overview part). (D)
 ** [$XENON-4799 (Apache Ivy documentation). (P)
+
+* 2023-06-06
+** REC.
+** [$XENON-4848 ([$VAULT/Medtronic: probably a new ticket?). (P)
+** Review and fix vairous issues with current core dependencies. (P)
+** Rajiv's query regarding the management of non-final merges. (+)
+
+* 2023-06-07
+** REC.
+** Review and fix vairous issues with current core dependencies. (P)
+
+* 2023-06-08
+** REC.
+** Review and fix vairous issues with current core dependencies. (P)
+** [$xENON scrum meeting. (D)
+** Update the status for long-open JIRA cases. (+)
+** Remove remaining cluster related stuff. (+)
+
+* 2023-06-09
+** REC.
+** Review and fix vairous issues with current core dependencies (xml-apis.jar??). (P)
+** [$VAULT2-23358 (Medtronic: unknown corruption blocking upgrade; page usage check failed for several databases; consistency checker failed fast). (+)
+** Unexpected support call (again) for a [$STARLING/Ericsson NPE issue (not [$xENON related). (+)
+** Remove remaining cluster related stuff. (D)
 
 -------- 2023-05-29 ~ 2023-06-02
 
