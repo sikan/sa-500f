@@ -3,6 +3,24 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-06-19 ~ 2023-06-21
+
+* 2023-06-19
+** REC.
+** [$XENON-4799 (Ivy integration). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-06-20
+** REC.
+** Explain to Champaka the historical background of the source jar. (+)
+** [$XENON-4799 (Ivy integration; classpath wildcard expansion). (P)
+
+* 2023-06-21
+** REC.
+** Pick and assign tasks to Prem ([$XENON-4735) and Shanmuga ([$XENON-4677), with detailed explanation. (D)
+** Help Rajiv extract the needed files from the distribution and discuss the potential publication of the source jar. (+)
+** [$XENON-4799 (Ivy integration; classpath wildcard expansion). (P)
+
 -------- 2023-06-12 ~ 2023-06-16
 
 * 2023-06-12
@@ -11,6 +29,26 @@ BVEPP
 ** [$VAULT2-23358 (Medtronic: suggested running consistency checker against individual databases suspected to be corrupted). (P)
 ** [$xENON scrum meeting. (D)
 ** Create [$XENON-4851 (CHECK_ADMIN_FREE_DATA_PAGES_USAGE_CONSISTENCY shouldn't fail fast). (+)
+
+* 2023-06-13
+** tP.
+** [$VAULT2-23358 (Medtronic: memory settings for the consistency checker; active Lucene background tasks in progress; could be a red herring without [$VAULT server logs). (P)
+** Review and fix vairous issues with current core dependencies (sent out a summary email). (D)
+
+* 2023-06-14
+** REC.
+** [$VAULT2-23358 (Medtronic: [xENON logs and consistency check results all seemed fine). (P)
+** [$XENON-4799 (Ivy integration). (P)
+
+* 2023-06-15
+** REC.
+** [$VAULT2-23358 (Medtronic: again, [xENON logs and consistency check results all seemed fine). (P)
+** [$XENON-4799 (Ivy integration). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-06-16
+** REC.
+** [$XENON-4799 (Ivy integration). (P)
 
 -------- 2023-06-05 ~ 2023-06-09
 
