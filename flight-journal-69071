@@ -3,6 +3,36 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-06-25 ~ 2023-06-30
+
+* 2023-06-25
+** REC.
+** [$XENON-4799 (Ivy integration; classpath wildcard expansion). (P)
+
+* 2023-06-26
+** REC.
+** Make Jenkins build agents Ivy ready. (D)
+** [$XENON-4799 (updated .classpath file; maven certral repo blocked in the lab; internal repo?). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-06-27
+** REC.
+** [$XENON-4677 (further explained the issues to Shanmuga). (P)
+** [$XENON-4735 (suggested 'ei-name' as the new attribute name in the exported XML file of index info). (P)
+** [$XENON-4799 (local connection to internal repo excruciatingly slow, resulting in download errors; speed varied depending on VPN nodes, but fast enough on Jenkins; what about lib licenses?). (P)
+
+* 2023-06-28
+** REC.
+** [$XENON-4735 (suggested Prem create a dev branch and an MR for code review). (P)
+** [$XENON-4677 (clarified Shanmuga's misunderstandings). (P)
+** [$XENON-4799 (build-manual failure caused by unexpanded classpaths). (P)
+
+* 2023-06-29
+** REC.
+** [$XENON-4799 (fixed the issue with build-manual; emailed everyone to prepare for the switch to Ivy). (P)
+** [$xENON scrum meeting. (D)
+** 1-on-1 with Bruno. (D)
+
 -------- 2023-06-19 ~ 2023-06-21
 
 * 2023-06-19
