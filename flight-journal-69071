@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-07-03 ~ 2023-07-07
+
+* 2023-07-03
+** REC.
+** Create [$XENON-4854 (intermittent failures of ReplicationMasterShutdownAPITest; admittedly, it's been a while...). (+)
+** KT session for Prem and Shanmuga (server classes). (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4847 ([$STARLING/Siemens Healthcare: NPE caused by a private writable page in invalid state; JMM related). (+)
+
 -------- 2023-06-25 ~ 2023-06-30
 
 * 2023-06-25
@@ -32,6 +41,11 @@ BVEPP
 ** [$XENON-4799 (fixed the issue with build-manual; emailed everyone to prepare for the switch to Ivy). (P)
 ** [$xENON scrum meeting. (D)
 ** 1-on-1 with Bruno. (D)
+
+* 2023-06-30
+** REC.
+** [$XENON-4799 (merged to the release branch). (P)
+** [$XENON-4735 (reviewed Prem's MR; way too 'defensive' programming style). (P)
 
 -------- 2023-06-19 ~ 2023-06-21
 
