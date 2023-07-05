@@ -10,7 +10,12 @@ BVEPP
 ** Create [$XENON-4854 (intermittent failures of ReplicationMasterShutdownAPITest; admittedly, it's been a while...). (+)
 ** KT session for Prem and Shanmuga (server classes). (D)
 ** [$xENON scrum meeting. (D)
-** [$XENON-4847 ([$STARLING/Siemens Healthcare: NPE caused by a private writable page in invalid state; JMM related). (+)
+** [$XENON-4853 ([$STARLING/Siemens Healthcare: NPE caused by a private writable page in invalid state; JMM related). (+)
+
+* 2023-07-04
+** REC.
+** Kartik's query regarding the document count and size in a library. (+)
+** [$XENON-4853 ([$STARLING/Siemens Healthcare: recurrent issue with that invalid private writable page on every restart). (P)
 
 -------- 2023-06-25 ~ 2023-06-30
 
