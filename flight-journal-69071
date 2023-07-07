@@ -17,6 +17,20 @@ BVEPP
 ** Kartik's query regarding the document count and size in a library. (+)
 ** [$XENON-4853 ([$STARLING/Siemens Healthcare: recurrent issue with that invalid private writable page on every restart). (P)
 
+* 2023-07-05
+** tP.
+** [$XENON-4853 ([$STARLING/Siemens Healthcare: one data race condition found; PageCache reuse/sharing?). (P)
+** Use Ivy to manage the source jars of core dependencies. (D)
+** Use Ivy to manage the license files of core dependencies (no success so far). (P)
+
+* 2023-07-06
+** REC.
+** [$XENON-4853 ([$STARLING/Siemens Healthcare: [$STARLING denied PageCache reuse/sharing; requested heap dump; code obfuscation played a part?). (P)
+** KT session for Prem and Shanmuga (server start-up). (D)
+** [$xENON scrum meeting. (D)
+** Investigate configuration issues with BlackDuck scan. (+)
+** Share with Val the data race condition found in the investigation of [$XENON-4853. (+)
+
 -------- 2023-06-25 ~ 2023-06-30
 
 * 2023-06-25
@@ -51,6 +65,7 @@ BVEPP
 ** REC.
 ** [$XENON-4799 (merged to the release branch). (P)
 ** [$XENON-4735 (reviewed Prem's MR; way too 'defensive' programming style). (P)
+** Off/PM.
 
 -------- 2023-06-19 ~ 2023-06-21
 
@@ -203,7 +218,7 @@ BVEPP
 
 * 2023-05-16
 ** REC.
-** [$XENON-4846 (adjusted test logic to keep old PageImpls in pageCache, and thus the heap dump). (P)
+** [$XENON-4846 (adjusted test logic to keep old PageImpls in PageCache, and thus the heap dump). (P)
 
 * 2023-05-17
 ** REC.
@@ -20828,10 +20843,10 @@ BVEPP
 -------- 2007-03-12 ~ 2007-03-16
 
 * 2007-03-12
-** N/A, or gimme a time machine.
+** Not retained in memory, or please give me a time machine.
 
 * 2007-03-13
-** N/A, or gimme a time machine.
+** Not retained in memory, or please give me a time machine.
 
 * 2007-03-14
 ** Install Documentum Content Server. (done)
@@ -20856,13 +20871,13 @@ BVEPP
 ** Hello Ajisen Ramen.
 
 * 2007-03-06
-** N/A, or gimme a time machine.
+** Not retained in memory, or please give me a time machine.
 
 * 2007-03-07
-** N/A, or gimme a time machine.
+** Not retained in memory, or please give me a time machine.
 
 * 2007-03-08
-** N/A, or gimme a time machine.
+** Not retained in memory, or please give me a time machine.
 
 * 2007-03-09
-** N/A, or gimme a time machine.
+** Not retained in memory, or please give me a time machine.
