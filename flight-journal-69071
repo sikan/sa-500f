@@ -3,6 +3,19 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-07-10 ~ 2023-07-14
+
+* 2023-07-10
+** REC.
+** Explain to the people in charge of the BlackDuck scan the lib directory issue caused by the switch to Ivy. (+)
+** Notify Wouter of the changes to the core dependencies (per 'NEW_JARS' process). (+)
+** Generate both the POM and Ivy files using the same deps.xml as the source. (+)
+** [$xENON scrum meeting. (D)
+** Remind Prem and Shanmuga to update changes.dita. (+)
+
+* 2023-07-11
+** Off.
+
 -------- 2023-07-03 ~ 2023-07-07
 
 * 2023-07-03
@@ -30,6 +43,13 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Investigate configuration issues with BlackDuck scan. (+)
 ** Share with Val the data race condition found in the investigation of [$XENON-4853. (+)
+
+* 2023-07-07
+** REC.
+** [$XENON-4735 (reviewed and approved the changes). (D)
+** [$XENON-4677 (reviewed and approved the changes). (P)
+** Use Ivy to manage the license files of core dependencies (still no success). (P)
+** Quick call with Val to discuss the synchronization issues related to [$XENON-4853. (+)
 
 -------- 2023-06-25 ~ 2023-06-30
 
