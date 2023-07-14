@@ -16,6 +16,27 @@ BVEPP
 * 2023-07-11
 ** Off.
 
+* 2023-07-12
+** tP.
+** Respond to a quick BlackDuck issue probably caused by the absence of Ant/Ivy. (+)
+** [$XENON-4853 ([$STARLING/Siemens Healthcare: closed without the desired heap dump). (P)
+** Add to 10.7 and 11.1 detailed code comments regarding potential synchronization issues found in the above (somehow had to do a 'git reset --hard'). (+)
+** KT preparation. (P)
+
+* 2023-07-13
+** REC.
+** KT preparation. (P)
+** Generate both the POM and Ivy files using the same deps.xml as the source. (P)
+** [$xENON scrum meeting. (D)
+** Create a UBMT ticket for BlackDuck portal access. (+)
+** [$XENON-4857 ([$STARLING/Qatar Gas: the only log directory not 'primary'; bootstrap file manually edited?). (+)
+
+* 2023-07-14
+** REC.
+** KT session for Prem and Shanmuga (session classes, LocalSession, doBegin, etc.). (D)
+** [$XENON-4857 ([$STARLING/Qatar Gas: apparently more confusing multi-node configuration mistakes; the only server node not 'primary'). (P)
+** Generate both the POM and Ivy files using the same deps.xml as the source. (D)
+
 -------- 2023-07-03 ~ 2023-07-07
 
 * 2023-07-03
