@@ -3,6 +3,19 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-07-17 ~ 2023-07-21
+
+* 2023-07-17
+** REC.
+** [$XENON-4858 ([$STARLING/BHP Billiton: interruptions caused by the readiness check resulted in endless recovery loop; apparently known issue with their systemRedoLSN). (+)
+** Generate the special POM file for jar shading using deps.xml as the source. (D)
+** [$xENON scrum meeting. (D)
+
+* 2023-07-18
+** REC.
+** [$XENON-4811 (reviewed outstanding changes to be merged from 10.7 to 11.1; pending on deserialization enhancements). (P)
+** [$XENON-4854 (implemented a mechanism for tests to block until a replicator disconnects). (P)
+
 -------- 2023-07-10 ~ 2023-07-14
 
 * 2023-07-10
