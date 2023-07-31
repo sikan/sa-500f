@@ -3,6 +3,26 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-07-24 ~ 2023-07-28
+
+* 2023-07-24
+** REC.
+** Submit FY2023 year-end self-review. (D)
+** Pick up ANTLR. (P)
+** KT preparation. (P)
+
+* 2023-07-25
+** Off.
+
+* 2023-07-26
+** Off.
+
+* 2023-07-27
+** Off.
+
+* 2023-07-28
+** Off.
+
 -------- 2023-07-17 ~ 2023-07-21
 
 * 2023-07-17
@@ -15,6 +35,27 @@ BVEPP
 ** REC.
 ** [$XENON-4811 (reviewed outstanding changes to be merged from 10.7 to 11.1; pending on deserialization enhancements). (P)
 ** [$XENON-4854 (implemented a mechanism for tests to block until a replicator disconnects). (P)
+
+* 2023-07-19
+** REC.
+** [$XENON-4854 (stress tested the fix using single test run on Jenkins). (D)
+** KT preparation. (P)
+** Create [$XENON-4860 (code optimization for the single-node scenario). (+)
+** Create [$XENON-4861 (OOS test failures after the removal of config node configuration related code). (+)
+** Review the implementation of the object map of PersistentObject. (+)
+
+* 2023-07-20
+** REC.
+** KT session for Prem and Shanmuga (commit/rollback/checkpoint, RemoteServer, RemoteSession, etc.). (D)
+** Pick and assign tasks to Prem ([$XENON-4667) and Shanmuga ([$XENON-4851). (+)
+** [$XENON-4863 ([$STARLING/Mylan: final merge performance, again; document count and size info?). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4862 ([$STARLING/Siemens Healthcare: exact issue unclear; interrupts caused fatal errors to log flusher). (+)
+
+* 2023-07-21
+** REC.
+** [$XENON-4864 ([$STARLING/BAUSCH & LOMB INC: EOFException upon recovery; requested the journal folder). (+)
+** FY2023 year-end self-review. (+)
 
 -------- 2023-07-10 ~ 2023-07-14
 
@@ -421,7 +462,7 @@ BVEPP
 
 * 2023-04-14
 ** tP.
-** Troubleshoot license key check in the new installer (classes turned out missing from the install jar; fixed; discussions with Wouter). (D)
+** Troubleshoot license key check in the new installer (classes turned out missing from the installer jar; fixed; discussions with Wouter). (D)
 ** Investigate the differences in class loading behavior between our own exception class and the Guava Strings class (an unsolved mystery from the above). (+)
 ** Help Champaka find out what XDA is. (+)
 
@@ -921,7 +962,6 @@ BVEPP
 ** Perforce -> GitLab migration (validation done; nice-to-have: 1. dev branches under 'dev/'? 2. file list in commit message?). (P)
 
 * 2022-12-15
-4814
 ** Off.
 
 * 2022-12-16
@@ -1112,7 +1152,7 @@ BVEPP
 * 2022-10-24
 ** REC.
 ** [$XENON-4794 (version issues with InstallAnywhere related files). (P)
-** [$XENON-4764 ([$STARLING/EDF: hmmm... they asked why they need to run CLEAN_INDE). (P)
+** [$XENON-4764 ([$STARLING/EDF: hmmm... they asked why they need to run CLEAN_INDEX). (P)
 ** Unable to join [$xENON scrum meeting (Teams... again?). (+)
 ** Perforce -> GitLab migration (issues with SSH authentication for the sandbox). (P)
 
@@ -1174,7 +1214,7 @@ BVEPP
 * 2022-10-21
 ** REC.
 ** [$VAULT2-20660 (Medtronic: corruption in segment administrative structure). (+)
-** [$XENON-4764 ([$STARLING/EDF: hmmm... they asked how they could run CLEAN_INDE). (P)
+** [$XENON-4764 ([$STARLING/EDF: hmmm... they asked how they could run CLEAN_INDEX). (P)
 ** Perforce -> GitLab migration (issues with SSH authentication for the sandbox). (P)
 
 -------- 2022-10-08 ~ 2022-10-14
