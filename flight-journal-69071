@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-08-07 ~ 2023-08-11
+
+* 2023-08-07
+** REC.
+** [$XENON-4866 ([$NEON Supplier Exchange/Qatar Gas: on second thought, shouldn't have blamed storage due to page checksum; reviewed the code logic for BIGSTRING). (P)
+** [$xENON scrum meeting. (D)
+** More tests for LUCENE-9981 (shared details with Val). (P)
+** Investigate issues with tree-scope ids during deserialization of root-library. (P)
+
 -------- 2023-07-31 ~ 2023-08-04
 
 * 2023-07-31
