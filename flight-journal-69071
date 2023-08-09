@@ -12,6 +12,14 @@ BVEPP
 ** More tests for LUCENE-9981 (shared details with Val). (P)
 ** Investigate issues with tree-scope ids during deserialization of root-library. (P)
 
+* 2023-08-08
+** REC.
+** Update [$XENON-4838 with findings from the tests for LUCENE-9981. (+)
+** Review Prem's MR for [$XENON-4667. (+)
+** [$XENON-4867 ([$NEON Supplier Exchange/Qatar Gas: discussed next steps with Arun). (P)
+** Call with Champaka and Val to discuss the potential implications of upgrading Lucene. (+)
+** Investigate issues with tree-scope ids during deserialization of root-library. (P)
+
 -------- 2023-07-31 ~ 2023-08-04
 
 * 2023-07-31
