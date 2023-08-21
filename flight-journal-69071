@@ -13,6 +13,25 @@ BVEPP
 ** Kartik's query regarding raising a ticket with Lucene. (+)
 ** [$xENON scrum meeting. (D)
 
+* 2023-08-15
+** REC.
+** Deserialization enhancements for 11.1. (P)
+
+* 2023-08-16
+** REC.
+** Deserialization enhancements for 11.1. (P)
+
+* 2023-08-17
+** REC.
+** KT session for Prem and Shanmuga (detachable library, segment usage, etc.). (D)
+** [$xENON scrum meeting. (D)
+** Deserialization enhancements for 11.1. (P)
+** Create [$XENON-4860 (deserialization issues with SegmentObjectRef and detachable library page id). (+)
+
+* 2023-08-18
+** REC.
+** Deserialization enhancements for 11.1. (P)
+
 -------- 2023-08-07 ~ 2023-08-11
 
 * 2023-08-07
