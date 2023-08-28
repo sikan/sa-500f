@@ -3,6 +3,46 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-08-21 ~ 2023-08-25
+
+* 2023-08-21
+** REC.
+** Fix a deserilization issue with index segment selection in 10.x (detected by indirect addressing in 11). (+)
+** Create [$XENON-4869 (perhaps we should clear the 'child segment' field upon deserialization). (+)
+** Deserialization enhancements for 11.1 (test issues caused by replacing Stack with Deque, 'first' becoming 'last'?). (P)
+** Quick call with Michael regarding Lucene scoring. (+)
+** [$xENON scrum meeting. (D)
+
+* 2023-08-22
+** REC.
+** Rajiv's question whether [$xENON can record the top-N slowest queries. (+)
+** Deserialization enhancements for 11.1 (most randomized tests now working, except one). (P)
+** KT preparation. (P)
+
+* 2023-08-23
+** REC.
+** Create [$XENON-4870 (intermittent failure of an index-in-construction test; reproducible if run repeatedly). (+)
+** KT preparation. (P)
+
+* 2023-08-24
+** REC.
+** Rajiv and CloudOps team's questions regarding 'keep-log-files' and incremental backups. (+)
+** SOP training courses (00344, 00471). (+)
+** KT preparation. (P)
+** KT session for Prem and Shanmuga (PersistentObject, XOD, etc.). (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4871 (Healthcare: issues with index definitions and queries). (+)
+** Arun's questions regarding some [$xENON and Lucene properties (Qatargas). (+)
+** Review Shanmuga's MR for [$XENON-4851. (+)
+
+* 2023-08-25
+** REC.
+** Clarify the support for snapshot backups to [$STARLING and CloudOps. (+)
+** Check whether [$xENON is 'Debricked Compatible' (no). (+)
+** Arun's questions regarding the poor indexing performance during business hours (Qatargas). (+)
+** Review Shanmuga's MR for [$XENON-4851. (P)
+** Deserialization enhancements for 11.1 (the last failing randomized test). (P)
+
 -------- 2023-08-14 ~ 2023-08-18
 
 * 2023-08-14
@@ -26,7 +66,7 @@ BVEPP
 ** KT session for Prem and Shanmuga (detachable library, segment usage, etc.). (D)
 ** [$xENON scrum meeting. (D)
 ** Deserialization enhancements for 11.1. (P)
-** Create [$XENON-4860 (deserialization issues with SegmentObjectRef and detachable library page id). (+)
+** Create [$XENON-4868 (deserialization issues with SegmentObjectRef and detachable library page id). (+)
 
 * 2023-08-18
 ** REC.
