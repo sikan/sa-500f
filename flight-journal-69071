@@ -3,6 +3,48 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-09-11 ~ 2023-09-15
+
+* 2023-09-11
+** REC.
+** Invetigate the Qatargas query issue (query #4 and query #5). (P)
+** Review Shanmuga's MR for [$XENON-4851. (+)
+** [$xENON scrum meeting. (D)
+** Install VMware Tools on two Windows agents. (+)
+
+-------- 2023-09-04 ~ 2023-09-08
+
+* 2023-09-04
+** REC.
+** Invetigate the Qatargas query issue (wildcards just a red herring; sub-path configuration for @objectId; avoided matching @objectId across sub-queries which would result in excessive clauses). (P)
+** [$xENON scrum meeting. (D)
+** Arun's Meeting on the Qatargas query issue (updated query seemed to fix TooManyClauses in PROD, and to some extent alleviated the performance issue). (+)
+
+* 2023-09-05
+** REC.
+** KT preparation. (P)
+** Invetigate the Qatargas query issue (test data set now available; [$STARLING stuff still missing). (P)
+** Many [$xENON questions from Shanmuga. (+)
+
+* 2023-09-06
+** REC.
+** Invetigate the Qatargas query issue (quick call Baljinder from Arun's team, another TooManyClauses issue for a different query; provided an optimized rewrite). (P)
+** Quick call with Champaka to discuss the current status of Qatargas issues. (+)
+
+* 2023-09-07
+** REC.
+** [$XENON-4876 ([$STARLING/F. Hoffmann-La Roche AG: caused by LUCENE-6192). (P)
+** KT preparation. (P)
+** KT session for Prem and Shanmuga (TreeSegment administration structures). (D)
+** Invetigate the Qatargas query issue (a third query from Baljinder, the most complex one yet). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-09-08
+** REC.
+** Invetigate the Qatargas query issue (successfully optimized the third query to avoid TooManyClauses). (P)
+** [$XENON-4877 (getFreeSpace() failed to skip 'reserved' segments). (P)
+** Remind Prem and Shanmuga of our design philosophy regarding latch release. (+)
+
 -------- 2023-08-28 ~ 2023-09-01
 
 * 2023-08-28
@@ -26,7 +68,7 @@ BVEPP
 ** REC.
 ** Invetigate the Qatargas query issue. (P)
 ** KT preparation. (P)
-** Meeting on the Qatargas query issue. (+)
+** Arun's meeting on the Qatargas query issue. (+)
 
 * 2023-08-31
 ** REC.
