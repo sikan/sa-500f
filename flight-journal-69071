@@ -12,6 +12,19 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Install VMware Tools on two Windows agents. (+)
 
+* 2023-09-12
+** REC.
+** Review Shanmuga's MR for [$XENON-4851 (still way too many beginner's mistakes). (D)
+** KT preparation. (P)
+** Ravi's query regarding the support for leading wildcard search. (+)
+** [$XENON-4874 ([$NEON Supplier Exchange/Qatargas: a quick summary of the current status). (P)
+
+* 2023-09-13
+** REC.
+** KT preparation. (P)
+** [$STARLING-20781 (BHP: final merge deferred due to unavailable empty segment; indexing stopped?). (+)
+** [$XENON-4877 (confirmed Wouter's understanding). (D)
+
 -------- 2023-09-04 ~ 2023-09-08
 
 * 2023-09-04
