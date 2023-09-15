@@ -25,6 +25,12 @@ BVEPP
 ** [$STARLING-20781 (BHP: final merge deferred due to unavailable empty segment; indexing stopped?). (+)
 ** [$XENON-4877 (confirmed Wouter's understanding). (D)
 
+* 2023-09-14
+** REC.
+** KT preparation. (P)
+** KT session for Prem and Shanmuga (replication). (D)
+** [$xENON scrum meeting. (D)
+
 -------- 2023-09-04 ~ 2023-09-08
 
 * 2023-09-04
@@ -16123,7 +16129,7 @@ BVEPP
 
 * 2011-07-28
 ** Familiarize with Gradle. (P)
-** Jinming's KT session for [$STARLINGIntegration. (+)
+** Jinming's KT session for [$STARLING-Integration. (+)
 ** Sync-up meeting with [$Antwerp. (D)
 
 * 2011-07-29
