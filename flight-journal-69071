@@ -13,6 +13,25 @@ BVEPP
 ** [$XENON-4851 (CHECK_ADMIN_FREE_DATA_PAGES_USAGE_CONSISTENCY; loose ends; proper tests). (P)
 ** [$xENON questions from Shanmuga. (+)
 
+* 2023-09-20
+** REC.
+** [$XENON-4851 (final commit). (D)
+** [$XENON-4878 ([$NEON Supplier Exchange/[$STARLING/Qatargas: query performance optimization). (P)
+
+* 2023-09-21
+** REC.
+** [$XENON-4879 (Karen's query regarding exporting extremely large documents). (+)
+** [$XENON-4878 ([$NEON Supplier Exchange/[$STARLING/Qatargas: query performance optimization). (P)
+** Ananda query regardingdsearch:get-descendant-folders(). (+)
+** [$xENON scrum meeting. (D)
+** Quick call with Champaka to discuss the current status of Qatargas issues. (+)
+
+* 2023-09-22
+** REC.
+** [$XENON-4878 ([$NEON Supplier Exchange/[$STARLING/Qatargas: query performance optimization). (P)
+** Pick and assign tasks to Prem ([$XENON-4812) and Shanmuga ([$XENON-4860). (+)
+** Investigate issues with Jenkins build (a locked released page found in concurrent index-in-construction test). (+)
+
 -------- 2023-09-11 ~ 2023-09-15
 
 * 2023-09-11
