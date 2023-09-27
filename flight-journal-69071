@@ -18,6 +18,13 @@ BVEPP
 ** Discuss with Ananda the MaxBytesLengthExceededException found during index rebuilding (Ericsson). (+)
 ** [$xENON questions from Shanmuga. (+)
 
+* 2023-09-27
+** REC.
+** Deserialiddzation enhancements for 11.1 (verification logic for LSFIDs). (P)
+
+* 2023-09-28
+** Off.
+
 -------- 2023-09-18 ~ 2023-09-22
 
 * 2023-09-18
