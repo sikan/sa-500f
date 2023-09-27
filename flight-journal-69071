@@ -12,6 +12,12 @@ BVEPP
 ** Deserialization enhancements for 11.1 (reviewed discussions with Wouter under [$XENON-4872; verification logic for LSFIDs). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2023-09-26
+** REC.
+** Deserialization enhancements for 11.1 (verification logic for LSFIDs). (P)
+** Discuss with Ananda the MaxBytesLengthExceededException found during index rebuilding (Ericsson). (+)
+** [$xENON questions from Shanmuga. (+)
+
 -------- 2023-09-18 ~ 2023-09-22
 
 * 2023-09-18
