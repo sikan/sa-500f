@@ -3,6 +3,18 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-10-07 ~ 2023-10-13
+
+* 2023-10-07
+** REC.
+** Email backlog. (D)
+** [$XENON-4881 ([$STARLING/Ericsson: index rebuilding failure caused by MaxBytesLengthExceededException). (+)
+** [$XENON-4812 (double-checked the current behavior). (P)
+** Fix a formatting issue with the help message of 'create-replica'. (+)
+** Deserialization enhancements for 11.1 (verification logic for LSFIDs). (P)
+** Read [[XQuery: A Guided Tour]] (written by Jonathan Robie, recommended by Wouter). (+)
+** Recommend the above to Prem and Shanmuga. (+)
+
 -------- 2023-09-25 ~ 2023-09-28
 
 * 2023-09-25
@@ -20,7 +32,7 @@ BVEPP
 
 * 2023-09-27
 ** REC.
-** Deserialiddzation enhancements for 11.1 (verification logic for LSFIDs). (P)
+** Deserialization enhancements for 11.1 (verification logic for LSFIDs). (P)
 
 * 2023-09-28
 ** Off.
