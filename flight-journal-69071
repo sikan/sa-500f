@@ -15,6 +15,19 @@ BVEPP
 ** Read [[XQuery: A Guided Tour]] (written by Jonathan Robie, recommended by Wouter). (+)
 ** Recommend the above to Prem and Shanmuga. (+)
 
+* 2023-10-08
+** REC.
+** Display a warning (instead of throwing an exception) if the build number check fails (nonissue for release versions). (+)
+** Read [[XQuery: A Guided Tour]]. (D)
+
+* 2023-10-09
+** REC.
+** Deserialization enhancements for 11.1 (made index creation occur randomly; regressions). (P)
+** [$xENON scrum meeting. (D)
+** Rebase and merge recent work for deserialization. (+)
+** Investigate hanging builds on Jenkins (lookupAllHostAddr; [$XENON-4880). (+)
+** [$XENON-4880 (reproducible locally; created a separate logger for LockManager). (P)
+
 -------- 2023-09-25 ~ 2023-09-28
 
 * 2023-09-25
