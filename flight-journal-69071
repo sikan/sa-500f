@@ -28,6 +28,29 @@ BVEPP
 ** Investigate hanging builds on Jenkins (lookupAllHostAddr; [$XENON-4880). (+)
 ** [$XENON-4880 (reproducible locally; created a separate logger for LockManager). (P)
 
+* 2023-10-10
+** REC.
+** [$XENON-4880 (culprit: getNextBatch -> tryReadLock in index-in-construction). (P)
+** KT preparation. (P)
+
+* 2023-10-11
+** REC.
+** KT preparation. (P)
+
+* 2023-10-12
+** REC.
+** [$XENON-4883 (HF Sinclair: vague quesion regarding storage space). (+)
+** Karen's questions regarding a value comparison issue in XQuery. (+)
+** [$XENON-4880 (added logic to register read locks taken by index-in-construction). (P)
+
+* 2023-10-13
+** tP.
+** [$XENON-4884 (disk space issue with an [$xENON server with unknown owner). (+)
+** [$XENON-4880 (MPI locked a node that should have been deleted after 212 runs). (P)
+** [$XENON-4861 (disabled xTest code that creates config nodes). (D)
+** Fix test regressions caused by disabling the exception on build number comparison. (+)
+** [$XENON-4844 ([$STARLING/Volkswagen: requested sub-path configurations). (P)
+
 -------- 2023-09-25 ~ 2023-09-28
 
 * 2023-09-25
