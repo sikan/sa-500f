@@ -3,6 +3,34 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-10-16 ~ 2023-10-20
+
+* 2023-10-16
+** REC.
+** [$XENON-4880 (checked in the fix for the original issue; created [$XENON-4885 for the follow-up investigation). (D)
+** [$xENON scrum meeting. (D)
+** [$XENON-4844 ([$STARLING/Volkswagen: thread dump analysis). (P)
+
+* 2023-10-17
+** REC.
+** [$XENON-4844 ([$STARLING/Volkswagen: Sheperd!! issues with deobfuscation; turned to Wouter for help). (P)
+** Deserialization enhancements for 11.1 (the new 'ignoreOriginalSegments' option). (P)
+** [$xENON questions from Shanmuga. (+)
+
+* 2023-10-18
+** REC.
+** [$XENON-4844 ([$STARLING/Volkswagen: thread dump analysis after deobfuscation; responded with our conclusions). (P)
+** Michael Cybala's all-hands. (D)
+
+* 2023-10-19
+** REC.
+** Watch the recording of the second half of yesterday's all-hands (mostly about Aviator). (+)
+** Bala's request to evaluate another performance issue reported by Qatargas (all available info too high above [$xENON). (+)
+** [$xENON questions from Shanmuga. (+)
+** Deserialization enhancements for 11.1 (the new 'ignoreOriginalSegments' option). (P)
+** [$xENON scrum meeting. (D)
+** Create a wiki page for deobfuscation. (+)
+
 -------- 2023-10-07 ~ 2023-10-13
 
 * 2023-10-07
