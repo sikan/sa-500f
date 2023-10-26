@@ -3,6 +3,24 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-10-23 ~ 2023-10-27
+
+* 2023-10-23
+** REC.
+** [$XENON-4844 ([$STARLING/Volkswagen: further clarification). (P)
+** Deserialization enhancements for 11.1 (the new 'ignoreOriginalSegments' option). (P)
+** [$xENON scrum meeting. (D)
+** Review code related to Lucene and leading wildcard (RotateTokenStream, etc.). (+)
+
+* 2023-10-24
+** REC.
+** Deserialization enhancements for 11.1 (merged to the release branch). (D)
+** [$XENON-4873 (debugging: page allocation, free page list, etc.). (P)
+
+* 2023-10-25
+** REC.
+** [$XENON-4873 (orphaned page actually the root of the index copied from child). (P)
+
 -------- 2023-10-16 ~ 2023-10-20
 
 * 2023-10-16
@@ -30,6 +48,10 @@ BVEPP
 ** Deserialization enhancements for 11.1 (the new 'ignoreOriginalSegments' option). (P)
 ** [$xENON scrum meeting. (D)
 ** Create a wiki page for deobfuscation. (+)
+
+* 2023-10-20
+** REC.
+** Deserialization enhancements for 11.1 (the new 'ignoreOriginalSegments' option). (P)
 
 -------- 2023-10-07 ~ 2023-10-13
 
