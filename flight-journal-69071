@@ -21,6 +21,17 @@ BVEPP
 ** REC.
 ** [$XENON-4873 (orphaned page actually the root of the index copied from child). (P)
 
+
+* 2023-10-26
+** REC.
+** Watch the recording of Innovation Spotlight - Content Aviator. (+)
+** [$XENON-4873 (code review; checked 8.2 - 10.2, all good; started from 10.3). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-10-27
+** REC.
+** [$XENON-4873 (found the commit that introduced index merging and this bug, but tests cases for element name index only, with different merging behavior). (P)
+
 -------- 2023-10-16 ~ 2023-10-20
 
 * 2023-10-16
