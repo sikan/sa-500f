@@ -3,6 +3,21 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-10-30 ~ 2023-11-03
+
+* 2023-10-30
+** REC.
+** CLI related questions from Prem and Shanmuga. (+)
+** Look into a CLI password issue on Windows involving special characters ("!") reported by Shanmuga ([$XENON-4886 created later). (+)
+** [$xENON scrum meeting. (D)
+
+* 2023-10-31
+** REC.
+** [$XENON-4886 (Val's updated script to handle exclamation marks; experiments with other special characters). (P)
+** Questions from Shanmuga regarding remote debugging and Jenkins build for dev branches. (+)
+** [$XENON-4812 (Prem's fix missed the point). (P)
+** [$XENON-4873 (code review: downHeap, etc.). (P)
+
 -------- 2023-10-23 ~ 2023-10-27
 
 * 2023-10-23
