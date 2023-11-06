@@ -18,6 +18,25 @@ BVEPP
 ** [$XENON-4812 (Prem's fix missed the point). (P)
 ** [$XENON-4873 (code review: downHeap, etc.). (P)
 
+* 2023-11-01
+** REC.
+** KT preparation. (P)
+
+* 2023-11-02
+** REC.
+** KT preparation. (P)
+** KT session for Prem and Shanmuga (Page, PageImpl). (D)
+** [$XENON-4873 (code review; added some code comments). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-4886 (double quotes: w/ and w/o Val's fix). (P)
+
+* 2023-11-03
+** REC.
+** [$XENON-4887 ([$NEON: expected keys missing from index). (P)
+** Review Shanmuga's MR for [$XENON-4860. (+)
+** Questions from Prem (logging configuration) and Shanmuga (Page, PageImpl, etc.). (+)
+** 1-on-1 with Champaka (performance review). (D)
+
 -------- 2023-10-23 ~ 2023-10-27
 
 * 2023-10-23
