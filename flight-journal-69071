@@ -3,6 +3,19 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-11-06 ~ 2023-11-10
+
+* 2023-11-06
+** REC.
+** [$XENON-4887 ([$NEON: Karen's follow-up questions regarding namespace syntax and the isCorrupt() API). (P)
+** [$XENON-4873 (a quick fix). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-11-07
+** REC.
+** [$XENON-4887 ([$NEON: Karen's follow-up questions regarding rebuilding index and partial updates). (P)
+** [$XENON-4886 (enabledelayedexpansion? 'set input=%*' instead of 'set "input=%*"'). (P)
+
 -------- 2023-10-30 ~ 2023-11-03
 
 * 2023-10-30
