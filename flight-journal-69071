@@ -16,6 +16,13 @@ BVEPP
 ** [$XENON-4887 ([$NEON: Karen's follow-up questions regarding rebuilding index and partial updates). (P)
 ** [$XENON-4886 (enabledelayedexpansion? 'set input=%*' instead of 'set "input=%*"'). (P)
 
+* 2023-11-08
+** REC.
+** Watch more Aviator related demos ([$OTTER World, etc.). (D)
+** [$XENON-4887 ([$NEON: Karen's follow-up questions regarding rebuilding index). (P)
+** [$XENON-4886 (Wouter's test program; suggested a two-part fix). (P)
+** [$XENON-4873 (code review). (P)
+
 -------- 2023-10-30 ~ 2023-11-03
 
 * 2023-10-30
