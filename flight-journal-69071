@@ -3,6 +3,16 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-11-13 ~ 2023-11-17
+
+* 2023-11-13
+** REC.
+** Review Shanmuga's MR for [$XENON-4860. (D)
+** [$XENON-4873 (code review). (P)
+** Investigate hanging builds on Jenkins (10.6: lookupAllHostAddr; 11.1: [$XENON-4880). (+)
+** [$XENON-4880 (reopened due to the above; attempted to reproduce). (+)
+** [$xENON scrum meeting. (D)
+
 -------- 2023-11-06 ~ 2023-11-10
 
 * 2023-11-06
@@ -22,6 +32,16 @@ BVEPP
 ** [$XENON-4887 ([$NEON: Karen's follow-up questions regarding rebuilding index). (P)
 ** [$XENON-4886 (Wouter's test program; suggested a two-part fix). (P)
 ** [$XENON-4873 (code review). (P)
+
+* 2023-11-09
+** REC.
+** Review Shanmuga's MR for [$XENON-4860. (+)
+** Karen's question regarding the filter configuration in Admin Client document import dialog. (+)
+** [$XENON-4873 (checked in the fix to the release branch). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-11-10
+** Off.
 
 -------- 2023-10-30 ~ 2023-11-03
 
@@ -74,7 +94,6 @@ BVEPP
 * 2023-10-25
 ** REC.
 ** [$XENON-4873 (orphaned page actually the root of the index copied from child). (P)
-
 
 * 2023-10-26
 ** REC.
