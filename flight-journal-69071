@@ -3,6 +3,21 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-11-20 ~ 2023-11-24
+
+* 2023-11-20
+** REC.
+** [$XENON-4888 ([$VAULT/NiSource: explained the potential cause of accumulated .wal files, but unlikely the cause of queue page corruption). (P)
+** [$XENON-4880 (the factor of concurrent index?). (P)
+
+* 2023-11-21
+** Off.
+
+* 2023-11-22
+** REC.
+** Help Karen invetigate the time difference between rebuilding index in Admin Client and using API. (+)
+** [$XENON-4880 (debug log analysis; concurrent index?). (P)
+
 -------- 2023-11-13 ~ 2023-11-17
 
 * 2023-11-13
