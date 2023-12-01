@@ -3,6 +3,29 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-11-27 ~ 2023-12-01
+
+* 2023-11-27
+** REC.
+** That indexing rebuilding issue (new pages allocated for the rebuilt index; Karen's code run within [$NEON in CloudFoundry, "close by" the server). (D)
+** [$XENON-4880 (debug log analysis; identified an issue with the core logic for IIC backlog). (P)
+
+* 2023-11-28
+** REC.
+** [$XENON-4880 (bug: locks on resource ids insufficient to prevent a race condition; fix: a 2-pass scan of the backlog; stress testing). (P)
+** [$XENON-4812 (Prem's questions regarding RPC calls). (P)
+** [$XENON-4886 (tried out Shanmuga's implementation of interactive password input, not working). (P)
+
+* 2023-11-29
+** REC.
+** [$XENON-4880 (stress testing; updated jira with more details about the race condition). (P)
+** [$XENON-4886 (tried out Shanmuga's implementation of interactive password input; create-data-node? password confirmation?). (P)
+
+* 2023-11-30
+** REC.
+** [$XENON-4880 (stress testing; clarified the support for concurrency). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2023-11-20 ~ 2023-11-24
 
 * 2023-11-20
