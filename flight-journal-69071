@@ -3,6 +3,25 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-12-04 ~ 2023-12-08
+
+* 2023-12-04
+** REC.
+** [$XENON-4880 (updated changes.dita). (D)
+** [$XENON-4885 (stress tested; closed). (D)
+** [$XENON-4812 (same 'connection reset' error with commands like 'info', 'print-bootstrapfile', etc.; checked old releases). (P)
+
+* 2023-12-05
+** REC.
+** China Employee Privacy Notice and Consent Letter. (+)
+** Cancel a vacation day booked by a system error. (+)
+** [$XENON-4812 (pinpointed the release and commit responsible for the issue; expected behavior of blocking sockets). (P)
+
+* 2023-12-06
+** REC.
+** [$XENON-4812 (explained distinct code behaviors observed across different releases and socket types; suggested a fix). (P)
+** Investigate an issue with the exclamation mark in command line interactive input (fixed by disabling event expansion). (+)
+
 -------- 2023-11-27 ~ 2023-12-01
 
 * 2023-11-27
@@ -25,6 +44,14 @@ BVEPP
 ** REC.
 ** [$XENON-4880 (stress testing; clarified the support for concurrency). (P)
 ** [$xENON scrum meeting. (D)
+
+* 2023-12-01
+** REC.
+** Create an HR ticket for the issue with vacation days. (+)
+** Innovation Spotlight: ValueEdge Aviator. (+)
+** [$XENON-4886 (checked in the fix for the Windows batch script). (P)
+** [$XENON-4880 (final commit). (P)
+** [$XENON-4885 (might be fixed by [$XENON-4880? stress testing). (P)
 
 -------- 2023-11-20 ~ 2023-11-24
 
