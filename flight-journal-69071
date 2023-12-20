@@ -3,6 +3,37 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-12-18 ~ 2023-12-22
+
+* 2023-12-18
+** REC.
+** Review Shanmuga's MR for [$XENON-4812. (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4873 (SortedIndexCreator, one last time). (P)
+
+* 2023-12-19
+** REC.
+** Michael's query regarding the latest [$xENON version and the support for SUSE and Ubuntu. (+)
+** [$XENON-4873 (SortedIndexCreator, one last time). (P)
+** [$XENON-4812 (Prem claimed to receive IOE instead of SocketException for the 'connection reset' error). (P)
+
+-------- 2023-12-11 ~ 2023-12-15
+
+* 2023-12-11
+** Off.
+
+* 2023-12-12
+** Off.
+
+* 2023-12-13
+** Off.
+
+* 2023-12-14
+** Off.
+
+* 2023-12-15
+** Off.
+
 -------- 2023-12-04 ~ 2023-12-08
 
 * 2023-12-04
@@ -21,6 +52,17 @@ BVEPP
 ** REC.
 ** [$XENON-4812 (explained distinct code behaviors observed across different releases and socket types; suggested a fix). (P)
 ** Investigate an issue with the exclamation mark in command line interactive input (fixed by disabling event expansion). (+)
+
+* 2023-12-07
+** REC.
+** [$XENON-4886 (added more review comments regarding the code behavior). (P)
+** [$xENON scrum meeting. (D)
+
+* 2023-12-08
+** REC.
+** [$XENON-4870 (launched repeated runs on Jenkins; reproduced). (P)
+** Quick call with Shanmuga for [$XENON-4886. (P)
+** [$XENON-4873 (SortedIndexCreator, one last time). (P)
 
 -------- 2023-11-27 ~ 2023-12-01
 
@@ -1618,7 +1660,7 @@ BVEPP
 ** REC.
 ** Perforce -> GitLab migration (validation for the new 'database-binary' repo). (P)
 ** [$XENON-4783 (doc enhancement request: explained why no more work was expected; closed as requested). (D)
-** Deal with the request from local tax authorities to collect info wrt to the work on [$xENON (concerns over the disclosure of potentially sensitive info). (+)
+** Deal with the request from local tax authorities to collect info wrt the work on [$xENON (concerns over the disclosure of potentially sensitive info). (+)
 ** [$XENON-4798 (reviewed Ram's fix for the menu item to start listening port on a remote server). (+)
 
 * 2022-11-24
@@ -1626,7 +1668,7 @@ BVEPP
 ** Perforce -> GitLab migration (validation for the new 'database-binary' repo). (P)
 ** KT session for Ram (just a quick sync-up; suggested focusing on the consistency checker framework for now). (D)
 ** Create [$XENON-4799 (Apache Ivy?). (P)
-** Deal with the request from local tax authorities to collect info wrt to the work on [$xENON (greenlighted, sort of). (D)
+** Deal with the request from local tax authorities to collect info wrt the work on [$xENON (greenlighted, sort of). (D)
 
 * 2022-11-25
 ** REC.
