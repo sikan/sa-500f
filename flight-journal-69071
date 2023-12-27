@@ -3,11 +3,33 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2023-12-25 ~ 2023-12-29
+
+* 2023-12-25
+** REC.
+** Review Shanmuga's MR for [$XENON-4886. (P)
+
+* 2023-12-26
+** REC.
+** [$XENON-4870 (caused by the probabilistic nature of reusing object id; fixed by using Assume::assumeThat). (D)
+** [$XENON-4812 (Prem: SocketException wrapped in an IOE, me: just SocketException). (P)
+
+* 2023-12-27
+** REC.
+** [$XENON-4812 (IOE turned out to be Prem's local modifications, after relentless pursuit...). (D)
+** Update OpenJDK 11 for the investigation of the above (JavaCC-related build issue with Microsoft OpenJDK). (+)
+
+* 2023-12-28
+** Off.
+
+* 2023-12-29
+** Off.
+
 -------- 2023-12-18 ~ 2023-12-22
 
 * 2023-12-18
 ** REC.
-** Review Shanmuga's MR for [$XENON-4812. (+)
+** Review Prem's MR for [$XENON-4812. (+)
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4873 (SortedIndexCreator, one last time). (P)
 
@@ -16,6 +38,17 @@ BVEPP
 ** Michael's query regarding the latest [$xENON version and the support for SUSE and Ubuntu. (+)
 ** [$XENON-4873 (SortedIndexCreator, one last time). (P)
 ** [$XENON-4812 (Prem claimed to receive IOE instead of SocketException for the 'connection reset' error). (P)
+
+* 2023-12-20
+** REC.
+** [$XENON-4873 (SortedIndexCreator; identified one issue with BtreeIndexBase::splitInternalPage). (P)
+
+* 2023-12-21
+** Off.
+
+* 2023-12-22
+** Off.
+
 
 -------- 2023-12-11 ~ 2023-12-15
 
