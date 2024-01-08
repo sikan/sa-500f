@@ -3,6 +3,36 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-01-02 ~ 2024-01-05
+
+* 2024-01-02
+** REC.
+** [$XENON-4631 (stability issues with DeleteIndexTest; reproduction attempt). (+)
+** [$XENON-4804 (potential deadlock issue with Lucene merge logic and IndexWriter; code review). (+)
+
+
+* 2024-01-03
+** REC.
+** Global Agile Survey 2023. (+)
+** Remind Prem and Shanmuga to write proper Git commit messages. (+)
+** [$XENON-4631 (reproduction attempt). (P)
+** [$XENON-4804 (heap dump analysis). (P)
+
+* 2024-01-03
+** REC.
+** Try Wouter's workaround for the build issue with Microsoft OpenJDK. (+)
+** [$XENON-4631 (reproduction attempt). (P)
+** [$xENON scrum meeting. (D)
+** Upon Champaka's request, bring Michael's inquiries to the attention of [$xENON management. (+)
+
+* 2024-01-04
+** REC.
+** Create an HR ticket for fitness membership and wellness reimbursement. (+)
+** [$XENON-4889 (VF Services: inconsistent backups by third party backup tool; analyzed .wal files with CSI; checkpoint file out of sync, fixed). (+)
+** [$XENON-4631 (reproduction attempt). (P)
+** Pick and assign a new task to Prem ([$XENON-4787). (+)
+** Create [$XENON-4890 (issues with upgrade tests on Jenkins, caused by version format change). (+)
+
 -------- 2023-12-25 ~ 2023-12-29
 
 * 2023-12-25
