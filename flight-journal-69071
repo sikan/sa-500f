@@ -3,6 +3,47 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-01-15 ~ 2024-01-19
+
+* 2024-01-15
+** REC.
+** Continue the discussion about backup related content in the manual with Wouter and Val. (+)
+** [$XENON-4631 (reproduced on Jenkins). (P)
+** [$xENON scrum meeting. (D)
+** Clarify our usage of InstallAnywhere on Jenkins. (+)
+
+* 2024-01-16
+** REC.
+** [$XENON-4893 (Istituto Clinico Humanitas: startup error caused by checkpoint log record; requested .wal files). (+)
+** Update sections in the manual regarding the backup command and snapshot backups. (D)
+** Sick leave/PM.
+
+-------- 2024-01-08 ~ 2024-01-12
+
+* 2024-01-08
+** REC.
+** [$XENON-4891, [$XENON-4892 (VF Services: similar follow-up issues from [$XENON-4889; requested system-dbs for further analysis). (+)
+** [$XENON-4631 (reproduction attempt). (P)
+** [$xENON scrum meeting. (D)
+** Review Shanmuga's MR for [$XENON-4886. (P)
+
+* 2024-01-09
+** REC.
+** [$XENON-4804 (code analysis). (P)
+
+* 2024-01-10
+** REC.
+** [$XENON-4804 (code analysis; LIMergeThread terminated at the start of run()). (P)
+
+* 2024-01-11
+** Sick leave.
+
+* 2024-01-12
+** REC.
+** Discuss with Wouter how to prevent potential misinterpretation of snapshot backup related content in the manual. (+)
+** [$XENON-4891 (VF Services: fixed the out-of-sync checkpoint file). (D)
+** [$XENON-4804 (updated JIRA with findings from code analysis). (P)
+
 -------- 2024-01-02 ~ 2024-01-05
 
 * 2024-01-02
@@ -142,7 +183,7 @@ BVEPP
 
 * 2023-11-29
 ** REC.
-** [$XENON-4880 (stress testing; updated jira with more details about the race condition). (P)
+** [$XENON-4880 (stress testing; updated JIRA with more details about the race condition). (P)
 ** [$XENON-4886 (tried out Shanmuga's implementation of interactive password input; create-data-node? password confirmation?). (P)
 
 * 2023-11-30
