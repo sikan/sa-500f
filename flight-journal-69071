@@ -18,6 +18,21 @@ BVEPP
 ** Update sections in the manual regarding the backup command and snapshot backups. (D)
 ** Sick leave/PM.
 
+* 2024-01-17
+** REC.
+** Review Shanmuga's MR for [$XENON-4886. (D)
+** [$XENON-4804 (tried to figure out a solution). (P)
+
+* 2024-01-18
+** REC.
+** [$XENON-4886 (updated help message to mention interactive password prompt; updated changes.dita). (+)
+** [$XENON-4804 (tried to figure out a solution). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-01-19
+** REC.
+** [$XENON-4804 (implemented a reluctant workaround; 3 rounds of -Dx=1000 stress tests). (P)
+
 -------- 2024-01-08 ~ 2024-01-12
 
 * 2024-01-08
@@ -59,14 +74,14 @@ BVEPP
 ** [$XENON-4631 (reproduction attempt). (P)
 ** [$XENON-4804 (heap dump analysis). (P)
 
-* 2024-01-03
+* 2024-01-04
 ** REC.
 ** Try Wouter's workaround for the build issue with Microsoft OpenJDK. (+)
 ** [$XENON-4631 (reproduction attempt). (P)
 ** [$xENON scrum meeting. (D)
 ** Upon Champaka's request, bring Michael's inquiries to the attention of [$xENON management. (+)
 
-* 2024-01-04
+* 2024-01-05
 ** REC.
 ** Create an HR ticket for fitness membership and wellness reimbursement. (+)
 ** [$XENON-4889 (VF Services: inconsistent backups by third party backup tool; analyzed .wal files with CSI; checkpoint file out of sync, fixed). (+)
