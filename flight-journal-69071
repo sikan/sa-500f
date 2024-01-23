@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-01-22 ~ 2024-01-26
+
+* 2024-01-22
+** REC.
+** [$XENON-4804 (manual testing, but changed code not covered; final commit). (D)
+** Investigate hanging builds on Jenkins (all inexplicably stuck at some native methods). (+)
+** [$xENON scrum meeting. (D)
+** Check InstallAnywhere licenses for two Jenkins agents. (+)
+
 -------- 2024-01-15 ~ 2024-01-19
 
 * 2024-01-15
