@@ -12,6 +12,13 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Check InstallAnywhere licenses for two Jenkins agents. (+)
 
+* 2024-01-23
+** REC.
+** Confirmed no InstallAnywhere related account. (+)
+** Check the deafult password complexity policy (currently zeroed out). (+)
+** [$XENON-4631 (manual testing; caused by snapshot transactions accessing just deleted LMPI segments/files). (P)
+** Fix a classpath expansion issue with 'create-license' (reported by Wouter). (+)
+
 -------- 2024-01-15 ~ 2024-01-19
 
 * 2024-01-15
