@@ -19,6 +19,13 @@ BVEPP
 ** [$XENON-4631 (manual testing; caused by snapshot transactions accessing just deleted LMPI segments/files). (P)
 ** Fix a classpath expansion issue with 'create-license' (reported by Wouter). (+)
 
+* 2024-01-24
+** REC.
+** Take the OpenPulse survey. (+)
+** [$XENON-4631 (MAYBE_SNAPSHOT_TOO_OLD?). (P)
+** Investigate a CLI issue (reported by Prem; turned out to be caused by the exclamation mark in the password argument). (+)
+** Change the SR feedback of [$XENON-4888 from 'Error handling' (set by the support) to 'No response (inconclusive)'. (+)
+
 -------- 2024-01-15 ~ 2024-01-19
 
 * 2024-01-15
