@@ -26,6 +26,14 @@ BVEPP
 ** Investigate a CLI issue (reported by Prem; turned out to be caused by the exclamation mark in the password argument). (+)
 ** Change the SR feedback of [$XENON-4888 from 'Error handling' (set by the support) to 'No response (inconclusive)'. (+)
 
+* 2024-01-25
+** REC.
+** [$XENON-4631 (MAYBE_SNAPSHOT_TOO_OLD; -Dx=1000 stress tests). (P)
+** China Employee Privacy Notice and Consent Letter (again...). (+)
+** [$xENON scrum meeting. (D)
+** Investigate the behavior wrt background running server(s) of interactive CLI session. (+)
+** Create [$XENON-4894 (interactive password input for password resetting commands). (+)
+
 -------- 2024-01-15 ~ 2024-01-19
 
 * 2024-01-15
