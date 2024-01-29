@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-01-29 ~ 2024-02-02
+
+* 2024-01-29
+** REC.
+** Investigate an issue with building installer (reported by Wouter; unable to reproduce locally). (+)
+** [$XENON-4631 (changes.dita; final commit). (P)
+** [$XENON-4787 (better keep the current behavior if used programmatically with API).  P)
+
 -------- 2024-01-22 ~ 2024-01-26
 
 * 2024-01-22
@@ -33,6 +41,12 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Investigate the behavior wrt background running server(s) of interactive CLI session. (+)
 ** Create [$XENON-4894 (interactive password input for password resetting commands). (+)
+
+* 2024-01-26
+** REC.
+** [$XENON-4631 (-Dx=1000 stress tests). (P)
+** [$XENON-4892 (VF Services: customer unable to locate a proper backup of system-db). (P)
+** [$XENON-4787 (code review; root cause analysis; shared thoughts on JIRA). (P)
 
 -------- 2024-01-15 ~ 2024-01-19
 
