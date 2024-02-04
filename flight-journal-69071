@@ -9,7 +9,33 @@ BVEPP
 ** REC.
 ** Investigate an issue with building installer (reported by Wouter; unable to reproduce locally). (+)
 ** [$XENON-4631 (changes.dita; final commit). (P)
-** [$XENON-4787 (better keep the current behavior if used programmatically with API).  P)
+** [$XENON-4787 (better keep the current behavior if used programmatically with API). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-01-30
+** REC.
+** [$XENON-4633 (enable CSI to dump basic log record info even without system-db). (P)
+
+* 2024-01-31
+** REC.
+** [$XENON-4633 (enable CSI to dump basic log record info even without system-db). (P)
+
+* 2024-02-01
+** REC.
+** Sync-up call with Michael Jiang and Jacky Ngew regarding [$xENON becoming unresponsive at CBA. (+)
+** 7+ hour support call with Commonwealth Bank of Australia. (+)
+** Separate call from George Harb (VP, Sales) during the above (requested me to show them how to perform consistency checks). (+)
+** Sync-up call with Wouter. (+)
+** Sync-up call with [$xENON team. (+)
+** Sync-up call with Champaka. (+)
+** Write a summary of the day (details of the thread dump and error log analysis; suggestion to increase heap size; a pure runtime issue without data inconsistencies; etc.). (+)
+
+* 2024-02-02
+** REC.
+** Multiple sync-up calls with Michael Jiang. (+)
+** 6+ hour support call with Commonwealth Bank of Australia. (P)
+** Sync-up call with Champaka. (+)
+** Write a summary of the day (explained how [$xENON works in more detail; 182X more rows this month? identified -Xms/-Xmx issue with the LAX launcher; devised a workaround; etc.). (D)
 
 -------- 2024-01-22 ~ 2024-01-26
 
@@ -4345,7 +4371,7 @@ BVEPP
 ** Create a UBMT ticket as the Perforce LDAP authentication fails (couldn't work most of the day due to this). (+)
 ** Follow up on the E3 license activation issue (moved to second level support). (+)
 ** [$xENON scrum meeting. (D)
-** Create [$XENON-4633 (local run of upgrade tests hangs). (+)
+** Create [$XENON-4634 (local run of upgrade tests hangs). (+)
 
 * 2021-04-23
 ** REC.
