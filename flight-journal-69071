@@ -3,6 +3,40 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-02-04 ~ 2024-02-09
+
+* 2024-02-04
+** REC.
+** [$XENON-4633 (enable CSI to dump basic log record info even without system-db). (P)
+
+* 2024-02-05
+** REC.
+** [$XENON-4633 (enable CSI to dump basic log record info even without system-db). (D)
+** [$xENON scrum meeting. (D)
+
+* 2024-02-06
+** REC.
+** [$XENON-4704 (CSI: interpretation of checkpoint log record fields; not reproducible). (D)
+** Karen's query regarding the issues with the size of XQuery results. (+)
+** Troubleshoot license key check in the new installer (again, this time caused by a logger class). (+)
+** Explain the proper way to pass additional JVM options to the CLI command (under the JIRA case for CBA). (+)
+
+* 2024-02-07
+** Off.
+
+* 2024-02-08
+** REC.
+** Troubleshoot license key check in the new installer. (P)
+** [$xENON scrum meeting. (D)
+** Call with Champaka (contract extension). (+)
+** Call with Wendy (contract extension; the remarkably unusual reduction in annual leave). (+)
+
+* 2024-02-09
+** REC.
+** Sign the labor contract. (D)
+** Troubleshoot license key check in the new installer. (P)
+** [$XENON-4787 (probably hit OOM even before launching the checker?). (P)
+
 -------- 2024-01-29 ~ 2024-02-02
 
 * 2024-01-29
