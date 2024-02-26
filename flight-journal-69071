@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-02-26 ~ 2024-03-01
+
+* 2024-02-26
+** REC.
+** Answer Karen's questions about OBJECT_CLOSED and write conflicts for snapshot isolation transactions. (+)
+** [$xENON scrum meeting. (D)
+** Implement a CLI enhancement to detect password retrieved from properties file or environment. (P)
+
 -------- 2024-02-18 ~ 2024-02-23
 
 * 2024-02-18
