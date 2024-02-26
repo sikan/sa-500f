@@ -15,6 +15,26 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Explain to Prem and Shanmuga how to inspect log records in CSI UI. (+)
 
+* 2024-02-20
+** REC.
+** Fix license key check in the new installer (a dedicated exception type for comparing two Git commit hashes as build numbers). (P)
+
+* 2024-02-21
+** REC.
+** Fix license key check in the new installer. (D)
+
+* 2024-02-22
+** REC.
+** Propose a CLI enhancement to detect password retrieved from properties file or environment. (+)
+** Review Shanmuga's changes for [$XENON-4894 (no MR; should be optional argument instead of optional option). (D)
+** [$xENON scrum meeting. (D)
+
+* 2024-02-23
+** REC.
+** [$XENON-4897 (Flatirons: .wal files occasionally piling up on replicas; thread dumps, .wal file list, checkpoint). (+)
+** Create [$XENON-4898 (disable interactive password input when using the '--non-interactive' option). (+)
+** Implement a CLI enhancement to detect password retrieved from properties file or environment. (P)
+
 -------- 2024-02-04 ~ 2024-02-09
 
 * 2024-02-04
