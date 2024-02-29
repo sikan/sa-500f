@@ -7,9 +7,19 @@ BVEPP
 
 * 2024-02-26
 ** REC.
-** Answer Karen's questions about OBJECT_CLOSED and write conflicts for snapshot isolation transactions. (+)
+** Answer Karen's questions about OBJECT_CLOSED and write conflicts for snapshot transactions. (+)
 ** [$xENON scrum meeting. (D)
 ** Implement a CLI enhancement to detect password retrieved from properties file or environment. (P)
+
+* 2024-02-27
+** REC.
+** SOP training course (00384). (D)
+** Secure Coding Practices - Part 1 (Security Basics). (P)
+
+* 2024-02-28
+** REC.
+** Secure Coding Practices - Part 1 (Security Basics). (D)
+** Secure Coding Practices - Part 2 (Defensive Design Principles). (P)
 
 -------- 2024-02-18 ~ 2024-02-23
 
