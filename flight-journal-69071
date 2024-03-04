@@ -21,6 +21,17 @@ BVEPP
 ** Secure Coding Practices - Part 1 (Security Basics). (D)
 ** Secure Coding Practices - Part 2 (Defensive Design Principles). (P)
 
+* 2024-02-29
+** REC.
+** Investigate a CLI issue related to reading properties (reported by Wouter). (+)
+** [$xENON scrum meeting. (D)
+
+* 2024-03-01
+** REC.
+** [$VAULT2-25828 (DNV AS: empty luceneblobs-1 segment; last modification date of which long after that of all other Lucene segments; unlikely caused by [$xENON). (+)
+** Secure Coding Practices - Part 2 (Defensive Design Principles). (D)
+** [$XENON-4900 (another CLI issue related to output redirection; --file and --stdout coexist). (+)
+
 -------- 2024-02-18 ~ 2024-02-23
 
 * 2024-02-18
