@@ -3,6 +3,38 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-03-04 ~ 2024-03-08
+
+* 2024-03-04
+** REC.
+** [$XENON-4901 ([$STARLING: sub-path configuration change -> reindexing vs. rebuilding?). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4900 (--file and --stdout must function properly when used independently or together). (P)
+
+* 2024-03-05
+** REC.
+** 17 years...
+** [$VAULT2-25828 (DNV AS: close inspection; the suggestion to copy over the file from the old environment might be worth a try, for this particular case). (P)
+** [$XENON-4897 (Flatirons: replication working as expected; accumulated logs and spikes in CPU/memory utilization probably caused by long-running read-only transactions). (P)
+** [$XENON-4901 ([$STARLING: confusing comments by Rajiv; more discussions). (P)
+
+* 2024-03-06
+** REC.
+** Career Week: CEO Kick-Off - A Week of 25,000 Conversations. (+)
+** Career Week: Navigate Your Career at [$OTTER. (+)
+** Review Shanmuga's changes for [$XENON-4894 (no MR). (D)
+** Career Week: Shining in High-Impact Meetings. (+)
+** Career Week: Crafting a Strong Professional Brand. (+)
+
+* 2024-03-07
+** REC.
+** [$XENON-4900 (--file and --stdout must function properly when used independently or together). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-03-08
+** REC.
+** [$XENON-4900 (--file and --stdout must function properly when used independently or together). (D)
+
 -------- 2024-02-26 ~ 2024-03-01
 
 * 2024-02-26
