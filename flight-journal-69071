@@ -13,6 +13,17 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4901 ([$STARLING: clarified that adding sub-paths without checking consistency would require rebuilding the entire index). (P)
 
+* 2024-03-12
+** REC.
+** [$XENON-4899 (issues with [$QUEENCELLRC). (P)
+
+* 2024-03-13
+** REC.
+** [$XENON-4897 (Flatirons: any way to capture the XQueries from active sessions?). (P)
+** Create [$XENON-4902 (display current executing or last executed query for each session in the output of 'session info'). (+)
+** Watch the recording of Muhi's all-hands. (+)
+** [$XENON-4899 ([$QUEENCELLRC: system property and/or environment variable?). (P)
+
 -------- 2024-03-04 ~ 2024-03-08
 
 * 2024-03-04
@@ -2217,7 +2228,7 @@ BVEPP
 ** [$XENON-4791 (FWD Life Insurance: memory (setting) issues with the consistency checker). (+)
 ** Perforce -> GitLab migration (reiterated the user mapping issues). (P)
 ** [$XENON-4785 ([$NEON: brief summary of the current status after Arun's meetings). (P)
-** [$XENON-4672 (output of two runs of 'ant purge-xhive-jars' in a row; Ram's latest fix). (P)
+** [$XENON-4672 (output of two runs of 'ant purge-[$queencell-jars' in a row; Ram's latest fix). (P)
 
 -------- 2022-09-26 ~ 2022-09-30
 
