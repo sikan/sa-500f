@@ -24,6 +24,16 @@ BVEPP
 ** Watch the recording of Muhi's all-hands. (+)
 ** [$XENON-4899 ([$QUEENCELLRC: system property and/or environment variable?). (P)
 
+* 2024-03-14
+** REC.
+** [$XENON-4899 (fixed issues with [$QUEENCELLRC). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-03-15
+** REC.
+** Watch the recording of Michael Cybala's all-hands. (+)
+** [$XENON-4899 (refactoring: moved all properties definitions to a new [$QueencellProperty class). (D)
+
 -------- 2024-03-04 ~ 2024-03-08
 
 * 2024-03-04
