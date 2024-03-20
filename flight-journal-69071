@@ -3,11 +3,25 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-03-18 ~ 2024-03-22
+
+* 2024-03-18
+** REC.
+** [$XENON-4897 (Flatirons: unable to continue the investgation due to heap dump corruption). (P)
+** Investigate failing tests on Jenkins. (+)
+** [$xENON scrum meeting. (D)
+** Assign [$XENON-4833 to Prem. (+)
+
+* 2024-03-19
+** REC.
+** [$XENON-4903 ([$NEON: XQuery issue with 'insert' statement; namespace resolution? turned out a usage issue). (+)
+** Investigate failing tests on Jenkins. (D)
+
 -------- 2024-03-11 ~ 2024-03-15
 
 * 2024-03-11
 ** REC.
-** Assign a new task to Shanmuga ([$XENON-4898). (+)
+** Assign [$XENON-4898 to Shanmuga. (+)
 ** Check the code history related to redoAllRecordsLSN. (+)
 ** [$XENON-4900 (fixed a compilation error found by Wouter and Shanmuga; shouldn't reference any 'util' class from kernel). (+)
 ** [$xENON scrum meeting. (D)
