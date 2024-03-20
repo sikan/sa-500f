@@ -17,6 +17,10 @@ BVEPP
 ** [$XENON-4903 ([$NEON: XQuery issue with 'insert' statement; namespace resolution? turned out a usage issue). (+)
 ** Investigate failing tests on Jenkins. (D)
 
+* 2024-03-20
+** REC.
+** Secure Coding Practices - Part 3 (Mitigating Common Vulnerabilities). (D)
+
 -------- 2024-03-11 ~ 2024-03-15
 
 * 2024-03-11
