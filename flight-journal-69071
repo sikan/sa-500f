@@ -21,6 +21,16 @@ BVEPP
 ** REC.
 ** Secure Coding Practices - Part 3 (Mitigating Common Vulnerabilities). (D)
 
+* 2024-03-21
+** REC.
+** [$XENON-4904 (various questions from Wouter regarding 'create-replica', '--dedicated-replica', 'turn-replicator-into-master'; checked the behavior). (+)
+** [$xENON scrum meeting. (D)
+
+* 2024-03-22
+** REC.
+** [$XENON-4897 (Flatirons: same checksums on the customer side, heap dump corrupted from the beginning). (P)
+** [$XENON-4904 (various questions from Wouter regarding 'create-replica', '--dedicated-replica', 'turn-replicator-into-master'). (+)
+
 -------- 2024-03-11 ~ 2024-03-15
 
 * 2024-03-11
