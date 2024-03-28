@@ -3,6 +3,24 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-03-25 ~ 2024-03-29
+
+* 2024-03-25
+** REC.
+** [$XENON-4897 (Flatirons: pointed out the 'Unexpected EOF' warning from jhat). (P)
+** [$XENON-4904 (proposed deprecating certain functions of 'create-replica' and introducing new replacements). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-03-26
+** REC.
+** [$XENON-4904 (new commands, cleanup, refactoring...). (P)
+** Review Shanmuga's changes for [$XENON-4898 (no MR). (P)
+** Review existing CLI logic regarding non-interactive mode (due to the above). (+)
+
+* 2024-03-27
+** REC.
+** [$XENON-4904 (new commands, cleanup, refactoring...). (P)
+
 -------- 2024-03-18 ~ 2024-03-22
 
 * 2024-03-18
@@ -29,7 +47,7 @@ BVEPP
 * 2024-03-22
 ** REC.
 ** [$XENON-4897 (Flatirons: same checksums on the customer side, heap dump corrupted from the beginning). (P)
-** [$XENON-4904 (various questions from Wouter regarding 'create-replica', '--dedicated-replica', 'turn-replicator-into-master'). (+)
+** [$XENON-4904 (explained the current code behavior in detail on JIRA with suggestions for potential changes). (P)
 
 -------- 2024-03-11 ~ 2024-03-15
 
