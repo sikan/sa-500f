@@ -9,6 +9,17 @@ BVEPP
 ** REC.
 ** [$XENON-4904 (new commands, cleanup, refactoring...). (D)
 
+* 2024-04-02
+** REC.
+** Karen's query regarding the potential impact of frequent index rebuilding. (+)
+** Investigate an LMPI issue where the XQuery doesn't always utilize the index for a matching sub-path. (P)
+
+* 2024-04-03
+** REC.
+** Karen's query regarding OOM errors apparently caused by the deletion of documents (requested heap dump). (+)
+** Attempt to ensure people still have access to KT recordings in the foreseeable future. (+)
+** Review Shanmuga's changes for [$XENON-4898 (no MR; issues with rebase; best way to support both ArgumentDeclaration and OptionDeclaration?). (P)
+
 -------- 2024-03-25 ~ 2024-03-29
 
 * 2024-03-25
