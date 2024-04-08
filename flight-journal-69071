@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-04-07 ~ 2024-04-12
+
+* 2024-04-07
+** REC.
+** Add reminders for interactive password input in the help messages for relevant commands. (+)
+** Wouter's questions regarding some options specific to incremental backup/restore (--overwrite, --standalone, --keeplogfiles). (+)
+** [$XENON-4904 (Wouter's questions regarding deprecation notice and the requirement of a running replica). (+)
+** Create [$XENON-4905 (display deprecation warning for command specific options). (+)
+
 -------- 2024-04-01 ~ 2024-04-03
 
 * 2024-04-01
