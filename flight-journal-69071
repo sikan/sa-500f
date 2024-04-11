@@ -12,6 +12,20 @@ BVEPP
 ** [$XENON-4904 (Wouter's questions regarding deprecation notice and the requirement of a running replica). (+)
 ** Create [$XENON-4905 (display deprecation warning for command specific options). (+)
 
+* 2024-04-08
+** REC.
+** [$xENON scrum meeting. (D)
+** Implement new internal APIs to support both ArgumentDeclaration and OptionDeclaration (to make Shanmuga's life easier... perhaps way too easy). (P)
+
+* 2024-04-09
+** REC.
+** Implement new internal APIs to support both ArgumentDeclaration and OptionDeclaration. (D)
+** [$XENON-4897 (Flatirons: heap dump analysis; it's obfuscated...). (P)
+
+* 2024-04-10
+** REC.
+** [$XENON-4897 (Flatirons: heap dump analysis; had to do some interesting Unix timestamp conversion). (P)
+
 -------- 2024-04-01 ~ 2024-04-03
 
 * 2024-04-01
