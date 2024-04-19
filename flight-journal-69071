@@ -3,6 +3,30 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-04-15 ~ 2024-04-19
+
+* 2024-04-15
+** REC.
+** Wouter's KT sessions on XQuery. (P)
+** Investigate an LMPI issue where the XQuery doesn't always utilize the index for a matching sub-path. (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-04-16
+** REC.
+** Jenkins maintenance (the 'Violations' plug-in; proxy server; etc.). (+)
+
+* 2024-04-17
+** REC.
+** Create a wiki page to discuss how LMPI and PVI specifications affect index utilization by different XQuery predicates. (+)
+** [$XENON-4906 ([$VAULT/Stericycle: transaction log id file missing for 4 instances). (+)
+
+* 2024-04-18
+** REC.
+** [$XENON-4906 ([$VAULT/Stericycle: system-db missing for 2 instances; random file loss, unlikely [$xENON related). (P)
+** Review Shanmuga's changes for [$XENON-4898 (speechless...). (P)
+** Create a wiki page to discuss how LMPI and PVI specifications affect index utilization by different XQuery predicates. (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-04-07 ~ 2024-04-12
 
 * 2024-04-07
