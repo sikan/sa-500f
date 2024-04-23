@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-04-22 ~ 2024-04-26
+
+* 2024-04-22
+** REC.
+** Post test for Secure Coding Practices - Part 4 (Instructor Lead Training for Java) ('post' test before the training). (+)
+** Set up VM for Secure Coding Practices - Part 4 (Instructor Lead Training for Java). (+)
+** Optimize the related logic and report the absence of both .log and .wal files. (D)
+** Review Shanmuga's changes for [$XENON-4898 (still no MR). (D)
+
 -------- 2024-04-15 ~ 2024-04-19
 
 * 2024-04-15
