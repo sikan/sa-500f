@@ -12,6 +12,19 @@ BVEPP
 ** Optimize the related logic and report the absence of both .log and .wal files. (D)
 ** Review Shanmuga's changes for [$XENON-4898 (still no MR). (D)
 
+* 2024-04-23
+** REC.
+** [$XENON-4833 (Wouter's and Prem's findings). (P)
+
+* 2024-04-24
+** REC.
+** [$XENON-4908 ([$STARLING/Ford: document count; no space left; people need to ask the right questions). (+)
+** Pick up the pieces after Shanmuga's checkin. (D)
+
+* 2024-04-25
+** REC/tP.
+** Pack stuff for moving (tP day 20; thanks Yipu, you are one of the good ones). (D)
+
 -------- 2024-04-15 ~ 2024-04-19
 
 * 2024-04-15
