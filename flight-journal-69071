@@ -3,6 +3,23 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-04-28 ~ 2024-04-30
+
+* 2024-04-28
+** REC.
+** [$XENON-4833 (found no match using that regex; apparently not supported, as indicated in the code comment). (P)
+
+* 2024-04-29
+** kR (the beginning of the end).
+** Unpack stuff and set up (almost) everything (D). 
+** [$XENON-4833 (PISpecBase). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-04-30
+** kR.
+** [$XENON-4908 ([$STARLING/Ford: location of the journal directory; explained the estimate of IIC backlog). (P)
+** [$XENON-4833 (PathIndexParser). (P)
+
 -------- 2024-04-22 ~ 2024-04-26
 
 * 2024-04-22
@@ -10,6 +27,7 @@ BVEPP
 ** Post test for Secure Coding Practices - Part 4 (Instructor Lead Training for Java) ('post' test before the training). (+)
 ** Set up VM for Secure Coding Practices - Part 4 (Instructor Lead Training for Java). (+)
 ** Optimize the related logic and report the absence of both .log and .wal files. (D)
+** [$xENON scrum meeting. (D)
 ** Review Shanmuga's changes for [$XENON-4898 (still no MR). (D)
 
 * 2024-04-23
@@ -24,6 +42,12 @@ BVEPP
 * 2024-04-25
 ** REC/tP.
 ** Pack stuff for moving (tP day 20; thanks Yipu, you are one of the good ones). (D)
+
+* 2024-04-26
+** REC.
+** [$XENON-4908 ([$STARLING/Ford: the journal directory, please). (P)
+** Offer some suggestions to Prem and Shanmuga on how to properly perform merges. (+)
+** [$XENON-4833 (quick-and-dirty regex to find 'nested' path specifications in tests). (P)
 
 -------- 2024-04-15 ~ 2024-04-19
 
