@@ -3,6 +3,22 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-05-20 ~ 2024-05-24
+
+* 2024-05-20
+** kR.
+** [$XENON-4909 ([$NEON: better to schedule downtime due to the size of the affected library). (P)
+** Andrej Karpathy time. (P)
+
+* 2024-05-21
+** REC.
+** Andrej Karpathy time. (P)
+
+* 2024-05-22
+** REC.
+** [$XENON-4908 ([$STARLING/Ford: ~270 .wal files generated between two restarts; checkpointLSN and systemRedoLSN very recent). (P)
+** Andrej Karpathy time. (P)
+
 -------- 2024-05-13 ~ 2024-05-17
 
 * 2024-05-13
