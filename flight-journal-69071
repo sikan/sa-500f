@@ -19,6 +19,17 @@ BVEPP
 ** [$XENON-4908 ([$STARLING/Ford: ~270 .wal files generated between two restarts; checkpointLSN and systemRedoLSN very recent). (P)
 ** Andrej Karpathy time. (P)
 
+* 2024-05-23
+** kR.
+** Andrej Karpathy time. (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-05-24
+** kR.
+** Andrej Karpathy time. (P)
+** [$XENON-4908 ([$STARLING/Ford: declined the meeting with Ford; reiterated the crux the problem). (P)
+** Quick call with Champaka on how to proceed with [$XENON-4908. (+)
+
 -------- 2024-05-13 ~ 2024-05-17
 
 * 2024-05-13
