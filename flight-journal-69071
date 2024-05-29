@@ -3,6 +3,21 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-05-27 ~ 2024-05-31
+
+* 2024-05-27
+** kR.
+** Andrej Karpathy time. (P)
+** Validate the JIRA -> ValueEdge test migration. (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-4908 ([$STARLING/Ford: detailed response to the latest update from Yelena; 3 issues to tack). (P)
+
+* 2024-05-28
+** REC.
+** [$XENON-4908 ([$STARLING/Ford: detailed response to the latest update from Yelena; briefly explained the working mechanism of .wal files). (P)
+** Initiate communication with Prashant regarding issues identified during the validation of the JIRA -> ValueEdge test migration. (+)
+** [$XENON-4910 ([$STARLING/Israel State Archives: unclear description without details; apparently caused by document not being update/imported). (+)
+
 -------- 2024-05-20 ~ 2024-05-24
 
 * 2024-05-20
