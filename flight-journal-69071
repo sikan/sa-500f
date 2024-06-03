@@ -18,6 +18,21 @@ BVEPP
 ** Initiate communication with Prashant regarding issues identified during the validation of the JIRA -> ValueEdge test migration. (+)
 ** [$XENON-4910 ([$STARLING/Israel State Archives: unclear description without details; apparently caused by document not being update/imported). (+)
 
+* 2024-05-29
+** kR.
+** [$XENON-4908 ([$STARLING/Ford: closed due to the lack of support/[$STARLING/customer cooperation for further investigation). (D)
+** Andrej Karpathy time. (P)
+
+* 2024-05-30
+** kR.
+** Validate the JIRA -> ValueEdge test migration. (P)
+** Andrej Karpathy time. (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-05-31
+** REC.
+** Review Wouter's change for the data node backup GUI (spotted a bug that occurs when the 'standalone' option is selected multiple times in a row). (+)
+
 -------- 2024-05-20 ~ 2024-05-24
 
 * 2024-05-20
