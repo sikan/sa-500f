@@ -14,6 +14,20 @@ BVEPP
 ** REC.
 ** ValueEdge training (part 1 ~ 5). (D)
 
+* 2024-06-26
+** kR.
+** Validate the JIRA -> ValueEdge PoC migration (checked things mentioned in the training; more questions for Prashant and the VE team). (P)
+
+* 2024-06-27
+** REC.
+** Andrej Karpathy time. (P)
+** Validate the JIRA -> ValueEdge PoC migration (integration with GitLab? commit message pattern). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-06-28
+** REC.
+** Andrej Karpathy time. (P)
+
 -------- 2024-06-17 ~ 2024-06-21
 
 * 2024-06-17
@@ -28,7 +42,7 @@ BVEPP
 ** kR.
 ** [$VAULT2-26875 [$VAULT2-14944 (segments with large free space?). (+)
 ** JIRA cleanup. (+)
-** Validate the JIRA -> ValueEdge test migration (Prashant, any updates?). (P)
+** Validate the JIRA -> ValueEdge PoC migration (Prashant, any updates?). (P)
 ** Andrej Karpathy time. (P)
 
 * 2024-06-20
@@ -61,7 +75,7 @@ BVEPP
 
 * 2024-06-03
 ** kR.
-** Validate the JIRA -> ValueEdge test migration (communication with Prashant and the VE team). (P)
+** Validate the JIRA -> ValueEdge PoC migration (communication with Prashant and the VE team). (P)
 ** Review and verify Wouter's fix for the bug found last Friday. (+)
 ** Watch the recording of Michael Cybala's all-hands. (+)
 ** [$xENON scrum meeting. (D)
@@ -73,12 +87,12 @@ BVEPP
 
 * 2024-06-05
 ** kR.
-** Validate the JIRA -> ValueEdge test migration (communication with Prashant and the VE team). (P)
+** Validate the JIRA -> ValueEdge PoC migration (communication with Prashant and the VE team). (P)
 ** Andrej Karpathy time. (P)
 
 * 2024-06-06
 ** REC.
-** Validate the JIRA -> ValueEdge test migration (communication with Prashant and the VE team). (P)
+** Validate the JIRA -> ValueEdge PoC migration (communication with Prashant and the VE team). (P)
 ** [$xENON scrum meeting. (D)
 ** Discuss with Champaka the support contract extension requested by Flatirons (remained on the call after the above). (+)
 
@@ -91,14 +105,14 @@ BVEPP
 * 2024-05-27
 ** kR.
 ** Andrej Karpathy time. (P)
-** Validate the JIRA -> ValueEdge test migration. (+)
+** Validate the JIRA -> ValueEdge PoC migration. (+)
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4908 ([$STARLING/Ford: detailed response to the latest update from Yelena; 3 issues to tack). (P)
 
 * 2024-05-28
 ** REC.
 ** [$XENON-4908 ([$STARLING/Ford: detailed response to the latest update from Yelena; briefly explained the working mechanism of .wal files). (P)
-** Initiate communication with Prashant regarding issues identified during the validation of the JIRA -> ValueEdge test migration. (+)
+** Initiate communication with Prashant regarding issues identified during the validation of the JIRA -> ValueEdge PoC migration. (+)
 ** [$XENON-4910 ([$STARLING/Israel State Archives: unclear description without details; apparently caused by document not being update/imported). (+)
 
 * 2024-05-29
@@ -108,7 +122,7 @@ BVEPP
 
 * 2024-05-30
 ** kR.
-** Validate the JIRA -> ValueEdge test migration. (P)
+** Validate the JIRA -> ValueEdge PoC migration. (P)
 ** Andrej Karpathy time. (P)
 ** [$xENON scrum meeting. (D)
 
