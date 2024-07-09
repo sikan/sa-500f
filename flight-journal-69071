@@ -3,6 +3,47 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-07-08 ~ 2024-07-12
+
+* 2024-07-08
+** kR/PM.
+** [$VAULT2-26911 (VF Services: missing LSFID pointing to a parent different than that of its neighbouring LSFIDs). (P)
+** [$XENON-4913 ([$NEON: discussion with Champaka; created a new license with the expiry date suggested by Andreas). (P)
+** [$xENON scrum meeting. (D)
+
+-------- 2024-07-01 ~ 2024-07-05
+
+* 2024-07-01
+** REC.
+** Validate the JIRA -> ValueEdge PoC migration (VE team's response; what to do with the 'Team' field?). (P)
+** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda). (+)
+** Create [$XENON-4913 (run unit tests with 4K page size). (+)
+** [$xENON scrum meeting. (D)
+
+* 2024-07-02
+** REC.
+** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda; inconsistent sub-paths). (P)
+
+
+* 2024-07-03
+** REC.
+** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda; pure [$xENON tests). (P)
+
+* 2024-07-04
+** REC.
+** [$XENON-4913 ([$NEON: license expired; license policy, Andreas?). (P)
+** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda, mainly CLI issues). (P)
+** [$VAULT2-26911 (VF Services: potential data corruption with indirect addressing error). (+)
+** [$xENON scrum meeting. (D)
+** Quick call with Champaka regarding the 'talent re-design'. (+)
+
+* 2024-07-05
+** REC.
+** [$XENON-4912 ([$STARLING/Ericsson: hey, you better review your own code). (P)
+** [$XENON-4913 ([$NEON: asked Andreas to suggest an expiry date). (P)
+** [$VAULT2-26911 (VF Services: correct log files this time). (P)
+** Create [$XENON-4915 (CLI: list-indexes). (+)
+
 -------- 2024-06-24 ~ 2024-06-28
 
 * 2024-06-24
