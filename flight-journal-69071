@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-07-15 ~ 2024-07-19
+
+* 2024-07-15
+** REC.
+** Validate the JIRA -> ValueEdge migration (ready for cutover). (P)
+** Sick leave/PM.
+
 -------- 2024-07-08 ~ 2024-07-12
 
 * 2024-07-08
@@ -10,6 +17,29 @@ BVEPP
 ** [$VAULT2-26911 (VF Services: missing LSFID pointing to a parent different than that of its neighbouring LSFIDs). (P)
 ** [$XENON-4913 ([$NEON: discussion with Champaka; created a new license with the expiry date suggested by Andreas). (P)
 ** [$xENON scrum meeting. (D)
+
+* 2024-07-09
+** kR/PM.
+** Validate the JIRA -> ValueEdge PoC migration (comment formatting fixed). (P)
+** [$VAULT2-26911 (VF Services: created a program to analyze system-db; really complicated; updated with findings and questions for Olivier). (P)
+
+* 2024-07-10
+** REC.
+** [$VAULT2-26911 (VF Services: anything else needed from our end?). (P)
+** [$XENON-4912 ([$STARLING/Ericsson: helped Shanmuga troubleshoot an NPE found in his program). (P)
+
+* 2024-07-11
+** REC.
+** [$XENON-4912 ([$STARLING/Ericsson: reviewed Shanmuga's stand-alone program for the customer). (P)
+** Validate the JIRA -> ValueEdge migration (now the production). (P)
+** [$xENON scrum meeting. (D)
+** Explain to Prem and Shanmuga how to export system-db from CSI UI. (+)
+
+* 2024-07-12
+** REC.
+** Validate the JIRA -> ValueEdge migration (team, shared filters, issue links, PHT, GitLan integration, etc.). (P)
+** Quick call with Champaka regarding the above. (+)
+** Revert Outlook default font from Aptos to Calibri. (+)
 
 -------- 2024-07-01 ~ 2024-07-05
 
