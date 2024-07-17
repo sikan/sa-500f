@@ -10,6 +10,10 @@ BVEPP
 ** Validate the JIRA -> ValueEdge migration (ready for cutover). (P)
 ** Sick leave/PM.
 
+* 2024-07-16
+** REC.
+** Review pure [$xENON facet related test logic. (P)
+
 -------- 2024-07-08 ~ 2024-07-12
 
 * 2024-07-08
