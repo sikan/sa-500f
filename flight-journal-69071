@@ -3,6 +3,41 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-07-22 ~ 2024-07-26
+
+* 2024-07-22
+** kR.
+** Wouter's questions regarding read-only transactions taking explicit locks. (+)
+** Udemy usage survey. (+)
+** Review pure [$xENON facet related test logic (continued adding new checks; the original intent of the whole test still unclear). (P)
+** [$xENON scrum meeting. (D)
+** Quick call with Champaka regarding how to make VE display links and dependencies. (+)
+** [$XENON-1162227 ([$VAULT2/Thai Military Bank: .wal accidentally deleted on master). (+)
+** [$XENON-4912 ([$STARLING/Ericsson: another stand-alone program to update sub-path? [$STARLING should be able to do it by themselves). (P)
+
+* 2024-07-23
+** kR/PM.
+** [$XENON-1162227 ([$VAULT2/Thai Military Bank: support asked how to re-create the replica). (P)
+** FY2024 year-end self-review. (D)
+
+* 2024-07-24
+** REC.
+** Review pure [$xENON facet related test logic (all 'enhancements' checked in; more testing for the bug with facet paths). (D)
+** Create [$XENON-1356514 for the facet paths related bug found during the above. (+)
+** [$XENON-4912 ([$STARLING/Ericsson: explained why [$STARLING should be able to do it by themselves). (P)
+
+* 2024-07-25
+** REC.
+** [$XENON-4912 ([$STARLING/Ericsson: again, forced to avoid responsibility; would be more efficient to just do it). (P)
+** [$xENON scrum meeting. (D)
+** Create [$XENON-1431800 as a placeholder for VE-GitLab integration. (+)
+** [$XENON-1431800 (started to work on the pseudo GitLan CI script for the enablement of the integration). (+)
+
+* 2024-07-26
+** REC.
+** [$XENON-1431800 (a mistake in the guide about the CI script; all set; notified the team and proposed continuing the good old '[$XENON-' pattern). (D)
+** [$XENON-1162227 ([$VAULT2/Thai Military Bank: the segment of a concurrent index found read-only upon getNextId()). (P)
+
 -------- 2024-07-15 ~ 2024-07-19
 
 * 2024-07-15
@@ -13,6 +48,20 @@ BVEPP
 * 2024-07-16
 ** REC.
 ** Review pure [$xENON facet related test logic. (P)
+
+* 2024-07-17
+** REC.
+** Review pure [$xENON facet related test logic (nonsensical descriptions, Zhenjie, I'm looking at you). (P)
+** Fix a minor formatting issue with generated test code. (+)
+** Wave #5 JIRA -> ValueEdge migration Q&A session. (D)
+
+* 2024-07-18
+** Off.
+
+* 2024-07-19
+** REC.
+** Validate the JIRA -> ValueEdge migration (final? still the issue with links and dependencies; discussion with Champaka). (P)
+** Review pure [$xENON facet related test logic (fixed old test cases and added new ones; potential bug with facet paths?). (P)
 
 -------- 2024-07-08 ~ 2024-07-12
 
