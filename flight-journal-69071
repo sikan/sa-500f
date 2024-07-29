@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-07-29 ~ 2024-08-02
+
+* 2024-07-29
+** kR/PM.
+** [$xENON scrum meeting. (D)
+** [$XENON-4912 ([$STARLING/Ericsson: quick call with Champaka; invalid request to port Admin Client to Linux). (P)
+** [$XENON-4913 (new Jenkins pipeline for tests with 4K page size). (P)
+
 -------- 2024-07-22 ~ 2024-07-26
 
 * 2024-07-22
@@ -68,7 +76,7 @@ BVEPP
 * 2024-07-08
 ** kR/PM.
 ** [$VAULT2-26911 (VF Services: missing LSFID pointing to a parent different than that of its neighbouring LSFIDs). (P)
-** [$XENON-4913 ([$NEON: discussion with Champaka; created a new license with the expiry date suggested by Andreas). (P)
+** [$XENON-4914 ([$NEON: discussion with Champaka; created a new license with the expiry date suggested by Andreas). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2024-07-09
@@ -114,7 +122,7 @@ BVEPP
 
 * 2024-07-04
 ** REC.
-** [$XENON-4913 ([$NEON: license expired; license policy, Andreas?). (P)
+** [$XENON-4914 ([$NEON: license expired; license policy, Andreas?). (P)
 ** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda, mainly CLI issues). (P)
 ** [$VAULT2-26911 (VF Services: potential data corruption with indirect addressing error). (+)
 ** [$xENON scrum meeting. (D)
@@ -123,7 +131,7 @@ BVEPP
 * 2024-07-05
 ** REC.
 ** [$XENON-4912 ([$STARLING/Ericsson: hey, you better review your own code). (P)
-** [$XENON-4913 ([$NEON: asked Andreas to suggest an expiry date). (P)
+** [$XENON-4914 ([$NEON: asked Andreas to suggest an expiry date). (P)
 ** [$VAULT2-26911 (VF Services: correct log files this time). (P)
 ** Create [$XENON-4915 (CLI: list-indexes). (+)
 
