@@ -9,7 +9,25 @@ BVEPP
 ** kR/PM.
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4912 ([$STARLING/Ericsson: quick call with Champaka; invalid request to port Admin Client to Linux). (P)
-** [$XENON-4913 (new Jenkins pipeline for tests with 4K page size). (P)
+** [$XENON-4913 (new Jenkins pipeline for the nightly with 4K page size). (P)
+
+* 2024-07-30
+** kR/PM.
+** [$XENON-4913 (new Jenkins pipeline for the nightly with 4K page size). (P)
+
+* 2024-07-31
+** REC.
+** [$XENON-4913 (new Jenkins pipeline for the nightly with 4K page size). (P)
+** ValueEdge cleanup. (+)
+
+* 2024-08-01
+** REC.
+** [$XENON-4913 (failing 8K/4K nightlies). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-08-02
+** REC.
+** [$XENON-4913 (page size 512, to ensure that the B-tree would split; JUnit Assume for 8K-only tests). (P)
 
 -------- 2024-07-22 ~ 2024-07-26
 
