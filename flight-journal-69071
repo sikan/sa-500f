@@ -3,6 +3,30 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-08-05 ~ 2024-08-09
+
+* 2024-08-05
+** kR.
+** [$XENON-4913 (stabilized 8K/4K nightlies). (D)
+** Watch the recording of John Radko's all-hands. (+)
+** [$xENON scrum meeting. (D)
+
+* 2024-08-06
+** kR/PM.
+** AD (Philos 6215).
+
+* 2024-08-07
+** REC.
+** Quick call with Michael Jiang regarding a new BoC-reported data corruption. (+)
+** Instruct Wouter on how to switch spaces in ValueEdge. (+)
+** Create a debug branch to detect read-only transactions taking locks (no [$XENON case yet). (+)
+** Submit FY2024 year-end self-review. (D)
+
+* 2024-08-08
+** REC.
+** [$XENON-1938726 (observed read-only transactions taking locks during index rebuilding on Jenkins). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-07-29 ~ 2024-08-02
 
 * 2024-07-29
@@ -27,7 +51,7 @@ BVEPP
 
 * 2024-08-02
 ** REC.
-** [$XENON-4913 (page size 512, to ensure that the B-tree would split; JUnit Assume for 8K-only tests). (P)
+** [$XENON-4913 (page size 512? to ensure that the B-tree would split; JUnit Assume for 8K-only tests). (P)
 
 -------- 2024-07-22 ~ 2024-07-26
 
