@@ -27,6 +27,12 @@ BVEPP
 ** [$XENON-1938726 (observed read-only transactions taking locks during index rebuilding on Jenkins). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2024-08-09
+** REC.
+** [$XENON-1938726 (read-only transactions taking locks: negative test). (P)
+** Fix some inconsistent error messages. (+)
+** Reach out to Brad McIlmoyl with some ValueEdge usage questions. (+)
+
 -------- 2024-07-29 ~ 2024-08-02
 
 * 2024-07-29
