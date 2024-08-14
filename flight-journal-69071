@@ -3,6 +3,24 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-08-12 ~ 2024-08-16
+
+* 2024-08-12
+** kR.
+** [$XENON-1938726 (started to review internal API calls for taking locks, especially in concurrent indexes). (P)
+** [$xENON scrum meeting. (D)
+** [$XENON-1943523 (HIP: OOM issue; they probably misidentified the .lax file). (+)
+
+* 2024-08-13
+** kR/PM.
+** [$XENON-1938726 (made explicit lock acquisition a no-op for read-only transactions, to keep it consistent with get(long/String, int)). (D)
+** Investigate a hanging 4K page nightly on Jenkins. (+)
+
+* 2024-08-14
+** REC.
+** [$XENON-1960073 (BoC: physical file missing after restore; backup probably created before their upgrade from 10.5 to 11.1). (+)
+** Investigate a hanging 4K page nightly on Jenkins (created [$XENON-1964083, potential issue with TreeSegment B-tree structures?). (P)
+
 -------- 2024-08-05 ~ 2024-08-09
 
 * 2024-08-05
