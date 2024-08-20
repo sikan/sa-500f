@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-08-19 ~ 2024-08-23
+
+* 2024-08-19
+** kR/PM.
+** Check with Wouter about the "Code" formatting option (before filing a ValueEdge bug, as suggested by Brad). (+)
+** Add one more FY2025 goal as requested by the system. (+)
+** [$XENON-1960073 (BoC: reviewed their response; still questions marks). (P)
+** [$xENON scrum meeting. (D)
+** Send pointers to deserialization enhancements related stuff to the team. (+)
+** Create [$XENON-2192969 (Admin Client: deserialization enhancements). (+)
+
 -------- 2024-08-12 ~ 2024-08-16
 
 * 2024-08-12
@@ -20,6 +31,18 @@ BVEPP
 ** REC.
 ** [$XENON-1960073 (BoC: physical file missing after restore; backup probably created before their upgrade from 10.5 to 11.1). (+)
 ** Investigate a hanging 4K page nightly on Jenkins (created [$XENON-1964083, potential issue with TreeSegment B-tree structures?). (P)
+
+* 2024-08-15
+** REC.
+** [$XENON-948438 (implemented the support to display the last issued query by each transaction in session dump). (D)
+** [$xENON scrum meeting. (D)
+** Report issues with the "Code" formatting option to Brad McIlmoyl. (+)
+
+* 2024-08-16
+** REC.
+** [$XENON-1960073 (BoC: issues with their backup/restore routine; things pending confirmation). (P)
+** HR's wellness/self-care session. (D)
+** Experiment with combinations of different browsers and scenarios for the "Code" formatting option (still looked like a definite bug; Brad couldn't reproduce though). (+)
 
 -------- 2024-08-05 ~ 2024-08-09
 
