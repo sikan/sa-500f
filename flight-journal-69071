@@ -3,16 +3,39 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-08-26 ~ 2024-08-30
+
+* 2024-08-26
+** REC.
+** Wouter's feedback on the "Code" formatting option (unlike Brad, Wouter reproduced what I saw). (+)
+** [$xENON scrum meeting. (D)
+** [$XENON-1960073 (BoC: IllegalArgumentException? explained the problems with their backup/restore routine). (P)
+
 -------- 2024-08-19 ~ 2024-08-23
 
 * 2024-08-19
 ** kR/PM.
 ** Check with Wouter about the "Code" formatting option (before filing a ValueEdge bug, as suggested by Brad). (+)
 ** Add one more FY2025 goal as requested by the system. (+)
-** [$XENON-1960073 (BoC: reviewed their response; still questions marks). (P)
+** [$XENON-1960073 (BoC: reviewed their response; still question marks). (P)
 ** [$xENON scrum meeting. (D)
 ** Send pointers to deserialization enhancements related stuff to the team. (+)
 ** Create [$XENON-2192969 (Admin Client: deserialization enhancements). (+)
+
+* 2024-08-20
+** REC.
+** [$XENON-1960073 (BoC: requested to check accessibility of the problematic library in Admin Client). (P)
+
+* 2024-08-21
+** REC.
+** AD (Philos 6215).
+** Michael Cybala's all-hands. (D)
+
+* 2024-08-22
+** Off.
+
+* 2024-08-23
+** Off.
 
 -------- 2024-08-12 ~ 2024-08-16
 
