@@ -11,6 +11,24 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** [$XENON-1960073 (BoC: IllegalArgumentException? explained the problems with their backup/restore routine). (P)
 
+* 2024-08-27
+** kR/PM.
+** [$XENON-947740 (print-indexes). (+)
+
+* 2024-08-28
+** kR/PM.
+** [$XENON-947740 (print-indexes). (P)
+** Create [$XENON-2528219 (CLI: standardize all applicable commands to consistently use the '-overwrite' option). (+)
+
+* 2024-08-29
+** REC.
+** [$XENON-1960073 (BoC: pageLSN greater than system LSN; caused by illegal op; bump up system LSN to avoid issues with snapshot views?). (P)
+
+* 2024-08-30
+** kR/PM.
+** [$XENON-1960073 (BoC: determined a large enough LSN; verified the procedure to manually bump up system LSN). (P)
+** Create [$XENON-2551385 (CLI: add a new command to bump up system LSN automatically when necessary). (+)
+
 -------- 2024-08-19 ~ 2024-08-23
 
 * 2024-08-19
