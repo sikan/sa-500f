@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-09-02 ~ 2024-09-06
+
+* 2024-09-02
+** kR.
+** [$XENON-1960073 (BoC: prepared the .wal files to bump up system LSN; detailed instructions). (P)
+** [$xENON scrum meeting. (D)
+
+* 2024-09-03
+** REC.
+** [$XENON-1960073 (BoC: workaround worked; inconsistencies between name and id indexes?). (P)
+
 -------- 2024-08-26 ~ 2024-08-30
 
 * 2024-08-26
