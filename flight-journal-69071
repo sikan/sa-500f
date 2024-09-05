@@ -14,6 +14,17 @@ BVEPP
 ** REC.
 ** [$XENON-1960073 (BoC: workaround worked; inconsistencies between name and id indexes?). (P)
 
+* 2024-09-04
+** kR.
+** [$XENON-1960073 (BoC: checked code logic for parsing id paths). (P)
+** [$XENON-947740 (print-indexes). (D)
+
+* 2024-09-05
+** kR/PM.
+** Wouter's questions regarding DETACHABLE segments. (+)
+** [$XENON-2745930 (HIP/Ospedale Pediatrico Bambino Gesu: .wal files found corrupted after copying over data; extended support? notified management). (+)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-08-26 ~ 2024-08-30
 
 * 2024-08-26
