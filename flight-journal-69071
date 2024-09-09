@@ -25,6 +25,11 @@ BVEPP
 ** [$XENON-2745930 (HIP/Ospedale Pediatrico Bambino Gesu: .wal files found corrupted after copying over data; extended support? notified management). (+)
 ** [$xENON scrum meeting. (D)
 
+* 2024-09-06
+** REC.
+** [$XENON-1960073 (BoC: 'head' may prematurely terminate the command before it in the pipeline; RecursiveDirectoryLister, etc.). (P)
+** Quick call with Mark regarding a new ING customer case. (+)
+
 -------- 2024-08-26 ~ 2024-08-30
 
 * 2024-08-26
