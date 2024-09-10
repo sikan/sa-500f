@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-09-09 ~ 2024-09-14
+
+* 2024-09-09
+** kR.
+** [$VAULT2-2704175 (ING: long-running snapshot isolation transactions? issues with GC of page locks; highly concurrent log access/undo). (+)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-09-02 ~ 2024-09-06
 
 * 2024-09-02
