@@ -10,6 +10,11 @@ BVEPP
 ** [$VAULT2-2704175 (ING: long-running snapshot isolation transactions? issues with GC of page locks; highly concurrent log access/undo). (+)
 ** [$xENON scrum meeting. (D)
 
+* 2024-09-10
+** REC.
+** Create [$XENON-2785159 (performance issues with the GC algorithm for page locks). (+)
+** [$XENON-1960073 (BoC: ls/ll: id index if available/concurrent). (P)
+
 -------- 2024-09-02 ~ 2024-09-06
 
 * 2024-09-02
