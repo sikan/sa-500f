@@ -15,6 +15,16 @@ BVEPP
 ** Create [$XENON-2785159 (performance issues with the GC algorithm for page locks). (+)
 ** [$XENON-1960073 (BoC: ls/ll: id index if available/concurrent). (P)
 
+* 2024-09-11
+** REC.
+** Check the status of VMware tools on Jenkins agent #11 (false alarm caused by connection issues). (+)
+** [$XENON-1960073 (BoC: Admin Client: name index (click on parent) -> dom children -> id paths -> dom child (click on child); CSI -> keys/values in name and id indexes). (P)
+
+* 2024-09-12
+** REC.
+** [$xENON scrum meeting. (D)
+** [$XENON-1960073 (BoC: extended support status). (P)
+
 -------- 2024-09-02 ~ 2024-09-06
 
 * 2024-09-02
