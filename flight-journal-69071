@@ -16,7 +16,7 @@ BVEPP
 ** [$XENON-1960073 (BoC: ls/ll: id index if available/concurrent). (P)
 
 * 2024-09-11
-** REC.
+** kR.
 ** Check the status of VMware tools on Jenkins agent #11 (false alarm caused by connection issues). (+)
 ** [$XENON-1960073 (BoC: Admin Client: name index (click on parent) -> dom children -> id paths -> dom child (click on child); CSI -> keys/values in name and id indexes). (P)
 
@@ -24,6 +24,17 @@ BVEPP
 ** REC.
 ** [$xENON scrum meeting. (D)
 ** [$XENON-1960073 (BoC: extended support status). (P)
+
+* 2024-09-13
+** kR/PM.
+** [$XENON-1960073 (BoC: checked with Cathy on the procedure to share CSI and the potential fix tool). (P)
+** Review the code implemented by Bas to fix id/name indexes for U.S. Bank (shared by Wouter). (+)
+** Andrej Karpathy time. (P)
+
+* 2024-09-14
+** REC.
+** [$XENON-1960073 (BoC: CSI for Linux or Windows?). (P)
+** Andrej Karpathy time. (P)
 
 -------- 2024-09-02 ~ 2024-09-06
 
