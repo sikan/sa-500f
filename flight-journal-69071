@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-09-23 ~ 2024-09-27
+
+* 2024-09-23
+** kR/PM.
+** Answer Wouter's questions regarding old and new detach/attach implementations (especially concerning persisted info about detached libraries). (+)
+** Generate the MD5 hashes for the heap dumps for Prem to practice analyzing. (D)
+** Initiate the workflow to request permissions to upload files to Akamai. (+)
+** [$XENON-1960073 (BoC: instructed them to carefully pair the id paths in error messages with each child library). (P)
+** [$xENON scrum meeting. (D)
+** Ask for Champaka's help with uploading CSI for BoC, in order to speed up the process (+)
+
 -------- 2024-09-18 ~ 2024-09-20
 
 * 2024-09-18
@@ -17,6 +28,11 @@ BVEPP
 ** Create an IT ticket for access to the knowledge base (account mysteriously disabled). (+)
 ** [$xENON scrum meeting. (D)
 ** Share the heap dumps for [$XENON-4834 with Prem for practice purpose. (+)
+
+* 2024-09-20
+** REC.
+** [$VAULT2-2704175 (ING: continued debugging the query processing logic). (P)
+** [$XENON-1960073 (BoC: instructed them to check the 'next id' field of the id index by creating a dummy child). (P)
 
 -------- 2024-09-09 ~ 2024-09-14
 
