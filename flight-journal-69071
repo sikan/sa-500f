@@ -20,6 +20,17 @@ BVEPP
 ** [$XENON-2745930 (HIP/Ospedale Pediatrico Bambino Gesu: extended support confirmed; hot copy of data? master and replica still healthy in production environment?). (P)
 ** Andrej Karpathy time. (P)
 
+* 2024-09-25
+** kR/PM.
+** [$XENON-1960073 (BoC: started to implement and test the fix tool). (P)
+** Create [$XENON-3061659 (unable to detect inconsistencies between the keys of an id index and the children's real ids). (+)
+
+* 2024-09-26
+** kR/PM.
+** Book all remaining annual leaves (requested by Wendy in person). (+)
+** Andrej Karpathy time. (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-09-18 ~ 2024-09-20
 
 * 2024-09-18
