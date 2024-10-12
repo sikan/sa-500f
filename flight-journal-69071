@@ -3,6 +3,34 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-10-08 ~ 2024-10-12
+
+* 2024-10-08
+** REC.
+** Watch Dr. Lars Rossen's introduction of Athena. (+)
+** ValueEdge adoption survey (wave 4-5). (+)
+** [$XENON-2528219 (the '-overwrite' option, code reuse, etc.). (P)
+
+* 2024-10-09
+** kR/PM.
+** [$XENON-2528219 (the '-overwrite' option, code reuse, etc.). (P)
+** Shanmuga's questions regarding the differences between path value indexes and value indexes. (+)
+
+* 2024-10-10
+** kR/PM.
+** Shanmuga's questions regarding the persistent layer of path value indexes. (+)
+** [$xENON scrum meeting. (D)
+** Share the .wal file for [$XENON-4830 with Shanmuga for practice purpose. (+)
+
+* 2024-10-11
+** kR/PM.
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: migration to Postgres stuck, but no indication of any [$xENON problem). (+)
+** Look into an encoding issue of a test document containing Chinese characters (found by Shanmuga). (+)
+
+* 2024-10-12
+** REC.
+** Submit the request for Webroot SecureAnywhere. (+)
+
 -------- 2024-09-29 ~ 2024-09-30
 
 * 2024-09-29
