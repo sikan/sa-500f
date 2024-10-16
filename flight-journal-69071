@@ -11,6 +11,12 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Create [$XENON-3297087 (complaint about the duration of randomized force-detach tests). (+)
 
+* 2024-10-15
+** kR.
+** [$XENON-2528219 (the '-overwrite' option, code reuse, etc.). (D)
+** [$XENON-3297087 (randomized force-detach tests now enabled only for Jenkins runs). (D)
+** Investigate Jenkins failures related to read-only transactions taking explicit locks (FogBugz 2996?). (+)
+
 -------- 2024-10-08 ~ 2024-10-12
 
 * 2024-10-08
