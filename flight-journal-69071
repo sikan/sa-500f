@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-10-21 ~ 2024-10-25
+
+* 2024-10-21
+** kR/PM.
+** Reproduce the failure of CmdExternalTest (both executed individually and with run-unit-tests-nightly-remote). (+)
+** Continue to help Shanmuga with that parse-as-double issue (looked into what kinds of String literals could really be parsed as double). (D)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-10-14 ~ 2024-10-18
 
 * 2024-10-14
@@ -16,6 +24,21 @@ BVEPP
 ** [$XENON-2528219 (the '-overwrite' option, code reuse, etc.). (D)
 ** [$XENON-3297087 (randomized force-detach tests now enabled only for Jenkins runs). (D)
 ** Investigate Jenkins failures related to read-only transactions taking explicit locks (FogBugz 2996?). (+)
+
+* 2024-10-16
+** kR/PM.
+** [$XENON-1938726 (revert the changes for this case after reviewing Bas's original comments for FogBugz 2996). (+)
+** Read [[Language Models are Few-Shot Learners]]. (+)
+
+* 2024-10-17
+** kR/PM.
+** [$XENON-1938726 (Wouter's questions regarding the locking behavior of snapshot isolation transactions; his suggestions for manual and API spec updates). (P)
+** [$xENON scrum meeting. (D)
+** Help Shanmuga debug an issue where the query processor attempts to parse an untyped field as double and fails. (+)
+
+* 2024-10-18
+** Sick leave.
+** Launch local run of run-unit-tests-nightly-remote to investigate the failures reported by Val (on Sunday). (D)
 
 -------- 2024-10-08 ~ 2024-10-12
 
