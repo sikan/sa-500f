@@ -11,6 +11,13 @@ BVEPP
 ** Continue to help Shanmuga with that parse-as-double issue (looked into what kinds of String literals could really be parsed as double). (D)
 ** [$xENON scrum meeting. (D)
 
+* 2024-10-22
+** REC.
+** Review Shanmuga's fix for that parse-as-double issue (wrong [$XENON issue tag in his commit message). (D)
+** [$XENON-1938726 (reverted previous changes, again; updated manual and API spec per Wouter's suggestions). (P)
+** Create [$XENON-3384453 (session dump: explicit locks held by read-only transactions). (+)
+** Investigate the failure of CmdExternalTest. (+)
+
 -------- 2024-10-14 ~ 2024-10-18
 
 * 2024-10-14
@@ -27,7 +34,7 @@ BVEPP
 
 * 2024-10-16
 ** kR/PM.
-** [$XENON-1938726 (revert the changes for this case after reviewing Bas's original comments for FogBugz 2996). (+)
+** [$XENON-1938726 (reverted the changes for this case after reviewing Bas's original comments for FogBugz 2996). (+)
 ** Read [[Language Models are Few-Shot Learners]]. (+)
 
 * 2024-10-17
