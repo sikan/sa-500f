@@ -18,6 +18,14 @@ BVEPP
 ** Create [$XENON-3384453 (session dump: explicit locks held by read-only transactions). (+)
 ** Investigate the failure of CmdExternalTest. (+)
 
+* 2024-10-23
+** REC.
+** Investigate the failure of CmdExternalTest (caused by escaping logic for '!'). (P)
+** Xavier's questions regarding the choice of analyzers for Chinese text. (+)
+
+* 2024-10-24
+** Off.
+
 -------- 2024-10-14 ~ 2024-10-18
 
 * 2024-10-14
