@@ -26,6 +26,13 @@ BVEPP
 * 2024-10-24
 ** Off.
 
+* 2024-10-25
+** Off.
+** Investigate the failure of CmdExternalTest (Vadim's quick fix should be reverted due to 'enabledelayedexpansion'). (D)
+** Launch a local run of run-unit-tests-nightly-remote after the above. (+)
+** Add a new macro to the Windows batch file for easier enablement of remote debugging. (+)
+** [$STARLING-21806 (Citigroup: CPU spike; no evidence linking this to [$xENON). (+)
+
 -------- 2024-10-14 ~ 2024-10-18
 
 * 2024-10-14
@@ -53,7 +60,7 @@ BVEPP
 
 * 2024-10-18
 ** Sick leave.
-** Launch local run of run-unit-tests-nightly-remote to investigate the failures reported by Val (on Sunday). (D)
+** Launch a local run of run-unit-tests-nightly-remote to investigate the failures reported by Val (on Sunday). (D)
 
 -------- 2024-10-08 ~ 2024-10-12
 
