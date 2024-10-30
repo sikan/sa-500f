@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-10-28 ~ 2024-11-01
+
+* 2024-10-28
+** kR/PM.
+** Read [[Language Models are Few-Shot Learners]]. (P)
+** Propose a new time slot for the scrum meetings due to the end of DST in Europe. (+)
+
+* 2024-10-29
+** REC.
+** Read [[Language Models are Few-Shot Learners]]. (P)
+
 -------- 2024-10-21 ~ 2024-10-25
 
 * 2024-10-21
@@ -19,7 +30,7 @@ BVEPP
 ** Investigate the failure of CmdExternalTest. (+)
 
 * 2024-10-23
-** REC.
+** kR/PM.
 ** Investigate the failure of CmdExternalTest (caused by escaping logic for '!'). (P)
 ** Xavier's questions regarding the choice of analyzers for Chinese text. (+)
 
@@ -27,7 +38,7 @@ BVEPP
 ** Off.
 
 * 2024-10-25
-** Off.
+** kR.
 ** Investigate the failure of CmdExternalTest (Vadim's quick fix should be reverted due to 'enabledelayedexpansion'). (D)
 ** Launch a local run of run-unit-tests-nightly-remote after the above. (+)
 ** Add a new macro to the Windows batch file for easier enablement of remote debugging. (+)
