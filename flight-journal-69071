@@ -14,6 +14,22 @@ BVEPP
 ** REC.
 ** Read [[Language Models are Few-Shot Learners]]. (P)
 
+* 2024-10-30
+** REC.
+** Read [[Language Models are Few-Shot Learners]]. (D)
+** Fix a trivial MPI test failure caused by an altered error message. (+)
+** [$XENON-3384453 (session dump: explicit locks held by read-only transactions). (P)
+
+* 2024-10-31
+** REC.
+** [$XENON-3384453 (session dump: explicit locks held by read-only transactions; println() apparently ineffective). (P)
+
+* 2024-11-01
+** REC.
+** Read [[Attention Is All You Need]]. (P)
+** [$XENON-3384453 (session dump: explicit locks held by read-only transactions). (D)
+** Create [$XENON-4000072 (session dump: the println() issue caused by custom line separation logic; fixed). (+)
+
 -------- 2024-10-21 ~ 2024-10-25
 
 * 2024-10-21
