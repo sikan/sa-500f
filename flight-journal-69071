@@ -3,6 +3,21 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-11-04 ~ 2024-11-08
+
+* 2024-11-04
+** kR.
+** [$VAULT2-3948555 (Thai Military Bank: possible to recover master using replica data?). (+)
+** [$XENON-3384453, [$XENON-4000072 (updated release notes). (D)
+** [$xENON scrum meeting. (D)
+** Read [[Attention Is All You Need]]. (P)
+
+* 2024-11-05
+** kR/PM.
+** Prem's questions regarding the test code for parallel query execution. (+)
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: index creation interrupted; HIP team didn't even obtain thread dumps for analysis?). (P)
+** Read [[Attention Is All You Need]]. (P)
+
 -------- 2024-10-28 ~ 2024-11-01
 
 * 2024-10-28
