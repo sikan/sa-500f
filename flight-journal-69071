@@ -18,6 +18,10 @@ BVEPP
 ** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: index creation interrupted; HIP team didn't even obtain thread dumps for analysis?). (P)
 ** Read [[Attention Is All You Need]]. (P)
 
+* 2024-11-06
+** Read [[Attention Is All You Need]]. (D)
+** Fix a high priority FindBugs warning (byte to String conversion without a specified Charset). (+)
+
 -------- 2024-10-28 ~ 2024-11-01
 
 * 2024-10-28
