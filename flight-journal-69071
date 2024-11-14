@@ -12,6 +12,16 @@ BVEPP
 ** [$XENON-2551385 (CLI: repair-system-lsn). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2024-11-12
+** kR.
+** [$XENON-2551385 (CLI: repair-system-lsn). (D)
+** Fix more style consistency issues in documentation. (+)
+** Andrej Karpathy time. (P)
+
+* 2024-11-13
+** REC.
+** Andrej Karpathy time. (P)
+
 -------- 2024-11-04 ~ 2024-11-08
 
 * 2024-11-04
