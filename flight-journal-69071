@@ -12,7 +12,23 @@ BVEPP
 
 * 2024-11-19
 ** REC.
+** OWASP 2021 training courses. (P)
+
+* 2024-11-20
+** kR/PM.
 ** OWASP 2021 training courses. (D)
+** SOP training course (00506). (+)
+** [$XENON-4217070 (added a dev option to show hidden commands). (P)
+
+* 2024-11-21
+** kR/PM.
+** [$XENON-4217070 (finalized the name for the 'dev' option: '--expert'; support for hiding options and arguments). (P)
+** [$xENON scrum meeting. (D)
+** Quick call with Champaka (her vacation plan, etc.). (+)
+
+* 2024-11-22
+** REC.
+** [$XENON-4217070 (support for hiding options and arguments). (P)
 
 -------- 2024-11-11 ~ 2024-11-15
 
