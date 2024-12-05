@@ -22,6 +22,12 @@ BVEPP
 ** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: JVM probably unresponsive or overloaded; unable to capture thread dumps). (P)
 ** Andrej Karpathy time. (P)
 
+* 2024-12-05
+** kR.
+** [$VAULT2-4170529 (VF Services: updating the backlog of IIC caused data purge to slow down). (+)
+** [$VAULT2-4228206 (DSV A/S: experimented with OBJECT_DEAD; end = start -> dead, for non-owner objects only?). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-11-25 ~ 2024-11-29
 
 * 2024-11-25
