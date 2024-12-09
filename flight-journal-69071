@@ -28,6 +28,11 @@ BVEPP
 ** [$VAULT2-4228206 (DSV A/S: experimented with OBJECT_DEAD; end = start -> dead, for non-owner objects only?). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2024-12-06
+** REC.
+** [$VAULT2-4228206 (DSV A/S: customer confirmed reproducibility, but provided the wrong bootstrap file). (P)
+** [$XENON-4221299 ([$STARLING/Israel State Archives: someone should know how to capture thread dumps). (P)
+
 -------- 2024-11-25 ~ 2024-11-29
 
 * 2024-11-25
