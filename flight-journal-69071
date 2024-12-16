@@ -12,6 +12,25 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Andrej Karpathy time. (P)
 
+* 2024-12-10
+** REC.
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: urged HIP team to take action). (P)
+** Andrej Karpathy time. (P)
+** [$VAULT2-4228206 (DSV A/S: bootstrap file confirmed the existence of the library in question). (P)
+
+* 2024-12-11
+** Off.
+
+* 2024-12-12
+** Off.
+
+* 2024-12-13
+** REC.
+** [$VAULT2-4228206 (DSV A/S: TRANSACTION_STILL_ACTIVE possibly caused by 'orphaned' parallel sub-transactions created by the consistency checker). (P)
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: client apparently freezing; no server side thread dumps; heap dump? more memory allocation?). (P)
+** [$VAULT2-4219716 (Tietoevry Finland Oy: data corruption related to a possibly missing data file). (+)
+** 1-on-1 with Champaka (performance review). (D)
+
 -------- 2024-12-02 ~ 2024-12-06
 
 * 2024-12-02
