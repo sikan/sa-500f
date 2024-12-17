@@ -2309,7 +2309,7 @@ BVEPP
 ** [$XENON-4848 ([$VAULT/Medtronic: inconsistent block tree and size tree; laid out all options; implemented a standalone fix tool; added page checksum logic at the last minute, phew). (+)
 ** [$xENON scrum meeting. (D)
 
-* 2023-06-01
+* 2023-06-02
 ** REC.
 ** [$XENON-4848 ([$VAULT/Medtronic: clarified the idempotency of the fix). (P)
 ** [$XENON-4849 (created due to the above; randomized tests for segment extent allocation/release). (+)
@@ -5121,7 +5121,7 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4665 (ING: .wal files piling up; replication okay; long running read-write transactions; disappeared locks in session dump?). (+)
 
-* 2021-08-05
+* 2021-08-06
 ** REC.
 ** Write about the issues with lock info in session info dump (found during the investigation of [$XENON-4665). (+)
 ** Detect if a transaction has started to release locks on session info dump. (+)
@@ -14088,17 +14088,17 @@ BVEPP
 ** Study [$QueencellObjectDescription.xsl. (P)
 ** Inaugural [$STARLING-[$xENON weekly meeting. (D)
 
-* 2013-03-05
+* 2014-03-05
 ** 7-year anniversary at [$EEL.
 ** Back up the corp mailbox (pst/mbox). (+)
 ** Study [$QueencellObjectDescription.xsl. (P)
 
-* 2013-03-06
+* 2014-03-06
 ** Discuss next round of hiring with Dingmeng. (+)
 ** Study [$QueencellObjectDescription.xsl. (P)
 ** Inaugural [$xENON weekly meeting. (D)
 
-* 2013-03-07
+* 2014-03-07
 ** Study [$QueencellObjectDescription.xsl. (P)
 ** Interview two candidates for [$STARLING (phone-screen). (D)
 ** Interview one candidate from USD for [$STARLING (phone-screen). (D)
@@ -16060,14 +16060,14 @@ BVEPP
 ** BDx take 2. (P)
 ** Learn more about endianness. (D)
 
-* 2012-09-19
+* 2012-09-20
 ** BDx take 2. (D)
 ** Inform the [$Antwerp team of BDx. (+)
 ** BDx write-up. (P)
 ** Help Duke with the OBJECT_DEAD issue and some debugging techniques. (+)
 ** Tony Ma's tea talk. (D)
 
-* 2012-09-20
+* 2012-09-21
 ** Sick leave.
 
 -------- 2012-09-10 ~ 2012-09-14
@@ -19269,7 +19269,7 @@ BVEPP
 ** Resolve two major problems of TeamCity build for [$xENON, and thereby close [$XENON-911. (D)
 ** Read Francisco's introduction of [$xENON multi-path indexes on EDN. (D)
 
-* 2010-07-29
+* 2010-07-30
 ** [$ION all hands. (D)
 ** [$XENON-2028. (P)
 
@@ -21009,7 +21009,7 @@ BVEPP
 ** Setup the Xmark running environment locally. (D)
 ** Attend the team weekly review meeting. (D)
 
-* 2009-01-05
+* 2009-01-06
 ** Review the Java Camp training slides with the committee. (D)
 ** Revise the Java Camp training material. (+)
 
@@ -21143,7 +21143,7 @@ BVEPP
 ** Discuss with Lucene plug-in team about common issues faced. (+)
 ** Attend the China [$CLOVE all-hands meeting. (+)
 
-* 2008-11-24
+* 2008-11-26
 ** Sick leave.
 
 * 2008-11-27
@@ -21975,16 +21975,12 @@ BVEPP
 ** Alter the [$CETUS impl to support nested batch. (D)
 
 * 2008-02-21
-** Measure DFS performance with the latest release. (D)
-** Draft Q1 MBO goals. (D)
-
-* 2008-02-22
-** Annual leave.
-
-* 2008-02-21
 ** Refactor the [$CETUS impl for better logging output. (D)
 ** Switch to the latest DFS build for performance issue investigation. (D)
 ** Draft Q1 MBO goals. (+)
+
+* 2008-02-22
+** Annual leave.
 
 -------- 2008-02-13 ~ 2008-02-15
 
@@ -22253,7 +22249,7 @@ BVEPP
 * 2007-11-15
 ** Implement the all the sample codes related to permission control for Castle team. (D)
 
-* 2007-11-15
+* 2007-11-16
 ** Discuss the configuration design in [$CETUS. (D)
 ** Pack stuff for moving. (D)
 
@@ -22345,10 +22341,10 @@ BVEPP
 ** Start to read DFS impl code. (X)
 ** Go through the impl of Lucene search process. (+)
 
-* 2007-10-17
+* 2007-10-18
 ** Read the Enterprise Lucene Functional Spec and come up with a question list. (D)
 
-* 2007-10-18
+* 2007-10-19
 ** Get to know ACS. (D)
 ** Learn how ACS leverage DFS to talk to BOCS. (+)
 ** Analyze the coupling of DFS and DFC. (+)
@@ -22418,7 +22414,7 @@ BVEPP
 ** Attend the retention hold code review session. (D)
 ** Read the relevancy ranking document. (+)
 
-* 2007-09-20
+* 2007-09-21
 ** Setup the multi-node environment and test its performance. (H - logging issue)
 ** Attend the retention hold code review session. (X)
 
@@ -22872,19 +22868,19 @@ BVEPP
 -------- 2007-04-16 ~ 2007-04-20
 
 * 2007-04-16
-* New hire training. (done)
+** New hire training. (done)
 
 * 2007-04-17
-* New hire training. (done)
+** New hire training. (done)
 
 * 2007-04-18
-* New hire training. (done)
+** New hire training. (done)
 
 * 2007-04-19
-* New hire training. (done)
+** New hire training. (done)
 
 * 2007-04-20
-* New hire training. (done)
+** New hire training. (done)
 
 -------- 2007-04-09 ~ 2007-04-13
 
