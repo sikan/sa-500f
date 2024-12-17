@@ -3,6 +3,16 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+-------- 2024-12-16 ~ 2024-12-20
+
+* 2024-12-16
+** kR/PM.
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: urged HIP team to investigate the server side issues; proceeding with 32GB of memory). (P)
+** [$VAULT2-4228206 (DSV A/S: the library with dead objects finally removed). (P)
+** [$xENON scrum meeting. (D)
+** Prem's questions regarding the analysis of the heap dump for [$XENON-4834. (+)
+
 -------- 2024-12-09 ~ 2024-12-13
 
 * 2024-12-09
