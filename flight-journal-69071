@@ -3,7 +3,6 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
 -------- 2024-12-16 ~ 2024-12-20
 
 * 2024-12-16
@@ -12,6 +11,16 @@ BVEPP
 ** [$VAULT2-4228206 (DSV A/S: the library with dead objects finally removed). (P)
 ** [$xENON scrum meeting. (D)
 ** Prem's questions regarding the analysis of the heap dump for [$XENON-4834. (+)
+
+* 2024-12-17
+** kR.
+** Locate mapping files for deobfuscation in [$STARLING codebase. (+)
+** Prem's questions regarding the analysis of the heap dump for [$XENON-4834 (mapping file unrecoverable due to the removal of the hotfix branch). (D)
+** Wouter's questions regarding build issues with 10.5 and 10.6 (JDK and Ant version, etc.). (+)
+** Watch the recording of Muhi's all-hands. (+)
+** ValueEdge training (part 6 ~ 7). (+)
+** Review Shanmuga's code changes for the calculation of LMPI size. (+)
+** [$VAULT2-4219716 (Tietoevry Finland Oy: library gone in Admin Client, but [$VAULT team should likely be aware of its detachability). (P)
 
 -------- 2024-12-09 ~ 2024-12-13
 
@@ -21508,7 +21517,7 @@ BVEPP
 
 * 2008-07-23
 ** Continue implementing library detach & attach in [$QUEEN-CELL. (D)
-** Check in the code of library detach & attach to [$QUEEN-CELL code base. (D)
+** Check in the code of library detach & attach to [$QUEEN-CELL codebase. (D)
 ** Attend the regular [$JAY sync up meeting. (D)
 
 * 2008-07-24
