@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2024-12-23 ~ 2024-12-27
+
+* 2024-12-23
+** kR.
+** [$VAULT2-4219716 (Tietoevry Finland Oy: explained external factors that might lead to an empty data file; force-detach should just work and resolve the corruption, tested). (P)
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: new batch of thread dumps; either performance issues with the storage or the index being prohibitively large). (P)
+** Missing Git tags for all 10.5 releases? (+)
+** [$xENON scrum meeting. (D)
+
 -------- 2024-12-16 ~ 2024-12-20
 
 * 2024-12-16
