@@ -12,6 +12,15 @@ BVEPP
 ** [$XENON-1960073 (BoC: reopened as they renewed their extended support). (P)
 ** [$xENON scrum meeting. (D)
 
+* 2025-01-07
+** kR.
+** [$XENON-1960073 (BoC: reviewed the problem and the fix tool; csi obfuscation issue; their csi license expired on 2024/12/31). (P)
+
+* 2025-01-08
+** REC.
+** That discussion regarding whether to engage engineering for the Bank of China ticket (corporate bs). (+)
+** Instruct Shanmuga on how to make getLIList(SegmentRef) work with remote sessions. (+)
+
 -------- 2024-12-30 ~ 2025-01-03
 
 * 2024-12-30
