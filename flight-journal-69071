@@ -11,6 +11,11 @@ BVEPP
 * 2025-01-14
 ** Sick leave.
 
+* 2025-01-15
+** REC.
+** Investigate hanging builds on Jenkins (11.1/4K: reproduced [$XENON-1964083; 10.5: created [$XENON-4391493). (+)
+** [$XENON-1964083 (hanging administrative structure test caused by a latch; failed to reproduce locally after 1000 runs). (+)
+
 -------- 2025-01-06 ~ 2025-01-10
 
 * 2025-01-06
