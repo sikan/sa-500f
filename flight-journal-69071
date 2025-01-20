@@ -15,6 +15,18 @@ BVEPP
 ** REC.
 ** Investigate hanging builds on Jenkins (11.1/4K: reproduced [$XENON-1964083; 10.5: created [$XENON-4391493). (+)
 ** [$XENON-1964083 (hanging administrative structure test caused by a latch; failed to reproduce locally after 1000 runs). (+)
+** Instruct Shanmuga on how to get an index object from the index list of the owner. (+)
+
+* 2025-01-16
+** REC.
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: thread dump analysis; PathExprResultWithoutIndex: no matching indexes found). (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-01-17
+** REC.
+** [$XENON-3273913 (HIP/Ospedale Pediatrico Bambino Gesu: reviewed the properties file; some forced unnecessary corporate bs). (P)
+** Discuss with Shanmuga some API usage issues (LMPI index object segment vs. LMPI segments, etc.). (+)
+** [$XENON-1964083 (still unable to reproduce). (+)
 
 -------- 2025-01-06 ~ 2025-01-10
 
