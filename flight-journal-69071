@@ -11,14 +11,22 @@ BVEPP
 ** [$XENON-4221299 ([$STARLING/Israel State Archives: requested clarifications about a few details). (P)
 ** [$XENON-4417106 ([$STARLING:XQUERY_ERROR_VALUE, already handled by Shanmuga). (+)
 ** [$XENON-4429668 ([$STARLING: explained issues with duplicating the boostrap file without duplicating .wal and .db files). (+)
-** Karen's query regarding how to count the objects across various libraries (the "size" of a subscription). (+)
+** Karen's query regarding how to count the objects across various libraries (the 'size' of a subscription). (+)
 ** [$XENON-1964083 (the nightly of the debug branch failed rather than hung). (P)
-** The algorithm to calculate and store page diff (for LrWrite and LrUpdate) (+)
+** The algorithm to calculate and store page diff (for LrWrite and LrUpdate). (+)
 
 * 2025-02-06
 ** REC.
 ** [$xENON scrum meeting. (D)
 ** Comparative study of ARIES (the original paper vs. our own implementation)? (+)
+
+* 2025-02-07
+** REC.
+** Add code comments for the algorithm to calculate and store page diff. (D)
+** [$XENON-1964083 (good, it's hanging; previous failed test resulted in an unreleased latch; where to find the contents of stdout/stderr in memory?). (P)
+
+* 2025-02-08
+** AD.
 
 -------- 2025-01-26 ~ 2025-01-27
 
