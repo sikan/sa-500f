@@ -10,11 +10,26 @@ BVEPP
 ** [$XENON-1964083 (continued searching for the output in the heap dump of the Jenkins process). (P)
 ** [$xENON scrum meeting. (D)
 
-* 2025-01-26
+* 2025-02-11
 ** REC.
 ** [$XENON-1964083 (created a second debug branch; BriefJunitResultFormatter? indirect addressing error). (P)
 ** Quick call with Champaka regarding the next steps for the Indian team. (+)
 ** Meeting with the Indian team to clarify the areas for them to focus on. (+)
+
+* 2025-02-12
+** REC.
+** Organize the real-world query optimization examples for Qatargas and share them with the Indian team. (+)
+** [$XENON-1964083 (regular version of unpackPageid() used for page id 0 in corruption tests?). (P)
+
+* 2025-02-13
+** REC.
+** [$XENON-1964083 (started to review the invocations of unpackPageid()). (P)
+** [$XENON-4221299 ([$STARLING/Israel State Archives: no indexes found to support order specs). (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-02-14
+** REC.
+** [$XENON-1964083 (fixed the issue caused by empty allocation stack; invocations of pack/unpack methods). (P)
 
 -------- 2025-02-05 ~ 2025-02-08
 
