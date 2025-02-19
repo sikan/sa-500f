@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-02-17 ~ 2025-02-21
+
+* 2025-02-17
+** kR/PM.
+** Review Prem's fix for an issue with the performance benchmark (call stack of the error?). (+)
+** [$xENON scrum meeting. (D)
+
+* 2025-02-18
+** Review Prem's fix for an issue with the performance benchmark (hmmm... masking is not fixing). (P)
+** XOD object map for PersistenObject. (+)
+
 -------- 2025-02-10 ~ 2025-02-14
 
 * 2025-02-10
