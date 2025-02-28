@@ -3,6 +3,33 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-02-24 ~ 2025-02-28
+
+* 2025-02-24
+** kR/PM.
+** [$XENON-4905 (CLI: a generic mechanism to deprecate any options or arguments). (+)
+** [$xENON scrum meeting. (D)
+
+* 2025-02-25
+** REC.
+** Review Prem's fix for an issue with the performance benchmark (finally with stack traces). (D)
+** [$XENON-4905 (CLI: a generic mechanism to deprecate any options or arguments). (P)
+
+* 2025-02-26
+** REC.
+** [$XENON-4905 (CLI: a generic mechanism to deprecate any options or arguments). (P)
+
+* 2025-02-27
+** kR.
+** Karen's query regarding a LOCK_NOT_GRANTED situation. (+)
+** [$XENON-4905 (CLI: a generic mechanism to deprecate any options or arguments). (D)
+** [$XENON-4488590 ([$STARLING: pagination -> subsequence()). (+)
+** [$xENON scrum meeting. (D)
+
+* 2025-02-28
+** kR.
+** Review Shanmuga's code changes for the calculation of LMPI size. (P)
+
 -------- 2025-02-17 ~ 2025-02-21
 
 * 2025-02-17
@@ -58,7 +85,7 @@ BVEPP
 
 -------- 2025-02-05 ~ 2025-02-08
 
-* 2025-01-26
+* 2025-02-05
 ** REC.
 ** Email backlog. (D)
 ** [$XENON-4221299 ([$STARLING/Israel State Archives: requested clarifications about a few details). (P)
