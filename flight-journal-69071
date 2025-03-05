@@ -3,6 +3,23 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-03-03 ~ 2025-03-07
+
+* 2025-03-03
+** kR/PM.
+** [$XENON-4488590 ([$STARLING: reviewed Wouter's guide and sample code for subsequence(), external variables, etc.). (P)
+** Review Shanmuga's code changes for the calculation of LMPI size. (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-03-04
+** REC.
+** Report current Jenkins job stats for the migration to GitLab CI/CD. (+)
+** Review Shanmuga's code changes for the calculation of LMPI size. (P)
+
+* 2025-03-05
+** REC.
+** Review Shanmuga's code changes for the calculation of LMPI size (goals and instructions for further improvement). (P)
+
 -------- 2025-02-24 ~ 2025-02-28
 
 * 2025-02-24
