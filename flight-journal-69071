@@ -3,6 +3,30 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-03-10 ~ 2025-03-14
+
+* 2025-03-10
+** REC.
+** The XQuery engine (the main parser, etc.). (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-03-11
+** kR.
+** Take the Engagement survey. (+)
+
+* 2025-03-12
+** REC.
+** The XQuery engine (the query classes, etc.). (P)
+
+* 2025-03-13
+** kR.
+** The XQuery engine (the query classes, etc.). (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-03-14
+** REC.
+** The XQuery engine (the expression classes, etc.). (P)
+
 -------- 2025-03-03 ~ 2025-03-07
 
 * 2025-03-03
@@ -19,6 +43,18 @@ BVEPP
 * 2025-03-05
 ** REC.
 ** Review Shanmuga's code changes for the calculation of LMPI size (goals and instructions for further improvement). (P)
+
+* 2025-03-06
+** kR.
+** The XQuery engine (the ANTLR grammar file, etc.). (+)
+** [$xENON scrum meeting. (D)
+** Quick call with Champaka regarding the lab account. (+)
+
+* 2025-03-07
+** kR.
+** The apparent false alarm about missing VMware tools on Jenkins agent #11, again. (+)
+** The XQuery engine (the ANTLR grammar file, etc.). (P)
+** bmaze. (+)
 
 -------- 2025-02-24 ~ 2025-02-28
 
