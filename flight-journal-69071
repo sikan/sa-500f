@@ -18,6 +18,17 @@ BVEPP
 ** OOM thrown from an [$xENON thread (HIP/Ospedale Pediatrico Bambino Gesu; requested heap dump). (+)
 ** The XQuery engine (Petr's KT recording, etc.). (P)
 
+* 2025-03-20
+** kR.
+** [$XENON-4539096 (HIP/Ospedale Pediatrico Bambino Gesu: OOM; 7000+ request handlers in the heap dump with only ~30 active transactions). (P)
+** The XQuery engine (AST classes, etc.). (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-03-21
+** REC.
+** [$XENON-4539096 (HIP/Ospedale Pediatrico Bambino Gesu: Wouter found the original 10.5.11 obfuscation mapping file, indeed different from the locally generated version). (P)
+** The XQuery engine (AST classes, etc.). (P)
+
 -------- 2025-03-10 ~ 2025-03-14
 
 * 2025-03-10
@@ -35,6 +46,7 @@ BVEPP
 
 * 2025-03-13
 ** kR.
+** Update eclipse (for the first time in 4 years). (+)
 ** The XQuery engine (the query classes, etc.). (P)
 ** [$xENON scrum meeting. (D)
 
