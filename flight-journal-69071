@@ -3,6 +3,33 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-03-24 ~ 2025-03-28
+
+* 2025-03-24
+** kR/PM.
+** The XQuery engine (AST classes, etc.). (P)
+** [$xENON scrum meeting. (D)
+
+* 2025-03-25
+** REC.
+** Watch the recording of Athena Code Assist. (+)
+** Install and configure Athena (and Refact.ai) for VS Code. (+)
+** Set up [$xENON 11.1 in VS Code (hmmm... it couldn't refrain from modifying eclipse project files). (+)
+
+* 2025-03-26
+** REC.
+** Set up [$xENON 11.1 in VS Code (effort abandoned). (D)
+** Install and configure Athena (and Refact.ai) for IntelliJ. (+)
+** Fix [$xENON 11.1 library dependencies and their order for the IntelliJ project. (+)
+** Fix a relative path found in .gitignore. (+)
+** Fix a build script mistake that causes stale jars to linger. (+)
+
+* 2025-03-27
+** kR.
+** The XQuery engine (AST classes, etc.). (P)
+** Add BinaryOp and UnaryOp enums (design issue with functional interface?). (+)
+** [$xENON scrum meeting. (D)
+
 -------- 2025-03-17 ~ 2025-03-21
 
 * 2025-03-17
