@@ -3,6 +3,18 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-03-31 ~ 2025-04-03
+
+* 2025-03-31
+** kR/PM.
+** Watch the recording of Savinay Berry's all-hands. (+)
+** The XQuery engine (AST classes, etc.). (P)
+** Live training session: GCP Speaking AI's Language (errr... probably the worst training ever). (D)
+
+* 2025-04-01
+** REC.
+** The XQuery engine (AST classes, ExprBuilder, etc.). (P)
+
 -------- 2025-03-24 ~ 2025-03-28
 
 * 2025-03-24
@@ -29,6 +41,10 @@ BVEPP
 ** The XQuery engine (AST classes, etc.). (P)
 ** Add BinaryOp and UnaryOp enums (design issue with functional interface?). (+)
 ** [$xENON scrum meeting. (D)
+
+* 2025-03-28
+** REC.
+** Add BinaryOp and UnaryOp enums. (D)
 
 -------- 2025-03-17 ~ 2025-03-21
 
