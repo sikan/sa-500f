@@ -15,6 +15,17 @@ BVEPP
 ** REC.
 ** The XQuery engine (AST classes, ExprBuilder, etc.). (P)
 
+* 2025-04-02
+** kR.
+** The XQuery engine (Resolver, etc.). (P)
+** [$VAULT2-4534878 (DSV A/S: indirect addressing error affecting one leaf detachable library). (+)
+
+* 2025-04-03
+** kR.
+** The XQuery engine (Resolver, etc.). (P)
+** Local build unable to clean jars managed via Ivy (Jenkins okay though). (+)
+** Off/PM.
+
 -------- 2025-03-24 ~ 2025-03-28
 
 * 2025-03-24
