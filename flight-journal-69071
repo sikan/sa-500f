@@ -10,6 +10,31 @@ BVEPP
 ** Investigate the issue with local build not cleaning Ivy-managed jars. (P)
 ** [$xENON scrum meeting. (D)
 
+* 2025-04-08
+** kR.
+** Fix the issue with Ivy-managed jars. (D)
+** The XQuery engine (untyped AST -> typed AST, etc.). (P)
+
+* 2025-04-09
+** REC.
+** Quick call with Champaka regarding the Jenkins to GitLab CI/CD migration. (+)
+
+* 2025-04-10
+** kR.
+** Jenkins -> GitLab CI/CD migration (InstallAnywhere? xTest?). (P)
+** Shanmuga's question regarding the fourth field in the checkpoint file?. (+)
+** Create a test scenario to observe whether LSN bump happens for cross-data-node online library restore. (+)
+** [$VAULT2-4534878 (DSV A/S: indirect addressing error from library name index; page id field found to be 0). (+)
+** [$xENON scrum meeting. (D)
+** Quick call with Val regarding the LSN bump logic in 11.1 (the fourth field in the checkpoint file still needed?). (+)
+
+* 2025-04-11
+** kR/PM
+** Jenkins -> GitLab CI/CD migration (registered for training sessions). (P)
+** Create a test scenario to observe whether LSN bump happens for cross-data-node online library restore (should've trusted my past self). (D)
+** Explain the fourth field in the checkpoint file (no longer used in 11.1) and the LSN bump logic on Confluence. (+)
+** [$VAULT2-4534878 (DSV A/S: reviewed the concurrent index code; anomalies that couldn't be explained). (P)
+
 -------- 2025-03-31 ~ 2025-04-03
 
 * 2025-03-31
@@ -22537,7 +22562,7 @@ BVEPP
 ** Alter the code structure. (P)
 
 * 2007-12-19
-** Investigate the ant build failure issue. (F)
+** Investigate the Ant build failure issue. (F)
 ** Format the code and add comment. (P)
 ** Discuss the heartbeat request design. (P)
 
