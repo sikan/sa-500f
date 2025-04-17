@@ -9,6 +9,18 @@ BVEPP
 ** kR/PM.
 ** Live training session: GCP Google Kubernetes Engine (session 1?). (D)
 
+* 2025-04-15
+** kR.
+** [$VAULT2-4534878 (DSV A/S: two different server timestamps... that explained a few things; safe to force-detach searchResults libs?). (P)
+** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: 7000+ request handlers, same as last time; requested to review their code changes). (+)
+** 2025 global compliance and security awareness training courses. (D)
+** SOP training course (00384). (D)
+
+* 2025-04-16
+** REC.
+** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: review HIP's code fixes; discussion with Prasad; still failed to impose a limit on the total number of concurrent sessions?). (P)
+** [$VAULT2-4534878 (DSV A/S: identified both corrupted libraries; suggested check-librarychild + force-detach). (P)
+
 -------- 2025-04-07 ~ 2025-04-11
 
 * 2025-04-07
