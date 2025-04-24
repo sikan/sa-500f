@@ -3,6 +3,29 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-04-21 ~ 2025-04-25
+
+* 2025-04-21
+** kR/PM.
+** That "Mandatory Confidential Organizational Update" Town Hall. (+)
+** Review Shanmuga's code changes for the calculation of LMPI size. (P)
+** Quick call with Bruno to go through the formalities. (+)
+
+* 2025-04-22
+** kR.
+** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: reiterated key items to be verified and monitored). (P)
+** Review the implementation of 2 phase commit in 16.5. (+)
+** Discuss with Wendy the details of the severance package. (+)
+** Review [$VAULT2's original plan for leveraging our quorum-based replication groups. (+)
+** [$VAULT2-4534878 (DSV A/S: reviewed the consistency check results; ready to proceed with force-detach). (P)
+
+* 2025-04-23
+** REC.
+** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: "active" session != request handler; instructed Prasad on how to monitor threads...). (P)
+** [$XENON-4221299 ([$STARLING/Israel State Archives: query regarding the type of the index to support order specs; case already closed months ago though). (+)
+** Review Shanmuga's code changes for the calculation of LMPI size (at a loss for words... my wife writes better code). (P)
+** [$VAULT2-4534878 (DSV A/S: provided instructions on how to manually recreate segment/library following force-detach). (P)
+
 -------- 2025-04-14 ~ 2025-04-18
 
 * 2025-04-14
@@ -20,6 +43,16 @@ BVEPP
 ** REC.
 ** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: review HIP's code fixes; discussion with Prasad; still failed to impose a limit on the total number of concurrent sessions?). (P)
 ** [$VAULT2-4534878 (DSV A/S: identified both corrupted libraries; suggested check-librarychild + force-detach). (P)
+
+* 2025-04-17
+** kR.
+** Review Shanmuga's code changes for the calculation of LMPI size. (P)
+** [$XENON-4720253 (Thai Military Bank: stalled replication; protocol-level deadlock caused by lost messages?). (+)
+** [$xENON scrum meeting. (D)
+
+* 2025-04-18
+** kR/PM.
+** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: verified free connection cleanup behavior, w/ and w/o explicit session termination; listed things for HIP team to double check). (P)
 
 -------- 2025-04-07 ~ 2025-04-11
 
@@ -1100,7 +1133,6 @@ BVEPP
 ** REC.
 ** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda; inconsistent sub-paths). (P)
 
-
 * 2024-07-03
 ** REC.
 ** [$XENON-4912 ([$STARLING/Ericsson: facet not returned; discussion with Ananda; pure [$xENON tests). (P)
@@ -1807,7 +1839,6 @@ BVEPP
 ** [$XENON-4631 (stability issues with DeleteIndexTest; reproduction attempt). (+)
 ** [$XENON-4804 (potential deadlock issue with Lucene merge logic and IndexWriter; code review). (+)
 
-
 * 2024-01-03
 ** REC.
 ** Global Agile Survey 2023. (+)
@@ -1875,7 +1906,6 @@ BVEPP
 
 * 2023-12-22
 ** Off.
-
 
 -------- 2023-12-11 ~ 2023-12-15
 
@@ -2764,7 +2794,6 @@ BVEPP
 ** Invetigate issues with 10.7 builds on Jenkins (hanging at lookupAllHostAddr). (+)
 ** [$XENON-4846 (a new force-flush API with suspension of the page cache). (P)
 
-
 * 2023-05-23
 ** REC.
 ** Complete mandatory compliance training courses (1904, 1915, 1917, 1919, 1921). (D)
@@ -2816,7 +2845,6 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 ** Create [$XENON-4846 (dirty pages not added to the flush queue, holding back systemRedoLSN). (+)
 ** Create [$STARLING-20815 (issue with long-running read-only transactions, for Rajiv). (+)
-
 
 * 2023-05-09
 ** tP.
@@ -3896,7 +3924,6 @@ BVEPP
 ** [$XENON-4630 (Healthcare/Ospedale Pediatrico Bambino Gesu: LOCK_NOT_GRANTED; suggested finer logging level to better understand the specific locking behavior). (+)
 ** [$XENON-4774 ([$NEON Supplier Exchange: checked whether turning on shared read only pages would help). (P)
 ** Create a Confluence wiki page to summarize the recent enhancements to deserialization. (D)
-
 
 * 2022-09-01
 ** REC.
@@ -6135,7 +6162,7 @@ BVEPP
 
 * 2021-01-28
 ** WFH.
-** Discuss with Wendy the details of the employment certificate and the waiver on non-compatition. (D)
+** Discuss with Wendy the details of the employment certificate and the waiver on non-competition. (D)
 ** Notify Yanjuan (and thus Bank of China and Founder) of my departure. (+)
 ** Assign open JIRA issues to Val. (+)
 ** [$xENON scrum meeting (the very last [$xENON meeting, bye guys, stay safe, don't make me weep, take good care of [$xENON). (D)
@@ -12540,7 +12567,6 @@ BVEPP
 ** Help Val on a deadlock involving terminate() and uncaughtException(). (+)
 ** Look into issues reported by Petr (cluster backup, in_progress table, etc.). (+)
 ** Rollback of changeBinding(). (P)
-
 
 * 2015-11-25
 ** Off.
@@ -21576,7 +21602,6 @@ BVEPP
 ** Sick leave and work from home.
 ** Continue working on remaining issues for [$xENON 9 release. (D)
 
-
 * 2008-11-25
 ** Continue working on remaining issues for [$xENON 9 release. (D)
 ** Discuss with Fan on how to create library in multi-node and some other issues. (+)
@@ -21605,7 +21630,6 @@ BVEPP
 ** Continue working on remaining issues for [$xENON 9 release. (D)
 ** Resume the work of multi-node implementation. (D)
 ** Remove the code warnings found by FindBugs in [$CETUS. (D)
-
 
 * 2008-11-19
 ** Have the regular discussion meeting with Fan and Kim. (D)
