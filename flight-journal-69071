@@ -26,6 +26,21 @@ BVEPP
 ** Review Shanmuga's code changes for the calculation of LMPI size (at a loss for words... my wife writes better code). (P)
 ** [$VAULT2-4534878 (DSV A/S: provided instructions on how to manually recreate segment/library following force-detach). (P)
 
+* 2025-04-24
+** kR.
+** Review Shanmuga's code changes for the calculation of LMPI size (verified the correctness of his perculiar and unnecessarily long chain of expressions). (P)
+** Investigate and perform a Git hard reset to fix a careless merge made by Shanmuga. (+)
+** Review the notes for the implementation of 2 phase commit. (+)
+** Quick call with Champaka to go through the formalities. (+)
+** [$xENON scrum meeting. (D)
+** Call with Champaka, Nara and Shanmuga regarding the final transition plan. (+)
+
+* 2025-04-25
+** REC.
+** Review Shanmuga's code changes for the calculation of LMPI size. (D)
+** Add a new "Misc" section to [[[$xENON Jumpstart]] to include some key points that may come to mind over the next two months. (P)
+** Increase in queries regarding [$xENON and related topics (expected to continue; won't repeat this entry for the remaining days). (+)
+
 -------- 2025-04-14 ~ 2025-04-18
 
 * 2025-04-14
