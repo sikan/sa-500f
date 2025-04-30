@@ -19,6 +19,10 @@ BVEPP
 ** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: good question about whether to explicitly close query results; sub-sessions created by parallel execution). (P)
 ** Go through this work journal (2007 - 2019). (P)
 
+* 2025-04-30
+** REC.
+** Go through this work journal (2020 - 2025). (D)
+
 -------- 2025-04-21 ~ 2025-04-25
 
 * 2025-04-21
@@ -1088,7 +1092,7 @@ BVEPP
 ** [$XENON-4912 ([$STARLING/Ericsson: again, forced to avoid responsibility; would be more efficient to just do it). (P)
 ** [$xENON scrum meeting. (D)
 ** Create [$XENON-1431800 as a placeholder for VE-GitLab integration. (+)
-** [$XENON-1431800 (started to work on the pseudo GitLan CI script for the enablement of the integration). (+)
+** [$XENON-1431800 (started to work on the pseudo GitLab CI script for the enablement of the integration). (+)
 
 * 2024-07-26
 ** REC.
@@ -1147,7 +1151,7 @@ BVEPP
 
 * 2024-07-12
 ** REC.
-** Validate the JIRA -> ValueEdge migration (team, shared filters, issue links, PHT, GitLan integration, etc.). (P)
+** Validate the JIRA -> ValueEdge migration (team, shared filters, issue links, PHT, GitLab integration, etc.). (P)
 ** Quick call with Champaka regarding the above. (+)
 ** Revert Outlook default font from Aptos to Calibri. (+)
 
@@ -1781,7 +1785,7 @@ BVEPP
 
 * 2024-01-23
 ** REC.
-** Confirmed no InstallAnywhere related account. (+)
+** Confirm no InstallAnywhere related account. (+)
 ** Check the deafult password complexity policy (currently zeroed out). (+)
 ** [$XENON-4631 (manual testing; caused by snapshot transactions accessing just deleted LMPI segments/files). (P)
 ** Fix a classpath expansion issue with 'create-license' (reported by Wouter). (+)
@@ -2029,7 +2033,7 @@ BVEPP
 
 * 2023-11-22
 ** REC.
-** Help Karen invetigate the time difference between rebuilding index in Admin Client and using API. (+)
+** Help Karen investigate the time difference between rebuilding index in Admin Client and using API. (+)
 ** [$XENON-4880 (debug log analysis; concurrent index?). (P)
 
 * 2023-11-23
@@ -2235,7 +2239,7 @@ BVEPP
 
 * 2023-10-12
 ** REC.
-** [$XENON-4883 (HF Sinclair: vague quesion regarding storage space). (+)
+** [$XENON-4883 (HF Sinclair: vague question regarding storage space). (+)
 ** Karen's questions regarding a value comparison issue in XQuery. (+)
 ** [$XENON-4880 (added logic to register read locks taken by index-in-construction). (P)
 
@@ -2495,7 +2499,7 @@ BVEPP
 
 * 2023-08-10
 ** REC.
-** Invetigate test failures caused by Prem's MR. (+)
+** Investigate test failures caused by Prem's MR. (+)
 ** KT session for Prem and Shanmuga (LogRecord, LogManager, etc.). (D)
 ** [$xENON scrum meeting. (D)
 ** Review Shanmuga's MR for [$XENON-4851. (D)
@@ -3064,7 +3068,7 @@ BVEPP
 
 * 2023-03-29
 ** REC.
-** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger; issues with their kubernetes Pod; successful recovery, failure upon registering the shutdown hook; code to dump systemRedoLSN; proposed to perform recovery separately). (P)
+** [$XENON-4830 ([$STARLING/BHP Billiton: calls with Roger; issues with their Kubernetes Pod; successful recovery, failure upon registering the shutdown hook; code to dump systemRedoLSN; proposed to perform recovery separately). (P)
 
 * 2023-03-30
 ** REC.
@@ -3586,7 +3590,7 @@ BVEPP
 ** REC.
 ** Perforce -> GitLab migration (validation for the new 'database-binary' repo). (P)
 ** KT session for Ram (just a quick sync-up; suggested focusing on the consistency checker framework for now). (D)
-** Create [$XENON-4799 (Apache Ivy?). (P)
+** [$XENON-4799 (Apache Ivy?). (P)
 ** Deal with the request from local tax authorities to collect info wrt the work on [$xENON (greenlighted, sort of). (D)
 
 * 2022-11-25
@@ -4058,7 +4062,7 @@ BVEPP
 ** Investigate a backslash issue caused by the removal of Xalan (fixed by Val). (+)
 ** Check randomized force-detach tests. (P)
 ** Suppress WARN level logging output for the Jenkins runs of the above. (+)
-** Invetigate various test failures on Jenkins (all non-trivial rare errors; fruitless search in the heap dump for the root cause of a crashed parallel query). (P)
+** Investigate various test failures on Jenkins (all non-trivial rare errors; fruitless search in the heap dump for the root cause of a crashed parallel query). (P)
 ** [$XENON-4764 ([$STARLING/EDF: surprised and disappointed by $[STARLING's response). (P)
 ** Add support for running a single test repeatedly on Jenkins (this time for the official 11.1). (+)
 
@@ -5000,7 +5004,7 @@ BVEPP
 * 2021-12-17
 ** REC.
 ** [$XENON-4686 (BoC Liaoning: latest upgrade successful; all BoC cases now closed). (D)
-** [$XENON-4698 (European Paliament: helped [$STARLING team with a pure[$xENON test case; expected behavior observed). (P)
+** [$XENON-4698 (European Paliament: helped [$STARLING team with a pure [$xENON test case; expected behavior observed). (P)
 ** Investigate the failures of xTest-based OOS test suites (an unreleased latch by the thread itself with no traces of possible exceptions). (P)
 
 -------- 2021-12-06 ~ 2021-12-10
@@ -6284,7 +6288,7 @@ BVEPP
 ** WFH.
 ** Fix regressions caused a new assert. (+)
 ** [$xENON scrum meeting. (D)
-** Fix a deadlock detected on Jenkins (related to the logic of updating 'xdbversion' in bootstrap file). (+)
+** Fix a deadlock detected on Jenkins (related to the logic of updating '[$xenonversion' in bootstrap file). (+)
 ** Discuss with Bruno the default java version for 10.7 in the future. (+)
 
 * 2021-01-08
@@ -6399,7 +6403,7 @@ BVEPP
 * 2020-12-01
 ** WFH.
 ** Create a custom Ant task to detect jar name inconsistencies. (D)
-** [$STARLING-18225 (EC: reminded to [$STARLING Indian team to verify debug functions). (P)
+** [$STARLING-18225 (EC: reminded [$STARLING Indian team to verify debug functions). (P)
 
 * 2020-12-02
 ** WFH.
@@ -6583,7 +6587,7 @@ BVEPP
 * 2020-10-20
 ** Investigate an upgrade issue reported by Bank of China (invovled our own Trie structure API). (+)
 ** Fix a concurrency issue with the segment cleaner. (+)
-** Investigate a Black Duck reported issue with honest profiler (probably a false positive). (+)
+** Investigate a BlackDuck reported issue with honest profiler (probably a false positive). (+)
 
 * 2020-10-21
 ** Investigate an upgrade issue reported by Bank of China (reproduction, Trie, etc.). (P)
@@ -7384,7 +7388,7 @@ BVEPP
 * 2020-04-01
 ** WFH.
 ** Fix a regression caused by the checkin on Monday. (+)
-** [$XENON-4562 (proposed two solutions and Vadim would work one of them). (P)
+** [$XENON-4562 (proposed two solutions and Vadim would work on one of them). (P)
 ** [$VAULT2-12552 (Sanofi: provided instructions on two potential manual fixes). (P)
 ** [$VAULT2-12024 (JPMC: reviewed Val's one-off tool, verified the consistency of id mappings in their system-db). (+) 
 ** [$XENON-4561 (BoC: reviewed the bootstrap files and evaluate the upgrade risks). (P)
@@ -7458,7 +7462,7 @@ BVEPP
 
 * 2020-03-20
 ** WFH.
-** Discuss how to mitigate potential disk space issues on segment level (proposed a new API to switch a new file for allocation immediately). (+)
+** Discuss how to mitigate potential disk space issues on segment level (proposed a new API to switch to a new file for allocation immediately). (+)
 ** Rework the client-side caching mechanism for various stuff (plus refactoring, simplification, etc.). (P)
 ** Daily check-in meeting. (D)
 
@@ -7934,7 +7938,7 @@ BVEPP
 ** [$xENON weekly meeting. (D)
 
 * 2019-10-23
-** [$XENON-4521 (CSI, but not with xDBCSI; dangling pointers in id/name indexes; parent data tampered with?). (P)
+** [$XENON-4521 (CSI, but not with [$xENONCSI; dangling pointers in id/name indexes; parent data tampered with?). (P)
 
 * 2019-10-24
 ** [$XENON-4521/[$VAULT2-11294 (explained the rationale behind recreating the whole database). (+)
@@ -16077,7 +16081,7 @@ BVEPP
 ** Sync-up with [$Antwerp team. (D)
 
 * 2013-01-25
-** Investigate the NPE in LockManager (caused by XdbLog4jBridge). (+)
+** Investigate the NPE in LockManager (caused by [$XenonLog4jBridge). (+)
 
 -------- 2013-01-14 ~ 2013-01-18
 
