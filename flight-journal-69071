@@ -14,6 +14,11 @@ BVEPP
 ** Jenkins -> GitLab CI/CD migration (session 1: CI/CD Jenkins to Gitlab Transformation). (+)
 ** [$xENON scrum meeting. (D)
 
+* 2025-04-29
+** kR.
+** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: good question about whether to explicitly close query results; sub-sessions created by parallel execution). (P)
+** Go through this work journal (2007 - 2019). (P)
+
 -------- 2025-04-21 ~ 2025-04-25
 
 * 2025-04-21
@@ -25,9 +30,9 @@ BVEPP
 * 2025-04-22
 ** kR.
 ** [$XENON-4718329 (HIP/Ospedale Pediatrico Bambino Gesu: reiterated key items to be verified and monitored). (P)
-** Review the implementation of 2 phase commit in 16.5. (+)
+** RMM: Implementation of 2 phase commit in 16.5. (+)
 ** Discuss with Wendy the details of the severance package. (+)
-** Review [$VAULT2's original plan for leveraging our quorum-based replication groups. (+)
+** RMM: [$VAULT2's original plan for leveraging our quorum-based replication groups. (+)
 ** [$VAULT2-4534878 (DSV A/S: reviewed the consistency check results; ready to proceed with force-detach). (P)
 
 * 2025-04-23
@@ -41,7 +46,7 @@ BVEPP
 ** kR.
 ** Review Shanmuga's code changes for the calculation of LMPI size (verified the correctness of his perculiar and unnecessarily long chain of expressions). (P)
 ** Investigate and perform a Git hard reset to fix a careless merge made by Shanmuga. (+)
-** Review the notes for the implementation of 2 phase commit. (+)
+** RMM: Notes for the implementation of 2 phase commit. (+)
 ** Quick call with Champaka to go through the formalities. (+)
 ** [$xENON scrum meeting. (D)
 ** Call with Champaka, Nara and Shanmuga regarding the final transition plan. (+)
@@ -6375,7 +6380,7 @@ BVEPP
 
 * 2020-12-10
 ** WFH.
-** Discuss queue segment and external lucene support. (+)
+** Discuss queue segment and external Lucene support. (+)
 ** Respond to inquiries regarding 10-to-11 upgrade from Yanjuan/Bank of China. (P)
 ** [$xENON scrum meeting (but more about hiring). (D)
 
@@ -7354,7 +7359,7 @@ BVEPP
 * 2020-04-09
 ** WFH.
 ** Rework the client-side caching mechanism. (P)
-** [$XENON-4564 (Nestle: fatal error in a lucene task led to a halt which was blocked the task itself). (P)
+** [$XENON-4564 (Nestle: fatal error in a Lucene task led to a halt which was blocked the task itself). (P)
 ** Daily check-in meeting. (D)
 
 * 2020-04-10
@@ -7654,7 +7659,7 @@ BVEPP
 ** Merge changes to to-be-retired branches. (P)
 ** Daily check-in meeting. (D)
 
--------- 2019-12-30 ~ 2020-01-03
+-------- 2020-01-06 ~ 2020-01-10
 
 * 2020-01-06
 ** Merge changes to to-be-retired branches (regressions). (P)
@@ -7725,7 +7730,7 @@ BVEPP
 ** [$xENON weekly meeting. (D)
 
 * 2019-12-18
-** Discuss with Elaine about the action plan for the XQuery issue reported Loic. (+)
+** Discuss with Elaine about the action plan for the XQuery issue reported by Loic. (+)
 ** Merge changes to to-be-retired branches (re-implemented Bas's fix, discussed the reentry issue with Val, etc.). (P)
 ** Daily check-in meeting. (D)
 
@@ -8628,7 +8633,7 @@ BVEPP
 * 2019-03-27
 ** Group lunch with Vicky, Jack and Moose. (D)
 ** [$XENON-4474 (EC: WAL files not truncated after incremental backup). (P)
-** Study the leader election logic. (P)
+** Review the leader election logic. (P)
 
 * 2019-03-28
 ** Lunch with John. (+)
@@ -8644,7 +8649,7 @@ BVEPP
 -------- 2019-03-18 ~ 2019-03-22
 
 * 2019-03-18
-** Study the changes made to the bash and batch scripts by Val. (+)
+** Review the changes made to the bash and batch scripts by Val. (+)
 ** Continue investigating the BoC case. (P)
 
 * 2019-03-19
@@ -8663,12 +8668,12 @@ BVEPP
 
 * 2019-03-22
 ** Continue working on the BoC case (undo recovery didn't finish at Yunnan branch). (P)
-** Study the leader election logic. (P)
+** Review the leader election logic. (P)
 
 -------- 2019-03-11 ~ 2019-03-15
 
 * 2019-03-11
-** [$XENON-4473 (an recovery issue caused by the recreation of a segment). (+)
+** [$XENON-4473 (a recovery issue caused by the recreation of a segment). (+)
 ** Enable lauching AdminFx with Java 11 from Gradle (with PATH_TO_FX set). (D)
 ** Investigate issues with Main Windows build. (+)
 
@@ -8685,7 +8690,7 @@ BVEPP
 * 2019-03-14
 ** Continue investigating the hanging log directory multiplexing test (fixed by a workaround on Windows). (D)
 ** Make 2PC transactions rollback only if the most recent LSN check fails. (D)
-** Study the leader election logic. (+)
+** Review the leader election logic. (+)
 
 * 2019-03-15
 ** [$XENON-4474 (NPE with the old API caused by concurrently deleted segments). (+)
@@ -8874,11 +8879,11 @@ BVEPP
 
 * 2019-01-07
 ** Read Philip's AdminFx documentation. (D)
-** Study the page allocation/releasing logic. (+)
+** Review the page allocation/releasing logic. (+)
 
 * 2019-01-08
-** Study the page allocation/releasing logic. (D)
-** Study the implementation of concurrent index. (+)
+** Review the page allocation/releasing logic. (D)
+** Review the implementation of concurrent index. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2019-01-09
@@ -9311,7 +9316,7 @@ BVEPP
 -------- 2018-08-27 ~ 2018-08-31
 
 * 2018-08-27
-** Read some articles relates to NUMA. (+)
+** Read some articles related to NUMA. (+)
 ** Create [$XENON-4437 (index cleaner still working during the cleanliness check). (+)
 ** Implement fixes for the backslash issue (merge). (P)
 ** New API to create a child detachable library on a different data node. (P)
@@ -10225,7 +10230,7 @@ BVEPP
 
 * 2017-12-15
 ** Investgate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
-** [$XENON-4325 (segment missing during federatino restore, reported by Sander). (+)
+** [$XENON-4325 (segment missing during federation restore, reported by Sander). (+)
 ** Create [$XENON-4327 per Perica/Petr's request. (+)
 
 -------- 2017-12-04 ~ 2017-12-08
@@ -11132,7 +11137,7 @@ BVEPP
 ** Concurrent library backups. (P)
 
 * 2017-03-10
-** Anwser Elmar's questions about  (de)serialization. (+)
+** Anwser Elmar's questions about (de)serialization. (+)
 ** Communicate with Michiel and Petr about current status of fixes for [$VAULT. (+)
 ** Concurrent library backups. (P)
 
@@ -11705,7 +11710,7 @@ BVEPP
 * 2016-08-31
 ** Read [[Inside the Hotspot VM: Clocks, Timers and Scheduling Events]]. (+)
 ** [$STARLING weekly meeting. (D)
-** Study the linear hasing implemented by Bas. (+)
+** Review the linear hasing implemented by Bas. (+)
 ** [$VAULT2-858 (slowness caused by HashSet.add()). (+)
 
 * 2016-09-01
@@ -12000,7 +12005,7 @@ BVEPP
 * 2016-06-02
 ** Cross-DN attach. (P)
 ** [$xENON weekly meeting. (D)
-** Study the new JSON interface created by Bas. (+)
+** Review the new JSON interface created by Bas. (+)
 
 * 2016-06-03
 ** WFH.
@@ -13320,7 +13325,7 @@ BVEPP
 -------- 2015-04-07 ~ 2015-04-10
 
 * 2015-04-07
-** Study Valery's infrastructure for global distributed transactions and 2PC. (D)
+** Review Valery's infrastructure for global distributed transactions and 2PC. (D)
 ** 1-on-1 with Dingmeng. (D)
 ** changeBinding() for the clustering architecture. (P)
 
@@ -13338,27 +13343,27 @@ BVEPP
 -------- 2015-03-30 ~ 2015-04-03
 
 * 2015-03-30
-** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
+** Review Valery's infrastructure for global distributed transactions and 2PC. (P)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2015-03-31
-** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
+** Review Valery's infrastructure for global distributed transactions and 2PC. (P)
 
 * 2015-04-01
 ** Answer Mark Polman's questions on attach APIs. (+)
 ** Draft Q2 MBO goals. (+)
-** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
+** Review Valery's infrastructure for global distributed transactions and 2PC. (P)
 ** Help Harry Tu's with a customer issue (Merck, [$STARLING 1.4 log size). (+)
 
 * 2015-04-02
-** Study Valery's infrastructure for global distributed transactions and 2PC. (P)
+** Review Valery's infrastructure for global distributed transactions and 2PC. (P)
 ** Help Charlie look into [$SWIFT-14258. (+)
 ** [$xENON weekly meeting. (D)
 ** Help answer some questions from Flatirons (David Jiang). (+)
 
 * 2015-04-03
 ** Help answer some questions from Flatirons (David Jiang). (+)
-** Study Valery's infrastructure for global distributed transactions and 2PC (also during the Qingming holidays). (P)
+** Review Valery's infrastructure for global distributed transactions and 2PC (also during the Qingming holidays). (P)
 ** Build an engineering jar for [$SWIFT-14258. (+)
 
 -------- 2015-03-23 ~ 2015-03-27
@@ -13496,7 +13501,7 @@ BVEPP
 ** Short meeting with Petr, Ewout and Valery to discuss how to avoid duplicated work. (+)
 
 * 2015-02-13
-** Study the undo framework for bootstrap changes. (P)
+** Review the undo framework for bootstrap changes. (P)
 
 -------- 2015-02-02 ~ 2015-02-06
 
@@ -13592,12 +13597,12 @@ BVEPP
 -------- 2015-01-05 ~ 2015-01-09
 
 * 2015-01-05
-** Study the (de)serialization logic. (P) 
+** Review the (de)serialization logic. (P)
 ** [$STARLING weekly dev meeting. (D)
 ** Discuss Sheperd's PoC of collection replication. (+)
 
 * 2015-01-06
-** Study the (de)serialization logic. (P) 
+** Review the (de)serialization logic. (P)
 
 * 2015-01-07
 ** Draft Q1 MBO goals. (+)
@@ -13616,7 +13621,7 @@ BVEPP
 
 * 2014-12-29
 ** Perform code cleanup for [$STARLING (also some other misc settings). (D)
-** Study the (de)serialization logic. (P) 
+** Review the (de)serialization logic. (P)
 ** Discuss the child-parent link issues with Petr. (+)
 
 * 2014-12-30
@@ -13631,7 +13636,7 @@ BVEPP
 ** Off.
 
 * 2014-12-23
-** Study the (de)serialization logic. (P) 
+** Review the (de)serialization logic. (P)
 ** Code formatter for [$STARLING. (P)
 
 * 2014-12-24
@@ -14641,26 +14646,26 @@ BVEPP
 -------- 2014-02-10 ~ 2014-02-14
 
 * 2014-02-10
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 
 * 2014-02-11
 ** WFH.
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 
 * 2014-02-12
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 ** Heads-up on the layoff happening in [$Huntsville. (+)
 ** [$STARLING weekly dev meeting. (D)
 ** 1-on-1 with Dingmeng. (+)
 
 * 2014-02-13
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 ** Take the Privacy and Information Security Training. (+)
 ** Take the National Security Agreement Training. (+)
 
 * 2014-02-14
 ** Huaqing's all-hands. (D)
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 
 -------- 2014-02-07 ~ 2014-02-08
 
@@ -14668,7 +14673,7 @@ BVEPP
 ** Read Valery's proposal for shared read-only pages. (+)
 
 * 2014-02-08
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 
 -------- 2014-01-26 ~ 2014-01-30
 
@@ -14684,14 +14689,14 @@ BVEPP
 ** Revisit an old design issue regarding the invocation of checkCoveringIndex() in detach(). (+)
 ** Indirect addressing. (P)
 ** Discuss some [$STARLING/[$xENON architecture issues with Zed, Dingmeng and Duke. (+)
-** Study the index code of [$xENON. (+)
+** Review the index code of [$xENON. (+)
 
 * 2014-01-29
 ** WFH.
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 
 * 2014-01-30
-** Study the index code of [$xENON. (P)
+** Review the index code of [$xENON. (P)
 
 -------- 2014-01-20 ~ 2014-01-24
 
@@ -15025,7 +15030,7 @@ BVEPP
 ** [$XENON-3489 (deadlock detection algorithm). (P)
 
 * 2013-10-17
-** Take the My Voice survey. (+)
+** Take the MyVoice survey. (+)
 ** [$XENON-3489 (deadlock detection algorithm). (P)
 ** Sync-up with [$Antwerp team. (D)
 
@@ -15662,7 +15667,7 @@ BVEPP
 ** Update the notes for library move. (D)
 
 * 2013-04-24
-** Review Jonathan's design for the statistics and monitoring  framework. (+)
+** Review Jonathan's design for the statistics and monitoring framework. (+)
 ** [$ION Q2 all-hands. (D)
 ** Sync-up with Jian, Zhenjie and Jove on the BoC deal. (+)
 
@@ -16491,7 +16496,7 @@ BVEPP
 ** Indirect addressing. (P)
 
 * 2012-10-10
-** Read Fan's proposal to re-architecture [$xENON bootstrap file. (+)
+** Read Fan's proposal to re-architect [$xENON bootstrap file. (+)
 ** Indirect addressing. (P)
 ** 1-on-1 with Jove. (+)
 ** Review Sheperd's change to skip failed document. (+)
@@ -17386,7 +17391,7 @@ BVEPP
 ** Investigate recent frequent TeamCity server failures (resolved). (D)
 ** Upgrade JDK 7 to 7u3 for TeamCity build. (D)
 ** Improve the performance of appendChild(). (P)
-** Team event with  Ed, Pitch, Peterson and Vandana (lunch and dinner). (D)
+** Team event with Ed, Pitch, Peterson and Vandana (lunch and dinner). (D)
 
 * 2012-03-15
 ** Meetings with Ed, Pitch, Peterson and Vandana. (D)
@@ -17470,7 +17475,7 @@ BVEPP
 ** NPS training.
 
 * 2012-02-20
-** Take NPS quiz (the training site doesn't work with any of my three browsers).
+** Take NPS quiz (the training site doesn't work with any of my three browsers). (+)
 ** Interview one candidate for [$STARLING ECAG position. (D)
 ** Work on the new attach. (P)
 ** Sync-up on the Kyodo News/NEC case. (D)
@@ -17713,7 +17718,7 @@ BVEPP
 ** Install an old version of Visual C++ to build [$CETUS. (+)
 
 * 2011-12-29
-**  [$XENON-2645 (second hotfix). (P)
+** [$XENON-2645 (second hotfix). (P)
 ** Watch David and Charlie's demo video of [$STARLING-REST (quite impressive considering the very short time they took). (+)
 ** Convert [$CETUS build to Gradle. (P)
 ** Kim's DR test plan review meeting. (D)
@@ -17772,7 +17777,7 @@ BVEPP
 * 2011-12-12
 ** [$XENON-2637 (deadlock found at Cedicam). (P)
 ** [$STARLING weekly dev meeting. (D)
-** Zhiwen's Auto-Pather sharing session. (D)
+** Zhiwen's Auto-Patcher sharing session. (D)
 
 * 2011-12-13
 ** [$XENON-2637 (found a reasonable but unlikely cause). (D)
@@ -18716,7 +18721,7 @@ BVEPP
 * 2011-05-05
 ** Investigate the Ant issue on the new laptop. (P)
 ** Investigate [$SWIFT-6519. (+)
-** Spot a deserialization issue with detachble libraries. (+)
+** Spot a deserialization issue with detachable libraries. (+)
 ** Sync-up meeting on the hiring for Java dev for Mobile [$EEL. (+)
 
 * 2011-05-06
@@ -19437,7 +19442,7 @@ BVEPP
 ** Fix the VMware issues on 'official' branches, a different approach required.
 
 * 2010-11-08
-** Study the fix for LockManager flaw proposed by Bas and apply it on VMware hotfix branch. (D)
+** Review the fix for LockManager flaw proposed by Bas and apply it on VMware hotfix branch. (D)
 ** [$STARLING weekly dev meeting. (D)
 
 * 2010-11-09
@@ -19918,7 +19923,7 @@ BVEPP
 * 2010-06-12
 ** [$SWIFT-2527 and [$SWIFT-2528 follow-ups. (P)
 ** [$XENON-1039. (D)
-** DIscuss with Phoebe about Leonard's son's visit. (D)
+** Discuss with Phoebe about Leonard's son's visit. (D)
 
 * 2010-06-13
 ** Annual leave.
@@ -20193,7 +20198,7 @@ BVEPP
 
 * 2010-03-15
 ** Sync-up with Fan. (D)
-** [$XENON-908, [$XENON916. (D)
+** [$XENON-908, [$XENON-916. (D)
 
 * 2010-03-16
 ** Some minor documentation work. (D)
@@ -20441,7 +20446,7 @@ BVEPP
 -------- 2009-12-21 ~ 2009-12-25
 
 * 2009-12-21
-** Study the undo process during recovery. (D)
+** Review the undo process during recovery. (D)
 ** Phone-screen one search PE candidate. (D)
 ** [$xENON bug review meeting. (D)
 
@@ -20706,7 +20711,7 @@ BVEPP
 ** Attempt to enable RPC tracing (but failed). (P)
 
 * 2009-09-22 (US)
-** Team outing @ Campo di Bacci in Livermore. (D)
+** Team outing @ Campo di Bocce of Livermore. (D)
 ** Fruitless investigation of intermittent failure of -find-ia2009. (P)
 ** Add public APIs to mark unusable segments. (D)
 
@@ -20849,7 +20854,7 @@ BVEPP
 * 2009-08-11
 ** Continue improving the upgrade code. (P)
 ** China [$CLOVE all-hands. (D)
-** Review Ed and Fan's HADR design proposal. (P)
+** Review Ed and Fan's HA/DR design proposal. (P)
 
 * 2009-08-12
 ** Have a sync-up meeting with Fan on M6 tasks. (D)
@@ -21195,7 +21200,7 @@ BVEPP
 ** 1-on-1 with Jai. (D)
 
 * 2009-04-14
-** Attend the session given by 3 PhD from ERC. (+)
+** Attend the session given by 3 PhDs from ERC. (+)
 ** Discuss how to put [$xENON into cloud with ERC researchers. (+)
 ** Cafe talk with Ting, Li, Jason & Samuel. (+)
 ** Learn how to use JUnit annotations. (+)
@@ -21393,14 +21398,14 @@ BVEPP
 ** Continue investigating the "object dead" issue. (P)
 
 * 2009-02-19
-** Solved the "object dead" issue. (D)
+** Solve the "object dead" issue. (D)
 ** Have the 2008 PA review with Li. (+)
 ** Attend the regular sync-up meeting with [$Antwerp. (D)
 
 * 2009-02-20
 ** Discuss with Fan about how to store segment list. (+)
 ** Attend Pop's demo session for his external index tool. (D)
-** Investigate the cause of [$SWIFT-481/482, which seemsan LSN issue. (+)
+** Investigate the cause of [$SWIFT-481/482, which seems an LSN issue. (+)
 
 -------- 2009-02-09 ~ 2009-02-13
 
@@ -21408,7 +21413,7 @@ BVEPP
 ** Take the NAS training. (D)
 ** Review Venkat's [$JAY Multi-node, HA, DR spec. (+)
 ** Attend the regular project update meeting. (D)
-** Study Bas's modifications to attach operation. (P)
+** Review Bas's modifications to attach operation. (P)
 
 * 2009-02-10
 ** Try to improve the bootstrap file locking in multi-node. (P)
@@ -21445,7 +21450,7 @@ BVEPP
 
 * 2009-02-06
 ** Review Yolanda's test plan for multi-node [$JAY. (D)
-** Study Bas's modifications to attach operation. (P)
+** Review Bas's modifications to attach operation. (P)
 
 -------- 2009-01-19 ~ 2009-01-23
 
@@ -21721,7 +21726,7 @@ BVEPP
 ** Annual leave.
 
 * 2008-10-28
-** Attend [$JAY regular sync-up meeting with [$Huntsville.
+** Attend [$JAY regular sync-up meeting with [$Huntsville. (D)
 ** Work on the pending issues of detach/attach. (P)
 
 * 2008-10-29
@@ -22180,7 +22185,7 @@ BVEPP
 
 * 2008-05-20
 ** Continue reading the [$QUEEN-CELL source code. (D)
-** Attend the internal review meeting for lucene plugin design. (+)
+** Attend the internal review meeting for Lucene plugin design. (+)
 
 * 2008-05-21
 ** Continue reading the [$QUEEN-CELL source code. (D)
@@ -22430,7 +22435,7 @@ BVEPP
 
 * 2008-03-07
 ** Give a short [$JAY introduction to Dion. (+)
-** Refactor the [$CETUS package hierachy for better organization for exception and util classes. (+)
+** Refactor the [$CETUS package hierarchy for better organization for exception and util classes. (+)
 ** Add a checked exception when the object to retrieve from the response is not available. (D)
 
 -------- 2008-02-25 ~ 2008-02-29
@@ -22772,7 +22777,7 @@ BVEPP
 
 * 2007-10-29
 ** Investigate how DFS uses token in different invocation scenario. (D)
-** Investigate how to send large files via web servise. (+)
+** Investigate how to send large files via web service. (+)
 
 * 2007-10-30
 ** Read OASIS WS-Security spec. (D)
@@ -23092,7 +23097,7 @@ BVEPP
 -------- 2007-07-16 ~ 2007-07-20
 
 * 2007-07-16
-** Finish the mojor code of indexing module on slave. (done)
+** Finish the major code of indexing module on slave. (done)
 
 * 2007-07-17
 ** Start to integrate the modules of multi-node. (done)
@@ -23241,7 +23246,7 @@ BVEPP
 -------- 2007-05-28 ~ 2007-06-01
 
 * 2007-05-28
-** Continue learning AOP it time permits. (not finished)
+** Continue learning AOP if time permits. (not finished)
 ** Study the JavaCC module of Lucene if time permits. (done)
 
 * 2007-05-29
