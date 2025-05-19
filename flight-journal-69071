@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-05-19 ~ 2025-05-23
+
+* 2025-05-19
+** REC.
+** Jenkins -> GitLab CI/CD migration (managed to get the first GitLab runner up and running on Jenkins slave-01). (P)
+** [$xENON scrum meeting. (D)
+** Find out who managed Jenkins access permissions (and the person is long gone). (+)
+** Share the two main 11.1 pipeline scripts with the India team. (+)
+
 -------- 2025-05-12 ~ 2025-05-16
 
 * 2025-05-12
@@ -364,12 +373,12 @@ BVEPP
 * 2025-02-11
 ** REC.
 ** [$XENON-1964083 (created a second debug branch; BriefJunitResultFormatter? indirect addressing error). (P)
-** Quick call with Champaka regarding the next steps for the Indian team. (+)
-** Meeting with the Indian team to clarify the areas for them to focus on. (+)
+** Quick call with Champaka regarding the next steps for the India team. (+)
+** Meeting with the India team to clarify the areas for them to focus on. (+)
 
 * 2025-02-12
 ** REC.
-** Organize the real-world query optimization examples for Qatargas and share them with the Indian team. (+)
+** Organize the real-world query optimization examples for Qatargas and share them with the India team. (+)
 ** [$XENON-1964083 (regular version of unpackPageid() used for page id 0 in corruption tests?). (P)
 
 * 2025-02-13
@@ -1393,7 +1402,7 @@ BVEPP
 * 2024-05-13
 ** kR.
 ** 2024 global compliance and security awareness training courses (4 down, 1 to go, due to a technical issue). (P)
-** [$XENON-4909 ([$NEON: set up the environment; handed off to the Indian team). (P)
+** [$XENON-4909 ([$NEON: set up the environment; handed off to the India team). (P)
 ** [$XENON-4908 ([$STARLING/Ford: wrong instance with just created journal directory?). (P)
 ** [$xENON scrum meeting. (D)
 
@@ -1430,7 +1439,7 @@ BVEPP
 ** Read the 2015 FoxGlove Security article on Java deserialization vulnerabilities. (+)
 ** [$XENON-4908 ([$STARLING/Ford: further clarifications and answers). (P)
 ** [$XENON-4833 (PathIndexParser, key type list, etc.). (P)
-** Call with Champaka (JIRA -> ValueEdge migration; feedback on the performance of the Indian team). (+)
+** Call with Champaka (JIRA -> ValueEdge migration; feedback on the performance of the India team). (+)
 
 * 2024-05-08
 ** kR.
@@ -6450,7 +6459,7 @@ BVEPP
 * 2020-12-01
 ** WFH.
 ** Create a custom Ant task to detect jar name inconsistencies. (D)
-** [$STARLING-18225 (EC: reminded [$STARLING Indian team to verify debug functions). (P)
+** [$STARLING-18225 (EC: reminded [$STARLING India team to verify debug functions). (P)
 
 * 2020-12-02
 ** WFH.
@@ -6462,7 +6471,7 @@ BVEPP
 ** Disable the nightly builds of 16.3, 16.5 and Main. (+)
 ** Fix various issues with Jenkins configurations (jar file publishing, slave selection, etc.) (+)
 ** [$xENON scrum meeting. (D)
-** Notify [$STARLING Indian team of the new 10.7 build. (+)
+** Notify [$STARLING India team of the new 10.7 build. (+)
 ** Resignation letter. (P)
 
 * 2020-12-04
