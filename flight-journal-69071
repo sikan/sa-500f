@@ -23,6 +23,11 @@ BVEPP
 ** [$xENON 'connect' meeting (CSI: build; log dump; byte level format; etc.). (D)
 ** [$xENON scrum meeting. (D)
 
+* 2025-05-16
+** REC.
+** Jenkins -> GitLab CI/CD migration (session 3: Jenkins to GitLab - How CI/CD Works; session 4: J2GL - Conversions Made Easy). (D)
+** Jenkins -> GitLab CI/CD migration (started to install GitLab runners on existing Jenkins agents; created ELSS-107375 for internet access). (+)
+
 -------- 2025-05-06 ~ 2025-05-09
 
 * 2025-05-06
@@ -32,7 +37,7 @@ BVEPP
 
 * 2025-05-07
 ** kR.
-** Jenkins -> GitLab CI/CD migration (session 2: Build Hub Services for GitLab; wiki pages). (+)
+** Jenkins -> GitLab CI/CD migration (session 2: Build Hub Services for GitLab). (+)
 ** Sign that agreement in Wendy's office. (+)
 
 * 2025-05-08
