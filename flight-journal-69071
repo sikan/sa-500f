@@ -12,6 +12,11 @@ BVEPP
 ** Find out who managed Jenkins access permissions (and the person is long gone). (+)
 ** Share the two main 11.1 pipeline scripts with the India team. (+)
 
+* 2025-05-20
+** kR.
+** Update proxy settings for all Jenkins VMs. (+)
+** Jenkins -> GitLab CI/CD migration (set up more runners; managed to get the standard build running despite various issues; 4MB log size restriction). (P)
+
 -------- 2025-05-12 ~ 2025-05-16
 
 * 2025-05-12
