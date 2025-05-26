@@ -22,6 +22,17 @@ BVEPP
 ** Review HIP's latest heap dump (Ospedale Pediatrico Bambino Gesu; session termination issue resolved; ~6500 'active' transactions). (+)
 ** Jenkins -> GitLab CI/CD migration (output size limit -> output_limit; SSL CA cert issue -> GIT_SSL_NO_VERIFY; standard pipeline looking good with Junit reports; nightly?). (P)
 
+* 2025-05-22
+** REC.
+** Review HIP's code for closing query result (per Prasad's request). (+)
+** Jenkins -> GitLab CI/CD migration ('trigger': downstream pipelines). (P)
+** [$xENON 'connect' meeting (Jenkins; vCloud; GitLab runners; etc.). (D)
+** [$xENON scrum meeting. (D)
+
+* 2025-05-23
+** REC.
+** Jenkins -> GitLab CI/CD migration (categorized existing pipelines by priority for migration; set up the 11.1 nightly as a downstream pipeline). (P)
+
 -------- 2025-05-12 ~ 2025-05-16
 
 * 2025-05-12
