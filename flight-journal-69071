@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-05-26 ~ 2025-05-30
+
+* 2025-05-26
+** REC.
+** Jenkins -> GitLab CI/CD migration (intermittent failures of CmdExternalTest; issues with generating jacoco report). (P)
+** [$xENON scrum meeting. (D)
+
 -------- 2025-05-19 ~ 2025-05-23
 
 * 2025-05-19
