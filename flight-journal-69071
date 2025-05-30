@@ -14,6 +14,18 @@ BVEPP
 ** REC.
 ** KT preparation ([$XENON-1960073, Bank of China). (D)
 
+* 2025-05-28
+** REC.
+** Jenkins -> GitLab CI/CD migration (looked into issues with generating jacoco report; created schedules for other 11.1 pipelines). (P)
+** Review HIP's latest heap dump (Ospedale Pediatrico Bambino Gesu; number of PageImpls; seemed normal given value of cachedPages found in the dump). (+)
+
+* 2025-05-29
+** kR.
+** Jenkins -> GitLab CI/CD migration (set up another 9 GitLab runners; created yml files for the rest of 11.1 downstream pipelines). (P)
+** Jenkins -> GitLab CI/CD migration (still issues with jacoco report; logic for the 'upgrade' pipelines). (P)
+** [$xENON 'connect' meeting ([$XENON-1960073, Bank of China; etc.). (D)
+** Help Prem investigate the failures of his 10.5 nightly. (+)
+
 -------- 2025-05-19 ~ 2025-05-23
 
 * 2025-05-19
