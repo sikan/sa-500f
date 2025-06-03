@@ -26,6 +26,11 @@ BVEPP
 ** [$xENON 'connect' meeting ([$XENON-1960073, Bank of China; etc.). (D)
 ** Help Prem investigate the failures of his 10.5 nightly. (+)
 
+* 2025-05-30
+** kR.
+** Review Shanmuga's new public API for calculating total LMPI blob size. (P)
+** Jenkins -> GitLab CI/CD migration ('strategy: depend'; fixed upgrade test failures caused by the path casing of 'previous.version.install'). (P)
+
 -------- 2025-05-19 ~ 2025-05-23
 
 * 2025-05-19
