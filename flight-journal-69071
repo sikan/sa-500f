@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-06-03 ~ 2025-06-06
+
+* 2025-06-03
+** REC.
+** Jenkins -> GitLab CI/CD migration (set up all other upgrade pipelines; fixed 11.0 -> 11.1; started to look into OOS pipeline). (P)
+
+* 2025-06-04
+** REC.
+** Review Shanmuga's new public API for calculating total LMPI blob size. (P)
+** Jenkins -> GitLab CI/CD migration (OOS pipeline: Jenkins re-enabled for testing purpose; issues with Perforce server, proxy, etc.; fixed). (P)
+
 -------- 2025-05-26 ~ 2025-05-30
 
 * 2025-05-26
