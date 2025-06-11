@@ -3,6 +3,16 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-06-09 ~ 2025-06-13
+
+* 2025-06-09
+** REC.
+** Jenkins -> GitLab CI/CD migration (looked into a FEDERATION_NOT_FOUND issue with j2ee tests; changed build directory in the middle?). (P)
+
+* 2025-06-10
+** REC.
+** Jenkins -> GitLab CI/CD migration (OOS pipeline: managed to check out xTest alongside [$xENON; still other issues). (P)
+
 -------- 2025-06-03 ~ 2025-06-06
 
 * 2025-06-03
@@ -18,6 +28,10 @@ BVEPP
 ** kR.
 ** KT preparation (indirect addressing). (P)
 ** [$xENON scrum meeting. (D)
+
+* 2025-06-06
+** kR.
+** GL.
 
 -------- 2025-05-26 ~ 2025-05-30
 
