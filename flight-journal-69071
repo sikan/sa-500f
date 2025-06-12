@@ -7,11 +7,19 @@ BVEPP
 
 * 2025-06-09
 ** REC.
-** Jenkins -> GitLab CI/CD migration (looked into a FEDERATION_NOT_FOUND issue with j2ee tests; changed build directory in the middle?). (P)
+** Jenkins -> GitLab CI/CD migration (looked into a FEDERATION_NOT_FOUND issue with 10.5 j2ee tests; changed build directory in the middle?). (P)
 
 * 2025-06-10
 ** REC.
 ** Jenkins -> GitLab CI/CD migration (OOS pipeline: managed to check out xTest alongside [$xENON; still other issues). (P)
+
+* 2025-06-11
+** kR.
+** Bring the SSL CA cert issue with GitLab runners to Prem and Shanmuga's attention (and they'd better fix it in a proper way suggested by the build team in the future). (+)
+** Jenkins -> GitLab CI/CD migration (suggested a solution to the issue with 10.5 j2ee tests; OOS pipeline: finally working after much trial and error). (P)
+** Fix a GitLab CI specific issue with the regex to extract version number from the output of 'git show -s --pretty=%d HEAD'. (+)
+** Inform the team of the above and request Prem to apply the same fix to 10.x. (+)
+** Review Shanmuga's new public API for calculating total LMPI blob size. (P)
 
 -------- 2025-06-03 ~ 2025-06-06
 
