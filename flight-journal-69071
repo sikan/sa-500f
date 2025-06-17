@@ -1,7 +1,12 @@
-BVEPP
+indirect addressingBVEPP
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-------- 2025-06-16 ~ 2025-06-20
+
+* 2025-06-16
+** GL.
 
 -------- 2025-06-09 ~ 2025-06-13
 
@@ -25,6 +30,10 @@ BVEPP
 ** REC.
 ** [$xENON 'connect' meeting (indirect addressing). (D)
 ** [$xENON scrum meeting. (D)
+
+* 2025-06-13
+** kR.
+** Jenkins -> GitLab CI/CD migration (OOS pipeline: issues caused by storing logs outside the project root directory). (P)
 
 -------- 2025-06-03 ~ 2025-06-06
 
