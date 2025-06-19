@@ -10,14 +10,16 @@ indirect addressingBVEPP
 
 * 2025-06-17
 ** kR.
-
-* 2025-06-18
-** kR.
 ** Review Shanmuga's new public API for calculating total LMPI blob size. (P)
 ** Suggest having Jenkins and GitLab CI each run half of the agents/runners for comparison purposes. (+)
 ** Jenkins -> GitLab CI/CD migration (moved the GitLab CI scripts to the 11.1 release branch). (P)
 ** Look into a long-time test failure in 10.5 noticed by Prem (caused by a deliberate change in the behavior of selecting the segment for a deserialized index). (+)
 ** Watch Wouter's KT video about the installer. (+)
+
+* 2025-06-18
+** kR.
+** Jenkins -> GitLab CI/CD migration (enabled the per-commit pipeline for the 11.1 release branch). (P)
+** Quick call with Champaka regarding [$STARLING's intention to upgrade to 11.1. (+)
 
 -------- 2025-06-09 ~ 2025-06-13
 
