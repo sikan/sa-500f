@@ -21,6 +21,13 @@ indirect addressingBVEPP
 ** Jenkins -> GitLab CI/CD migration (enabled the per-commit pipeline for the 11.1 release branch). (P)
 ** Quick call with Champaka regarding [$STARLING's intention to upgrade to 11.1. (+)
 
+* 2025-06-19
+** kR.
+** Wouter's follow-up questions regarding segment selection upon deserializing an index. (+)
+
+* 2025-06-20
+** GL.
+
 -------- 2025-06-09 ~ 2025-06-13
 
 * 2025-06-09
