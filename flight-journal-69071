@@ -15,6 +15,18 @@ BVEPP
 ** [$AIRMASS Champion Academy courses. (+)
 ** Jenkins -> GitLab CI/CD migration (too many occurrences of '_refs_pipelines_xxxxxxx_' with different ids in distro file name). (+)
 
+* 2025-06-25
+** kR.
+** Jenkins -> GitLab CI/CD migration (added a line to print the output of 'git show -s --pretty=%d HEAD' for further investigation). (P)
+** [$AIRMASS Champion Academy courses. (P)
+
+* 2025-06-26
+** REC.
+** [$xENON scrum meeting (the last one). (D)
+** Quick call with Champaka regarding when to say the final goodbye. (+)
+** Quick call with Val regarding (my departure and) how to extract version number in an easier way. (+)
+** Jenkins -> GitLab CI/CD migration (sent notes to Prem and Shanmuga regarding that '_refs_pipelines_xxxxxxx_' issue). (D)
+
 -------- 2025-06-16 ~ 2025-06-20
 
 * 2025-06-16
