@@ -9,12 +9,19 @@ BVEPP
 ** Off.
 
 * 2025-07-08
-** KrSpace.
+** Krspace.
 ** Try out EzIDP (spent almost the whole day fine-tuning the prompts for the first schema). (+)
 
 * 2025-07-09
-** KrSpace.
+** Krspace.
 ** Spring Academy courses. (P)
+** Office move (2003 -> 2008). (D)
+
+* 2025-07-10
+** Krspace.
+** Spring Academy courses. (P)
+** Try out a Dify-based internal platform for building agents. (+)
+** EzIDP (prompts for the second schema; slightly different approach; results not ideal). (P)
 
 -------- 2025-06-30 ~ 2025-07-04
 
@@ -23,12 +30,12 @@ BVEPP
 ** The end of my [$xENON chapter (this time for real). (D)
 
 * 2025-07-01
-** KrSpace (Day 1 at [$AIRMASS).
+** Krspace (Day 1 at [$AIRMASS).
 ** Set up hardware (my 10-year-old W541, etc.) and software. (P)
 ** Familiarize with [$AIRMASS Controller (basic operations; documentation). (+)
 
 * 2025-07-02
-** KrSpace.
+** Krspace.
 ** Set up Git (had to use a shared account; apparently an inactive/backup repo?). (+)
 ** Familiarize with [$AIRMASS Controller (started to read some code). (P)
 ** Spring Academy courses. (+)
@@ -50,7 +57,7 @@ BVEPP
 ** [$xENON scrum meeting. (D)
 
 * 2025-06-24
-** KrSpace (unofficial day 1 at [$AIRMASS).
+** Krspace (unofficial day 1 at [$AIRMASS).
 ** [$AIRMASS Champion Academy courses. (+)
 ** Jenkins -> GitLab CI/CD migration (too many occurrences of '_refs_pipelines_xxxxxxx_' with different ids in distro file name). (+)
 
