@@ -15,6 +15,10 @@ BVEPP
 ** Various issues with the dev environment (hosts, maven settings, STS -> eclipse due to issues with Lombok, etc.). (+)
 ** Start to read the source code of common-service. (+)
 
+* 2025-07-16
+** DUCKING.
+** common-service source code. (P)
+
 -------- 2025-07-07 ~ 2025-07-11
 
 * 2025-07-07
