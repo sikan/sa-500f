@@ -9,6 +9,12 @@ BVEPP
 ** Krspace.
 ** orchestrator-manager source code. (P)
 ** uranus source code (chain of responsibility, so many questions...). (+)
+** Help Donald generate the SSH key pair for the new Ubuntu VM. (+)
+
+* 2025-08-05
+** Krspace.
+** Install the orchestrator suite on Ubuntu 22.04.5 (trial and error; succeeded, with the help of Jingjun and Yongjie). (+)
+** Face time with Jingjun (chain of responsibility; various other stuff: api-gateway, etc.). (+)
 
 -------- 2025-07-28 ~ 2025-08-01
 
