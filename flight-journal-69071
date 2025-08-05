@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-08-04 ~ 2025-08-08
+
+* 2025-08-04
+** Krspace.
+** orchestrator-manager source code. (P)
+** uranus source code (chain of responsibility, so many questions...). (+)
+
 -------- 2025-07-28 ~ 2025-08-01
 
 * 2025-07-28
@@ -26,6 +33,7 @@ BVEPP
 * 2025-08-01
 ** DUCKING.
 ** orchestrator-manager source code. (P)
+** Read the two detailed design documents for Kunlun Shuzhi (Saturday). (+)
 
 -------- 2025-07-21 ~ 2025-07-25
 
