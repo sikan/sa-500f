@@ -13,7 +13,7 @@ BVEPP
 
 * 2025-08-05
 ** Krspace.
-** Install the orchestrator suite on Ubuntu 22.04.5 (trial and error; succeeded, with the help of Jingjun and Yongjie). (+)
+** Install the orchestrator suite 5.0 RC SP4 on Ubuntu 22.04.5 (trial and error; succeeded, with the help of Jingjun and Yongjie). (+)
 ** Face time with Jingjun (chain of responsibility; various other stuff: api-gateway, etc.). (+)
 
 * 2025-08-06
@@ -25,6 +25,10 @@ BVEPP
 ** orchestrator-manager source code (hard to convince Jingjun about the bug with ExecutionByRobotTypeValidator). (P)
 ** Look into a start-up issue caused by duplicate entries (no complete picture; Jingjun suggested update instead insert). (+)
 ** Upload CIRI 5.1 beta to JFrog. (+)
+
+* 2025-08-08
+** DUCKING.
+** Install CIRI 5.1 beta on Ubuntu 22.04.5. (+)
 
 -------- 2025-07-28 ~ 2025-08-01
 
