@@ -20,6 +20,12 @@ BVEPP
 ** Off.
 ** waigong... day 35.
 
+* 2025-08-07
+** Krspace.
+** orchestrator-manager source code (hard to convince Jingjun about the bug with ExecutionByRobotTypeValidator). (P)
+** Look into a start-up issue caused by duplicate entries (no complete picture; Jingjun suggested update instead insert). (+)
+** Upload CIRI 5.1 beta to JFrog. (+)
+
 -------- 2025-07-28 ~ 2025-08-01
 
 * 2025-07-28
