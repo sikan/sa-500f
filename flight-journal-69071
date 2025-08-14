@@ -3,13 +3,30 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-08-11 ~ 2025-08-15
+
+* 2025-08-11
+** Krspace.
+** orchestrator-manager source code. (P)
+** Install CIRI web patch and CIRI transformwer frontend on Ubuntu 22.04.5. (+)
+** Install CIRI transformwer backend on Ubuntu 22.04.5. (+)
+
+* 2025-08-12
+** Krspace.
+** Install CIRI transformwer backend on Ubuntu 22.04.5. (D)
+** orchestrator-manager source code. (P)
+
+* 2025-08-13
+** DUCKING.
+** Apply patches to the orchestrator deployment on GCP. (+)
+
 -------- 2025-08-04 ~ 2025-08-08
 
 * 2025-08-04
 ** Krspace.
 ** orchestrator-manager source code. (P)
 ** uranus source code (chain of responsibility, so many questions...). (+)
-** Help Donald generate the SSH key pair for the new Ubuntu VM. (+)
+** Help Donald generate the SSH key pair for a new GCP Ubuntu VM. (+)
 
 * 2025-08-05
 ** Krspace.
