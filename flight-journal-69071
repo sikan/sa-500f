@@ -20,6 +20,10 @@ BVEPP
 ** DUCKING.
 ** Apply patches to the orchestrator deployment on GCP. (+)
 
+* 2025-08-14
+** Krspace.
+** orchestrator-manager source code. (P)
+
 -------- 2025-08-04 ~ 2025-08-08
 
 * 2025-08-04
