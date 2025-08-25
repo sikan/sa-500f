@@ -11,6 +11,20 @@ BVEPP
 * 2025-08-19
 ** Off.
 
+* 2025-08-20
+** DUCKING.
+** orchestrator-manager source code. (P)
+
+* 2025-08-21
+** Krspace.
+** orchestrator-manager source code. (P)
+
+* 2025-08-22
+** DUCKING.
+** Familiarize with [$AIRMASS Controller (and track resulting DB updates) . (P)
+** Report 3 UI bugs ('last year' -> 'past 12 months'; 'CUP' -> 'CPU'; inconsistent license types under different language settings). (+)
+** Create a reproducible instance of the bug with ExecutionByRobotTypeValidator (Saturday). (+)
+
 -------- 2025-08-11 ~ 2025-08-15
 
 * 2025-08-11
