@@ -3,6 +3,14 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-08-25 ~ 2025-08-29
+
+* 2025-08-25
+** Krspace.
+** Familiarize with [$AIRMASS Controller (and track resulting DB updates) . (P)
+** Report a UI bug with robot filtering (issues with both frontend and backend). (+)
+** Investigate the backend robot filtering issue involving robotProcessId. (+)
+
 -------- 2025-08-18 ~ 2025-08-22
 
 * 2025-08-18
