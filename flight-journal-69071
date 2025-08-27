@@ -11,6 +11,11 @@ BVEPP
 ** Report a UI bug with robot filtering (issues with both frontend and backend). (+)
 ** Investigate the backend robot filtering issue involving robotProcessId. (+)
 
+* 2025-08-26
+** Krspace.
+** Investigate the backend robot filtering issue involving robotProcessId (robot.node_arch mysteriously changed after label change; enabled MySQL binary logs). (P)
+** Join the effort to verify and fine-tune EzIDP for the Japanese customer (tested the client script locally; AnyDesk -> Amazon WorkSpaces; how to gather all testing files?). (+)
+
 -------- 2025-08-18 ~ 2025-08-22
 
 * 2025-08-18
