@@ -13,8 +13,14 @@ BVEPP
 
 * 2025-08-26
 ** Krspace.
-** Investigate the backend robot filtering issue involving robotProcessId (robot.node_arch mysteriously changed after label change; enabled MySQL binary logs). (P)
+** Investigate the backend robot filtering issue involving robotProcessId (robot.node_arch mysteriously changed to 1 after label change; enabled MySQL binary logs). (P)
 ** Join the effort to verify and fine-tune EzIDP for the Japanese customer (tested the client script locally; AnyDesk -> Amazon WorkSpaces; how to gather all testing files?). (+)
+
+* 2025-08-27
+** DUCKING.
+** Change MySQL binlog format from ROW to STATEMENT. (+)
+** Investigate the backend robot filtering issue involving robotProcessId (robot.node_arch mysteriously reverted to 1100; no longer reproducible as the value remained stable thereafter). (P)
+** The bug with ExecutionByRobotTypeValidator reproducible again following the above. (+)
 
 -------- 2025-08-18 ~ 2025-08-22
 
