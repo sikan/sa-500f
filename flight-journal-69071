@@ -22,6 +22,11 @@ BVEPP
 ** Investigate the backend robot filtering issue involving robotProcessId (robot.node_arch mysteriously reverted to 1100; no longer reproducible as the value remained stable thereafter). (P)
 ** The bug with ExecutionByRobotTypeValidator reproducible again following the above. (+)
 
+* 2025-08-28
+** Krspace.
+** Work on the first EzIDP schema (for a random purchase order) for the Japanese customer (GPT almost flawlessly; why not GPT all the way instead of schemas? price and downstream consumers). (D)
+** Fix the bug with ExecutionByRobotTypeValidator (first MR; still pending verification). (D)
+
 -------- 2025-08-18 ~ 2025-08-22
 
 * 2025-08-18
