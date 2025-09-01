@@ -27,6 +27,11 @@ BVEPP
 ** Work on the first EzIDP schema (for a random purchase order) for the Japanese customer (GPT almost flawlessly; why not GPT all the way instead of schemas? price and downstream consumers). (D)
 ** Fix the bug with ExecutionByRobotTypeValidator (first MR; still pending verification). (D)
 
+* 2025-08-29
+** Recreate the robot in [$AIRMASS Controller on GCP for further investigation of previously found issues. (+)
+** Investigate created_at shifting back 7 hours on robot label updates ('UPDATE robot' found before 'INSERT INTO/DELETE FROM robot_label'). (+)
+** 'LOCK TABLES robot WRITE' -> 'SHOW PROCESSLIST' -> stack trace of the 'UPDATE robot' thread (Saturday). (+)
+
 -------- 2025-08-18 ~ 2025-08-22
 
 * 2025-08-18
