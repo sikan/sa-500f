@@ -3,6 +3,19 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-09-01 ~ 2025-09-29
+
+* 2025-09-01
+** DUCKING.
+** Investigate created_at shifting back 7 hours on robot label updates. (P)
+** Discuss the above with Jingjun and prepare for the deployment of the latest images. (+)
+** Consolidate the source files in Meiji's Amazon Workspaces environment. (+)
+
+* 2025-09-02
+** DUCKING.
+** Test the EzIDP workflow in Meiji's Amazon Workspaces environment (outbound restrictions?). (P)
+** Fine-tune EzIDP schemas for Meiji's PO documents (screenshots of .tif files; worked on just the first one of those). (+)
+
 -------- 2025-08-25 ~ 2025-08-29
 
 * 2025-08-25
@@ -14,7 +27,7 @@ BVEPP
 * 2025-08-26
 ** Krspace.
 ** Investigate the backend robot filtering issue involving robotProcessId (robot.node_arch mysteriously changed to 1 after label change; enabled MySQL binary logs). (P)
-** Join the effort to verify and fine-tune EzIDP for the Japanese customer (tested the client script locally; AnyDesk -> Amazon WorkSpaces; how to gather all testing files?). (+)
+** Join the effort to verify and fine-tune EzIDP for Meiji (tested the client script locally; AnyDesk -> Amazon WorkSpaces; how to gather all testing files?). (+)
 
 * 2025-08-27
 ** DUCKING.
@@ -24,7 +37,7 @@ BVEPP
 
 * 2025-08-28
 ** Krspace.
-** Work on the first EzIDP schema (for a random purchase order) for the Japanese customer (GPT almost flawlessly; why not GPT all the way instead of schemas? price and downstream consumers). (D)
+** Work on the first EzIDP schema (for a random purchase order) for Meiji (GPT almost flawlessly; why not GPT all the way instead of schemas? price and downstream consumers). (D)
 ** Fix the bug with ExecutionByRobotTypeValidator (first MR; still pending verification). (D)
 
 * 2025-08-29
