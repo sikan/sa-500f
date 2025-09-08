@@ -16,6 +16,19 @@ BVEPP
 ** Test the EzIDP workflow in Meiji's Amazon Workspaces environment (outbound restrictions?). (P)
 ** Fine-tune EzIDP schemas for Meiji's PO documents (screenshots of .tif files; worked on just the first one of those). (+)
 
+* 2025-09-03
+** DUCKING.
+** Fine-tune EzIDP schemas for Meiji's PO documents. (P)
+
+* 2025-09-04
+** DUCKING.
+** Fine-tune EzIDP schemas for Meiji's PO documents. (P)
+
+* 2025-09-05
+** DUCKING.
+** Fine-tune EzIDP schemas for Meiji's PO documents. (P)
+** Report an EzIDP UI bug involving expired tokens (user stuck in limbo state; had to explicitly log out to continue). (+)
+
 -------- 2025-08-25 ~ 2025-08-29
 
 * 2025-08-25
