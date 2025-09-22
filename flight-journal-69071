@@ -18,21 +18,29 @@ BVEPP
 ** Watch two Okta Dev videos about SAML. (+)
 ** Set up Okta and create a demo app for SAML integration (+)
 
+* 2025-09-18
+** Krspace.
+** Continue investigating the workflow of SAML integration. (P)
+
+* 2025-09-19
+** Off.
+** Create a demo app for Okta SAML integration with both frontend and backend (Saturday, Sunday). (+)
+
 -------- 2025-09-08 ~ 2025-09-12
 
 * 2025-09-08
 ** Krspace.
 ** Fine-tune EzIDP schemas for Meiji's PO documents. (P)
-** Help monitor the 'refresh-token' behavior on EzIDP front-end. (+)
+** Help monitor the 'refresh-token' behavior on EzIDP frontend. (+)
 
 * 2025-09-09
 ** Krspace.
 ** Fine-tune EzIDP schemas for Meiji's PO documents (29 new schemas for 39 PO documents). (D)
-** Help monitor the 'refresh-token' behavior on EzIDP front-end. (D)
+** Help monitor the 'refresh-token' behavior on EzIDP frontend. (D)
 
 * 2025-09-10
 ** DUCKING.
-** Report 3 EzIDP front-end issues ("+ New" opens last schema; "x" too close to "+"; unable to insert first child under parent). (+)
+** Report 3 EzIDP frontend issues ("+ New" opens last schema; "x" too close to "+"; unable to insert first child under parent). (+)
 ** Read SAML-related documentation. (+)
 
 * 2025-09-11
