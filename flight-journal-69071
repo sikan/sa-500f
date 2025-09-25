@@ -15,6 +15,13 @@ BVEPP
 ** Go through OpenSAML demo code. (+)
 ** Meeting with Donald, Ferdy and Finnet to discuss Azure AD integration. (+)
 
+* 2025-09-24
+** DUCKING.
+** Watch the OktaDev video [[OAuth 2.0 and OpenID Connect (in plain English)]]. (+)
+** Configure Azure to enable SSO integration with Entra AD (redirect_uri required to be HTTPS). (P)
+** Install nginx on GCP as a first step to solve the HTTPS issue. (+)
+** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
+
 -------- 2025-09-15 ~ 2025-09-19
 
 * 2025-09-15
@@ -28,7 +35,7 @@ BVEPP
 
 * 2025-09-17
 ** DUCKING.
-** Watch two Okta Dev videos about SAML. (+)
+** Watch two OktaDev videos about SAML. (+)
 ** Set up Okta and create a demo app for SAML integration (+)
 
 * 2025-09-18
