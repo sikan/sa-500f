@@ -22,6 +22,12 @@ BVEPP
 ** Install nginx on GCP as a first step to solve the HTTPS issue. (+)
 ** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
 
+* 2025-09-25
+** DUCKING.
+** Configure nginx on GCP to enable HTTPS for [$AIRMASS Controller. (D)
+** Configure Azure to enable SSO integration with Entra AD. (D)
+** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
+
 -------- 2025-09-15 ~ 2025-09-19
 
 * 2025-09-15
