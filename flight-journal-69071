@@ -3,6 +3,12 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-09-28 ~ 2025-09-30
+
+* 2025-09-30
+** DUCKING.
+** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
+
 -------- 2025-09-22 ~ 2025-09-26
 
 * 2025-09-22
@@ -27,6 +33,11 @@ BVEPP
 ** Configure nginx on GCP to enable HTTPS for [$AIRMASS Controller. (D)
 ** Configure Azure to enable SSO integration with Entra AD. (D)
 ** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
+
+* 2025-09-26
+** DUCKING.
+** Test OAuth 2.0 against Entra AD using oauthdebugger.com and Postman. (+)
+** Review current OAuth integration in common-service and a reference implementation of the plug-in (also on Saturday). (P)
 
 -------- 2025-09-15 ~ 2025-09-19
 
