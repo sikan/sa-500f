@@ -5,15 +5,26 @@ BVEPP
 
 -------- 2025-09-28 ~ 2025-09-30
 
-* 2025-09-30
+* 2025-09-28
 ** DUCKING.
 ** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
+
+* 2025-09-29
+** Krspace.
+** Use application token to fetch the basic info of all users from Azure AD. (+)
+** Install the orchestrator suite (or should I just call it [$AIRMASS Controller?) on the second GCP VM. (+)
+
+* 2025-09-30
+** DUCKING.
+** Install the orchestrator suite on the second GCP VM. (+)
+** Create notes for the above. (+)
+** Read Microsoft identity platform's official documentation on OAuth 2.0 and OIDC (National Day holidays). (+)
 
 -------- 2025-09-22 ~ 2025-09-26
 
 * 2025-09-22
 ** Krspace.
-** Continue working on the demo app for SAML integration (Azure/Entra AD). (P)
+** Continue working on the demo app for SAML integration (Azure AD). (P)
 
 * 2025-09-23
 ** Krspace.
@@ -24,19 +35,19 @@ BVEPP
 * 2025-09-24
 ** DUCKING.
 ** Watch the OktaDev video [[OAuth 2.0 and OpenID Connect (in plain English)]]. (+)
-** Configure Azure to enable SSO integration with Entra AD (redirect_uri required to be HTTPS). (P)
+** Configure Azure AD to enable SSO integration (redirect_uri required to be HTTPS). (P)
 ** Install nginx on GCP as a first step to solve the HTTPS issue. (+)
 ** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
 
 * 2025-09-25
 ** DUCKING.
 ** Configure nginx on GCP to enable HTTPS for [$AIRMASS Controller. (D)
-** Configure Azure to enable SSO integration with Entra AD. (D)
+** Configure Azure AD to enable SSO integration. (D)
 ** Review current OAuth integration in common-service and a reference implementation of the plug-in. (P)
 
 * 2025-09-26
 ** DUCKING.
-** Test OAuth 2.0 against Entra AD using oauthdebugger.com and Postman. (+)
+** Test OAuth 2.0 against Azure AD using oauthdebugger.com and Postman. (+)
 ** Review current OAuth integration in common-service and a reference implementation of the plug-in (also on Saturday). (P)
 
 -------- 2025-09-15 ~ 2025-09-19
