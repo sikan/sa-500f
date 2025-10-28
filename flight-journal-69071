@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-10-27 ~ 2025-10-31
+
+* 2025-10-27
+** Krspace.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (logout; organizations and roles). (P)
+** Report a UI bug caused by double-decryption (still mysterious as it affected only one account). (+)
+** Check whether Jingjun's fix solves the 3-time zone issue with recurring jobs. (+)
+** Endless runaway recurring jobs? (+)
+
 -------- 2025-10-20 ~ 2025-10-24
 
 * 2025-10-20
