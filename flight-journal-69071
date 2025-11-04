@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-11-03 ~ 2025-11-07
+
+* 2025-11-03
+** Krspace.
+** Help Ferdy look into an LDAP configuration issue (obtained the logs, but no stack traces printed, only the exception object). (+)
+** Fix a (facepalm) bug in the retry logic for loading the SSO plug-in. (+)
+** Update the deployment on GCP to use the new version of common-service (office: Jenkins + home: GCP). (+)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (first name and last name looked good; perhaps one final tweak). (P)
+
 -------- 2025-10-27 ~ 2025-10-31
 
 * 2025-10-27
@@ -22,7 +31,11 @@ BVEPP
 
 * 2025-10-30
 ** Krspace.
-** Tinker with a quick-and-dirty SSO plug-in for Azure AD (organizations and roles; OAuth2UserProfileBo). (P)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (organizations and roles; OAuth2UserProfileBo; jenkins failures). (P)
+
+* 2025-10-31
+** DUCKING.
+** Inspect the common-service code around SSOProperties. (+)
 
 -------- 2025-10-20 ~ 2025-10-24
 
