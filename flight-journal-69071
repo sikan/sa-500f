@@ -12,6 +12,22 @@ BVEPP
 ** Update the deployment on GCP to use the new version of common-service (office: Jenkins + home: GCP). (+)
 ** Tinker with a quick-and-dirty SSO plug-in for Azure AD (first name and last name looked good; perhaps one final tweak). (P)
 
+* 2025-11-04
+** Krspace.
+** Still the LDAP configuration issue. (P)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (slightly better mechanism to avoid triggering legacy logic). (P)
+
+* 2025-11-05
+** Off.
+
+* 2025-11-06
+** DUCKING.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (refactoring). (P)
+
+* 2025-11-07
+** DUCKING.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (refactoring). (P)
+
 -------- 2025-10-27 ~ 2025-10-31
 
 * 2025-10-27
