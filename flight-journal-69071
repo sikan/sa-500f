@@ -3,6 +3,23 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-11-10 ~ 2025-11-14
+
+* 2025-11-10
+** Krspace.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (refactoring). (P)
+** Check with Ferdy about the preparation work on Finnet's side. (D)
+** Renew SSL certificates (Donald already seemed aware of it and had the new certificates ready). (+)
+
+* 2025-11-11
+** DUCKING.
+** Meeting with Donald, Ferdy and Jingjun to discuss a few [$AIRMASS Controller issues. (+)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (somewhat weird issue caused by an unintended stale Docker image). (P)
+
+* 2025-11-12
+** DUCKING.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (further improved the handling logic for first and last names). (P)
+
 -------- 2025-11-03 ~ 2025-11-07
 
 * 2025-11-03
@@ -10,7 +27,7 @@ BVEPP
 ** Help Ferdy look into an LDAP configuration issue (obtained the logs, but no stack traces printed, only the exception object). (+)
 ** Fix a (facepalm) bug in the retry logic for loading the SSO plug-in. (+)
 ** Update the deployment on GCP to use the new version of common-service (office: Jenkins + home: GCP). (+)
-** Tinker with a quick-and-dirty SSO plug-in for Azure AD (first name and last name looked good; perhaps one final tweak). (P)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (first and last names looked good; perhaps one final tweak). (P)
 
 * 2025-11-04
 ** Krspace.
