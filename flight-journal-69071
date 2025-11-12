@@ -6864,6 +6864,101 @@ BVEPP
 ** Replace Oracle JDK 11.0.10 with OpenJDK 11.0.10. (+)
 ** [$XENON-4616 (released pages still locked). (P)
 
+-------- 2021-02-11 ~ 2021-02-18
+
+* 2021-02-11
+** mega antlr [sic]
+
+* 2021-02-12
+** fiddling [sic]
+
+* 2021-02-13
+** debug [sic]
+
+* 2021-02-14
+** debug [sic]
+
+* 2021-02-15
+** debug [sic]
+** 511 logging inconsistent [sic]
+** arrow [sic]
+
+* 2021-02-16
+** debug [sic]
+** arrow [sic]
+** minor fix - redundant checks [sic]
+
+* 2021-02-17
+** debug [sic]
+** 516 lazy eval logging [sic]
+** materialized view [sic]
+
+* 2021-02-18
+** debug [sic]
+** time range check [sic]
+** formatting??? -> manual formatting [sic]
+** logging style proposal [sic]
+
+-------- 2021-02-08 ~ 2021-02-10
+
+* 2021-02-08
+** [$POT-357 (created ARROW-11549 for the gandiva filter caching issue; created a test case and a quick-and-dirty fix for that). (+)
+** [$POT-446 (oh, that's how you should run pywave tests; reject empty queries at parser level?). (D)
+
+* 2021-02-09
+** Discuss with Yue issues with commit history of our Arrow fork. (+)
+** [$POT-354, [$POT-445 (created and updated Arrow patch in [$POT; added new test cases in [$POT). (D)
+** ARROW-11549 (created PR). (P)
+
+* 2021-02-10
+** ARROW-11549 (re-ran the pre-check for PR; the previous run seemed to fail due to intermittent network problem). (P)
+** [$POT-467 (erratic results in pywaveui). (+)
+** [$POT-339 (TABLESAMPLE). (+)
+** Read Yue's proposal for lookups support. (+)
+** Li's Quest 3 demo. (D)
+** Hongying's meeting about CRM. (+)
+
+-------- 2021-02-01 ~ 2021-02-07
+
+* 2021-02-01
+** First day of school.
+** Sign this and sign that, set up hardware. (D)
+** Set up dev environment for [$POT (had to give up MacPorts). (P)
+
+* 2021-02-02
+** Continue fiddling with dev environment (clang version; various package issues; most tests running okay though). (P)
+** Yue's session about Snowflake. (D)
+** Jian's demo session of Elastic. (D)
+** Create first local branch and fix a couple of minor issues with the setup script. (+)
+
+* 2021-02-03
+** Fix python related environment issues and update the Big Sur confluence page with some notes (all tests passed, at least for a while). (P)
+** Fix java related environment issues (maven missing; Makefile not failing fast). (D)
+** Read [[How it works]]. (+)
+** Yue's first session about [$POT. (+)
+
+* 2021-02-04
+** Yue's second session about [$POT. (D)
+** Python related issues, take 2 (all tests passed). (D)
+** [$POT-354 (cast/design issue probably caused by our own patch for Arrow). (+)
+** [$POT-357 (issues with using NULL in a query condition). (+)
+** Create [$POT-445 ('9223372036854775807.0' cast to int as -9223372036854775808). (+)
+
+* 2021-02-05
+** Set up dev environment for [$BOW. (D)
+** Chenxi's session about OmniSci. (D)
+** [$POT-354 (fixed by adding a fallback mechanism; new test cases). (D)
+
+* 2021-02-06
+** ALL-IN.
+** [$POT-445 (double->int64 conversion; 9223372036854774784 vs. 9223372036854775807; new test cases; weird git merge issue; first MR). (D)
+
+* 2021-02-07
+** WFH.
+** Read [$POT code. (P)
+** Simplify a few boolean conditions. (+)
+** [$POT-357 (finally set up pywave; erratic and inconsistent behavior; gandiva filter caching?). (P)
+
 -------- 2021-01-25 ~ 2021-01-29
 
 * 2021-01-25
