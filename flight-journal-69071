@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-11-17 ~ 2025-11-21
+
+* 2025-11-17
+** Krspace.
+** Look into the startup issues on the new GCP node (#3) together Jingjun (actually already up and running, access issue caused by home network? cleared a few tables). (+)
+** Create a new disk image from the above relatively clean environment for future use. (+)
+** Meeting with Finnet about Azure AD integration (went through the process from setting up Azure application to retrieving users using access token). (D)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (filtered out 'guest' users; merged the dev branch to QA-5.0.RC). (P)
+
 -------- 2025-11-10 ~ 2025-11-14
 
 * 2025-11-10
@@ -19,6 +28,17 @@ BVEPP
 * 2025-11-12
 ** DUCKING.
 ** Tinker with a quick-and-dirty SSO plug-in for Azure AD (further improved the handling logic for first and last names). (P)
+
+* 2025-11-13
+** Krspace.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (unable to transfer the new common-service image due to slow network; SQLs to reset database for SSO). (P)
+** Discuss with Ferdy the meeting time with Finnet and other details. (+)
+** Investigate how to replicate the GCP [$AIRMASS Controller node using VM or disk image. (+)
+
+* 2025-11-14
+** DUCKING.
+** Investigate how to replicate the GCP [$AIRMASS Controller node (disk image way to go; encountered various startup issues, solved some). (P)
+** Go over the detailed steps to set up a new Azure application for SSO integration (in preparation for the Monday meeting). (+)
 
 -------- 2025-11-03 ~ 2025-11-07
 
