@@ -12,6 +12,17 @@ BVEPP
 ** Meeting with Finnet about Azure AD integration (went through the process from setting up Azure application to retrieving users using access token). (D)
 ** Tinker with a quick-and-dirty SSO plug-in for Azure AD (filtered out 'guest' users; merged the dev branch to QA-5.0.RC). (P)
 
+* 2025-11-18
+** DUCKING.
+** Discuss with Ferdy and Donald the action plan for Finnet. (+)
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD ('Member' only, no 'Guest'; tested the latest implementation for Finnet and [$AIRMASS on GCP #2 and #3 respectively). (P)
+** Create a redacted screenshot of [$AIRMASS user list after synchronization with Azure AD, with detailed explanations. (+)
+** Feishu account for the [$AIRMASS Controller release notes page? (+)
+
+* 2025-11-19
+** DUCKING.
+** Look into an issue with updating process together with components on GCP #3 (reported by Chandra). (+)
+
 -------- 2025-11-10 ~ 2025-11-14
 
 * 2025-11-10
