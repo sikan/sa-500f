@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-11-24 ~ 2025-11-28
+
+* 2025-11-24
+** DUCKING.
+** Finnet's queries regarding HTTPS and a potential intermediary server. (+)
+** Quick meeting with Ferdy and Donald to discuss the above. (+)
+
 -------- 2025-11-17 ~ 2025-11-21
 
 * 2025-11-17
@@ -22,6 +29,15 @@ BVEPP
 * 2025-11-19
 ** DUCKING.
 ** Look into an issue with updating process together with components on GCP #3 (reported by Chandra). (+)
+
+* 2025-11-20
+** Krspace.
+** Tinker with a quick-and-dirty SSO plug-in for Azure AD (committed the recent changes). (P)
+** Request Feishu permission to edit the [$AIRMASS Controller release notes page (#2). (+)
+
+* 2025-11-21
+** DUCKING.
+** Discuss with Donald a few things concerning engineering process. (+)
 
 -------- 2025-11-10 ~ 2025-11-14
 
@@ -23608,12 +23624,12 @@ BVEPP
 ** Continue investigating how DFS supports WSS. (D)
 ** Attend [$CETUS functional design review meeting. (D)
 
-* 20071101
-** Try to figure out how to DFS over https. (P)
+* 2007-11-01
+** Try to figure out how to run DFS over https. (P)
 ** Discuss the design of [$CETUS. (D)
 ** Try to solve the terminal server issue. (P)
 
-* 20071102
+* 2007-11-02
 ** Discuss the details of the first iteration of [$CETUS. (D)
 
 -------- 2007-10-22 ~ 2007-10-26
