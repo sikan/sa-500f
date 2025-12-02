@@ -3,6 +3,15 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+finnet meeting
+ferdy
+-------- 2025-12-01 ~ 2025-12-05
+
+* 2025-12-01
+** DUCKING.
+** Meeting with Finnet to conduct the oauthdebugger.com test (code/token lost during Finnet's internal redirect). (+)
+** Quick call with Ferdy regarding the test result (they explained that the failure was due to oauthdebugger.com being external, and expected everything to just work for their [$AIRMASS Controller). (+)
+
 -------- 2025-11-24 ~ 2025-11-28
 
 * 2025-11-24
@@ -18,6 +27,14 @@ BVEPP
 * 2025-11-26
 ** DUCKING.
 ** Explain to Ferdy that Finnet's publicly exposed endpoint must relay the authoriation code or token to the internal [$AIRMASS Controller. (+) 
+
+* 2025-11-27
+** DUCKING.
+** Meeting with Finnet to conduct the oauthdebugger.com test (Finnet no-show; walked through the test with Ferdy). (D)
+** Send detailed instructions for the test to Ferdy. (+)
+
+* 2025-11-28
+** Off.
 
 -------- 2025-11-17 ~ 2025-11-21
 
