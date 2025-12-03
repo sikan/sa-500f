@@ -3,14 +3,18 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-finnet meeting
-ferdy
 -------- 2025-12-01 ~ 2025-12-05
 
 * 2025-12-01
 ** DUCKING.
 ** Meeting with Finnet to conduct the oauthdebugger.com test (code/token lost during Finnet's internal redirect). (+)
 ** Quick call with Ferdy regarding the test result (they explained that the failure was due to oauthdebugger.com being external, and expected everything to just work for their [$AIRMASS Controller). (+)
+
+* 2025-12-02
+** Krspace.
+** Prepare for the go-live at Finnet. (P)
+** Update the Feishu page for patch releases with required SQL commands (also fixed a few mistakes here and there). (D)
+** Deploy the ELK-enabled [$AIRMASS Controller on GCP #3. (+)
 
 -------- 2025-11-24 ~ 2025-11-28
 
