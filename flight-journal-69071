@@ -3,6 +3,13 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-12-08 ~ 2025-12-12
+
+* 2025-12-08
+** DUCKING.
+** Investigate the GCP #3 unresponsive issue (ELK? Donald performed a restart and allocated more memory). (+)
+** Investigate the issue where "Last/Next run time" are not shown (observed in Sewu Segar and on GCP #3). (+)
+
 -------- 2025-12-01 ~ 2025-12-05
 
 * 2025-12-01
@@ -25,6 +32,10 @@ BVEPP
 * 2025-12-04
 ** DUCKING.
 ** Upgrade [$AIRMASS Controller for Sewu Segar (almost 3 hours). (D)
+
+* 2025-12-05
+** DUCKING.
+** Deploy the ELK-enabled [$AIRMASS Controller on GCP #3 (Jingjun looked into a few issues after the startup). (D)
 
 -------- 2025-11-24 ~ 2025-11-28
 
