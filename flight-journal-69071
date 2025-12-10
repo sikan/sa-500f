@@ -10,6 +10,10 @@ BVEPP
 ** Investigate the GCP #3 unresponsive issue (ELK? Donald performed a restart and allocated more memory). (+)
 ** Investigate the issue where "Last/Next run time" are not shown (observed in Sewu Segar and on GCP #3). (+)
 
+* 2025-12-09
+** Krspace.
+** Investigate the issue where "Last/Next run time" are not shown (incorrect time zone retrieval; fixed; MR). (D)
+
 -------- 2025-12-01 ~ 2025-12-05
 
 * 2025-12-01
