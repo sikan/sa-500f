@@ -3,6 +3,19 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-12-15 ~ 2025-12-19
+
+* 2025-12-15
+** Krspace.
+** Look into MySQL upgrade path from 5.7 to 8.4. (+)
+** Reproduce the bug with ExecutionByRobotTypeValidator on GCP #3 (again, the other bug that caused endless recurring tasks; new robot overwhelmed by queued tasks). (D)
+** Rebase the fix for the above and create the image for testing. (D)
+
+* 2025-12-16
+** DUCKING.
+** Discuss MySQL uprgade options. (+)
+** Continue the discussion on backup and disaster recovery strategies for [$AIRMASS Controller. (P)
+
 -------- 2025-12-08 ~ 2025-12-12
 
 * 2025-12-08
@@ -26,7 +39,7 @@ BVEPP
 
 * 2025-12-12
 ** DUCKING.
-** Discuss the backup and disaster recovery strategy for [$AIRMASS Controller. (+)
+** Discuss backup and disaster recovery strategies for [$AIRMASS Controller. (+)
 
 -------- 2025-12-01 ~ 2025-12-05
 
