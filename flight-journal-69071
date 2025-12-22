@@ -20,6 +20,16 @@ BVEPP
 ** DUCKING.
 ** Perform the in-place MySQL upgrade for the deployment on GCP #3. (+)
 
+
+* 2025-12-18
+** Krspace.
+** Verify the fix for ExecutionByRobotTypeValidator on GCP #3 (MR). (D)
+** Demonstrate runaway tasks to Jingjun (Jingjun also identified a time zone issue with the trigger). (+)
+
+* 2025-12-19
+** Off.
+** Clear trigger related data from MySQL, as instructed by Jingjun (Saturday). (+)
+
 -------- 2025-12-08 ~ 2025-12-12
 
 * 2025-12-08
