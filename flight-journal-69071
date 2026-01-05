@@ -1,4 +1,3 @@
-BVEPP
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -5882,7 +5881,6 @@ BVEPP
 
 * 2021-12-06
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4698 (European Paliament: insisted on a [$STARLING engineering build despite the noises; added Champaka to the email loop). (P)
 ** [$XENON-4709 (XML Store: expected failure with wrong client version, but hanging otherwise; requested thread dumps). (+)
 ** [$xENON scrum meeting. (D)
@@ -5899,7 +5897,6 @@ BVEPP
 
 * 2021-12-09
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** Investigate the failures of xTest-based OOS test suites. (P)
 ** [$xENON scrum meeting. (D)
 ** [$XENON-4698 (European Paliament: re-assigned it to [$STARLING team per Champaka's request). (P)
@@ -5951,14 +5948,12 @@ BVEPP
 
 * 2021-11-22
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4686 (BoC Liaoning: upgrade failed with the same error seen at Neimenggu branch before the fix). (P)
 ** [$XENON-4698 (European Paliament: manually deobfuscated the call stack provided by [$STARLING). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2021-11-23
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** Muhi's all-hands. (D)
 ** [$XENON-4693 (Kansaneläkelaitos: requested to reiterate what we needed for the investigation). (P)
 ** [$XENON-4698 (European Paliament: started to review the behavior of 'subsequence'). (P)
@@ -5980,7 +5975,6 @@ BVEPP
 
 * 2021-11-15
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4702 (American Express: reviewed changelists between their current version and the latest). (P)
 ** [$XENON-4693 (Kansaneläkelaitos: their response not answers to our questions). (P)
 ** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal file analysis). (P)
@@ -6011,7 +6005,6 @@ BVEPP
 
 * 2021-11-19
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4699 (EDF: pieces of different info don't match each other). (P)
 ** [$XENON-4698 (European Paliament: [$STARLING needed explanation on the behavior of security filter, but didn't provide the full call stack). (P)
 
@@ -6026,7 +6019,6 @@ BVEPP
 
 * 2021-11-09
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4698 (European Paliament: explained to management they were chasing a red herring). (P)
 ** [$XENON-4699 (EDF: counter-intuitive scoring results; explained that our plate was full, but started investigation anyway). (P)
 ** Incorporate the checks for the depths of size/block trees into the consistency check for segments. (D)
@@ -6038,13 +6030,11 @@ BVEPP
 * 2021-11-11
 ** REC.
 ** Take the "Modern Work: The [$OTTER Way" training. (D)
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4692 ([$STARLING/Volkswagen: renaming did the trick to unzip files; no findings from the logs; code review and .wal file analysis). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2021-11-12
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4662 (BoC Neimenggu: attached the jar file as Michael seemed to have missed the last message). (P)
 ** [$XENON-4692 ([$STARLING/Volkswagen: code review and .wal file analysis). (P)
 ** [$XENON-4702 (American Express: vairous issues including 'unknown receiver type' and .wal files piling up; suggested using a newer jar in the wake of [$XENON-4665). (+)
@@ -6058,13 +6048,11 @@ BVEPP
 
 * 2021-11-02
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4700 (UTI US: .wal file corruptions; confirmed Val's findings; additional remarks; room for improvements). (+)
 ** [$XENON-4698 (European Paliament: helped [$STARLING team with warm-up concept and script). (P)
 
 * 2021-11-03
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** Refactor .wal file parallel task framework for more informative logging (in the wake of [$XENON-4700). (+)
 ** [$XENON-4698 (European Paliament: [$STARLING team skipped the Javadoc and used the wrong API). (P)
 
@@ -6077,7 +6065,6 @@ BVEPP
 
 * 2021-11-05
 ** REC.
-** BVEPP: Rework the persistent red-black tree used by namebase so as to support deletion. (P)
 ** [$XENON-4696 (Societe Generale: suspicious 10-second interval between network activities on replica, related to non-forced LSN on master?). (P)
 ** [$NEON-1437 (more explanations for Wouter about the potential outcomes of session-info caused by not 'stopping the world'). (P)
 ** [$XENON-4662 (BoC Neimenggu: failed upgrade attempt; issues with the depths of size/block trees). (P)
