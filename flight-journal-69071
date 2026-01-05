@@ -3,6 +3,17 @@ BVEPP
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2025-12-29 ~ 2025-12-31
+
+* 2025-12-29
+** Sick.
+
+* 2025-12-30
+** Sick.
+
+* 2025-12-31
+** Sick.
+
 -------- 2025-12-22 ~ 2025-12-26
 
 * 2025-12-22
@@ -10,6 +21,21 @@ BVEPP
 ** Investigate a stack trace rendering issue with BusinessException (caused by expired license). (+)
 ** DBeaver (what took me so long?). (+)
 ** Investigate the runaway task issue (reviewed related code in orchestrator-trigger). (P)
+
+* 2025-12-23
+** Krspace.
+** Start to fix the runaway task issue orchestrator-trigger (orchestrator-trigger). (P)
+** Investigate the massive number of empty directories under minio/export/.minio.sys/multipart (temporary cleanup strategy as a workaround). (+)
+
+* 2025-12-24
+** DUCKING.
+** Identify minio issue #17307 as the root cause (fixed by #17312; Jingjun to pick up the nearest fixed version). (+)
+
+* 2025-12-25
+** Sick.
+
+* 2025-12-26
+** Sick.
 
 -------- 2025-12-15 ~ 2025-12-19
 
