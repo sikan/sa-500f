@@ -2,6 +2,13 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-01-12 ~ 2025-01-16
+
+* 2026-01-12
+** Krspace.
+** Verify thet the cron job is running properly. (D)
+** Snyk-reported security vulnerabilities (Hong Kong Telecom). (+)
+
 -------- 2026-01-04 ~ 2025-01-09
 
 * 2026-01-04
@@ -16,6 +23,18 @@
 ** Look into the disk space issue on GCP #3 (some Docker cleanup; new cron job to clean up nginx logs). (+)
 ** Look into an internal/external IP issue with minio endpoints. (+)
 ** Fix the runaway task issue orchestrator-trigger (fixed; MR; release notes). (D)
+
+* 2026-01-07
+** DUCKING.
+** Verify thet the cron job is running properly (weekly, not daily). (+)
+
+* 2026-01-08
+** Krspace.
+** Inspect the original installer package of the orchestrator suite. (+)
+** Verify thet the cron job is running properly (temporarily changed it to daily). (P)
+
+* 2026-01-09
+** Off.
 
 -------- 2025-12-29 ~ 2025-12-31
 
