@@ -2,6 +2,19 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-01-26 ~ 2025-01-30
+
+* 2026-01-26
+** DUCKING.
+** Andrew Ng time. (P)
+** Create another GCP VM for investigation of the MySQL upgrade issue (SSD-TOTAL-GB-per-project-region; let's call it GCP #3-2). (D)
+
+* 2026-01-27
+** DUCKING.
+** Continue preparing GCP #3-2 for the MySQL uprgade test (images, snapshots, static external IP, etc.). (P)
+** R&D review meeting. (D)
+** MySQL 8.0.44 -> 8.4.7 (startup aborted due to the now unknown variable 'default_authentication_plugin'). (P)
+
 -------- 2026-01-19 ~ 2025-01-23
 
 * 2026-01-19
