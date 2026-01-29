@@ -15,6 +15,11 @@
 ** R&D review meeting. (D)
 ** MySQL 8.0.44 -> 8.4.7 (startup aborted due to the now unknown variable 'default_authentication_plugin'). (P)
 
+* 2026-01-28
+** DUCKING.
+** MySQL 8.0.44 -> 8.4.7 (user permission issues; mysql_native_password=ON?). (P)
+** Revert GCP #3-2 back to MySQL 5.7 (failed due to GCP zone-capability issues). (+)
+
 -------- 2026-01-19 ~ 2025-01-23
 
 * 2026-01-19
