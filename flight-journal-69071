@@ -20,6 +20,15 @@
 ** MySQL 8.0.44 -> 8.4.7 (user permission issues; mysql_native_password=ON?). (P)
 ** Revert GCP #3-2 back to MySQL 5.7 (failed due to GCP zone-capability issues). (+)
 
+* 2026-01-29
+** DUCKING.
+** Help IHH diagnose a Feign client error (via Whatsapp :) firewall settings related?). (+)
+** Bring up GCP #3-2 with a disk image on MySQL 5.7 (no more zone-capability issues this time). (D)
+
+* 2026-01-30
+** Off.
+** Copy patch files to GCP #3-2 (Sunday). (+)
+
 -------- 2026-01-19 ~ 2025-01-23
 
 * 2026-01-19
