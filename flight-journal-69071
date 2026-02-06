@@ -11,6 +11,16 @@
 ** DUCKING.
 ** GCP #3-2: MySQL 8.0.44 -> 8.4.7 (but no permission issues this time?). (D)
 
+* 2026-02-04
+** DUCKING.
+** GCP #3: one last disk image. (D)
+** Issues with the new GCP account (exported disk image to Cloud storage using gcloud shell; asked Guoping to help back up from the office server). (+)
+
+* 2026-02-05
+** DUCKING.
+** Various issues with making the GCP #3 image available for the new account (account restored after an appeal by Donald; only gcloud shell worked). (+)
+** GCP #4, swimmingly. (+)
+
 -------- 2026-01-26 ~ 2026-01-30
 
 * 2026-01-26
