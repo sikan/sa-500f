@@ -2,6 +2,22 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-02-09 ~ 2026-02-14
+
+* 2026-02-09
+** DUCKING.
+** Look into an unexpected restart of the license service. (+)
+
+* 2026-02-10
+** Krspace.
+** [$AIRMASS Shanghai team lunch. (D)
+** R&D review meeting (+=Jingjun). (D)
+** Set up account for the other GitLab. (+)
+
+* 2026-02-11
+** DUCKING.
+** Provide an explanation for the manual start of the license service (service not enabled to start on boot). (+)
+
 -------- 2026-02-02 ~ 2026-02-06
 
 * 2026-02-02
@@ -20,6 +36,10 @@
 ** DUCKING.
 ** Various issues with making the GCP #3 image available for the new account (account restored after an appeal by Donald; only gcloud shell worked). (+)
 ** GCP #4, swimmingly. (+)
+
+* 2026-02-05
+** DUCKING.
+** Coordinate the cutover to GCP #4. (+)
 
 -------- 2026-01-26 ~ 2026-01-30
 
