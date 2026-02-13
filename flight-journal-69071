@@ -18,6 +18,12 @@
 ** DUCKING.
 ** Provide an explanation for the manual start of the license service (service not enabled to start on boot). (+)
 
+* 2026-02-12
+** DUCKING.
+** Investigate how 'logging.file.path' gets its value (startup script). (+)
+** Compile a list of ports used by [$AIRMASS Controller for internal communication. (+)
+** Resolve Maven multi-module dependency issues during openai-java integration. (+)
+
 -------- 2026-02-02 ~ 2026-02-06
 
 * 2026-02-02
