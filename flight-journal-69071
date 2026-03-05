@@ -2,6 +2,50 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-03-02 ~ 2026-03-06
+
+* 2026-03-02
+** DUCKING.
+** Write a quick-and-dirty [$AIRMASS Controller installation guide for Ferdy. (+)
+** Investigate a database connection issue found at Controller level (suggested direct connection; database seemed unresponsive). (+)
+** Create a CLI tool to automate loading patch imges and updating image versions in docker-compose.yml (patchmate). (+)
+
+* 2026-03-03
+** DUCKING.
+** R&D review meeting. (D)
+** Session with FIFGROUP to help them deploy [$AIRMASS Controller with standalone MySQL (extended to next day). (D)
+** Create a CLI tool to automate loading patch imges and updating image versions in docker-compose.yml (patchmate). (P)
+
+* 2026-03-04
+** DUCKING.
+** Session with FIFGROUP to help them deploy [$AIRMASS Controller with standalone MySQL (put 'patchmate' in use). (D)
+** Update the packaging script to include patchmate and generate SHA-256 checksum. (+)
+** Package the latest p20260304 patch release (patchmate, checksum). (+)
+** Call with Donald to discuss the requirements for AI capabilities. (+)
+
+-------- 2026-02-24 ~ 2026-02-28
+
+* 2026-02-24
+** DUCKING.
+** Read the OpenAI Developers documentation. (P)
+
+* 2026-02-25
+** DUCKING.
+** GCP #4-2 (clean install; to document the official installation process). (+)
+** Read the OpenAI Developers documentation. (P)
+
+* 2026-02-26
+** DUCKING.
+** Read the OpenAI Developers documentation. (P)
+
+* 2026-02-27
+** DUCKING.
+** GCP #4-2 (clean install; to document the official installation process). (P)
+
+* 2026-02-28
+** DUCKING.
+** GCP #4-2 (clean install; to document the official installation process). (P)
+
 -------- 2026-02-09 ~ 2026-02-14
 
 * 2026-02-09
@@ -23,6 +67,14 @@
 ** Investigate how 'logging.file.path' gets its value (startup script). (+)
 ** Compile a list of ports used by [$AIRMASS Controller for internal communication. (+)
 ** Resolve Maven multi-module dependency issues during openai-java integration. (+)
+
+* 2026-02-13
+** DUCKING.
+** Investigate a Kotlin issue in openai-java integration. (+)
+
+* 2026-02-14
+** DUCKING.
+** Read the OpenAI Developers documentation. (+)
 
 -------- 2026-02-02 ~ 2026-02-06
 
