@@ -2,6 +2,45 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-03-16 ~ 2026-03-20
+
+* 2026-03-16
+** Krspace.
+** R&D review meeting. (+)
+** Review Qing's javascript file (interface, type definitions, etc.). (D)
+** Discuss the design and integration of agent-ai-service with Guoping and Qing. (P)
+
+* 2026-03-17
+** DUCKING.
+** Review samples of "credential schema". (P)
+** Discuss the work plan with Jingjun. (+)
+** Review the Python implementation of some types in EzIDP. (P)
+
+-------- 2026-03-09 ~ 2026-03-13
+
+* 2026-03-09
+** DUCKING.
+** Read the OpenAI Developers documentation. (P)
+
+* 2026-03-10
+** DUCKING.
+** Read the OpenAI Developers documentation. (P)
+
+* 2026-03-11
+** DUCKING.
+** Read the OpenAI Developers documentation. (P)
+** Read the OpenAI Java SDK documentation. (+)
+** Investigate the basic architecture of agent-ai-service (streaming support, etc.). (+)
+
+* 2026-03-12
+** Krspace.
+** Investigate the basic architecture of agent-ai-service (back-end, front-end, etc.). (P)
+** Discuss the design and integration of agent-ai-service with Jingjun, Guoping and Qing. (P)
+** Run Jingjun's code in IntelliJ (Community vs. Ultimate: due to the lack of Spring support). (+)
+
+* 2026-03-13
+** Off.
+
 -------- 2026-03-02 ~ 2026-03-06
 
 * 2026-03-02
@@ -22,6 +61,14 @@
 ** Update the packaging script to include patchmate and generate SHA-256 checksum. (+)
 ** Package the latest p20260304 patch release (patchmate, checksum). (+)
 ** Call with Donald to discuss the requirements for AI capabilities. (+)
+
+* 2026-03-05
+** DUCKING.
+** Minor fixes to the packaging srcipt. (D)
+** GCP #4-2 (applied the latest patch). (D)
+
+* 2026-03-06
+** Off.
 
 -------- 2026-02-24 ~ 2026-02-28
 
