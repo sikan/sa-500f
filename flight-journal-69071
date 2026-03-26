@@ -2,6 +2,21 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-03-23 ~ 2026-03-27
+
+* 2026-03-23
+** Krspace.
+** Review EzIDP API docs. (+)
+** Go through the source code of [$AIRMASS-llm-runtime. (P)
+
+* 2026-03-24
+** DUCKING.
+** Go through the source code of [$AIRMASS-llm-runtime. (P)
+
+* 2026-03-25
+** DUCKING.
+** Go through the source code of [$AIRMASS-llm-runtime. (P)
+
 -------- 2026-03-16 ~ 2026-03-20
 
 * 2026-03-16
@@ -19,6 +34,15 @@
 * 2026-03-18
 ** DUCKING.
 ** Review the Python implementation of some types in EzIDP. (P)
+
+* 2026-03-19
+** Krspace.
+** Investigate a radar/Spring version compatibility issue. (+)
+** Review the Python implementation of some types in EzIDP. (P)
+** Go through the source code of [$AIRMASS-llm-runtime. (+)
+
+* 2026-03-20
+** Off.
 
 -------- 2026-03-09 ~ 2026-03-13
 
