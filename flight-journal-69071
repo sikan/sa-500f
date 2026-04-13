@@ -2,6 +2,33 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-04-06 ~ 2026-04-10
+
+* 2026-04-06
+** DUCKING (public holiday).
+** Set up SSH tunnel to access the internal Git server (via GCP #5). (D)
+
+* 2026-04-07
+** DUCKING.
+** GCP #5: Ubuntu 24.04 (JDK issues with cgroup v2). (+)
+** Go through Jingjun's code for agent-ai-service (leveraged Codex to analyze the structures). (P)
+
+* 2026-04-08
+** DUCKING.
+** GCP #5: Ubuntu 24.04 (endless trial and error). (P)
+** Go through Jingjun's code for agent-ai-service (followed the learning path suggested by Codex). (P)
+
+* 2026-04-09
+** Krspace.
+** GCP #5: Ubuntu 24.04 (patched files for license service always overwritten by "run.sh apply"; no easy solution for now). (P)
+** R&D review meeting. (D)
+** GCP #6: Ubuntu 22.04 (via disk image from GCP #4, quite smooth). (+)
+** Review the deployment of agent-ai-service related images/containers and populated tables on GCP #6. (+)
+
+* 2026-04-10
+** (Tencent) meeting with Jingjun (code walkthrough of agent-ai-service, especially the discovery mechanism). (D)
+** Go through Jingjun's code for agent-ai-service (Satuday, Sunday). (P)
+
 -------- 2026-03-30 ~ 2026-04-03
 
 * 2026-03-30
@@ -15,6 +42,16 @@
 * 2026-04-01
 ** DUCKING.
 ** Go through the source code of [$AIRMASS-llm-runtime (Gemini adapter). (P)
+
+* 2026-04-02
+** Krspace.
+** Go through code issues found during reivew with Guoping. (D)
+** Discuss pluggable provider adapters with Donald, Jingjun and Guoping. (+)
+** Deploy images updated for agent-ai-service on GCP #4. (+)
+** R&D review meeting. (D)
+
+* 2026-04-03
+** Go through Jingjun's code for agent-ai-service. (P)
 
 -------- 2026-03-23 ~ 2026-03-27
 
