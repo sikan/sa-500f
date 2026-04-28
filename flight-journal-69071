@@ -2,11 +2,35 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-04-27 ~ 2026-04-30
+
+* 2026-04-27
+** Krspace.
+** Refactor the implementation of LLM adapters (OpenAI more or less done; now on to Google Gemini). (P)
+** Communicate with Jingjun about the missing parameter rules and model properties. (+)
+
 -------- 2026-04-20 ~ 2026-04-24
 
 * 2026-04-20
 ** Krspace.
 ** Test agent-ai-service within IDE with connection to GCP (first standalone unit test; first real LLM invocation via Postman; code refactoring). (P)
+
+* 2026-04-21
+** DUCKING.
+** Refactor the implementation of LLM adapters (parameter rules missing from common-service; jar retrieval from MinIO excruciatingly slow from home). (P)
+
+* 2026-04-22
+** DUCKING.
+** Refactor the implementation of LLM adapters (issues with IntelliJ debugger, hate it with a passion). (P)
+
+* 2026-04-23
+** Krspace.
+** Refactor the implementation of LLM adapters. (P)
+** R&D review meeting. (D)
+
+* 2026-04-24
+** DUCKING.
+** Refactor the implementation of LLM adapters (with sample requests provided by Guoping; Saturday + Sunday). (P)
 
 -------- 2026-04-13 ~ 2026-04-17
 
