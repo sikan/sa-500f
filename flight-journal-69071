@@ -2,12 +2,37 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-05-06 ~ 2026-05-09
+
+* 2026-05-06
+** DUCKING.
+** Refactor the implementation of the Gemini adapter (committed; ready for end-to-end testing). (D)
+
+* 2026-05-07
+** Krspace.
+** R&D review meeting. (D)
+** Deploy agent-ai-service on GCP #6 (missing agent.properties? Jingjun's quick fix). (+)
+** Remote and local end-to-end testing (/api/private/v1/user/baseInfo vs /cs/api/private/v1/user/baseInfo). (P)
+
 -------- 2026-04-27 ~ 2026-04-30
 
 * 2026-04-27
 ** Krspace.
 ** Refactor the implementation of LLM adapters (OpenAI more or less done; now on to Google Gemini). (P)
 ** Communicate with Jingjun about the missing parameter rules and model properties. (+)
+
+
+* 2026-04-28
+** DUCKING.
+** Revisit the implementation of the Gemini adapter. (P)
+
+* 2026-04-29
+** DUCKING.
+** Refactor the implementation of the Gemini adapter (notified Jingjun of a bug caused by attempting to instantiate the Map interface). (P)
+
+* 2026-04-30
+** DUCKING.
+** Refactor the implementation of the Gemini adapter (user location blocked by Google :( set up TUIC/V2Ray during the holiday). (P)
 
 -------- 2026-04-20 ~ 2026-04-24
 
