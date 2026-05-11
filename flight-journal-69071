@@ -14,6 +14,16 @@
 ** Deploy agent-ai-service on GCP #6 (missing agent.properties? Jingjun's quick fix). (+)
 ** Remote and local end-to-end testing (/api/private/v1/user/baseInfo vs /cs/api/private/v1/user/baseInfo). (P)
 
+* 2026-05-08
+** Krspace.
+** (Tencent) meeting with Jingjun regarding the above "/user/baseInfo" issue. (+)
+** Further investigation and debugging of the "/user/baseInfo" issue (culprit: non-zero "Content-Length" found in GET request; checked in a workaround; root cause pending further investigation). (+)
+** Identify an authentication bug (no authentication whatsoever: curl --location 'http://[HOST]:3000/cs/api/private/v1/user/baseInfo?null=null&login=admin'). (+)
+** Fix an issue with the plugin discovery mechanism triggered by network disruptions (detected while using V2Ray). (+)
+
+* 2026-05-09
+** Off (notified Guoping: agent-ai-service ready for initial integration testing).
+
 -------- 2026-04-27 ~ 2026-04-30
 
 * 2026-04-27
