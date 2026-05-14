@@ -2,6 +2,23 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-05-11 ~ 2026-05-15
+
+* 2026-05-11
+** Krspace.
+** The Vertex AI adapter. (+)
+** Sync up with Guoping about a few issues with the current adapter implementation. (+)
+** Add a UUID in the response for an LLM invocation (as a result of the above). (+)
+** Update OpenAI and Gemini adapters with the latest model definitions. (+)
+
+* 2026-05-12
+** Off.
+
+* 2026-05-13
+** DUCKING.
+** Discuss exception handling logic and error codes with Jingjun. (+)
+** The Vertex AI adapter (submodule hierarchy, etc.). (P)
+
 -------- 2026-05-06 ~ 2026-05-09
 
 * 2026-05-06
