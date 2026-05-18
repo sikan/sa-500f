@@ -2,6 +2,13 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-05-18 ~ 2026-05-22
+
+* 2026-05-18
+** DUCKING.
+** Investigate a nasty robot status issue related to being authorized both locally and by Controller. (+)
+** (Wechat) meeting with Guoping to reproduce the above. (+)
+
 -------- 2026-05-11 ~ 2026-05-15
 
 * 2026-05-11
@@ -18,6 +25,16 @@
 ** DUCKING.
 ** Discuss exception handling logic and error codes with Jingjun. (+)
 ** The Vertex AI adapter (submodule hierarchy, etc.). (P)
+
+* 2026-05-14
+** Krspace.
+** The Vertex AI adapter (first version done and uploaded, and successfully discovered; issues with loading). (P)
+** R&D review meeting. (D)
+** Capture Mujie's event progression charts from swimcloud.com with the newly installed [$AIRMASS Designer (5.0.RT198-llm.5). (+)
+
+* 2026-05-15
+** DUCKING.
+** The Vertex AI adapter (a hacky band-aid 'fix' by Jingjun for the loading issue...; still some not easily reproducible data issues). (P)
 
 -------- 2026-05-06 ~ 2026-05-09
 
