@@ -9,6 +9,24 @@
 ** Investigate a nasty robot status issue related to being authorized both locally and by Controller. (+)
 ** (Wechat) meeting with Guoping to reproduce the above. (+)
 
+* 2026-05-19
+** DUCKING.
+** Investigate a nasty robot status issue related to being authorized both locally and by Controller (root cause analysis; confirmed with Guoping how robots interact with Controller). (P)
+
+* 2026-05-20
+** DUCKING.
+** Investigate a nasty robot status issue related to being authorized both locally and by Controller (created a tech momo to summarize the findings). (D)
+** Implement a proper fix to the LLM adapter loading issue (replacing Jingjun's 'workaround'). (D)
+** Various issues with retrieving LLM credentials (inconsistent and weird data entries in MySQL, resulted from unexpected updates/deletes). (+)
+
+* 2026-05-21
+** DUCKING.
+** Debug issues with LLM credentials (unable to reproduce database level 'corruptions'; lots of design issues with the 'status' of LLM models). (D)
+** Discuss the problems found during the above with Guoping, Qing and Jingjun. (+)
+
+* 2026-05-22
+** Off.
+
 -------- 2026-05-11 ~ 2026-05-15
 
 * 2026-05-11
