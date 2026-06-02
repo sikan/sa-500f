@@ -18,6 +18,18 @@
 ** Standardize and curate error "codes", "messages" and "details" for agent-ai-service. (P)
 ** Refactor and improve related code logic as part of the above effort. (P)
 
+* 2026-05-28
+** Krspace.
+** Discuss with Guoping the mechanism for passing errors from Controller to Designer. (+)
+** R&D review meeting. (D)
+** Discuss with Jingjun the issues with ModelTypeBO. (+)
+** Discuss with Jingjun, Guoping and Qing the issues and the new design of model-status state transition. (+)
+** Standardize and curate error "codes", "messages" and "details" for agent-ai-service. (P)
+
+* 2026-05-29
+** DUCKING.
+** Standardize and curate error "codes", "messages" and "details" for agent-ai-service (+= weekend; fixed legacy design issues with BusinessException). (D)
+
 -------- 2026-05-18 ~ 2026-05-22
 
 * 2026-05-18
@@ -439,7 +451,7 @@
 
 * 2026-01-22
 ** DUCKING.
-** Look into a designer connection issue probably caused by the re-imaged GCP #3. (+)
+** Look into a Designer connection issue probably caused by the re-imaged GCP #3. (+)
 ** Look into several issues as a result of a cloned [$AIRMASS Controller deployment at IHH. (+)
 ** GCP #3: p20251205 + MySQL 8.0.44. (+)
 
