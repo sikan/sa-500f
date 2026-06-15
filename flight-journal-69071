@@ -12,6 +12,21 @@
 ** Krspace.
 ** Optimize the code logic to handle log writing after each LLM invocation. (P)
 
+* 2026-06-10
+** Krspace.
+** Discuss with Donald and Guoping whether to save user data for LLM invocations (conclusion: NO). (+)
+** Optimize the code logic to handle log writing after each LLM invocation (altered model_exe_log). (P)
+
+* 2026-06-11
+** Krspace.
+** R&D review meeting. (D)
+** Optimize the code logic to handle log writing after each LLM invocation (more changes to model_exe_log, code refactoring, etc.). (D)
+** Review Ferdy's file list for BNI to install [$AIRMASS Controller on RHEL. (+)
+
+* 2026-06-12
+** Krspace.
+** Prepare for the installation of [$AIRMASS Controller on RHEL (reverse tunnel, etc.; weekend: progressed all the way to "run.sh apply", blocked by sqlserver vs. mssql). (P)
+
 -------- 2026-06-01 ~ 2026-06-05
 
 * 2026-06-01
