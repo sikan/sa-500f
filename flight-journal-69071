@@ -2,6 +2,13 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-06-15 ~ 2026-06-18
+
+* 2026-06-15
+** Krspace.
+** (Teams) meeting with Jingjun and Donald to explain the blocker caused by 'mssql' and discuss potential workarounds. (+)
+** Make every effort to identify the revision closest to 5.0 RC SP4 (so as to apply fixes and replace the package with the 'mssql' issue; but to no avail). (+)
+
 -------- 2026-06-08 ~ 2026-06-12
 
 * 2026-06-08
