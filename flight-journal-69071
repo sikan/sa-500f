@@ -9,6 +9,24 @@
 ** (Teams) meeting with Jingjun and Donald to explain the blocker caused by 'mssql' and discuss potential workarounds. (+)
 ** Make every effort to identify the revision closest to 5.0 RC SP4 (so as to apply fixes and replace the package with the 'mssql' issue; but to no avail). (+)
 
+* 2026-06-16
+** Krspace.
+** Create a dedicated patch release for BNI (to include Qing's masking logic). (D)
+** Create a SQL Server script to apply the database changes required by the patch. (D)
+** (Teams) meeting with a parnter/customer to investigate issues caused by IP change (culprit: license service). (+)
+
+* 2026-06-17
+** DUCKING.
+** Renew SSL certificates for GCP #6. (+)
+** Investigate a Controller issue on the new RHEL host with Donald and Qing. (+)
+
+* 2026-06-18
+** Krspace.
+** Create another dedicated patch release for BNI (to include Qing's fix). (D)
+** Investigate a SQL Server SSL issue exposed (only) in rpa_orc_trig (iterative diagnostic builds and troubleshooting scripts; caused by self-signed certificate). (+)
+** Discuss some requirements for BNI’s HA deployment with Donald. (+)
+** R&D review meeting. (D)
+
 -------- 2026-06-08 ~ 2026-06-12
 
 * 2026-06-08
