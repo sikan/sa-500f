@@ -2,6 +2,27 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-06-22 ~ 2026-06-26
+
+* 2026-06-22
+** DUCKING.
+** Implement a 'stealthy' mechanism to determine 'deploymentType' ([deploymentType: test | production] -> [venue: azteca | akron]). (P)
+
+* 2026-06-23
+** DUCKING.
+** Implement a 'stealthy' mechanism to determine 'deploymentType' (commit message: WATCH ME DOING EVIL). (D)
+** Investigate an SSL issue encountered while deploying the above due to an unpinned dependency (mssql-jdbc-10.2.4.jre8.jar vs. mssql-jdbc-9.2.1.jre8.jar). (P)
+
+* 2026-06-24
+** DUCKING.
+** Investigate issues detected by Finnet's security scan (Lodash and YUI). (P)
+
+* 2026-06-25
+** DUCKING.
+** Investigate issues detected by Finnet's security scan (reached out to Qing; discussed next steps with Ferdy). (D)
+** Install [$AIRMASS Controller on an ARM OCI VM (linux/amd64 vs. linux/arm64/v8? emulator?). (P)
+** Create an updated version of the resume for a potential investor. (+)
+
 -------- 2026-06-15 ~ 2026-06-18
 
 * 2026-06-15
