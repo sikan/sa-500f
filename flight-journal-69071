@@ -23,6 +23,12 @@
 ** Install [$AIRMASS Controller on an ARM OCI VM (linux/amd64 vs. linux/arm64/v8? emulator?). (P)
 ** Create an updated version of the resume for a potential investor. (+)
 
+* 2026-06-26
+** DUCKING.
+** Ask Ferdy to check Finnet's image versions (as, embarrassingly, we still don’t track which images are included in each patch release). (+)
+** Install [$AIRMASS Controller on an ARM OCI VM (emulator seemed to work; blocking issues with liquibase and rpa_cs_db; also on Saturday). (P)
+** GCP #7 (Saturday; due to the unsuccessful attempt on OCI; my own personal account this time). (+)
+
 -------- 2026-06-15 ~ 2026-06-18
 
 * 2026-06-15
