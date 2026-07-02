@@ -16,6 +16,12 @@
 ** GCP #7: Lodash/YUI upgrades (main purpose: to demonstrate post-upgrade operability to Finnet). (+)
 ** Coordinate with Ferdy on various matters (GCP #7; code diff package for Lodash/YUI upgrades; pre-checks for BNI). (+)
 
+* 2026-07-01
+** Krspace.
+** BNI RHEL + SQL Server deployment (pre-check results revealed self-signed certificate; should be fine in an isolated environment though; tentative action plan). (+)
+** Review the installation steps for RHEL + SQL Server deployment. (+)
+** Deploy the new patch for Finnet. (D)
+
 -------- 2026-06-22 ~ 2026-06-26
 
 * 2026-06-22
