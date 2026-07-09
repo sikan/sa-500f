@@ -2,6 +2,19 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-07-06 ~ 2026-07-10
+
+* 2026-07-06
+** Off.
+
+* 2026-07-07
+** Krspace.
+** BNI RHEL + SQL Server deployment (remote deployment, first session). (P)
+
+* 2026-07-08
+** DUCKING.
+** BNI RHEL + SQL Server deployment (remote deployment, second session). (D)
+
 -------- 2026-06-29 ~ 2026-07-03
 
 * 2026-06-29
@@ -18,9 +31,22 @@
 
 * 2026-07-01
 ** Krspace.
+** 1-year anniversary at [$AIRMASS.
 ** BNI RHEL + SQL Server deployment (pre-check results revealed self-signed certificate; should be fine in an isolated environment though; tentative action plan). (+)
 ** Review the installation steps for RHEL + SQL Server deployment. (+)
 ** Deploy the new patch for Finnet. (D)
+
+* 2026-07-02
+** Krspace.
+** BNI RHEL + SQL Server deployment (rescheduled due to availability; preparation discussion; BNI's absurd snapshot procedure; SQL Server patch scripts; etc.). (P)
+** R&D review meeting. (D)
+** Gather runtime proof of updated components for Finnet (leveraged AI-generated scripts). (+)
+** Create the final dedicated patch release for BNI. (+)
+** Investigate OCI charges (restored volumes not "Always Free"). (+)
+** Review the installation steps for RHEL + SQL Server deployment (largely for BNI, of course). (P)
+
+* 2026-07-03
+** Off (Saturday: a BSIB-reported issue, related to Remote Manager).
 
 -------- 2026-06-22 ~ 2026-06-26
 
