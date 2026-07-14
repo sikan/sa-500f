@@ -2,6 +2,15 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-07-13 ~ 2026-07-17
+
+* 2026-07-13
+** Krspace.
+** 1-on-1 with Donald. (+)
+** OCI #2: TUIC. (+)
+** RHEL + SQL Server HA deployment (review of the legacy deployment guide). (P)
+** ai-agent-service: investigate the possibility of a runtime provider extension mechanism. (+)
+
 -------- 2026-07-06 ~ 2026-07-10
 
 * 2026-07-06
@@ -20,6 +29,9 @@
 ** Donald's briefing for the meeting with transcosmos. (+)
 ** The "[$AIRMASS Member Interview" meeting with transcosmos (Kimura-san, Shanghai team, and 3 other transcosmos staff members via Teams). (D)
 ** Create a SQL script to extract the schedule settings for existing jobs (requested by Darryl and Donald). (D)
+
+* 2026-07-10
+** Off.
 
 -------- 2026-06-29 ~ 2026-07-03
 
