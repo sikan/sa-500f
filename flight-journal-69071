@@ -11,6 +11,20 @@
 ** RHEL + SQL Server HA deployment (review of the legacy deployment guide). (P)
 ** ai-agent-service: investigate the possibility of a runtime provider extension mechanism. (+)
 
+* 2026-07-14
+** Krspace.
+** RHEL + SQL Server HA deployment (review of the legacy deployment guide). (P)
+** Upload the installer for HA deployment to JFrog (5.0 RC SP4). (+)
+
+* 2026-07-15
+** Krspace.
+** RHEL + SQL Server HA deployment (precondition checks for deployment in lab environment). (P)
+
+* 2026-07-16
+** Krspace.
+** R&D review meeting. (D)
+** RHEL + SQL Server HA deployment (/etc/docker/daemon.json, etc.; VM cloning). (P)
+
 -------- 2026-07-06 ~ 2026-07-10
 
 * 2026-07-06
