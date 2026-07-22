@@ -1,5 +1,7 @@
 [$VAULT2 [$OTTER [$TITAN [$NEON([$NGWEE SAME THING?) [$ARGON?
 
+@MARKER
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 -------- 2026-07-20 ~ 2026-07-24
@@ -594,7 +596,7 @@
 ** Various issues with making the GCP #3 image available for the new account (account restored after an appeal by Donald; only gcloud shell worked). (+)
 ** GCP #4, swimmingly. (+)
 
-* 2026-02-05
+* 2026-02-06
 ** DUCKING.
 ** Coordinate the cutover to GCP #4. (+)
 
@@ -1114,7 +1116,7 @@
 ** Off.
 ** Review current OAuth integration in common-service (Saturday, Sunday). (P)
 
--------- 2025-09-01 ~ 2025-09-29
+-------- 2025-09-01 ~ 2025-09-05
 
 * 2025-09-01
 ** DUCKING.
@@ -4782,7 +4784,7 @@
 ** [$XENON-4823 (XQuery and API questions from Karen). (P)
 ** Configure personal access token (HTTPS) and OpenSSH key for Sourcetree. (+)
 
--------- 2023-02-20 ~ 2023-02-21
+-------- 2023-02-20 ~ 2023-02-24
 
 * 2023-02-20
 ** REC.
@@ -8807,13 +8809,13 @@
 ** Report the VPN and proxy issue again. (+)
 ** [$xENON weekly meeting. (D)
 
-** 2020-06-03
+* 2020-06-03
 ** WFH.
 ** Replace segment list cache with direct access to KVS (revisited some characteristics of concurrent index). (P)
 ** [$STARLING-18217 (Pfizer: node serializer failure apparently caused by an illegal character in a CDATA section). (+) 
 ** Daily check-in meeting. (D)
 
-** 2020-06-04
+* 2020-06-04
 ** WFH.
 ** Help Elaine solve a disk space issue of the 'journal' directory in her performance test. (+)
 ** [$STARLING-18202 (Pfizer: stack trace from admin client). (P)
@@ -8821,7 +8823,7 @@
 ** Retrieve Bas's EDN article on concurrent indexs from the Wayback Machine. (+)
 ** Daily check-in meeting. (D)
 
-** 2020-06-05
+* 2020-06-05
 ** WFH.
 ** Replace segment list cache with direct access to KVS. (P)
 ** Daily check-in meeting. (D)
@@ -8852,6 +8854,10 @@
 ** [$XENON-4573 (Government ICT Authority, Israel: clarified [$xENON's expected behavior in that situation). (+)
 ** [$STARLING-18202 (Pfizer: corruption probably caused by faulty manual operation). (+)
 ** Daily check-in meeting. (D)
+
+* 2020-05-29
+** WFH.
+** [$STARLING-18202 (Pfizer: instructed them to perform another operation and collect stack traces). (P)
 
 -------- 2020-05-18 ~ 2020-05-22
 
@@ -8899,7 +8905,7 @@
 * 2020-05-15
 ** Sick.
 
--------- 2020-05-06 ~ 2020-05-08
+-------- 2020-05-06 ~ 2020-05-09
 
 * 2020-05-06
 ** Rework the client-side caching mechanism. (P)
@@ -9337,7 +9343,7 @@
 ** WFH.
 ** Think about how to implement a workaround for issues caused by password complexity policy being mutable. (+)
 
-** 2020-01-10
+* 2020-01-10
 ** Report the issues with Cisco AnyConnect. (+)
 ** Implement a workaround for password complexity policy issues. (D)
 ** Merge changes to to-be-retired branches. (P)
@@ -20625,7 +20631,7 @@
 * 2011-03-11
 ** Annual leave.
 
--------- 2011-02-28 ~ 2011-03-04
+-------- 2011-02-28 ~ 2011-03-04 (@MARKER +=2011-03-05)
 
 * Plan
 ** Stabilize [$xENON 10.1.
@@ -22899,7 +22905,7 @@
 ** Attend Jai's all hands meeting. (D)
 ** Investigate the bugs reported by Kim and Eric. (P)
 
--------- 2009-03-30 ~ 2009-04-01
+-------- 2009-03-30 ~ 2009-04-03
 
 * 2009-03-30
 ** Read Jason's proposal for RPC tracing. (D)
@@ -23235,7 +23241,7 @@
 * 2008-12-19
 ** Solve a couple of issues with library state setting. (D)
 
--------- 2008-12-08 ~ 2008-12-12
+-------- 2008-12-08 ~ 2008-12-12  (@MARKER 2008-12-12?)
 
 * 2008-12-08
 ** Check in the merge results. (D)
