@@ -133,7 +133,7 @@
 ** Krspace.
 ** Create a dedicated patch release for BNI (to include Qing's masking logic). (D)
 ** Create a SQL Server script to apply the database changes required by the patch. (D)
-** (Teams) meeting with a parnter/customer to investigate issues caused by IP change (culprit: license service). (+)
+** (Teams) meeting with a partner/customer to investigate issues caused by IP change (culprit: license service). (+)
 
 * 2026-06-17
 ** DUCKING.
@@ -393,7 +393,7 @@
 
 * 2026-04-10
 ** (Tencent) meeting with Jingjun (code walkthrough of agent-ai-service, especially the discovery mechanism). (D)
-** Go through Jingjun's code for agent-ai-service (Satuday, Sunday). (P)
+** Go through Jingjun's code for agent-ai-service (Saturday, Sunday). (P)
 
 -------- 2026-03-30 ~ 2026-04-03
 
@@ -411,7 +411,7 @@
 
 * 2026-04-02
 ** Krspace.
-** Go through code issues found during reivew with Guoping. (D)
+** Go through code issues found during review with Guoping. (D)
 ** Discuss pluggable provider adapters with Donald, Jingjun and Guoping. (+)
 ** Deploy images updated for agent-ai-service on GCP #4. (+)
 ** R&D review meeting. (D)
@@ -518,7 +518,7 @@
 
 * 2026-03-05
 ** DUCKING.
-** Minor fixes to the packaging srcipt. (D)
+** Minor fixes to the packaging script. (D)
 ** GCP #4-2 (applied the latest patch). (D)
 
 * 2026-03-06
@@ -1915,7 +1915,7 @@
 ** Email backlog. (D)
 ** [$XENON-4221299 ([$STARLING/Israel State Archives: requested clarifications about a few details). (P)
 ** [$XENON-4417106 ([$STARLING:XQUERY_ERROR_VALUE, already handled by Shanmuga). (+)
-** [$XENON-4429668 ([$STARLING: explained issues with duplicating the boostrap file without duplicating .wal and .db files). (+)
+** [$XENON-4429668 ([$STARLING: explained issues with duplicating the bootstrap file without duplicating .wal and .db files). (+)
 ** Karen's query regarding how to count the objects across various libraries (the 'size' of a subscription). (+)
 ** [$XENON-1964083 (the nightly of the debug branch failed rather than hung). (P)
 ** The algorithm to calculate and store page diff (for LrWrite and LrUpdate). (+)
@@ -2181,7 +2181,7 @@
 
 * 2024-11-18
 ** kR.
-** Implement a CLI mechansim to hide potentially risky commands (core functionality done; created [$XENON-4217070). (P)
+** Implement a CLI mechanism to hide potentially risky commands (core functionality done; created [$XENON-4217070). (P)
 ** [$xENON scrum meeting. (D)
 
 * 2024-11-19
@@ -2230,7 +2230,7 @@
 
 * 2024-11-15
 ** kR.
-** Implement a CLI mechansim to hide potentially risky commands (e.g., repair-system-lsn). (+)
+** Implement a CLI mechanism to hide potentially risky commands (e.g., repair-system-lsn). (+)
 
 -------- 2024-11-04 ~ 2024-11-08
 
@@ -2952,7 +2952,7 @@
 
 * 2024-05-07
 ** kR.
-** Post training survery for Secure Coding Practices - Part 4 (Instructor Lead Training for Java). (+)
+** Post training survey for Secure Coding Practices - Part 4 (Instructor Lead Training for Java). (+)
 ** Read the 2015 FoxGlove Security article on Java deserialization vulnerabilities. (+)
 ** [$XENON-4908 ([$STARLING/Ford: further clarifications and answers). (P)
 ** [$XENON-4833 (PathIndexParser, key type list, etc.). (P)
@@ -3131,7 +3131,7 @@
 
 * 2024-03-18
 ** REC.
-** [$XENON-4897 (Flatirons: unable to continue the investgation due to heap dump corruption). (P)
+** [$XENON-4897 (Flatirons: unable to continue the investigation due to heap dump corruption). (P)
 ** Investigate failing tests on Jenkins. (+)
 ** [$xENON scrum meeting. (D)
 ** Assign [$XENON-4833 to Prem. (+)
@@ -3981,7 +3981,7 @@
 
 * 2023-08-21
 ** REC.
-** Fix a deserilization issue with index segment selection in 10.x (detected by indirect addressing in 11). (+)
+** Fix a deserialization issue with index segment selection in 10.x (detected by indirect addressing in 11). (+)
 ** Create [$XENON-4869 (perhaps we should clear the 'child segment' field upon deserialization). (+)
 ** Deserialization enhancements for 11.1 (test issues caused by replacing Stack with Deque, 'first' becoming 'last'?). (P)
 ** Quick call with Michael regarding Lucene scoring. (+)
@@ -4562,7 +4562,7 @@
 * 2023-04-11
 ** tP.
 ** Troubleshoot license key check in the new installer (10.7 installer okay; pipeline-dist; various experiments). (P)
-** Identify a usage issue with Jenkin multibranch pipelines (should have used $BRANCH_NAME). (+)
+** Identify a usage issue with Jenkins multibranch pipelines (should have used $BRANCH_NAME). (+)
 ** Identify a regex issue with the output of 'git show -s --pretty=%d HEAD' when multiple branches share the same HEAD. (+)
 
 * 2023-04-12
@@ -4589,7 +4589,7 @@
 ** REC.
 ** Provide support to Roger on vairous indexing and final merge related questions. (+)
 ** [$XENON-4833 (Philip's article [[[$xENON Query Optimizer]). (P)
-** [$xENON scrum meeting (that 'no good deed goes...' message, thank you, Val, for the kind words and suppport). (D)
+** [$xENON scrum meeting (that 'no good deed goes...' message, thank you, Val, for the kind words and support). (D)
 ** [$XENON-4830 ([$STARLING/BHP Billiton: had to deal with some corporate bs caused by that new hotfix jar). (P)
 
 * 2023-04-04
@@ -4732,7 +4732,7 @@
 
 * 2023-03-08
 ** REC.
-** [$XENON-4824 ([$STARLING/Ericsson: explained how to single-node a mutli-node setup). (+)
+** [$XENON-4824 ([$STARLING/Ericsson: explained how to single-node a multi-node setup). (+)
 ** [$XENON-4825 ([$STARLING/BHP Billiton: indexing performance issues, with no details). (+)
 ** Continue investigating the issues with building distributions for 10.x (fixed what seemed a bug with InstallAnywhere's shell script). (D)
 ** Fix JDK version mistakes in readme files. (+)
@@ -4835,14 +4835,14 @@
 
 * 2023-02-15
 ** REC.
-** Perforce -> GitLab migration (validationi; hindered by p4 connection issues). (P)
+** Perforce -> GitLab migration (validation; hindered by p4 connection issues). (P)
 ** [$VAULT2-22228 (that JSZip came from nowhere). (+)
 ** [$XENON-4814 (Kansaneläkelaitos: two identical copies, one for normal updates, one for index building, merge via incremental backup? should use index-in-construction instead). (+)
 ** [$XENON-4816 (FWD Life Insurance: no evidence in the very few thread dumps suggesting a performance issue) (+)
 
 * 2023-02-16
 ** REC.
-** Perforce -> GitLab migration (validationi; hindered by p4 connection issues). (P)
+** Perforce -> GitLab migration (validation; hindered by p4 connection issues). (P)
 ** Fix test failures caused by using Git commit hash as build number. (D)
 ** Set up the new standard and nightly pipelines for 11.1 (this is official). (D)
 ** [$XENON-4816 (FWD Life Insurance: no evidence in the very few thread dumps suggesting a performance issue) (P)
@@ -5315,7 +5315,7 @@
 * 2022-10-19
 ** REC.
 ** [$XENON-4792 (Framatome: existing .wal used to be consistent, but apparently externally modified at some point; severe reliability concern; closed). (P)
-** [$XENON-4791 (FWD Life Insurance: asked Champaka to engage [$VAULT team to the investigate the apprently hanging upgrade). (P)
+** [$XENON-4791 (FWD Life Insurance: asked Champaka to engage [$VAULT team to the investigate the apparently hanging upgrade). (P)
 ** [$VAULT2-20763 (Societe Generale: restored .wal file originally from the replica? code review). (P)
 ** Help Arun determine the exact [$STARLING version used by [$NEON. (+)
 ** [$XENON-4782 (Wouter's another long comment). (P)
@@ -5786,7 +5786,7 @@
 * 2022-06-27
 ** REC.
 ** [$XENON-4718 (Flatirons: instructed them to try removing the corrupt library via CLI). (P)
-** [$XENON-4760 (Allianz Technology SE: perhaps a different data node instance bootstraped with either a copy or a restored backup?). (P)
+** [$XENON-4760 (Allianz Technology SE: perhaps a different data node instance bootstrapped with either a copy or a restored backup?). (P)
 ** [$xENON scrum meeting. (D)
 ** Fix an issue with the handling of LibraryTreeNode upon force-detach/remove. (+)
 
@@ -6118,7 +6118,7 @@
 * 2022-04-07
 ** REC.
 ** [$XENON-4743 (Spring upgrades). (+)
-** [$XENON-4713 (DSV A/S: needed to check againt storage system requirements for write-ahead logging). (P)
+** [$XENON-4713 (DSV A/S: needed to check against storage system requirements for write-ahead logging). (P)
 ** [$XENON-4736 (Informatica Alto Adige spa: they seemed to have got the operator precedence wrong). (P)
 ** [$xENON scrum meeting. (D)
 ** Continue the code review of index-in-construction. (P)
@@ -6133,7 +6133,7 @@
 ** REC.
 ** [$xENON scrum meeting. (D)
 ** Clarify just a bit more technical details regarding [$XENON-4731 with Wouter. (+)
-** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: SEGMENT_ID_UNKOWN after the removal of uninitialized LMPI segments). (P)
+** [$XENON-4691 (Instituto Municipal de Informatica de Barcelona: SEGMENT_ID_UNKNOWN after the removal of uninitialized LMPI segments). (P)
 ** [$VAULT2-18583 (DSV A/S: all packed node ids in the backlog turned out valid). (P)
 ** Pick up the Lucene stuff. (P)
 
@@ -6375,7 +6375,7 @@
 ** [$XENON-4718 (Flatirons: explained how to check for queue segments). (P)
 ** [$xENON scrum meeting. (D)
 ** Discuss with Champaka the version issues around potential ad-hoc releases for customers on legacy branches. (+)
-** Investigate the failures of xTest-based OOS test suites (potential dedalock with LMPI: unreleased latch caused by fatal error in try block, re-latch in finally). (P)
+** Investigate the failures of xTest-based OOS test suites (potential deadlock with LMPI: unreleased latch caused by fatal error in try block, re-latch in finally). (P)
 
 * 2022-01-25
 ** REC.
@@ -7544,7 +7544,7 @@
 ** [$XENON-4637 (suspicion confirmed: robocopy turned out to be configured to skip files based on size and last modified time; proposed improvement on our side). (P)
 ** Propose updates to project files as we migrate to OpenJDK 11. (+)
 ** Send a status update to the team. (+)
-** Create [$XENON-4641 (deadlock found in conurrent MPI tests again; this time caused by 'shrinkSegmentsLock'). (+)
+** Create [$XENON-4641 (deadlock found in concurrent MPI tests again; this time caused by 'shrinkSegmentsLock'). (+)
 
 * 2021-05-11
 ** REC.
@@ -7604,7 +7604,7 @@
 ** Follow up on the E3 license activation issue (provided more screenshots as suggested by Kimi). (P)
 ** [$xENON scrum meeting. (D)
 ** Catch up with Val. (+)
-** Create [$XENON-4635 (two more hanging conurrent MPI tests; collected heap dumps; installed YourKit, again). (+)
+** Create [$XENON-4635 (two more hanging concurrent MPI tests; collected heap dumps; installed YourKit, again). (+)
 
 * 2021-04-27
 ** Off.
@@ -8086,7 +8086,7 @@
 ** Meeting with Bruno and Val on hiring (turned out more about [$xENON maintenance status). (D)
 ** [$xENON scrum meeting. (D)
 ** [$VAULT2-14217 (BlackDuck: upgraded Jetty and Ant to the latest versions). (+)
-** Update realease notes for recent changes. (D)
+** Update release notes for recent changes. (D)
 
 * 2020-11-24
 ** WFH.
@@ -8170,7 +8170,7 @@
 * 2020-11-13
 ** WFH.
 ** Add new APIs to help users detect potential upgrade/downgrade scenarios in advance. (P)
-** [$STARLING-4603 (explaned TRANSACTION_ROLLBACK_ONLY to the new [$STARLING team). (+)
+** [$STARLING-4603 (explained TRANSACTION_ROLLBACK_ONLY to the new [$STARLING team). (+)
 
 -------- 2020-11-02 ~ 2020-11-06
 
@@ -8820,7 +8820,7 @@
 ** Help Elaine solve a disk space issue of the 'journal' directory in her performance test. (+)
 ** [$STARLING-18202 (Pfizer: stack trace from admin client). (P)
 ** Replace segment list cache with direct access to KVS (use a read-only sub-transaction for a snapshot view?). (P)
-** Retrieve Bas's EDN article on concurrent indexs from the Wayback Machine. (+)
+** Retrieve Bas's EDN article on concurrent indexes from the Wayback Machine. (+)
 ** Daily check-in meeting. (D)
 
 * 2020-06-05
@@ -9094,7 +9094,7 @@
 
 * 2020-03-27
 ** WFH.
-** [$XENON-4560 (Sanofi: probably caused by the known issue that bootstap updates not being rollbackable in 10.x). (P)
+** [$XENON-4560 (Sanofi: probably caused by the known issue that bootstrap updates not being rollbackable in 10.x). (P)
 ** [$VAULT2-11907 (Tieto: finished analyzing transaction logs, confirmed that it was a known issue already fixed). (D) 
 ** Daily check-in meeting. (D)
 
@@ -9228,7 +9228,7 @@
 ** WFH.
 ** Evaluate the performance impact of the change to page write. (D)
 ** FIXMEs/TODOs. (P)
-** Remove the suppport for secondary database connections. (+) 
+** Remove the support for secondary database connections. (+)
 ** Daily check-in meeting. (D)
 
 * 2020-02-20
@@ -9763,7 +9763,7 @@
 * 2019-09-04
 ** [$VAULT2-10810 (LSN/snapshot issue caused by restoring a library using an SI transaction). (D)
 ** 1-on-1 with Michiel. (D)
-** [$VAULT2-5226 (relexed the precondition for the latest optimization). (P)
+** [$VAULT2-5226 (relaxed the precondition for the latest optimization). (P)
 
 * 2019-09-05
 ** [$VAULT2-10810 (helped Elaine to verify the fix and updated JIRA with explanation of the root cause). (P)
@@ -10523,11 +10523,11 @@
 
 * 2019-01-15
 ** Add support for replacing library contexts during attach. (+)
-** Add support for custome segment ids and library contexts in AdminFx. (+)
+** Add support for custom segment ids and library contexts in AdminFx. (+)
 ** [$xENON weekly meeting. (D)
 
 * 2019-01-16
-** Add support for custome segment ids and library contexts in AdminFx. (D)
+** Add support for custom segment ids and library contexts in AdminFx. (D)
 
 * 2019-01-17
 ** Answer Damien's questions about a few issues he enountered during the integration. (+)
@@ -10776,7 +10776,7 @@
 
 * 2018-11-02
 ** Reply to Michiel's inquiry about potential candidates for [$xENON team. (+)
-** Fix an issue cauesed by the index cleaner registering new segments during SegmentCleaner.quiesce(). (+)
+** Fix an issue caused by the index cleaner registering new segments during SegmentCleaner.quiesce(). (+)
 ** 1-on-1 with Perica. (D)
 ** Stabilize the build (collected thread dump and heap dump for what seemed to be, once again, caused by the segment cleaner not being notified). (+)
 
@@ -10994,7 +10994,7 @@
 ** WFH.
 ** Fix regressions caused by the new name check for databases and segments. (D)
 ** New API to create a child detachable library on a different data node. (P)
-** Fix a few issuse in code (SpotBugs, more friendly exceptions for crash/recovery tests, etc.). (+)
+** Fix a few issues in code (SpotBugs, more friendly exceptions for crash/recovery tests, etc.). (+)
 ** Emma's session about Kubernetes. (D)
 
 * 2018-08-30
@@ -11164,7 +11164,7 @@
 * 2018-07-19
 ** WFH.
 ** Implement asynchronous deletion of detachable segments. (P)
-** Validate the procedure to migrate libraies to another database (split the original database) in 10.5 (for [$VAULT). (D)
+** Validate the procedure to migrate libraries to another database (split the original database) in 10.5 (for [$VAULT). (D)
 
 * 2018-07-20
 ** Implement asynchronous deletion of detachable segments. (P)
@@ -11859,13 +11859,13 @@
 -------- 2017-12-18 ~ 2017-12-22
 
 * 2017-12-18
-** Investgate failing tests on Jenkins (use generated lockHolderId for federation backup). (P)
+** Investigate failing tests on Jenkins (use generated lockHolderId for federation backup). (P)
 ** [$STARLING weekly meeting. (D)
 ** [$XENON-4325 (need to store default file id for DELETESEGMENT and DELETEDATABASE). (P)
 
 * 2017-12-19
 ** [$XENON-4325 (had a look at the failure of the 'workaround', reported a CSI issue). (D)
-** Investgate failing tests on Jenkins (maxFileSize:10 -> implicit ADDFILE -> direct data node modification). (P)
+** Investigate failing tests on Jenkins (maxFileSize:10 -> implicit ADDFILE -> direct data node modification). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2017-12-20
@@ -11880,30 +11880,30 @@
 -------- 2017-12-11 ~ 2017-12-15
 
 * 2017-12-11
-** Investgate failing tests on Jenkins (background LI tasks, getFullPathThroughLLPI(), etc.). (P)
+** Investigate failing tests on Jenkins (background LI tasks, getFullPathThroughLLPI(), etc.). (P)
 
 * 2017-12-12
-** Investgate failing tests on Jenkins (background LI tasks, getFullPathThroughLLPI(), etc.). (P)
+** Investigate failing tests on Jenkins (background LI tasks, getFullPathThroughLLPI(), etc.). (P)
 ** [$xENON weekly meeting. (D)
 
 * 2017-12-13
-** Investgate failing tests on Jenkins (background LI tasks, issues with SimpleReadWriteLock, etc.). (P)
+** Investigate failing tests on Jenkins (background LI tasks, issues with SimpleReadWriteLock, etc.). (P)
 
 * 2017-12-14
-** Investgate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
+** Investigate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
 
 * 2017-12-15
-** Investgate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
+** Investigate failing tests on Jenkins (issues with SimpleReadWriteLock, etc.). (P)
 ** [$XENON-4325 (segment missing during federation restore, reported by Sander). (+)
 ** Create [$XENON-4327 per Perica/Petr's request. (+)
 
 -------- 2017-12-04 ~ 2017-12-08
 
 * 2017-12-04
-** Investgate failing tests on Jenkins (background LI tasks, etc.). (+)
+** Investigate failing tests on Jenkins (background LI tasks, etc.). (+)
 
 * 2017-12-05
-** Investgate failing tests on Jenkins (another issue with closeLuceneIndex(), background LI tasks, etc.). (P)
+** Investigate failing tests on Jenkins (another issue with closeLuceneIndex(), background LI tasks, etc.). (P)
 ** [$STARLING weekly meeting. (D)
 ** [$xENON weekly meeting. (D)
 
@@ -11915,7 +11915,7 @@
 
 * 2017-12-08
 ** Fix a remaining issue with DatabaseSegmentLists (reported by Sander). (+)
-** Investgate failing tests on Jenkins (background LI tasks, etc.). (P)
+** Investigate failing tests on Jenkins (background LI tasks, etc.). (P)
 ** Fix an NPE caused by a superuser session triggering distributed deadlock detector (reported by Philip). (+)
 
 -------- 2017-11-27 ~ 2017-12-01
@@ -11932,14 +11932,14 @@
 
 * 2017-11-29
 ** [$XENON-4318/[$VAULT2-2406 (memory optimizations for FileidMap). (P)
-** Investgate hanging tests on Jenkins. (+)
+** Investigate hanging tests on Jenkins. (+)
 
 * 2017-11-30
 ** [$XENON-4318/[$VAULT2-2406 (memory optimizations for Datafile). (P)
 
 * 2017-12-01
 ** Create [$XENON-4323 per Michael Jiang's request (admin/cmd tool to interrupt a running session). (+)
-** Investgate failing tests on Jenkins. (+)
+** Investigate failing tests on Jenkins. (+)
 ** 1-on-1 with Perica. (D) 
 
 -------- 2017-11-20 ~ 2017-11-24
@@ -12011,7 +12011,7 @@
 ** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON). (+)
 
 * 2017-11-09
-** [$VAULT-3893 (explained another expected issue caued by config lock). (+)
+** [$VAULT-3893 (explained another expected issue caused by config lock). (+)
 ** Set up the [$VAULT test environment (mainDatabase not created?). (P)
 ** Help Tony look into a LOCK_NOT_GRANTED issue ([$ARGON). (+)
 
@@ -12654,7 +12654,7 @@
 * 2017-04-19
 ** Fix another deadlock caused by a fix for a deadlock. (+)
 ** Discuss the optimization for checkpoint with Petr. (+)
-** [$VAULT2-3198 (explain behaviors of Sander's different configuations). (+)
+** [$VAULT2-3198 (explain behaviors of Sander's different configurations). (+)
 ** Move getRootFileAccesssInfo() from control session to normal session. (D)
 
 * 2017-04-20
@@ -12801,7 +12801,7 @@
 ** Concurrent library backups. (P)
 
 * 2017-03-10
-** Anwser Elmar's questions about (de)serialization. (+)
+** Answer Elmar's questions about (de)serialization. (+)
 ** Communicate with Michiel and Petr about current status of fixes for [$VAULT. (+)
 ** Concurrent library backups. (P)
 
@@ -13039,7 +13039,7 @@
 ** [$XENON-4194 (failed attempt, new problems). (P)
 
 * 2016-12-13
-** [$XENON-4194 (hmmm... new solutions propsed by Petr). (P)
+** [$XENON-4194 (hmmm... new solutions proposed by Petr). (P)
 ** Log file compression for online backup. (P)
 ** [$xENON weekly meeting. (D)
 
@@ -13280,7 +13280,7 @@
 ** Investigate a KVS bug (lookup still returns unwanted results when a key part doesn't exist in the namebase). (+)
 
 * 2016-09-27
-** Fix regresstions caused by enabling indirect addressing for temporary segments. (+)
+** Fix regressions caused by enabling indirect addressing for temporary segments. (+)
 ** Review the draft patent application ([$EEL-16-522). (D) 
 ** [$xENON weekly meeting. (D)
 
@@ -14322,7 +14322,7 @@
 * 2015-11-11
 ** Security training courses (Information Security). (D)
 ** Rewrite two-client test cases. (P)
-** Investigate serveral issues: changeBinding(): rollback, LMPI handling; NOT_CONNECTED in multi-CN setup. (+)
+** Investigate several issues: changeBinding(): rollback, LMPI handling; NOT_CONNECTED in multi-CN setup. (+)
 
 * 2015-11-12
 ** Rewrite two-client test cases. (P)
@@ -15454,7 +15454,7 @@
 
 * 2014-11-03
 ** [$STARLING weekly dev meeting. (D)
-** Think over and write up the precedure of restoring an old library backup in 11 for Ewout. (+)
+** Think over and write up the procedure of restoring an old library backup in 11 for Ewout. (+)
 
 * 2014-11-04
 ** Draft Q4 MBO goals. (D)
@@ -20048,7 +20048,7 @@
 ** Discuss team building details. (+)
 
 * 2011-08-02
-** Evaluate Ed's propsed solution for [$SWIFT-7000 (NoGo). (+)
+** Evaluate Ed's proposed solution for [$SWIFT-7000 (NoGo). (+)
 ** Full-day team building at Tropical Storm. (D)
 
 * 2011-08-03
@@ -24168,7 +24168,7 @@
 ** Attend the search team retrospective review meeting. (D)
 
 * 2008-01-31
-** Refacor the code to add various improvement and alternation, including log pattern, version number control, etc. (D)
+** Refactor the code to add various improvement and alternation, including log pattern, version number control, etc. (D)
 
 * 2008-02-01
 ** Refine both the implementation and unit tests of [$CETUS. (D)
@@ -24321,7 +24321,7 @@
 
 * 2007-12-11
 ** Refactor the current implementation of [$CETUS server. (D)
-** Attend another internal code review meeeting. (+)
+** Attend another internal code review meeting. (+)
 ** Discuss the XSD issue. (+)
 
 * 2007-12-12
@@ -24611,11 +24611,11 @@
 * 2007-09-04
 ** Solve the logging issue in multi-node. (D)
 ** Test the reliability of TSpaces. (D)
-** Dicuss the tech talk stuff. (+)
+** Discuss the tech talk stuff. (+)
 
 * 2007-09-05
 ** Continue testing the reliability of TSpaces. (D)
-** Dicuss the tech talk stuff. (X)
+** Discuss the tech talk stuff. (X)
 
 * 2007-09-06
 ** Compare the performance between JMS and TSpaces. (D)
