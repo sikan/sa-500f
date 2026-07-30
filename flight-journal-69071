@@ -4,6 +4,18 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-07-27 ~ 2026-07-31
+
+* 2026-07-27
+** Off (ESD/Huashan Hospital).
+** Ferdy's questions (for BNI) about self-signed vs. CA-issued certificates and our makeshift bypass logic. (+)
+
+* 2026-07-28
+** Off (ESD/Huashan Hospital).
+
+* 2026-07-29
+** Off (ESD/Huashan Hospital).
+
 -------- 2026-07-20 ~ 2026-07-24
 
 * 2026-07-20
@@ -13,6 +25,21 @@
 * 2026-07-21
 ** DUCKING.
 ** RHEL + SQL Server HA deployment (VM cloning + initial setup). (P)
+
+* 2026-07-22
+** Krspace.
+** Look into an issue with the history of [$airmass-llm-runtime (Guoping confirmed the Git history rewrite). (+)
+** Check with Ferdy whether BNI is capable of cloning VMs. (+)
+** RHEL + SQL Server HA deployment (VM cloning; ESXi internal glitches?). (P)
+
+* 2026-07-23
+** Krspace.
+** R&D review meeting. (D)
+** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (P)
+
+* 2026-07-24
+** Off (ESD/Huashan Hospital).
+** Ferdy's questions (for BNI) about the disk-mount configuration for [$AIRMASS Controller. (+)
 
 -------- 2026-07-13 ~ 2026-07-17
 
@@ -399,15 +426,15 @@
 
 * 2026-03-30
 ** Krspace.
-** Go through the source code of [$AIRMASS-llm-runtime (Gemini adapter). (P)
+** Go through the source code of [$airmass-llm-runtime (Gemini adapter). (P)
 
 * 2026-03-31
 ** DUCKING.
-** Go through the source code of [$AIRMASS-llm-runtime (Gemini adapter). (P)
+** Go through the source code of [$airmass-llm-runtime (Gemini adapter). (P)
 
 * 2026-04-01
 ** DUCKING.
-** Go through the source code of [$AIRMASS-llm-runtime (Gemini adapter). (P)
+** Go through the source code of [$airmass-llm-runtime (Gemini adapter). (P)
 
 * 2026-04-02
 ** Krspace.
@@ -424,24 +451,24 @@
 * 2026-03-23
 ** Krspace.
 ** Review EzIDP API docs. (+)
-** Go through the source code of [$AIRMASS-llm-runtime. (P)
+** Go through the source code of [$airmass-llm-runtime. (P)
 
 * 2026-03-24
 ** DUCKING.
-** Go through the source code of [$AIRMASS-llm-runtime. (P)
+** Go through the source code of [$airmass-llm-runtime. (P)
 
 * 2026-03-25
 ** DUCKING.
-** Go through the source code of [$AIRMASS-llm-runtime. (P)
+** Go through the source code of [$airmass-llm-runtime. (P)
 
 * 2026-03-26
 ** Krspace.
-** Go through the source code of [$AIRMASS-llm-runtime (OpenAI adapter). (P)
+** Go through the source code of [$airmass-llm-runtime (OpenAI adapter). (P)
 ** R&D review meeting. (D)
 
 * 2026-03-27
 ** DUCKING.
-** Go through the source code of [$AIRMASS-llm-runtime (OpenAI adapter). (P)
+** Go through the source code of [$airmass-llm-runtime (OpenAI adapter). (P)
 
 -------- 2026-03-16 ~ 2026-03-20
 
@@ -465,7 +492,7 @@
 ** Krspace.
 ** Investigate a radar/Spring version compatibility issue. (+)
 ** Review the Python implementation of some types in EzIDP. (P)
-** Go through the source code of [$AIRMASS-llm-runtime. (+)
+** Go through the source code of [$airmass-llm-runtime. (+)
 
 * 2026-03-20
 ** Off.
