@@ -2,7 +2,104 @@
 
 @MARKER
 
+ducking
+discuss bni plan
+deepseek
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-------- 2026-08-24 ~ 2026-08-28
+
+* 2026-08-24
+** DUCKING.
+** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (P)
+** Discuss the timeframe for BNI HA deployment with Ferdy and Donald. (+)
+
+* 2026-08-25
+** DUCKING.
+** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (P)
+
+-------- 2026-08-17 ~ 2026-08-21
+
+* 2026-08-17
+** Krspace.
+** RHEL + SQL Server HA deployment (fixed issues with HA OOTB MinIO configurations; keepalived looking good). (P)
+** Connect Donald with Cresta (Jove). (+)
+
+* 2026-08-18
+** Off.
+
+* 2026-08-19
+** Krspace.
+** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (P)
+** R&D review meeting. (D)
+** Discuss the upcoming version number and its potential impact on existing licenses. (+)
+** Discuss BNI's concern about cloning VMs with Ferdy. (+)
+
+* 2026-08-20
+** DUCKING.
+** Discuss the rough procedure of HA deployment for BNI with Ferdy. (+)
+** Discuss a sqlcmd issue with Ferdy (still caused by BNI's self-signed certificate). (+)
+** Check license compatibility against the candidate version number (5.5.0). (+)
+
+* 2026-08-21
+** DUCKING.
+** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (P)
+** Discuss the upgrade path to MySQL 8.4 with Donald and Jingjun (how about repackaging c3po with new images?). (+)
+
+-------- 2026-08-10 ~ 2026-08-14
+
+* 2026-08-10
+** Off (Typhoon Dolphin).
+
+* 2026-08-11
+** Krspace.
+** GCP #7: ':00' padding issue reproducible (failed before restart; various old/new issues)? (+)
+** (Tencent) meeting to Yongjie and Donald to perform a quick check of the HA deployment. (+)
+
+* 2026-08-12
+** DUCKING.
+** Set up new SSH tunnel to access internal VMs (including HA nodes). (D)
+** Change keepalived failover from master-preferred to non-preemptive (i.e., VIP stays on the active node until it fails). (P)
+** Discuss potential issues with migrating a single node deployment to HA with external database (that's also BNI). (+)
+
+* 2026-08-13
+** Krspace.
+** R&D review meeting. (D)
+** Change keepalived failover from master-preferred to non-preemptive (i.e., VIP stays on the active node until it fails). (D)
+** GCP #7: patch for the ':00' padding issue. (P)
+
+* 2026-08-14
+** Krspace.
+** GCP #7: patch looks good, but... (D)
+** RHEL + SQL Server HA deployment (started to investigate issues with MinIO). (P)
+
+-------- 2026-08-03 ~ 2026-08-07
+
+* 2026-08-03
+** Krspace.
+** RHEL + SQL Server HA deployment (2nd phase patching: followed guide, replaced images, new images not used?). (P)
+** GCP #7: down? (+)
+
+* 2026-08-04
+** Krspace.
+** RHEL + SQL Server HA deployment (manually applied patch on all nodes; initial testing; trigger issues). (P)
+** Check with Jingjun whether we can just replace images in the c3po extracted directory. (+)
+
+* 2026-08-05
+** Krspace.
+** Investigate the trigger issues (fixed the ':00' padding issue). (P)
+
+* 2026-08-06
+** Krspace.
+** Create a dedicated fix branch and merge the fix for ':00' padding to 5.0.RC. (+)
+** R&D review meeting. (D)
+** Issues with harbor and nexus (Guoping to the rescue!). (+)
+
+* 2026-08-07
+** Krspace.
+** RHEL + SQL Server HA deployment (deployed the trigger fix). (P)
+** Continue Investigating the trigger issues (jobs still not scheduled following the above; missed firings). (P)
 
 -------- 2026-07-27 ~ 2026-07-31
 
@@ -15,6 +112,16 @@
 
 * 2026-07-29
 ** Off (ESD/Huashan Hospital).
+
+* 2026-07-30
+** Krspace.
+** R&D review meeting. (D)
+** RHEL + SQL Server HA deployment (final preparation of the VMs). (P)
+** Look into a license issue with Donald and Tony (designer_node, but could be red herring).
+
+* 2026-07-31
+** Krspace.
+** RHEL + SQL Server HA deployment ('initial' + 'apply' done, with expected errors). (P)
 
 -------- 2026-07-20 ~ 2026-07-24
 
