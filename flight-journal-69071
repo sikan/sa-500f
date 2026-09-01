@@ -2,11 +2,14 @@
 
 @MARKER
 
-ducking
-discuss bni plan
-deepseek
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-------- 2026-08-31 ~ 2026-09-04
+
+* 2026-08-31
+** DUCKING.
+** Discuss how to back the data of Controller with Ferdy and Donald (external database + MinIO). (+)
+** NUKED, for the second time... T___T
 
 -------- 2026-08-24 ~ 2026-08-28
 
@@ -18,6 +21,19 @@ deepseek
 * 2026-08-25
 ** DUCKING.
 ** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (P)
+
+* 2026-08-26
+** DUCKING.
+** Explain to BNI (via Ferdy) why there need to be two vitual IPs. (+)
+** Compile a list of all the ports required by each node in HA deployment (also for BNI). (+)
+
+* 2026-08-27
+** DUCKING.
+** Explain to BNI (via Ferdy) the relationship between virtual IPs and ports. (+)
+** Quick call with Donald and Ferdy to discuss how to clarify the above for BNI. (+)
+
+* 2026-08-28
+** Off.
 
 -------- 2026-08-17 ~ 2026-08-21
 
