@@ -4,6 +4,13 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-09-14 ~ 2026-09-18
+
+* 2026-09-14
+** Krspace.
+** Create the latest dedicated patch release for BNI's HA deployment (again, issues with JFrog access from the office). (D)
+** Renew SSL certificates for GCP #7. (+)
+
 -------- 2026-09-07 ~ 2026-09-11
 
 * 2026-09-07
