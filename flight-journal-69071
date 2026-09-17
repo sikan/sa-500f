@@ -11,6 +11,17 @@
 ** Create the latest dedicated patch release for BNI's HA deployment (again, issues with JFrog access from the office). (D)
 ** Renew SSL certificates for GCP #7. (+)
 
+* 2026-09-15
+** Krspace.
+** Last minute status check with Ferdy regarding BNI's HA deployment (potential consistency issues with database backup strategy; BNI decided to switch to mirroring instead). (D)
+** Go through the source code of [$airmass-llm-runtime (DeepSeek adapter). (D)
+
+* 2026-09-16
+** Krspace.
+** Last minute preparation for BNI's HA deployment (user parameters file, environment checklist, etc.). (D)
+** BNI HA deployment session #3 (corrupt c3po installer file; unable to SSH using 'rpa'). (D)
+** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (D)
+
 -------- 2026-09-07 ~ 2026-09-11
 
 * 2026-09-07
