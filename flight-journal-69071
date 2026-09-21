@@ -4,6 +4,17 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-09-20 ~ 2026-09-24
+
+* 2026-09-20
+** Off ('will', so still met Donald).
+
+* 2026-09-21
+** Krspace.
+** GCP #8. (D)
+** Discuss Finnet's newly-detected security issues with Ferdy. (+)
+** BNI HA deployment session #5 (patching done; keepalived tuned; their VIPs not exactly what we expected...). (D)
+
 -------- 2026-09-14 ~ 2026-09-18
 
 * 2026-09-14
@@ -21,6 +32,15 @@
 ** Last minute preparation for BNI's HA deployment (user parameters file, environment checklist, etc.). (D)
 ** BNI HA deployment session #3 (corrupt c3po installer file; unable to SSH using 'rpa'). (D)
 ** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (D)
+
+* 2026-09-17
+** Krspace.
+** BNI HA deployment session #4 (minor issues: docker-compose wrapper, etc.; "run.sh" succeeded with 'rpa'; VIPs okay; looking good overall). (D)
+** R&D review meeting. (D)
+
+* 2026-09-18
+** DUCKING.
+** BNI HA deployment session #5 (patching; unbearable keystroke latency... had to abort). (D)
 
 -------- 2026-09-07 ~ 2026-09-11
 
