@@ -4,6 +4,19 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-09-28 ~ 2026-09-30
+
+* 2026-09-28
+** Off.
+
+* 2026-09-29
+** Off.
+** Check BNI HA verification readiness with Ferdy. (+)
+
+* 2026-09-30
+** Off.
+** Look into a time zone shift issue found in exported task logs. (+)
+
 -------- 2026-09-20 ~ 2026-09-24
 
 * 2026-09-20
@@ -13,7 +26,21 @@
 ** Krspace.
 ** GCP #8. (D)
 ** Discuss Finnet's newly-detected security issues with Ferdy. (+)
-** BNI HA deployment session #5 (patching done; keepalived tuned; their VIPs not exactly what we expected...). (D)
+** BNI HA deployment session #7 (patching done; keepalived tuned; their VIPs not exactly what we expected...). (D)
+
+* 2026-09-22
+** Krspace.
+** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (P)
+** Discuss Finnet's security findings with Donald and Qing. (+)
+
+* 2026-09-23
+** Krspace.
+** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (P)
+
+* 2026-09-24
+** DUCKING.
+** BNI HA deployment session #7 (still issues with their VIPs). (+)
+** Look into an illegal workflow id (Friday). (+)
 
 -------- 2026-09-14 ~ 2026-09-18
 
@@ -30,17 +57,17 @@
 * 2026-09-16
 ** Krspace.
 ** Last minute preparation for BNI's HA deployment (user parameters file, environment checklist, etc.). (D)
-** BNI HA deployment session #3 (corrupt c3po installer file; unable to SSH using 'rpa'). (D)
-** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (D)
+** BNI HA deployment session #4 (corrupt c3po installer file; unable to SSH using 'rpa'). (D)
+** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (P)
 
 * 2026-09-17
 ** Krspace.
-** BNI HA deployment session #4 (minor issues: docker-compose wrapper, etc.; "run.sh" succeeded with 'rpa'; VIPs okay; looking good overall). (D)
+** BNI HA deployment session #5 (minor issues: docker-compose wrapper, etc.; "run.sh" succeeded with 'rpa'; VIPs okay; looking good overall). (D)
 ** R&D review meeting. (D)
 
 * 2026-09-18
 ** DUCKING.
-** BNI HA deployment session #5 (patching; unbearable keystroke latency... had to abort). (D)
+** BNI HA deployment session #6 (patching; unbearable keystroke latency... had to abort). (D)
 
 -------- 2026-09-07 ~ 2026-09-11
 
