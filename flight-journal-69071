@@ -11,6 +11,12 @@
 ** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (P)
 ** R&D review meeting. (D)
 
+* 2026-10-09
+** Krspace.
+** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (P)
+** agent-ai-service: synchronize existing adapter implementations with [$airmass-llm-runtime. (+)
+** GCP #8: Investigate and fix MinIO download links not using HTTPS (Guoping: expose MinIO HTTP service over HTTPS using nginx as reverse proxy). (+)
+
 -------- 2026-09-28 ~ 2026-09-30
 
 * 2026-09-28
