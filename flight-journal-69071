@@ -17,6 +17,10 @@
 ** agent-ai-service: synchronize existing adapter implementations with [$airmass-llm-runtime. (+)
 ** GCP #8: Investigate and fix MinIO download links not using HTTPS (Guoping: expose MinIO HTTP service over HTTPS using nginx as reverse proxy). (+)
 
+* 2026-10-10
+** Krspace (severe VPN access restrictions due to network egress controls).
+** agent-ai-service: synchronize existing adapter implementations with [$airmass-llm-runtime. (P)
+
 -------- 2026-09-28 ~ 2026-09-30
 
 * 2026-09-28
