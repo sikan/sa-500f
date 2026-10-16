@@ -19,6 +19,12 @@
 ** agent-ai-service: synchronize existing adapter implementations with [$airmass-llm-runtime. (D)
 ** VLESS + Reality (pluto, haumea, hew). (+)
 
+* 2026-10-15
+** Krspace.
+** Investigate a license parsing issue (disk space exhaustion caused by screen captures; Teams meeting with Tony, Donald, Guoping and Jingjun). (+)
+** agent-ai-service: DeepSeek adapter. (P)
+** R&D review meeting. (D)
+
 -------- 2026-10-08 ~ 2026-10-10
 
 * 2026-10-08
