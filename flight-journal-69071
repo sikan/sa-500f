@@ -4,6 +4,21 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-10-19 ~ 2026-10-23
+
+* 2026-10-19
+** Krspace.
+** agent-ai-service: DeepSeek adapter. (P)
+
+* 2026-10-20
+** Krspace.
+** agent-ai-service: DeepSeek adapter. (P)
+** agent-ai-service: Anthropic adapter. (P)
+
+* 2026-10-21
+** Krspace.
+** agent-ai-service: Anthropic adapter. (P)
+
 -------- 2026-10-12 ~ 2026-10-16
 
 * 2026-10-12
@@ -24,6 +39,12 @@
 ** Investigate a license parsing issue (disk space exhaustion caused by screen captures; Teams meeting with Tony, Donald, Guoping and Jingjun). (+)
 ** agent-ai-service: DeepSeek adapter. (P)
 ** R&D review meeting. (D)
+** SHATTERED BEYOND REPAIR... T___________________________T
+
+* 2026-10-16
+** Krspace.
+** agent-ai-service: DeepSeek adapter. (P)
+** agent-ai-service: Anthropic adapter. (+)
 
 -------- 2026-10-08 ~ 2026-10-10
 
