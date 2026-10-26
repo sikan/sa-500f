@@ -19,6 +19,16 @@
 ** Krspace.
 ** agent-ai-service: Anthropic adapter. (P)
 
+* 2026-10-22
+** Krspace.
+** agent-ai-service: package, deploy, test (GCP #8). (P)
+** R&D review meeting. (D)
+
+* 2026-10-23
+** Krspace.
+** agent-ai-service: investigate various issues revealed by Guoping's test samples. (P)
+** GCP #8: CIRI deployment. (+)
+
 -------- 2026-10-12 ~ 2026-10-16
 
 * 2026-10-12
@@ -1521,12 +1531,12 @@
 * 2025-08-11
 ** Krspace.
 ** orchestrator-manager source code. (P)
-** Install CIRI web patch and CIRI transformwer frontend on Ubuntu 22.04.5. (+)
-** Install CIRI transformwer backend on Ubuntu 22.04.5. (+)
+** Install CIRI web patch and CIRI transformer frontend on Ubuntu 22.04.5. (+)
+** Install CIRI transformer backend on Ubuntu 22.04.5. (+)
 
 * 2025-08-12
 ** Krspace.
-** Install CIRI transformwer backend on Ubuntu 22.04.5. (D)
+** Install CIRI transformer backend on Ubuntu 22.04.5. (D)
 ** orchestrator-manager source code. (P)
 
 * 2025-08-13
