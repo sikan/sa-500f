@@ -4,6 +4,25 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-10-26 ~ 2026-10-30
+
+* 2026-10-26
+** Krspace.
+** GCP #8: CIRI deployment (access suspended due to MFA enablement). (P)
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
+** BNI HA deployment session #9 (HA reconfiguration due to VIP change). (+)
+
+* 2026-10-27
+** Krspace.
+** GCP #8: CIRI deployment (Cloud Shell to the rescue; MySQL version conflict). (P)
+** BNI HA deployment session #10 (keepalived unable to find the specified network interface). (P)
+
+* 2026-10-28
+** Krspace.
+** BNI HA deployment session #11 (reconfiguration done; two VIPs, one working, one not). (P)
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
+** GCP #8: CIRI deployment (repeated near-suspensions; serious concerns about continued reliance on Google). (P)
+
 -------- 2026-10-19 ~ 2026-10-23
 
 * 2026-10-19
@@ -108,7 +127,7 @@
 
 * 2026-09-24
 ** DUCKING.
-** BNI HA deployment session #7 (still issues with their VIPs). (+)
+** BNI HA deployment session #8 (still issues with their VIPs). (+)
 ** Look into an illegal workflow id (Friday). (+)
 
 -------- 2026-09-14 ~ 2026-09-18
