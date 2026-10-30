@@ -23,6 +23,17 @@
 ** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
 ** GCP #8: CIRI deployment (repeated near-suspensions; serious concerns about continued reliance on Google). (P)
 
+* 2026-10-29
+** Krspace.
+** R&D review meeting. (D)
+** GCP #8: CIRI deployment (manually initialized rpa_ciri; luckily, no more c3po steps). (P)
+** Cloud Services Briefing & Strategic Collaboration meeting with Alibaba. (+)
+
+* 2026-10-30
+** Krspace.
+** BNI HA deployment session #12 (their network team did nothing...). (P)
+** GCP #8: CIRI deployment (extra components; pending verification). (P)
+
 -------- 2026-10-19 ~ 2026-10-23
 
 * 2026-10-19
