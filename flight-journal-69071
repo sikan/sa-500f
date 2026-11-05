@@ -4,6 +4,25 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-11-02 ~ 2026-11-30
+
+* 2026-11-02
+** Krspace.
+** GCP #8: CIRI deployment (tranf configuration issues; antd update blocked by inaccessible container registry). (P)
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
+
+* 2026-11-03
+** Krspace.
+** GCP #8: CIRI deployment (deployed antd and transf updates; a WebSocket proxy configuration issue: nginx to the rescue). (P)
+** BNI HA deployment session #13 (hmmm...). (P)
+
+* 2026-11-04
+** Krspace.
+** GCP #8: CIRI deployment (another transfWeb update). (D)
+** Prepare CIRI artifacts for archiving on JFrog. (D)
+** Discuss with Ferdy potential issues with VIP notation in keepalived configuration files. (+)
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
+
 -------- 2026-10-26 ~ 2026-10-30
 
 * 2026-10-26
