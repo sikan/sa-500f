@@ -23,6 +23,18 @@
 ** Discuss with Ferdy potential issues with VIP notation in keepalived configuration files. (+)
 ** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
 
+
+* 2026-11-05
+** Krspace.
+** BNI HA deployment session #14 (split brain?). (P)
+
+* 2026-11-06
+** Krspace.
+** Read [[ACOP Architecture & Detailed Design]]. (D)
+** BNI HA deployment session #15 (issues with static IP routes). (P)
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
+** R&D review meeting (+= ACOP discussion). (D)
+
 -------- 2026-10-26 ~ 2026-10-30
 
 * 2026-10-26
