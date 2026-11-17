@@ -4,7 +4,44 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
--------- 2026-11-02 ~ 2026-11-30
+-------- 2026-11-16 ~ 2026-11-20
+
+* 2026-11-16
+** Krspace.
+** BNI HA: login errors (no more heartbeats from lic recorded after Sep. 21?). (P)
+** BNI HA deployment session #16 (SQL Server: transaction logs piling up... flashback; VIP stored in .bashrc?). (+)
+
+-------- 2026-11-09 ~ 2026-11-13
+
+* 2026-11-09
+** Krspace.
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
+** ACOP discussion. (+)
+** Renew SSL certificates for GCP #8. (+)
+
+* 2026-11-10
+** Krspace.
+** GCP #8: deploy Guoping's script to automate SSL certificate renewal. (D)
+** GCP #8: CVE-2026-109518 APT vulnerability (already patched). (+)
+** agent-ai-service: investigate a Java implementation issue with 'additionalProperties' (JSON schema transformer). (D)
+
+* 2026-11-11
+** Krspace.
+** Discuss a race condition involving file renaming on Windows with Guoping and Donald. (+)
+** GCP #8: deploy JSON schema transformer for Anthropic. (D)
+** Discuss current status and next steps regarding BNI with Ferdy and Donald. (+)
+
+* 2026-11-12
+** Krspace.
+** Liquibase for Controller: mechanism, changesets, etc. (+)
+** R&D review meeting. (D)
+
+* 2026-11-13
+** Krspace.
+** Liquibase for Controller: mechanism, changesets, etc. (D)
+** BNI HA: login errors. (+)
+
+-------- 2026-11-02 ~ 2026-11-06
 
 * 2026-11-02
 ** Krspace.
@@ -14,7 +51,7 @@
 * 2026-11-03
 ** Krspace.
 ** GCP #8: CIRI deployment (deployed antd and transf updates; a WebSocket proxy configuration issue: nginx to the rescue). (P)
-** BNI HA deployment session #13 (hmmm...). (P)
+** BNI HA deployment session #13 (hmmm...). (+)
 
 * 2026-11-04
 ** Krspace.
@@ -26,12 +63,12 @@
 
 * 2026-11-05
 ** Krspace.
-** BNI HA deployment session #14 (split brain?). (P)
+** BNI HA deployment session #14 (split brain?). (+)
 
 * 2026-11-06
 ** Krspace.
 ** Read [[ACOP Architecture & Detailed Design]]. (D)
-** BNI HA deployment session #15 (issues with static IP routes). (P)
+** BNI HA deployment session #15 (issues with static IP routes). (D)
 ** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
 ** R&D review meeting (+= ACOP discussion). (D)
 
@@ -46,11 +83,11 @@
 * 2026-10-27
 ** Krspace.
 ** GCP #8: CIRI deployment (Cloud Shell to the rescue; MySQL version conflict). (P)
-** BNI HA deployment session #10 (keepalived unable to find the specified network interface). (P)
+** BNI HA deployment session #10 (keepalived unable to find the specified network interface). (D)
 
 * 2026-10-28
 ** Krspace.
-** BNI HA deployment session #11 (reconfiguration done; two VIPs, one working, one not). (P)
+** BNI HA deployment session #11 (reconfiguration done; two VIPs, one working, one not). (D)
 ** agent-ai-service: investigate a Java implementation issue with 'additionalProperties'. (P)
 ** GCP #8: CIRI deployment (repeated near-suspensions; serious concerns about continued reliance on Google). (P)
 
@@ -62,7 +99,7 @@
 
 * 2026-10-30
 ** Krspace.
-** BNI HA deployment session #12 (their network team did nothing...). (P)
+** BNI HA deployment session #12 (their network team did nothing...). (+)
 ** GCP #8: CIRI deployment (extra components; pending verification). (P)
 
 -------- 2026-10-19 ~ 2026-10-23
@@ -128,7 +165,7 @@
 ** Krspace.
 ** Go through the source code of [$airmass-llm-runtime (Anthropic adapter). (P)
 ** agent-ai-service: synchronize existing adapter implementations with [$airmass-llm-runtime. (+)
-** GCP #8: Investigate and fix MinIO download links not using HTTPS (Guoping: expose MinIO HTTP service over HTTPS using nginx as reverse proxy). (+)
+** GCP #8: investigate and fix MinIO download links not using HTTPS (Guoping: expose MinIO HTTP service over HTTPS using nginx as reverse proxy). (+)
 
 * 2026-10-10
 ** Krspace (severe VPN access restrictions due to network egress controls).
