@@ -4,12 +4,59 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-------- 2026-11-23 ~ 2026-11-27
+
+* 2026-11-23
+** Krspace.
+** BSI: rebuild a new image for "backup-system" with updated Python, Flask and Werkzeug (accidentally noticed the lack of log rotation). (P)
+
+* 2026-11-24
+** Off.
+
+* 2026-11-25
+** Krspace.
+** BSI: rebuild and test the new image for "backup-system" with updated Python, Flask and Werkzeug. (P)
+
+* 2026-11-26
+** Krspace.
+** BSI: test and verify the new image for "backup-system" on GCP (status update for the customer). (D)
+** R&D review meeting (ACOP design, workflow, BPMN, user management, etc.). (D)
+** Investigate a partner-reported issue with MinIO IP and port. (+)
+
+* 2026-11-27
+** Krspace.
+** R&D review meeting (continuation of yesterday's discussion). (+)
+** BSI: inquiries regarding Flask/Werkzeug vs. Gunicorn or uWSGI, debug mode, etc. (+)
+** BSI: start to address the uncontrolled log growth issue caused by the lack of log rotation. (+)
+
 -------- 2026-11-16 ~ 2026-11-20
 
 * 2026-11-16
 ** Krspace.
 ** BNI HA: login errors (no more heartbeats from lic recorded after Sep. 21?). (P)
 ** BNI HA deployment session #16 (SQL Server: transaction logs piling up... flashback; VIP stored in .bashrc?). (+)
+
+* 2026-11-17
+** Krspace.
+** BNI HA deployment session #17 (all looking good). (+)
+** Liquibase for Controller (line by line). (P)
+
+* 2026-11-18
+** Krspace.
+** Liquibase for Controller (line by line). (P)
+** BNI HA deployment session #18 (another VIP change; comprehensive connectivity testing with a detailed report). (D)
+
+* 2026-11-19
+** Krspace.
+** R&D review meeting (Flowable, etc.). (D)
+** Document the patching procedure for Controller. (D)
+** BSI: security findings. (+)
+** Investigate a login issue in a partner's environment (restart seemed to be the fix). (+)
+
+* 2026-11-20
+** Krspace.
+** BSI: evaluate the Python version issue with "backup-system". (P)
+** Investigate issues with robot creation and designer connection in a partner's environment (probably caused by the absence of license). (+)
 
 -------- 2026-11-09 ~ 2026-11-13
 
@@ -38,7 +85,7 @@
 
 * 2026-11-13
 ** Krspace.
-** Liquibase for Controller: mechanism, changesets, etc. (D)
+** Liquibase for Controller: mechanism, changesets, etc. (P)
 ** BNI HA: login errors. (+)
 
 -------- 2026-11-02 ~ 2026-11-06
